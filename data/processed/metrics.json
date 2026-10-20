@@ -1,0 +1,894 @@
+{
+ "generated_at": "2026-10-20T07:08:00.913587+00:00",
+ "posts": 704,
+ "replies": 506,
+ "days_covered": 61,
+ "first_post": "2026-08-21T02:46:59Z",
+ "last_post": "2026-10-20T06:33:48Z",
+ "resets_tracked": 29,
+ "p_24h": 0.1149,
+ "p_48h": 0.3076,
+ "modal_reset_at": "2026-10-22T20:08:00.913587+00:00",
+ "backtest": {
+  "days": 44,
+  "brier": 0.1677,
+  "brier_baseline": 0.1627,
+  "logloss": 0.5167,
+  "logloss_baseline": 0.5066,
+  "skill": -0.02,
+  "base_rate": 0.2045
+ },
+ "top_terms": [
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 30,
+   "lift": 0.33,
+   "docs": 3,
+   "share": 0.0102,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  },
+  {
+   "term": "pro",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 18,
+   "lift": 0.67,
+   "docs": 3,
+   "share": 0.0082,
+   "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+   "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+   "sample_ts": "2026-10-16T23:56:37Z"
+  },
+  {
+   "term": "reset",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 19,
+   "lift": 0.61,
+   "docs": 3,
+   "share": 0.0082,
+   "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+   "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
+   "sample_ts": "2026-10-15T04:55:51Z"
+  },
+  {
+   "term": "disk",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 1,
+   "share": 0.0061,
+   "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+   "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "sample_ts": "2026-10-13T23:32:43Z"
+  },
+  {
+   "term": "personal",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 2,
+   "share": 0.0061,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  },
+  {
+   "term": "openai",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 1,
+   "lift": 2.48,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
+   "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
+   "sample_ts": "2026-10-18T05:17:04Z"
+  },
+  {
+   "term": "cooking",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 2,
+   "lift": 2.21,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "Either we are out of ideas or we are cooking. Time will tell",
+   "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
+   "sample_ts": "2026-10-16T05:51:55Z"
+  },
+  {
+   "term": "enjoy",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 3,
+   "lift": 1.98,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+   "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
+   "sample_ts": "2026-10-16T23:57:00Z"
+  },
+  {
+   "term": "users",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 16,
+   "lift": 0.45,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+   "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "sample_ts": "2026-10-13T23:32:43Z"
+  }
+ ],
+ "surge_terms": [
+  {
+   "term": "disk",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 1,
+   "share": 0.0061,
+   "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+   "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "sample_ts": "2026-10-13T23:32:43Z"
+  },
+  {
+   "term": "personal",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 2,
+   "share": 0.0061,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  },
+  {
+   "term": "openai",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 1,
+   "lift": 2.48,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
+   "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
+   "sample_ts": "2026-10-18T05:17:04Z"
+  },
+  {
+   "term": "personal dot",
+   "kind": "phrase",
+   "count_7d": 2,
+   "count_28d_before": 0,
+   "lift": 2.32,
+   "docs": 2,
+   "share": 0.0041,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  },
+  {
+   "term": "cooking",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 2,
+   "lift": 2.21,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "Either we are out of ideas or we are cooking. Time will tell",
+   "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
+   "sample_ts": "2026-10-16T05:51:55Z"
+  },
+  {
+   "term": "enjoy",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 3,
+   "lift": 1.98,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+   "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
+   "sample_ts": "2026-10-16T23:57:00Z"
+  },
+  {
+   "term": "pro",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 18,
+   "lift": 0.67,
+   "docs": 3,
+   "share": 0.0082,
+   "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+   "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+   "sample_ts": "2026-10-16T23:56:37Z"
+  },
+  {
+   "term": "reset",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 19,
+   "lift": 0.61,
+   "docs": 3,
+   "share": 0.0082,
+   "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+   "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
+   "sample_ts": "2026-10-15T04:55:51Z"
+  },
+  {
+   "term": "users",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 16,
+   "lift": 0.45,
+   "docs": 3,
+   "share": 0.0061,
+   "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+   "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "sample_ts": "2026-10-13T23:32:43Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 30,
+   "lift": 0.33,
+   "docs": 3,
+   "share": 0.0102,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  }
+ ],
+ "topics": [
+  {
+   "topic": "Ship-or-reset series",
+   "posts": 47,
+   "share": 0.281,
+   "examples": [
+    {
+     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
+     "url": "https://x.com/thsottiaux/status/2107368734981517634",
+     "ts": "2026-10-06T07:13:54Z"
+    },
+    {
+     "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building. https://t.co/hfi2655wyW",
+     "url": "https://x.com/thsottiaux/status/2107548725359104441",
+     "ts": "2026-10-06T19:09:07Z"
+    },
+    {
+     "text": "No dodge, just three updates today",
+     "url": "https://x.com/thsottiaux/status/2107558288934216153",
+     "ts": "2026-10-06T19:47:07Z"
+    }
+   ]
+  },
+  {
+   "topic": "Models",
+   "posts": 29,
+   "share": 0.174,
+   "examples": [
+    {
+     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
+     "url": "https://x.com/thsottiaux/status/2107368734981517634",
+     "ts": "2026-10-06T07:13:54Z"
+    },
+    {
+     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+     "url": "https://x.com/thsottiaux/status/2107504197012988007",
+     "ts": "2026-10-06T16:12:10Z"
+    },
+    {
+     "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
+     "url": "https://x.com/thsottiaux/status/2107573405553938664",
+     "ts": "2026-10-06T20:47:11Z"
+    }
+   ]
+  },
+  {
+   "topic": "Plans / pricing",
+   "posts": 28,
+   "share": 0.168,
+   "examples": [
+    {
+     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
+     "url": "https://x.com/thsottiaux/status/2107368734981517634",
+     "ts": "2026-10-06T07:13:54Z"
+    },
+    {
+     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+     "url": "https://x.com/thsottiaux/status/2107504197012988007",
+     "ts": "2026-10-06T16:12:10Z"
+    },
+    {
+     "text": "Day 2.4/\n\nDecisions API is live. We will use this ourselves to improve the experience for everyone in many fun ways. Realtime general classi",
+     "url": "https://x.com/thsottiaux/status/2107574912349303197",
+     "ts": "2026-10-06T20:53:10Z"
+    }
+   ]
+  },
+  {
+   "topic": "Reset / quota",
+   "posts": 24,
+   "share": 0.144,
+   "examples": [
+    {
+     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
+     "url": "https://x.com/thsottiaux/status/2107368734981517634",
+     "ts": "2026-10-06T07:13:54Z"
+    },
+    {
+     "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also be",
+     "url": "https://x.com/thsottiaux/status/2107575657014468879",
+     "ts": "2026-10-06T20:56:08Z"
+    },
+    {
+     "text": "I do like giving resets",
+     "url": "https://x.com/thsottiaux/status/2107577536779870210",
+     "ts": "2026-10-06T21:03:36Z"
+    }
+   ]
+  },
+  {
+   "topic": "Codex / dev tooling",
+   "posts": 22,
+   "share": 0.132,
+   "examples": [
+    {
+     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
+     "url": "https://x.com/thsottiaux/status/2107368734981517634",
+     "ts": "2026-10-06T07:13:54Z"
+    },
+    {
+     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+     "url": "https://x.com/thsottiaux/status/2107504197012988007",
+     "ts": "2026-10-06T16:12:10Z"
+    },
+    {
+     "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building. https://t.co/hfi2655wyW",
+     "url": "https://x.com/thsottiaux/status/2107548725359104441",
+     "ts": "2026-10-06T19:09:07Z"
+    }
+   ]
+  },
+  {
+   "topic": "Growth / milestones",
+   "posts": 11,
+   "share": 0.066,
+   "examples": [
+    {
+     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
+     "url": "https://x.com/thsottiaux/status/2107368734981517634",
+     "ts": "2026-10-06T07:13:54Z"
+    },
+    {
+     "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did c",
+     "url": "https://x.com/thsottiaux/status/2107676072871600470",
+     "ts": "2026-10-07T03:35:09Z"
+    },
+    {
+     "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
+     "url": "https://x.com/thsottiaux/status/2107912709715132482",
+     "ts": "2026-10-07T19:15:27Z"
+    }
+   ]
+  },
+  {
+   "topic": "Reliability / incidents",
+   "posts": 2,
+   "share": 0.012,
+   "examples": [
+    {
+     "text": "@theo Nice. Will fix",
+     "url": "https://x.com/thsottiaux/status/2110624335463584028",
+     "ts": "2026-10-15T06:50:29Z"
+    },
+    {
+     "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
+     "url": "https://x.com/thsottiaux/status/2112034063934742720",
+     "ts": "2026-10-19T04:12:15Z"
+    }
+   ]
+  }
+ ],
+ "daily": [
+  {
+   "date": "2026-08-21",
+   "posts": 11,
+   "replies": 6,
+   "likes": 46009,
+   "engagement_replies": 7971,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-22",
+   "posts": 17,
+   "replies": 15,
+   "likes": 29965,
+   "engagement_replies": 3836,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-23",
+   "posts": 11,
+   "replies": 9,
+   "likes": 32073,
+   "engagement_replies": 3195,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-24",
+   "posts": 10,
+   "replies": 9,
+   "likes": 18390,
+   "engagement_replies": 1952,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-25",
+   "posts": 17,
+   "replies": 12,
+   "likes": 44903,
+   "engagement_replies": 8758,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-26",
+   "posts": 11,
+   "replies": 9,
+   "likes": 25145,
+   "engagement_replies": 2675,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-27",
+   "posts": 13,
+   "replies": 10,
+   "likes": 42608,
+   "engagement_replies": 4106,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-28",
+   "posts": 16,
+   "replies": 13,
+   "likes": 20051,
+   "engagement_replies": 3006,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-29",
+   "posts": 14,
+   "replies": 8,
+   "likes": 70420,
+   "engagement_replies": 6993,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-30",
+   "posts": 8,
+   "replies": 4,
+   "likes": 33239,
+   "engagement_replies": 4237,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-31",
+   "posts": 7,
+   "replies": 3,
+   "likes": 33323,
+   "engagement_replies": 7265,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-01",
+   "posts": 7,
+   "replies": 5,
+   "likes": 19865,
+   "engagement_replies": 4725,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-02",
+   "posts": 7,
+   "replies": 5,
+   "likes": 34890,
+   "engagement_replies": 3649,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-03",
+   "posts": 25,
+   "replies": 20,
+   "likes": 147170,
+   "engagement_replies": 14587,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-04",
+   "posts": 13,
+   "replies": 9,
+   "likes": 58129,
+   "engagement_replies": 5059,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-05",
+   "posts": 15,
+   "replies": 13,
+   "likes": 77489,
+   "engagement_replies": 5116,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-06",
+   "posts": 15,
+   "replies": 12,
+   "likes": 65954,
+   "engagement_replies": 6648,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-07",
+   "posts": 10,
+   "replies": 8,
+   "likes": 69668,
+   "engagement_replies": 7938,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-08",
+   "posts": 9,
+   "replies": 7,
+   "likes": 39224,
+   "engagement_replies": 4008,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-09",
+   "posts": 12,
+   "replies": 5,
+   "likes": 65590,
+   "engagement_replies": 9526,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-10",
+   "posts": 13,
+   "replies": 9,
+   "likes": 47350,
+   "engagement_replies": 6875,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-11",
+   "posts": 7,
+   "replies": 5,
+   "likes": 30639,
+   "engagement_replies": 3533,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-12",
+   "posts": 11,
+   "replies": 5,
+   "likes": 73859,
+   "engagement_replies": 8935,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-13",
+   "posts": 1,
+   "replies": 1,
+   "likes": 2278,
+   "engagement_replies": 165,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-14",
+   "posts": 4,
+   "replies": 3,
+   "likes": 11795,
+   "engagement_replies": 9770,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-15",
+   "posts": 12,
+   "replies": 10,
+   "likes": 31301,
+   "engagement_replies": 4650,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-16",
+   "posts": 5,
+   "replies": 0,
+   "likes": 30583,
+   "engagement_replies": 7717,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-17",
+   "posts": 7,
+   "replies": 6,
+   "likes": 14232,
+   "engagement_replies": 3097,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-18",
+   "posts": 5,
+   "replies": 5,
+   "likes": 6972,
+   "engagement_replies": 463,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-19",
+   "posts": 17,
+   "replies": 15,
+   "likes": 46723,
+   "engagement_replies": 5678,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-20",
+   "posts": 4,
+   "replies": 4,
+   "likes": 5930,
+   "engagement_replies": 402,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-21",
+   "posts": 3,
+   "replies": 3,
+   "likes": 5006,
+   "engagement_replies": 1048,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-22",
+   "posts": 19,
+   "replies": 15,
+   "likes": 89556,
+   "engagement_replies": 12975,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-23",
+   "posts": 4,
+   "replies": 3,
+   "likes": 10129,
+   "engagement_replies": 947,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-24",
+   "posts": 2,
+   "replies": 1,
+   "likes": 11622,
+   "engagement_replies": 1594,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-25",
+   "posts": 3,
+   "replies": 1,
+   "likes": 25279,
+   "engagement_replies": 4258,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-26",
+   "posts": 8,
+   "replies": 6,
+   "likes": 49599,
+   "engagement_replies": 7359,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-27",
+   "posts": 6,
+   "replies": 5,
+   "likes": 17494,
+   "engagement_replies": 1497,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-28",
+   "posts": 8,
+   "replies": 6,
+   "likes": 21163,
+   "engagement_replies": 3075,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-29",
+   "posts": 31,
+   "replies": 10,
+   "likes": 145622,
+   "engagement_replies": 21684,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-30",
+   "posts": 36,
+   "replies": 29,
+   "likes": 37947,
+   "engagement_replies": 11837,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-01",
+   "posts": 13,
+   "replies": 9,
+   "likes": 39398,
+   "engagement_replies": 5984,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-02",
+   "posts": 10,
+   "replies": 6,
+   "likes": 36259,
+   "engagement_replies": 7035,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-03",
+   "posts": 15,
+   "replies": 9,
+   "likes": 40828,
+   "engagement_replies": 14095,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-04",
+   "posts": 21,
+   "replies": 18,
+   "likes": 63516,
+   "engagement_replies": 9279,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-05",
+   "posts": 10,
+   "replies": 8,
+   "likes": 33449,
+   "engagement_replies": 3969,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-06",
+   "posts": 43,
+   "replies": 34,
+   "likes": 67624,
+   "engagement_replies": 10226,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-07",
+   "posts": 13,
+   "replies": 10,
+   "likes": 53961,
+   "engagement_replies": 5175,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-08",
+   "posts": 13,
+   "replies": 10,
+   "likes": 38834,
+   "engagement_replies": 5298,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-09",
+   "posts": 6,
+   "replies": 3,
+   "likes": 44361,
+   "engagement_replies": 6904,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-10",
+   "posts": 10,
+   "replies": 6,
+   "likes": 41304,
+   "engagement_replies": 6545,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-11",
+   "posts": 12,
+   "replies": 8,
+   "likes": 45752,
+   "engagement_replies": 10091,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-12",
+   "posts": 7,
+   "replies": 6,
+   "likes": 13581,
+   "engagement_replies": 5314,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-13",
+   "posts": 14,
+   "replies": 10,
+   "likes": 71603,
+   "engagement_replies": 12113,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-14",
+   "posts": 2,
+   "replies": 2,
+   "likes": 984,
+   "engagement_replies": 92,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-15",
+   "posts": 13,
+   "replies": 9,
+   "likes": 54152,
+   "engagement_replies": 7726,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-16",
+   "posts": 8,
+   "replies": 6,
+   "likes": 30816,
+   "engagement_replies": 5849,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-17",
+   "posts": 22,
+   "replies": 17,
+   "likes": 50107,
+   "engagement_replies": 7040,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-18",
+   "posts": 7,
+   "replies": 5,
+   "likes": 21862,
+   "engagement_replies": 4230,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-19",
+   "posts": 9,
+   "replies": 5,
+   "likes": 32841,
+   "engagement_replies": 7311,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-20",
+   "posts": 2,
+   "replies": 1,
+   "likes": 3225,
+   "engagement_replies": 1192,
+   "reset": 1
+  }
+ ]
+}
