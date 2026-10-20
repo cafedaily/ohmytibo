@@ -59,6 +59,7 @@ python -m http.server 8765 --directory site
 
 ## Caveats
 
+- All dashboard times are Beijing time (UTC+8); the raw data stays UTC.
 - Reset times are announcement times, not the moment every account finishes propagating.
 - A 7-day hot-word window over ~30 posts is noisy; the lift column is a lead, not a verdict.
 - Backtest skill hovers near the base rate. Resets are driven by launches, incidents and milestone pressure, so the model is a prior — read the pending-promise line before the percentage.
