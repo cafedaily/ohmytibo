@@ -2,6 +2,7 @@
 """Render data/processed/*.json into a single static dashboard (site/index.html)."""
 import html
 import json
+import math
 import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -73,6 +74,15 @@ def forecast_chart(fc):
             + "".join(parts) + "</svg>")
 
 
+def nice_step(top, target=4):
+    raw = max(1, top / target)
+    mag = 10 ** math.floor(math.log10(raw))
+    for m in (1, 2, 2.5, 5, 10):
+        if raw <= m * mag:
+            return max(1, int(m * mag))
+    return max(1, int(10 * mag))
+
+
 def activity_chart(metrics):
     """Stacked daily columns: original posts vs replies; resets marked under the axis."""
     rows = metrics["daily"]
@@ -84,7 +94,8 @@ def activity_chart(metrics):
     bar_w = max(2.0, min(14, band - 2))
     top = max(r["posts"] for r in rows) or 1
     parts = []
-    for tick in range(0, top + 1, max(1, top // 4)):
+    step = nice_step(top)
+    for tick in range(0, top + step, step):
         y = mt + ph * (1 - tick / top)
         parts.append(f'<line x1="{ml}" y1="{y:.1f}" x2="{W - mr}" y2="{y:.1f}" stroke="{PALETTE["grid"]}" stroke-width="1"/>')
         parts.append(f'<text x="{ml - 8}" y="{y + 4:.1f}" text-anchor="end" class="ax">{tick}</text>')
@@ -198,8 +209,11 @@ def build():
     hw = load("hotwords.json")
     metrics = load("metrics.json")
     bt = fc.get("backtest") or {}
-    last_reset = fc["last_reset"].replace("T", " ")[:16]
-    modal = fc["modal_reset_at"].replace("T", " ")[:16]
+    last_reset = fc["last_reset_local"]
+    last_reset_utc = fc["last_reset"].replace("T", " ")[:16]
+    modal = fc["modal_reset_local"]
+    modal_utc = fc["modal_reset_at"].replace("T", " ")[:16]
+    generated = metrics["generated_at_local"]
     promise = fc.get("pending_promise")
 
     hero = pct(fc["p_24h"])
@@ -286,7 +300,7 @@ footer a{{color:var(--ink2)}}
     <h1>ohmytibo · Tibo 重置预测</h1>
     <p class="sub">@thsottiaux（OpenAI，Codex &amp; ChatGPT）的公开推文与回复 · 样本 {metrics["posts"]} 条 / {metrics["days_covered"]} 天</p>
   </div>
-  <div class="chip"><span class="dot"></span>数据生成于 {metrics["generated_at"][:16].replace("T", " ")} UTC</div>
+  <div class="chip"><span class="dot"></span>数据生成于 {generated} 北京时间</div>
 </header>
 
 <div class="grid stats">
@@ -295,10 +309,10 @@ footer a{{color:var(--ink2)}}
     <div class="v">{hero}</div>
     <div class="d">48 小时 {pct(fc["p_48h"])} · 72 小时 {pct(fc["p_72h"])} · 7 天 {pct(fc["p_7d"])}</div>
   </div>
-  <div class="card stat"><p class="k">上次重置</p><div class="v">{last_reset} UTC</div>
-    <div class="d" style="color:var(--muted);font-size:12.5px;margin-top:6px">{fc["hours_since_last_reset"]:.1f} 小时前</div></div>
-  <div class="card stat"><p class="k">最可能的重置时点</p><div class="v">{modal[11:16]}</div>
-    <div class="d" style="color:var(--muted);font-size:12.5px;margin-top:6px">{modal[:10]} · 按日模型取概率峰值</div></div>
+  <div class="card stat"><p class="k">上次重置</p><div class="v">{last_reset[11:16]} <span style="font-size:14px;color:var(--ink2);font-weight:400">BJT</span></div>
+    <div class="d" style="color:var(--muted);font-size:12.5px;margin-top:6px">{last_reset[:10]} · {fc["hours_since_last_reset"]:.1f} 小时前<br>UTC {last_reset_utc[11:16]}</div></div>
+  <div class="card stat"><p class="k">最可能的重置时点</p><div class="v">{modal[11:16]} <span style="font-size:14px;color:var(--ink2);font-weight:400">BJT</span></div>
+    <div class="d" style="color:var(--muted);font-size:12.5px;margin-top:6px">{modal[:10]} · 按日模型取概率峰值<br>UTC {modal_utc[11:16]}</div></div>
   <div class="card stat"><p class="k">平均间隔 / 近 6 次</p><div class="v">{fc["recent_mean_gap_days"]:.1f} 天</div>
     <div class="d" style="color:var(--muted);font-size:12.5px;margin-top:6px">全样本均值 {fc["mean_gap_days"]:.2f} 天 · 中位 {fc["median_gap_days"]:.2f} 天</div></div>
 </div>

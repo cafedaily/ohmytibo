@@ -233,7 +233,7 @@
   }
  ],
  "tokens_recent": 488,
- "tokens_base": 3780,
+ "tokens_base": 3775,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -393,19 +393,19 @@
    "total": 15
   },
   {
-   "handle": "ajambrosino",
-   "replies": 3,
-   "named": 5,
-   "total": 8
-  },
-  {
    "handle": "poteto",
    "replies": 3,
    "named": 5,
    "total": 8
   },
   {
-   "handle": "StefanoGPT",
+   "handle": "ajambrosino",
+   "replies": 3,
+   "named": 5,
+   "total": 8
+  },
+  {
+   "handle": "charliermarsh",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -423,13 +423,13 @@
    "total": 4
   },
   {
-   "handle": "charliermarsh",
+   "handle": "steipete",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "steipete",
+   "handle": "StefanoGPT",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -441,7 +441,19 @@
    "total": 3
   },
   {
-   "handle": "rl_env",
+   "handle": "jkeatn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "koltregaskes",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -459,37 +471,19 @@
    "total": 2
   },
   {
-   "handle": "koltregaskes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "codeglitch",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "ai_funss",
+   "handle": "codex_resets",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
+   "handle": "rl_env",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -501,7 +495,13 @@
    "total": 2
   },
   {
-   "handle": "codex_resets",
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ai_funss",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -531,7 +531,7 @@
    "total": 2
   },
   {
-   "handle": "ananyairl",
+   "handle": "littlelion_love",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -626,88 +626,88 @@
  ],
  "reset_posts": [
   {
-   "ts": "2026-10-20T06:33:48Z",
+   "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
    "likes": 2805,
    "replies": 1064
   },
   {
-   "ts": "2026-10-17T22:23:34Z",
+   "ts": "2026-10-18 06:23",
    "text": "Pot committed",
    "url": "https://x.com/thsottiaux/status/2111583927156760690",
    "likes": 966,
    "replies": 99
   },
   {
-   "ts": "2026-10-17T16:21:13Z",
+   "ts": "2026-10-18 00:21",
    "text": "Landing sometime today by EOD PST",
    "url": "https://x.com/thsottiaux/status/2111492738025959922",
    "likes": 2780,
    "replies": 403
   },
   {
-   "ts": "2026-10-17T16:20:57Z",
+   "ts": "2026-10-18 00:20",
    "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
    "url": "https://x.com/thsottiaux/status/2111492673890824348",
    "likes": 16208,
    "replies": 1645
   },
   {
-   "ts": "2026-10-17T00:01:09Z",
-   "text": "@codex_resets Mehga ghud",
-   "url": "https://x.com/thsottiaux/status/2111246098207813946",
-   "likes": 0,
-   "replies": 0
-  },
-  {
-   "ts": "2026-10-15T15:11:30Z",
+   "ts": "2026-10-15 23:11",
    "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does h",
    "url": "https://x.com/thsottiaux/status/2110750421367287996",
    "likes": 11033,
    "replies": 2681
   },
   {
-   "ts": "2026-10-15T04:56:07Z",
+   "ts": "2026-10-15 12:56",
    "text": "Landing within the next 2 hours",
    "url": "https://x.com/thsottiaux/status/2110595554036400151",
    "likes": 3817,
    "replies": 510
   },
   {
-   "ts": "2026-10-15T04:55:51Z",
+   "ts": "2026-10-15 12:55",
    "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
    "url": "https://x.com/thsottiaux/status/2110595484180214059",
    "likes": 17069,
    "replies": 2102
   },
   {
-   "ts": "2026-10-13T06:21:26Z",
+   "ts": "2026-10-13 14:21",
    "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
    "url": "https://x.com/thsottiaux/status/2109892247580000595",
    "likes": 13351,
    "replies": 2459
   },
   {
-   "ts": "2026-10-13T05:06:10Z",
+   "ts": "2026-10-13 13:06",
    "text": "Mashed @poteto on the house.",
    "url": "https://x.com/thsottiaux/status/2109873307722121591",
    "likes": 2220,
    "replies": 157
   },
   {
-   "ts": "2026-10-13T05:06:06Z",
+   "ts": "2026-10-13 13:06",
    "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
    "url": "https://x.com/thsottiaux/status/2109873287853707513",
    "likes": 6081,
    "replies": 1379
   },
   {
-   "ts": "2026-10-13T01:03:59Z",
+   "ts": "2026-10-13 09:03",
    "text": "Global reset landing by EOD PST time. Enjoy",
    "url": "https://x.com/thsottiaux/status/2109812360596865224",
    "likes": 3573,
    "replies": 675
+  },
+  {
+   "ts": "2026-10-13 09:03",
+   "text": "Day 8/ Reset",
+   "url": "https://x.com/thsottiaux/status/2109812216212099456",
+   "likes": 14476,
+   "replies": 1898
   }
  ]
 }

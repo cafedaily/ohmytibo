@@ -14,6 +14,7 @@ from collections import Counter, defaultdict
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROC = ROOT / "data" / "processed"
 UTC = dt.timezone.utc
+CST = dt.timezone(dt.timedelta(hours=8))  # display timezone: Beijing
 NOW = dt.datetime.now(UTC)
 
 STOP = set("""a an the and or but if then than that this these those there here i you he she it we they
@@ -74,6 +75,12 @@ def load_jsonl(path):
 
 def parse_ts(s):
     return dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
+
+
+def local(iso_or_dt):
+    """Timestamp in Beijing time (UTC+8)."""
+    t = parse_ts(iso_or_dt) if isinstance(iso_or_dt, str) else iso_or_dt
+    return t.astimezone(CST)
 
 
 # ---------------------------------------------------------------- reset hazard
@@ -228,7 +235,10 @@ def forecast(resets, posts, days_ahead=10):
     recent_gaps = total_gaps[-6:]
     return {
         "generated_at": NOW.isoformat(),
+        "generated_at_local": local(NOW).strftime("%Y-%m-%d %H:%M"),
         "last_reset": last.isoformat(),
+        "last_reset_local": local(last).strftime("%Y-%m-%d %H:%M"),
+        "timezone": "UTC+8",
         "hours_since_last_reset": round((NOW - last).total_seconds() / 3600, 2),
         "reset_count": len(resets),
         "mean_gap_days": round(sum(total_gaps) / len(total_gaps), 2),
@@ -239,6 +249,7 @@ def forecast(resets, posts, days_ahead=10):
         "p_72h": round(p72, 4),
         "p_7d": round(p7d, 4),
         "modal_reset_at": modal.isoformat(),
+        "modal_reset_local": local(modal).strftime("%Y-%m-%d %H:%M"),
         "pending_promise": promise,
         "hazard_by_day": {str(k): round(v, 4) for k, v in hazard.items()},
         "hour_prior": {str(h): round(v, 4) for h, v in sorted(hour_weights(resets).items())},
@@ -412,10 +423,11 @@ def reset_lexicon(posts, window_days=14):
 
 
 def reset_day_posts(posts, resets, limit=12):
-    keys = {t.date().isoformat() for t in resets}
-    rows = [p for p in posts if p["date"] in keys and (p["pill"] or "reset" in p["text"].lower())]
+    keys = {local(t).date().isoformat() for t in resets}
+    rows = [p for p in posts if local(p["ts"]).date().isoformat() in keys
+            and (p["pill"] or "reset" in p["text"].lower())]
     rows.sort(key=lambda p: p["ts"], reverse=True)
-    return [{"ts": p["ts"], "text": p["text"][:200], "url": p["url"],
+    return [{"ts": local(p["ts"]).strftime("%Y-%m-%d %H:%M"), "text": p["text"][:200], "url": p["url"],
              "likes": p.get("likes", 0), "replies": p.get("replies", 0)} for p in rows[:limit]]
 
 
@@ -434,14 +446,14 @@ def topics(posts, days=14):
 def daily_series(posts, resets):
     per = defaultdict(lambda: {"posts": 0, "replies": 0, "likes": 0, "replies_received": 0})
     for p in posts:
-        d = per[p["date"]]
+        d = per[local(p["ts"]).date().isoformat()]
         d["posts"] += 1
         d["replies" if p["is_reply"] else "posts"] += 0  # keep original count below
         d["likes"] += p.get("likes", 0)
         d["replies_received"] += p.get("replies", 0)
-    counts = Counter(p["date"] for p in posts)
-    reply_counts = Counter(p["date"] for p in posts if p["is_reply"])
-    reset_days = Counter(t.date().isoformat() for t in resets)
+    counts = Counter(local(p["ts"]).date().isoformat() for p in posts)
+    reply_counts = Counter(local(p["ts"]).date().isoformat() for p in posts if p["is_reply"])
+    reset_days = Counter(local(t).date().isoformat() for t in resets)
     days = sorted(counts)
     return [{"date": d, "posts": counts[d], "replies": reply_counts[d],
              "likes": per[d]["likes"], "engagement_replies": per[d]["replies_received"],
@@ -467,6 +479,8 @@ def main():
 
     summary = {
         "generated_at": NOW.isoformat(),
+        "generated_at_local": local(NOW).strftime("%Y-%m-%d %H:%M"),
+        "timezone": "UTC+8",
         "posts": len(posts),
         "replies": sum(1 for p in posts if p["is_reply"]),
         "days_covered": len({p["date"] for p in posts}),
