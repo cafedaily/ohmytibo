@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-20T19:15:12.763138+00:00",
- "generated_local": "2026-10-21 03:15",
+ "generated_at": "2026-10-20T23:52:43.891745+00:00",
+ "generated_local": "2026-10-21 07:52",
  "forecast": {
-  "p_24h": 0.1357,
-  "p_48h": 0.3447,
-  "p_72h": 0.5642,
-  "p_7d": 0.8731,
+  "p_24h": 0.1724,
+  "p_48h": 0.4073,
+  "p_72h": 0.6061,
+  "p_7d": 0.8836,
   "last_reset": "2026-10-20T06:33:48+00:00",
   "last_reset_local": "2026-10-20 14:33",
-  "modal_reset_at": "2026-10-22T20:15:12.763138+00:00",
-  "modal_reset_local": "2026-10-23 04:15",
-  "hours_since_last_reset": 12.69,
+  "modal_reset_at": "2026-10-22T06:52:43.891745+00:00",
+  "modal_reset_local": "2026-10-22 14:52",
+  "hours_since_last_reset": 17.32,
   "reset_count": 29,
   "mean_gap_days": 3.66,
   "median_gap_days": 2.41,
   "recent_mean_gap_days": 2.9,
   "backtest": {
    "days": 44,
-   "brier": 0.161,
+   "brier": 0.1682,
    "brier_baseline": 0.1627,
-   "logloss": 0.4984,
+   "logloss": 0.5191,
    "logloss_baseline": 0.5066,
-   "skill": 0.016,
+   "skill": -0.024,
    "base_rate": 0.2045
   },
   "weekly": [
    {
     "date": "2026-10-20",
-    "p": 0.0279
+    "p": 0.0
    },
    {
     "date": "2026-10-21",
-    "p": 0.1556
+    "p": 0.1724
    },
    {
     "date": "2026-10-22",
-    "p": 0.2203
+    "p": 0.2349
    },
    {
     "date": "2026-10-23",
-    "p": 0.1998
+    "p": 0.1987
    },
    {
     "date": "2026-10-24",
-    "p": 0.125
+    "p": 0.122
    },
    {
     "date": "2026-10-25",
-    "p": 0.07
+    "p": 0.0679
    },
    {
     "date": "2026-10-26",
-    "p": 0.044
+    "p": 0.0447
    },
    {
     "date": "2026-10-27",
-    "p": 0.0408
+    "p": 0.043
    },
    {
     "date": "2026-10-28",
-    "p": 0.0317
+    "p": 0.0304
    },
    {
     "date": "2026-10-29",
-    "p": 0.0172
+    "p": 0.0171
    },
    {
     "date": "2026-10-30",
-    "p": 0.0108
+    "p": 0.0158
    }
   ]
  },
@@ -540,69 +540,69 @@
    "date": "2026-10-18",
    "posts": 15,
    "replies": 11,
-   "likes": 39565,
-   "engagement_replies": 5268,
+   "likes": 39567,
+   "engagement_replies": 5269,
    "reset": 1
   },
   {
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 48568,
-   "engagement_replies": 8444,
+   "likes": 48727,
+   "engagement_replies": 8460,
    "reset": 0
   },
   {
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 17754,
-   "engagement_replies": 5796,
+   "likes": 18176,
+   "engagement_replies": 5824,
    "reset": 1
   },
   {
    "date": "2026-10-21",
    "posts": 1,
    "replies": 0,
-   "likes": 6058,
-   "engagement_replies": 1404,
+   "likes": 8828,
+   "engagement_replies": 2008,
    "reset": 0
   }
  ],
  "hot": {
   "top": [
    {
-    "term": "users",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 16,
-    "lift": 0.95,
-    "docs": 4,
-    "share": 0.0091,
-    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
-    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
-    "sample_ts": "2026-10-13T23:32:43Z"
-   },
-   {
     "term": "dot",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 30,
-    "lift": 0.17,
+    "lift": 0.3,
     "docs": 3,
-    "share": 0.0091,
+    "share": 0.01,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 17,
+    "lift": 0.71,
+    "docs": 3,
+    "share": 0.008,
+    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+    "sample_ts": "2026-10-16T23:56:37Z"
    },
    {
     "term": "pro",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 18,
-    "lift": 0.52,
+    "lift": 0.64,
     "docs": 3,
-    "share": 0.0073,
+    "share": 0.008,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
     "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
     "sample_ts": "2026-10-16T23:56:37Z"
@@ -612,9 +612,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 19,
-    "lift": 0.45,
+    "lift": 0.58,
     "docs": 3,
-    "share": 0.0073,
+    "share": 0.008,
     "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
     "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
     "sample_ts": "2026-10-15T04:55:51Z"
@@ -624,24 +624,12 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 20,
-    "lift": 0.39,
+    "lift": 0.52,
     "docs": 2,
-    "share": 0.0073,
+    "share": 0.008,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
     "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
     "sample_ts": "2026-10-16T23:55:11Z"
-   },
-   {
-    "term": "disk",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 0,
-    "lift": 2.81,
-    "docs": 1,
-    "share": 0.0055,
-    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
-    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
-    "sample_ts": "2026-10-13T23:32:43Z"
    },
    {
     "term": "actual",
@@ -650,7 +638,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? https://t.co/CYjAOAlCpR",
     "sample_url": "https://x.com/thsottiaux/status/2111249534072529256",
     "sample_ts": "2026-10-17T00:14:48Z"
@@ -662,7 +650,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
@@ -672,9 +660,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.44,
+    "lift": 2.47,
     "docs": 3,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
     "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
     "sample_ts": "2026-10-18T05:17:04Z"
@@ -684,9 +672,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.14,
+    "lift": 2.19,
     "docs": 3,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "Either we are out of ideas or we are cooking. Time will tell",
     "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
     "sample_ts": "2026-10-16T05:51:55Z"
@@ -696,9 +684,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.9,
+    "lift": 1.96,
     "docs": 3,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
     "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
     "sample_ts": "2026-10-16T23:57:00Z"
@@ -706,25 +694,13 @@
   ],
   "surge": [
    {
-    "term": "disk",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 0,
-    "lift": 2.81,
-    "docs": 1,
-    "share": 0.0055,
-    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
-    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
-    "sample_ts": "2026-10-13T23:32:43Z"
-   },
-   {
     "term": "actual",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? https://t.co/CYjAOAlCpR",
     "sample_url": "https://x.com/thsottiaux/status/2111249534072529256",
     "sample_ts": "2026-10-17T00:14:48Z"
@@ -736,7 +712,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
@@ -746,9 +722,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.44,
+    "lift": 2.47,
     "docs": 3,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
     "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
     "sample_ts": "2026-10-18T05:17:04Z"
@@ -760,7 +736,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0037,
+    "share": 0.004,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
@@ -770,9 +746,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.14,
+    "lift": 2.19,
     "docs": 3,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "Either we are out of ideas or we are cooking. Time will tell",
     "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
     "sample_ts": "2026-10-16T05:51:55Z"
@@ -782,9 +758,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.9,
+    "lift": 1.96,
     "docs": 3,
-    "share": 0.0055,
+    "share": 0.006,
     "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
     "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
     "sample_ts": "2026-10-16T23:57:00Z"
@@ -792,23 +768,23 @@
    {
     "term": "users",
     "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 16,
-    "lift": 0.95,
-    "docs": 4,
-    "share": 0.0091,
-    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
-    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
-    "sample_ts": "2026-10-13T23:32:43Z"
+    "count_7d": 4,
+    "count_28d_before": 17,
+    "lift": 0.71,
+    "docs": 3,
+    "share": 0.008,
+    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+    "sample_ts": "2026-10-16T23:56:37Z"
    },
    {
     "term": "pro",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 18,
-    "lift": 0.52,
+    "lift": 0.64,
     "docs": 3,
-    "share": 0.0073,
+    "share": 0.008,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
     "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
     "sample_ts": "2026-10-16T23:56:37Z"
@@ -818,9 +794,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 19,
-    "lift": 0.45,
+    "lift": 0.58,
     "docs": 3,
-    "share": 0.0073,
+    "share": 0.008,
     "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
     "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
     "sample_ts": "2026-10-15T04:55:51Z"
@@ -830,9 +806,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 20,
-    "lift": 0.39,
+    "lift": 0.52,
     "docs": 2,
-    "share": 0.0073,
+    "share": 0.008,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
     "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
     "sample_ts": "2026-10-16T23:55:11Z"
@@ -842,9 +818,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 30,
-    "lift": 0.17,
+    "lift": 0.3,
     "docs": 3,
-    "share": 0.0091,
+    "share": 0.01,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
