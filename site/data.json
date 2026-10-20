@@ -1,0 +1,798 @@
+{
+ "generated_at": "2026-10-20T07:10:39.799819+00:00",
+ "generated_local": "2026-10-20 15:10",
+ "forecast": {
+  "p_24h": 0.1149,
+  "p_48h": 0.3076,
+  "p_72h": 0.5395,
+  "p_7d": 0.8669,
+  "last_reset": "2026-10-20T06:33:48+00:00",
+  "last_reset_local": "2026-10-20 14:33",
+  "modal_reset_at": "2026-10-22T20:10:39.799819+00:00",
+  "modal_reset_local": "2026-10-23 04:10",
+  "hours_since_last_reset": 0.61,
+  "reset_count": 29,
+  "mean_gap_days": 3.66,
+  "median_gap_days": 2.41,
+  "recent_mean_gap_days": 2.9,
+  "backtest": {
+   "days": 44,
+   "brier": 0.1677,
+   "brier_baseline": 0.1627,
+   "logloss": 0.5167,
+   "logloss_baseline": 0.5066,
+   "skill": -0.02,
+   "base_rate": 0.2045
+  },
+  "weekly": [
+   {
+    "date": "2026-10-20",
+    "p": 0.0505
+   },
+   {
+    "date": "2026-10-21",
+    "p": 0.152
+   },
+   {
+    "date": "2026-10-22",
+    "p": 0.2152
+   },
+   {
+    "date": "2026-10-23",
+    "p": 0.1952
+   },
+   {
+    "date": "2026-10-24",
+    "p": 0.1221
+   },
+   {
+    "date": "2026-10-25",
+    "p": 0.0684
+   },
+   {
+    "date": "2026-10-26",
+    "p": 0.043
+   },
+   {
+    "date": "2026-10-27",
+    "p": 0.0398
+   },
+   {
+    "date": "2026-10-28",
+    "p": 0.031
+   },
+   {
+    "date": "2026-10-29",
+    "p": 0.0168
+   },
+   {
+    "date": "2026-10-30",
+    "p": 0.0071
+   }
+  ]
+ },
+ "daily": [
+  {
+   "date": "2026-08-21",
+   "posts": 8,
+   "replies": 5,
+   "likes": 32266,
+   "engagement_replies": 6674,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-22",
+   "posts": 16,
+   "replies": 12,
+   "likes": 40603,
+   "engagement_replies": 4867,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-23",
+   "posts": 13,
+   "replies": 12,
+   "likes": 27987,
+   "engagement_replies": 2897,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-24",
+   "posts": 9,
+   "replies": 7,
+   "likes": 22894,
+   "engagement_replies": 2337,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-25",
+   "posts": 11,
+   "replies": 9,
+   "likes": 28543,
+   "engagement_replies": 6503,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-26",
+   "posts": 17,
+   "replies": 13,
+   "likes": 32523,
+   "engagement_replies": 3836,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-27",
+   "posts": 11,
+   "replies": 9,
+   "likes": 30750,
+   "engagement_replies": 3133,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-28",
+   "posts": 19,
+   "replies": 14,
+   "likes": 42678,
+   "engagement_replies": 5114,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-29",
+   "posts": 7,
+   "replies": 5,
+   "likes": 24408,
+   "engagement_replies": 3076,
+   "reset": 0
+  },
+  {
+   "date": "2026-08-30",
+   "posts": 12,
+   "replies": 7,
+   "likes": 55823,
+   "engagement_replies": 5014,
+   "reset": 1
+  },
+  {
+   "date": "2026-08-31",
+   "posts": 11,
+   "replies": 4,
+   "likes": 57651,
+   "engagement_replies": 10543,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-01",
+   "posts": 6,
+   "replies": 5,
+   "likes": 8107,
+   "engagement_replies": 3236,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-02",
+   "posts": 7,
+   "replies": 5,
+   "likes": 37725,
+   "engagement_replies": 3726,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-03",
+   "posts": 13,
+   "replies": 10,
+   "likes": 55640,
+   "engagement_replies": 6946,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-04",
+   "posts": 18,
+   "replies": 15,
+   "likes": 108895,
+   "engagement_replies": 9580,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-05",
+   "posts": 23,
+   "replies": 17,
+   "likes": 127176,
+   "engagement_replies": 9648,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-06",
+   "posts": 2,
+   "replies": 2,
+   "likes": 4843,
+   "engagement_replies": 164,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-07",
+   "posts": 20,
+   "replies": 17,
+   "likes": 72284,
+   "engagement_replies": 7511,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-08",
+   "posts": 12,
+   "replies": 8,
+   "likes": 96783,
+   "engagement_replies": 10812,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-09",
+   "posts": 9,
+   "replies": 5,
+   "likes": 45104,
+   "engagement_replies": 5506,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-10",
+   "posts": 7,
+   "replies": 3,
+   "likes": 32839,
+   "engagement_replies": 6200,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-11",
+   "posts": 17,
+   "replies": 12,
+   "likes": 66572,
+   "engagement_replies": 8335,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-12",
+   "posts": 9,
+   "replies": 3,
+   "likes": 70219,
+   "engagement_replies": 8785,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-13",
+   "posts": 3,
+   "replies": 3,
+   "likes": 5918,
+   "engagement_replies": 315,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-14",
+   "posts": 4,
+   "replies": 3,
+   "likes": 11795,
+   "engagement_replies": 9770,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-15",
+   "posts": 9,
+   "replies": 8,
+   "likes": 23495,
+   "engagement_replies": 3145,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-16",
+   "posts": 5,
+   "replies": 2,
+   "likes": 22013,
+   "engagement_replies": 4194,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-17",
+   "posts": 8,
+   "replies": 5,
+   "likes": 19291,
+   "engagement_replies": 5475,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-18",
+   "posts": 3,
+   "replies": 2,
+   "likes": 11574,
+   "engagement_replies": 2749,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-19",
+   "posts": 12,
+   "replies": 11,
+   "likes": 21016,
+   "engagement_replies": 3025,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-20",
+   "posts": 11,
+   "replies": 10,
+   "likes": 34998,
+   "engagement_replies": 3184,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-21",
+   "posts": 5,
+   "replies": 5,
+   "likes": 8360,
+   "engagement_replies": 1283,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-22",
+   "posts": 8,
+   "replies": 7,
+   "likes": 33097,
+   "engagement_replies": 6242,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-23",
+   "posts": 11,
+   "replies": 8,
+   "likes": 56459,
+   "engagement_replies": 6733,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-24",
+   "posts": 6,
+   "replies": 4,
+   "likes": 21751,
+   "engagement_replies": 2541,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-25",
+   "posts": 1,
+   "replies": 0,
+   "likes": 9371,
+   "engagement_replies": 1394,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-26",
+   "posts": 3,
+   "replies": 1,
+   "likes": 33676,
+   "engagement_replies": 7134,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-27",
+   "posts": 10,
+   "replies": 8,
+   "likes": 41337,
+   "engagement_replies": 4121,
+   "reset": 1
+  },
+  {
+   "date": "2026-09-28",
+   "posts": 11,
+   "replies": 9,
+   "likes": 29151,
+   "engagement_replies": 3540,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-29",
+   "posts": 8,
+   "replies": 4,
+   "likes": 48517,
+   "engagement_replies": 12650,
+   "reset": 0
+  },
+  {
+   "date": "2026-09-30",
+   "posts": 54,
+   "replies": 33,
+   "likes": 122881,
+   "engagement_replies": 14414,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-01",
+   "posts": 14,
+   "replies": 8,
+   "likes": 43518,
+   "engagement_replies": 11649,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-02",
+   "posts": 13,
+   "replies": 9,
+   "likes": 35618,
+   "engagement_replies": 6404,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-03",
+   "posts": 12,
+   "replies": 7,
+   "likes": 39046,
+   "engagement_replies": 5052,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-04",
+   "posts": 16,
+   "replies": 12,
+   "likes": 40955,
+   "engagement_replies": 14663,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-05",
+   "posts": 15,
+   "replies": 14,
+   "likes": 40112,
+   "engagement_replies": 5840,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-06",
+   "posts": 23,
+   "replies": 18,
+   "likes": 55891,
+   "engagement_replies": 7452,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-07",
+   "posts": 34,
+   "replies": 27,
+   "likes": 62283,
+   "engagement_replies": 8810,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-08",
+   "posts": 15,
+   "replies": 11,
+   "likes": 58967,
+   "engagement_replies": 5818,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-09",
+   "posts": 4,
+   "replies": 2,
+   "likes": 44449,
+   "engagement_replies": 5289,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-10",
+   "posts": 10,
+   "replies": 5,
+   "likes": 30449,
+   "engagement_replies": 7770,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-11",
+   "posts": 13,
+   "replies": 9,
+   "likes": 47884,
+   "engagement_replies": 10243,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-12",
+   "posts": 7,
+   "replies": 5,
+   "likes": 30380,
+   "engagement_replies": 7195,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-13",
+   "posts": 14,
+   "replies": 11,
+   "likes": 56478,
+   "engagement_replies": 7732,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-14",
+   "posts": 4,
+   "replies": 3,
+   "likes": 17595,
+   "engagement_replies": 4660,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-15",
+   "posts": 10,
+   "replies": 7,
+   "likes": 48626,
+   "engagement_replies": 7068,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-16",
+   "posts": 6,
+   "replies": 4,
+   "likes": 21524,
+   "engagement_replies": 4503,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-17",
+   "posts": 14,
+   "replies": 12,
+   "likes": 28219,
+   "engagement_replies": 4193,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-18",
+   "posts": 15,
+   "replies": 11,
+   "likes": 39539,
+   "engagement_replies": 5264,
+   "reset": 1
+  },
+  {
+   "date": "2026-10-19",
+   "posts": 13,
+   "replies": 8,
+   "likes": 47217,
+   "engagement_replies": 8376,
+   "reset": 0
+  },
+  {
+   "date": "2026-10-20",
+   "posts": 3,
+   "replies": 1,
+   "likes": 7878,
+   "engagement_replies": 3944,
+   "reset": 1
+  }
+ ],
+ "hot": {
+  "top": [
+   {
+    "term": "dot",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 30,
+    "lift": 0.33,
+    "docs": 3,
+    "share": 0.0102,
+    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "sample_ts": "2026-10-17T16:31:45Z"
+   },
+   {
+    "term": "pro",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 18,
+    "lift": 0.67,
+    "docs": 3,
+    "share": 0.0082,
+    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+    "sample_ts": "2026-10-16T23:56:37Z"
+   },
+   {
+    "term": "reset",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 19,
+    "lift": 0.61,
+    "docs": 3,
+    "share": 0.0082,
+    "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+    "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
+    "sample_ts": "2026-10-15T04:55:51Z"
+   },
+   {
+    "term": "disk",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 1,
+    "share": 0.0061,
+    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+    "sample_ts": "2026-10-13T23:32:43Z"
+   },
+   {
+    "term": "personal",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 2,
+    "share": 0.0061,
+    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "sample_ts": "2026-10-17T16:31:45Z"
+   },
+   {
+    "term": "openai",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.48,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
+    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
+    "sample_ts": "2026-10-18T05:17:04Z"
+   },
+   {
+    "term": "cooking",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 2,
+    "lift": 2.21,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "Either we are out of ideas or we are cooking. Time will tell",
+    "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
+    "sample_ts": "2026-10-16T05:51:55Z"
+   },
+   {
+    "term": "enjoy",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 3,
+    "lift": 1.98,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+    "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
+    "sample_ts": "2026-10-16T23:57:00Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 16,
+    "lift": 0.45,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+    "sample_ts": "2026-10-13T23:32:43Z"
+   }
+  ],
+  "surge": [
+   {
+    "term": "disk",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 1,
+    "share": 0.0061,
+    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+    "sample_ts": "2026-10-13T23:32:43Z"
+   },
+   {
+    "term": "personal",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 2,
+    "share": 0.0061,
+    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "sample_ts": "2026-10-17T16:31:45Z"
+   },
+   {
+    "term": "openai",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.48,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
+    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
+    "sample_ts": "2026-10-18T05:17:04Z"
+   },
+   {
+    "term": "personal dot",
+    "kind": "phrase",
+    "count_7d": 2,
+    "count_28d_before": 0,
+    "lift": 2.32,
+    "docs": 2,
+    "share": 0.0041,
+    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "sample_ts": "2026-10-17T16:31:45Z"
+   },
+   {
+    "term": "cooking",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 2,
+    "lift": 2.21,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "Either we are out of ideas or we are cooking. Time will tell",
+    "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
+    "sample_ts": "2026-10-16T05:51:55Z"
+   },
+   {
+    "term": "enjoy",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 3,
+    "lift": 1.98,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+    "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
+    "sample_ts": "2026-10-16T23:57:00Z"
+   },
+   {
+    "term": "pro",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 18,
+    "lift": 0.67,
+    "docs": 3,
+    "share": 0.0082,
+    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+    "sample_ts": "2026-10-16T23:56:37Z"
+   },
+   {
+    "term": "reset",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 19,
+    "lift": 0.61,
+    "docs": 3,
+    "share": 0.0082,
+    "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+    "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
+    "sample_ts": "2026-10-15T04:55:51Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 16,
+    "lift": 0.45,
+    "docs": 3,
+    "share": 0.0061,
+    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+    "sample_ts": "2026-10-13T23:32:43Z"
+   },
+   {
+    "term": "dot",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 30,
+    "lift": 0.33,
+    "docs": 3,
+    "share": 0.0102,
+    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "sample_ts": "2026-10-17T16:31:45Z"
+   }
+  ]
+ }
+}

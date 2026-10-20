@@ -1,4 +1,4 @@
-# ohmytibo
+# OH MY TIBO
 
 Follow [@thsottiaux](https://x.com/thsottiaux) — Tibo, OpenAI's Codex & ChatGPT lead — and the thing he is famous for: **usage resets**.
 
@@ -46,6 +46,17 @@ Preview locally:
 python -m http.server 8765 --directory site
 ```
 
+## Dashboard
+
+`site/index.html` is a single, fully client-rendered page:
+
+- **Three.js starfield** — a 2,200-point particle shell that drifts behind the content, pauses when the tab is hidden, and renders a single still frame under `prefers-reduced-motion`.
+- **Live numbers** — the 24h probability animates on a gradient ring, a countdown ticks down to the modal reset slot, and a Beijing-time clock runs in the header.
+- **Interactive charts** — hover/focus tooltips on every mark, 14/30/all range switching and series toggling on the activity chart, and a high-frequency / surging switch on the hot-word chart.
+- **Self-refresh** — `site/data.json` is re-fetched on visibility change and every 10 minutes (throttled to once a minute), so a rebuilt deploy propagates without a manual reload.
+
+The page ships a baked-in JSON payload, so it still renders with the CDN or `data.json` unreachable.
+
 ## Outputs
 
 | File | Contents |
@@ -55,7 +66,8 @@ python -m http.server 8765 --directory site
 | `data/processed/forecast.json` | Probabilities (24h/48h/72h/7d), hazard table, hourly curve, backtest |
 | `data/processed/hotwords.json` | Top terms, surge terms, phrases, topics, mentions, reset lexicon |
 | `data/processed/metrics.json` | Dashboard summary + daily series |
-| `site/index.html` | The dashboard |
+| `site/index.html` | The dashboard (static shell + inline payload) |
+| `site/data.json` | Refreshable payload consumed by the dashboard |
 
 ## Caveats
 
