@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-20T07:10:39.799819+00:00",
- "generated_local": "2026-10-20 15:10",
+ "generated_at": "2026-10-20T14:18:43.898065+00:00",
+ "generated_local": "2026-10-20 22:18",
  "forecast": {
-  "p_24h": 0.1149,
-  "p_48h": 0.3076,
-  "p_72h": 0.5395,
-  "p_7d": 0.8669,
+  "p_24h": 0.1192,
+  "p_48h": 0.3154,
+  "p_72h": 0.5447,
+  "p_7d": 0.8682,
   "last_reset": "2026-10-20T06:33:48+00:00",
   "last_reset_local": "2026-10-20 14:33",
-  "modal_reset_at": "2026-10-22T20:10:39.799819+00:00",
-  "modal_reset_local": "2026-10-23 04:10",
-  "hours_since_last_reset": 0.61,
+  "modal_reset_at": "2026-10-22T20:18:43.898065+00:00",
+  "modal_reset_local": "2026-10-23 04:18",
+  "hours_since_last_reset": 7.75,
   "reset_count": 29,
   "mean_gap_days": 3.66,
   "median_gap_days": 2.41,
   "recent_mean_gap_days": 2.9,
   "backtest": {
    "days": 44,
-   "brier": 0.1677,
+   "brier": 0.1617,
    "brier_baseline": 0.1627,
-   "logloss": 0.5167,
+   "logloss": 0.5011,
    "logloss_baseline": 0.5066,
-   "skill": -0.02,
+   "skill": 0.011,
    "base_rate": 0.2045
   },
   "weekly": [
    {
     "date": "2026-10-20",
-    "p": 0.0505
+    "p": 0.0459
    },
    {
     "date": "2026-10-21",
-    "p": 0.152
+    "p": 0.1528
    },
    {
     "date": "2026-10-22",
-    "p": 0.2152
+    "p": 0.2162
    },
    {
     "date": "2026-10-23",
-    "p": 0.1952
+    "p": 0.1961
    },
    {
     "date": "2026-10-24",
-    "p": 0.1221
+    "p": 0.1227
    },
    {
     "date": "2026-10-25",
-    "p": 0.0684
+    "p": 0.0687
    },
    {
     "date": "2026-10-26",
-    "p": 0.043
+    "p": 0.0432
    },
    {
     "date": "2026-10-27",
-    "p": 0.0398
+    "p": 0.04
    },
    {
     "date": "2026-10-28",
-    "p": 0.031
+    "p": 0.0311
    },
    {
     "date": "2026-10-29",
-    "p": 0.0168
+    "p": 0.0169
    },
    {
     "date": "2026-10-30",
-    "p": 0.0071
+    "p": 0.0079
    }
   ]
  },
@@ -540,24 +540,24 @@
    "date": "2026-10-18",
    "posts": 15,
    "replies": 11,
-   "likes": 39539,
-   "engagement_replies": 5264,
+   "likes": 39557,
+   "engagement_replies": 5267,
    "reset": 1
   },
   {
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 47217,
-   "engagement_replies": 8376,
+   "likes": 48028,
+   "engagement_replies": 8421,
    "reset": 0
   },
   {
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 7878,
-   "engagement_replies": 3944,
+   "likes": 16317,
+   "engagement_replies": 5560,
    "reset": 1
   }
  ],

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T07:10:39.799819+00:00",
- "generated_at_local": "2026-10-20 15:10",
+ "generated_at": "2026-10-20T14:18:43.898065+00:00",
+ "generated_at_local": "2026-10-20 22:18",
  "timezone": "UTC+8",
  "posts": 704,
  "replies": 506,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-21T02:46:59Z",
  "last_post": "2026-10-20T06:33:48Z",
  "resets_tracked": 29,
- "p_24h": 0.1149,
- "p_48h": 0.3076,
- "modal_reset_at": "2026-10-22T20:10:39.799819+00:00",
+ "p_24h": 0.1192,
+ "p_48h": 0.3154,
+ "modal_reset_at": "2026-10-22T20:18:43.898065+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.1677,
+  "brier": 0.1617,
   "brier_baseline": 0.1627,
-  "logloss": 0.5167,
+  "logloss": 0.5011,
   "logloss_baseline": 0.5066,
-  "skill": -0.02,
+  "skill": 0.011,
   "base_rate": 0.2045
  },
  "top_terms": [
@@ -255,14 +255,9 @@
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 47,
-   "share": 0.281,
+   "posts": 46,
+   "share": 0.284,
    "examples": [
-    {
-     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
-     "url": "https://x.com/thsottiaux/status/2107368734981517634",
-     "ts": "2026-10-06T07:13:54Z"
-    },
     {
      "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building. https://t.co/hfi2655wyW",
      "url": "https://x.com/thsottiaux/status/2107548725359104441",
@@ -272,23 +267,6 @@
      "text": "No dodge, just three updates today",
      "url": "https://x.com/thsottiaux/status/2107558288934216153",
      "ts": "2026-10-06T19:47:07Z"
-    }
-   ]
-  },
-  {
-   "topic": "Models",
-   "posts": 29,
-   "share": 0.174,
-   "examples": [
-    {
-     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
-     "url": "https://x.com/thsottiaux/status/2107368734981517634",
-     "ts": "2026-10-06T07:13:54Z"
-    },
-    {
-     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
-     "url": "https://x.com/thsottiaux/status/2107504197012988007",
-     "ts": "2026-10-06T16:12:10Z"
     },
     {
      "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
@@ -298,15 +276,32 @@
    ]
   },
   {
-   "topic": "Plans / pricing",
+   "topic": "Models",
    "posts": 28,
-   "share": 0.168,
+   "share": 0.173,
    "examples": [
     {
-     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
-     "url": "https://x.com/thsottiaux/status/2107368734981517634",
-     "ts": "2026-10-06T07:13:54Z"
+     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+     "url": "https://x.com/thsottiaux/status/2107504197012988007",
+     "ts": "2026-10-06T16:12:10Z"
     },
+    {
+     "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
+     "url": "https://x.com/thsottiaux/status/2107573405553938664",
+     "ts": "2026-10-06T20:47:11Z"
+    },
+    {
+     "text": "Completely unrelated to the rest of the ships today, but our models did solve some important math problems and the team documented it in the",
+     "url": "https://x.com/thsottiaux/status/2107597780352950624",
+     "ts": "2026-10-06T22:24:02Z"
+    }
+   ]
+  },
+  {
+   "topic": "Plans / pricing",
+   "posts": 27,
+   "share": 0.167,
+   "examples": [
     {
      "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
      "url": "https://x.com/thsottiaux/status/2107504197012988007",
@@ -316,19 +311,19 @@
      "text": "Day 2.4/\n\nDecisions API is live. We will use this ourselves to improve the experience for everyone in many fun ways. Realtime general classi",
      "url": "https://x.com/thsottiaux/status/2107574912349303197",
      "ts": "2026-10-06T20:53:10Z"
+    },
+    {
+     "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also be",
+     "url": "https://x.com/thsottiaux/status/2107575657014468879",
+     "ts": "2026-10-06T20:56:08Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
-   "posts": 24,
-   "share": 0.144,
+   "posts": 23,
+   "share": 0.142,
    "examples": [
-    {
-     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
-     "url": "https://x.com/thsottiaux/status/2107368734981517634",
-     "ts": "2026-10-06T07:13:54Z"
-    },
     {
      "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also be",
      "url": "https://x.com/thsottiaux/status/2107575657014468879",
@@ -338,19 +333,19 @@
      "text": "I do like giving resets",
      "url": "https://x.com/thsottiaux/status/2107577536779870210",
      "ts": "2026-10-06T21:03:36Z"
+    },
+    {
+     "text": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH",
+     "url": "https://x.com/thsottiaux/status/2107578625419866469",
+     "ts": "2026-10-06T21:07:55Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 22,
-   "share": 0.132,
+   "posts": 21,
+   "share": 0.13,
    "examples": [
-    {
-     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
-     "url": "https://x.com/thsottiaux/status/2107368734981517634",
-     "ts": "2026-10-06T07:13:54Z"
-    },
     {
      "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
      "url": "https://x.com/thsottiaux/status/2107504197012988007",
@@ -360,19 +355,19 @@
      "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building. https://t.co/hfi2655wyW",
      "url": "https://x.com/thsottiaux/status/2107548725359104441",
      "ts": "2026-10-06T19:09:07Z"
+    },
+    {
+     "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
+     "url": "https://x.com/thsottiaux/status/2107573405553938664",
+     "ts": "2026-10-06T20:47:11Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
-   "posts": 11,
-   "share": 0.066,
+   "posts": 10,
+   "share": 0.062,
    "examples": [
-    {
-     "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > aut",
-     "url": "https://x.com/thsottiaux/status/2107368734981517634",
-     "ts": "2026-10-06T07:13:54Z"
-    },
     {
      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did c",
      "url": "https://x.com/thsottiaux/status/2107676072871600470",
@@ -382,6 +377,11 @@
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
      "url": "https://x.com/thsottiaux/status/2107912709715132482",
      "ts": "2026-10-07T19:15:27Z"
+    },
+    {
+     "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
+     "url": "https://x.com/thsottiaux/status/2107913674593644711",
+     "ts": "2026-10-07T19:19:17Z"
     }
    ]
   },
@@ -872,24 +872,24 @@
    "date": "2026-10-18",
    "posts": 15,
    "replies": 11,
-   "likes": 39539,
-   "engagement_replies": 5264,
+   "likes": 39557,
+   "engagement_replies": 5267,
    "reset": 1
   },
   {
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 47217,
-   "engagement_replies": 8376,
+   "likes": 48028,
+   "engagement_replies": 8421,
    "reset": 0
   },
   {
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 7878,
-   "engagement_replies": 3944,
+   "likes": 16317,
+   "engagement_replies": 5560,
    "reset": 1
   }
  ]
