@@ -8,10 +8,22 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 1,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
    "sample_ts": "2026-10-13T23:32:43Z"
+  },
+  {
+   "term": "actual",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 2,
+   "share": 0.0055,
+   "sample": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? https://t.co/CYjAOAlCpR",
+   "sample_url": "https://x.com/thsottiaux/status/2111249534072529256",
+   "sample_ts": "2026-10-17T00:14:48Z"
   },
   {
    "term": "personal",
@@ -20,7 +32,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
    "sample_ts": "2026-10-17T16:31:45Z"
@@ -30,9 +42,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.48,
+   "lift": 2.44,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
    "sample_ts": "2026-10-18T05:17:04Z"
@@ -44,7 +56,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0041,
+   "share": 0.0037,
    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
    "sample_ts": "2026-10-17T16:31:45Z"
@@ -54,9 +66,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.21,
+   "lift": 2.14,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "Either we are out of ideas or we are cooking. Time will tell",
    "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
    "sample_ts": "2026-10-16T05:51:55Z"
@@ -66,21 +78,33 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.98,
+   "lift": 1.9,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
    "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
    "sample_ts": "2026-10-16T23:57:00Z"
+  },
+  {
+   "term": "users",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 16,
+   "lift": 0.95,
+   "docs": 4,
+   "share": 0.0091,
+   "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
+   "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "sample_ts": "2026-10-13T23:32:43Z"
   },
   {
    "term": "pro",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 18,
-   "lift": 0.67,
+   "lift": 0.52,
    "docs": 3,
-   "share": 0.0082,
+   "share": 0.0073,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
@@ -90,21 +114,47 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 19,
-   "lift": 0.61,
+   "lift": 0.45,
    "docs": 3,
-   "share": 0.0082,
+   "share": 0.0073,
    "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
    "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
    "sample_ts": "2026-10-15T04:55:51Z"
   },
   {
+   "term": "usage",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 20,
+   "lift": 0.39,
+   "docs": 2,
+   "share": 0.0073,
+   "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
+   "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
+   "sample_ts": "2026-10-16T23:55:11Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 30,
+   "lift": 0.17,
+   "docs": 3,
+   "share": 0.0091,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  }
+ ],
+ "top": [
+  {
    "term": "users",
    "kind": "word",
-   "count_7d": 3,
+   "count_7d": 5,
    "count_28d_before": 16,
-   "lift": 0.45,
-   "docs": 3,
-   "share": 0.0061,
+   "lift": 0.95,
+   "docs": 4,
+   "share": 0.0091,
    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
    "sample_ts": "2026-10-13T23:32:43Z"
@@ -114,23 +164,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 30,
-   "lift": 0.33,
+   "lift": 0.17,
    "docs": 3,
-   "share": 0.0102,
-   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
-   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
-   "sample_ts": "2026-10-17T16:31:45Z"
-  }
- ],
- "top": [
-  {
-   "term": "dot",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 30,
-   "lift": 0.33,
-   "docs": 3,
-   "share": 0.0102,
+   "share": 0.0091,
    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
    "sample_ts": "2026-10-17T16:31:45Z"
@@ -140,9 +176,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 18,
-   "lift": 0.67,
+   "lift": 0.52,
    "docs": 3,
-   "share": 0.0082,
+   "share": 0.0073,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
@@ -152,12 +188,24 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 19,
-   "lift": 0.61,
+   "lift": 0.45,
    "docs": 3,
-   "share": 0.0082,
+   "share": 0.0073,
    "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
    "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
    "sample_ts": "2026-10-15T04:55:51Z"
+  },
+  {
+   "term": "usage",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 20,
+   "lift": 0.39,
+   "docs": 2,
+   "share": 0.0073,
+   "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
+   "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
+   "sample_ts": "2026-10-16T23:55:11Z"
   },
   {
    "term": "disk",
@@ -166,10 +214,22 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 1,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
    "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
    "sample_ts": "2026-10-13T23:32:43Z"
+  },
+  {
+   "term": "actual",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 2,
+   "share": 0.0055,
+   "sample": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? https://t.co/CYjAOAlCpR",
+   "sample_url": "https://x.com/thsottiaux/status/2111249534072529256",
+   "sample_ts": "2026-10-17T00:14:48Z"
   },
   {
    "term": "personal",
@@ -178,7 +238,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
    "sample_ts": "2026-10-17T16:31:45Z"
@@ -188,9 +248,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.48,
+   "lift": 2.44,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
    "sample_ts": "2026-10-18T05:17:04Z"
@@ -200,9 +260,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.21,
+   "lift": 2.14,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "Either we are out of ideas or we are cooking. Time will tell",
    "sample_url": "https://x.com/thsottiaux/status/2110971985417441512",
    "sample_ts": "2026-10-16T05:51:55Z"
@@ -212,39 +272,22 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.98,
+   "lift": 1.9,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.0055,
    "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
    "sample_url": "https://x.com/thsottiaux/status/2111245052513259606",
    "sample_ts": "2026-10-16T23:57:00Z"
-  },
-  {
-   "term": "users",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 16,
-   "lift": 0.45,
-   "docs": 3,
-   "share": 0.0061,
-   "sample": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've h",
-   "sample_url": "https://x.com/thsottiaux/status/2110151780478927344",
-   "sample_ts": "2026-10-13T23:32:43Z"
   }
  ],
- "tokens_recent": 488,
- "tokens_base": 3775,
+ "tokens_recent": 547,
+ "tokens_base": 3725,
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 46,
-   "share": 0.284,
+   "posts": 45,
+   "share": 0.281,
    "examples": [
-    {
-     "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building. https://t.co/hfi2655wyW",
-     "url": "https://x.com/thsottiaux/status/2107548725359104441",
-     "ts": "2026-10-06T19:09:07Z"
-    },
     {
      "text": "No dodge, just three updates today",
      "url": "https://x.com/thsottiaux/status/2107558288934216153",
@@ -254,19 +297,19 @@
      "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
      "url": "https://x.com/thsottiaux/status/2107573405553938664",
      "ts": "2026-10-06T20:47:11Z"
+    },
+    {
+     "text": "Day 2.4/\n\nDecisions API is live. We will use this ourselves to improve the experience for everyone in many fun ways. Realtime general classi",
+     "url": "https://x.com/thsottiaux/status/2107574912349303197",
+     "ts": "2026-10-06T20:53:10Z"
     }
    ]
   },
   {
    "topic": "Models",
-   "posts": 28,
-   "share": 0.173,
+   "posts": 27,
+   "share": 0.169,
    "examples": [
-    {
-     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
-     "url": "https://x.com/thsottiaux/status/2107504197012988007",
-     "ts": "2026-10-06T16:12:10Z"
-    },
     {
      "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
      "url": "https://x.com/thsottiaux/status/2107573405553938664",
@@ -276,19 +319,19 @@
      "text": "Completely unrelated to the rest of the ships today, but our models did solve some important math problems and the team documented it in the",
      "url": "https://x.com/thsottiaux/status/2107597780352950624",
      "ts": "2026-10-06T22:24:02Z"
+    },
+    {
+     "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
+     "url": "https://x.com/thsottiaux/status/2107912709715132482",
+     "ts": "2026-10-07T19:15:27Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
    "posts": 27,
-   "share": 0.167,
+   "share": 0.169,
    "examples": [
-    {
-     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
-     "url": "https://x.com/thsottiaux/status/2107504197012988007",
-     "ts": "2026-10-06T16:12:10Z"
-    },
     {
      "text": "Day 2.4/\n\nDecisions API is live. We will use this ourselves to improve the experience for everyone in many fun ways. Realtime general classi",
      "url": "https://x.com/thsottiaux/status/2107574912349303197",
@@ -298,13 +341,18 @@
      "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also be",
      "url": "https://x.com/thsottiaux/status/2107575657014468879",
      "ts": "2026-10-06T20:56:08Z"
+    },
+    {
+     "text": "@poteto Lines of code as a measure for productivity?",
+     "url": "https://x.com/thsottiaux/status/2107587734810525809",
+     "ts": "2026-10-06T21:44:07Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
-   "posts": 23,
-   "share": 0.142,
+   "posts": 24,
+   "share": 0.15,
    "examples": [
     {
      "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also be",
@@ -325,30 +373,30 @@
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 21,
-   "share": 0.13,
+   "posts": 20,
+   "share": 0.125,
    "examples": [
-    {
-     "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
-     "url": "https://x.com/thsottiaux/status/2107504197012988007",
-     "ts": "2026-10-06T16:12:10Z"
-    },
-    {
-     "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building. https://t.co/hfi2655wyW",
-     "url": "https://x.com/thsottiaux/status/2107548725359104441",
-     "ts": "2026-10-06T19:09:07Z"
-    },
     {
      "text": "Day 2.3/\n\nNever worry about remembering what you were saying with that colleague. Just talk your heart out and build up the context to load ",
      "url": "https://x.com/thsottiaux/status/2107573405553938664",
      "ts": "2026-10-06T20:47:11Z"
+    },
+    {
+     "text": "Day 2.4/\n\nDecisions API is live. We will use this ourselves to improve the experience for everyone in many fun ways. Realtime general classi",
+     "url": "https://x.com/thsottiaux/status/2107574912349303197",
+     "ts": "2026-10-06T20:53:10Z"
+    },
+    {
+     "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also be",
+     "url": "https://x.com/thsottiaux/status/2107575657014468879",
+     "ts": "2026-10-06T20:56:08Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
-   "posts": 10,
-   "share": 0.062,
+   "posts": 11,
+   "share": 0.069,
    "examples": [
     {
      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did c",
@@ -370,7 +418,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 2,
-   "share": 0.012,
+   "share": 0.013,
    "examples": [
     {
      "text": "@theo Nice. Will fix",
@@ -393,16 +441,28 @@
    "total": 15
   },
   {
+   "handle": "poteto",
+   "replies": 3,
+   "named": 5,
+   "total": 8
+  },
+  {
    "handle": "ajambrosino",
    "replies": 3,
    "named": 5,
    "total": 8
   },
   {
-   "handle": "poteto",
-   "replies": 3,
-   "named": 5,
-   "total": 8
+   "handle": "_simonsmith",
+   "replies": 2,
+   "named": 2,
+   "total": 4
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 2,
+   "named": 2,
+   "total": 4
   },
   {
    "handle": "charliermarsh",
@@ -423,37 +483,13 @@
    "total": 4
   },
   {
-   "handle": "StefanoGPT",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
-   "handle": "_simonsmith",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
    "handle": "amorriscode",
    "replies": 1,
    "named": 2,
    "total": 3
   },
   {
-   "handle": "xiangning0",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codeglitch",
+   "handle": "gabrielchua",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -465,7 +501,7 @@
    "total": 2
   },
   {
-   "handle": "koltregaskes",
+   "handle": "rl_env",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -477,7 +513,31 @@
    "total": 2
   },
   {
-   "handle": "rl_env",
+   "handle": "codeglitch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -489,19 +549,13 @@
    "total": 2
   },
   {
+   "handle": "koltregaskes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -519,19 +573,13 @@
    "total": 2
   },
   {
-   "handle": "ZryMiller",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "bot",
    "replies": 0,
    "named": 2,
    "total": 2
   },
   {
-   "handle": "ananyairl",
+   "handle": "littlelion_love",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -548,41 +596,41 @@
    "eod": 4,
    "propagate": 0,
    "propagated": 1,
-   "usage": 6,
+   "usage": 7,
    "limit": 1,
-   "limits": 1,
+   "limits": 2,
    "vote": 3,
-   "day": 25,
+   "day": 24,
    "series": 1
   },
   {
    "week": 1,
    "label": "7天前",
-   "reset": 7,
+   "reset": 6,
    "resets": 2,
    "reseted": 0,
-   "banked": 1,
+   "banked": 0,
    "eod": 0,
    "propagate": 0,
    "propagated": 2,
-   "usage": 11,
+   "usage": 10,
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 10,
+   "day": 11,
    "series": 0
   },
   {
    "week": 2,
    "label": "14天前",
-   "reset": 4,
+   "reset": 5,
    "resets": 1,
    "reseted": 0,
-   "banked": 1,
+   "banked": 2,
    "eod": 1,
    "propagate": 0,
    "propagated": 1,
-   "usage": 1,
+   "usage": 2,
    "limit": 0,
    "limits": 0,
    "vote": 0,
@@ -629,8 +677,8 @@
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 9805,
-   "replies": 2574
+   "likes": 10860,
+   "replies": 2772
   },
   {
    "ts": "2026-10-18 06:23",
