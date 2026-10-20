@@ -4,7 +4,7 @@ Follow [@thsottiaux](https://x.com/thsottiaux) — Tibo, OpenAI's Codex & ChatGP
 
 This repo tracks his public posts and replies, models when the next Codex/ChatGPT usage reset is likely, and turns his replies into a hot-word / topic picture.
 
-Live dashboard: open [site/index.html](site/index.html) after a build (or serve `site/` with any static server).
+Live dashboard: **https://cafedaily.github.io/ohmytibo/** — published by GitHub Pages from `site/` and refreshed by a scheduled Action every 3 hours.
 
 ## What it does
 
