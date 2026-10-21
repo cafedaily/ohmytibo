@@ -471,6 +471,18 @@
    "total": 3
   },
   {
+   "handle": "rl_env",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "koltregaskes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "codeglitch",
    "replies": 1,
    "named": 1,
@@ -483,25 +495,25 @@
    "total": 2
   },
   {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codex_resets",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ai_funss",
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
    "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jkeatn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codex_resets",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -519,25 +531,19 @@
    "total": 2
   },
   {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rl_env",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ai_funss",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -549,25 +555,19 @@
    "total": 2
   },
   {
-   "handle": "charlierguo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "koltregaskes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "LexnLin",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "xiangning0",
+   "handle": "gabrielchua",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charlierguo",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -579,7 +579,7 @@
    "total": 2
   },
   {
-   "handle": "littlelion_love",
+   "handle": "ananyairl",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -677,8 +677,8 @@
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11509,
-   "replies": 2832
+   "likes": 11552,
+   "replies": 2835
   },
   {
    "ts": "2026-10-18 06:23",
@@ -705,21 +705,21 @@
    "ts": "2026-10-15 23:11",
    "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does h",
    "url": "https://x.com/thsottiaux/status/2110750421367287996",
-   "likes": 11033,
-   "replies": 2681
+   "likes": 11044,
+   "replies": 2763
   },
   {
    "ts": "2026-10-15 12:56",
    "text": "Landing within the next 2 hours",
    "url": "https://x.com/thsottiaux/status/2110595554036400151",
-   "likes": 3817,
+   "likes": 3824,
    "replies": 510
   },
   {
    "ts": "2026-10-15 12:55",
    "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
    "url": "https://x.com/thsottiaux/status/2110595484180214059",
-   "likes": 17069,
+   "likes": 17072,
    "replies": 2102
   },
   {

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T14:32:25.567264+00:00",
- "generated_at_local": "2026-10-21 22:32",
+ "generated_at": "2026-10-21T17:11:00.554333+00:00",
+ "generated_at_local": "2026-10-22 01:11",
  "timezone": "UTC+8",
  "posts": 697,
  "replies": 502,
@@ -8,9 +8,9 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-10-21T13:58:59Z",
  "resets_tracked": 31,
- "p_24h": 0.2174,
- "p_48h": 0.4649,
- "modal_reset_at": "2026-10-22T20:32:25.567264+00:00",
+ "p_24h": 0.2266,
+ "p_48h": 0.4711,
+ "modal_reset_at": "2026-10-22T20:11:00.554333+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1792,
@@ -943,8 +943,8 @@
    "date": "2026-10-15",
    "posts": 10,
    "replies": 7,
-   "likes": 48626,
-   "engagement_replies": 7068,
+   "likes": 48652,
+   "engagement_replies": 7150,
    "reset": 1,
    "banked": 0
   },
@@ -952,8 +952,8 @@
    "date": "2026-10-16",
    "posts": 6,
    "replies": 4,
-   "likes": 21524,
-   "engagement_replies": 4503,
+   "likes": 21623,
+   "engagement_replies": 4507,
    "reset": 0,
    "banked": 0
   },
@@ -961,8 +961,8 @@
    "date": "2026-10-17",
    "posts": 14,
    "replies": 12,
-   "likes": 28219,
-   "engagement_replies": 4193,
+   "likes": 28441,
+   "engagement_replies": 4200,
    "reset": 0,
    "banked": 0
   },
@@ -970,7 +970,7 @@
    "date": "2026-10-18",
    "posts": 15,
    "replies": 11,
-   "likes": 39567,
+   "likes": 39569,
    "engagement_replies": 5270,
    "reset": 1,
    "banked": 0
@@ -979,8 +979,8 @@
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 48829,
-   "engagement_replies": 8471,
+   "likes": 48884,
+   "engagement_replies": 8474,
    "reset": 0,
    "banked": 0
   },
@@ -988,8 +988,8 @@
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 18683,
-   "engagement_replies": 5877,
+   "likes": 18757,
+   "engagement_replies": 5882,
    "reset": 1,
    "banked": 0
   },
@@ -997,8 +997,8 @@
    "date": "2026-10-21",
    "posts": 4,
    "replies": 2,
-   "likes": 28634,
-   "engagement_replies": 5307,
+   "likes": 31446,
+   "engagement_replies": 5582,
    "reset": 0,
    "banked": 0
   }
