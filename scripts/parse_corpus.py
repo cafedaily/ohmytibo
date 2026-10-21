@@ -65,8 +65,22 @@ def parse_article(a):
     }
 
 
+def load_existing():
+    if not OUT.exists():
+        return {}
+    rows = {}
+    for line in OUT.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            r = json.loads(line)
+            rows[r["id"]] = r
+    return rows
+
+
 def main():
-    seen = {}
+    # append-only: posts whose day page was not refetched this run (window slid past
+    # it, or the fetch failed) keep their stored record; refetched posts overwrite it
+    seen = load_existing()
+    before = len(seen)
     for fp in sorted(glob.glob(str(DAYS / "*.html"))):
         src = pathlib.Path(fp).read_text(encoding="utf-8", errors="replace")
         for a in ARTICLE.findall(src):
@@ -80,7 +94,9 @@ def main():
         for r in rows:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
     dates = sorted({r["date"] for r in rows})
-    print(f"{len(rows)} posts, {len(dates)} days, {dates[0]} .. {dates[-1]}")
+    if not rows:
+        raise SystemExit("no posts parsed and none stored")
+    print(f"{len(rows)} posts ({len(rows) - before:+d}), {len(dates)} days, {dates[0]} .. {dates[-1]}")
     print(f"-> {OUT}")
 
 

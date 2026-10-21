@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -18,17 +22,30 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Refresh corpus and rebuild dashboard
+      - name: Unit tests
+        run: python -m unittest discover -s tests
+
+      - name: Refresh corpus, alert and rebuild dashboard
+        id: pipeline
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          BARK_URL: ${{ secrets.BARK_URL }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
         run: python scripts/pipeline.py 60
 
+      # commit even when a step failed, so the run log and alert state record it
       - name: Commit changes
+        if: always() && steps.pipeline.outcome != 'skipped'
         run: |
           git config user.name "ohmytibo-bot"
           git config user.email "ohmytibo-bot@users.noreply.github.com"
-          git add data/processed site
+          git add data/processed data/state site
           if git diff --cached --quiet; then
             echo "no changes"
           else
             git commit -m "refresh: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin main
             git push
           fi

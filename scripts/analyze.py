@@ -265,6 +265,101 @@ def weekly_rollup(curve):
     return [{"date": d, "p": round(min(1.0, v), 4)} for d, v in sorted(out.items())]
 
 
+# ---------------------------------------------------------------- reset signals
+
+SIGNAL_LABELS = {
+    "announce": "公告", "related": "相关", "reset_post": "重置帖",
+    "talk": "重置话题", "note": "镜像备注", "mention": "提到重置",
+}
+SIGNAL_RANK = ["announce", "related", "reset_post", "talk", "note", "mention"]
+RESET_WORD = re.compile(r"\breset", re.I)
+
+
+def signals(posts, events, days=14, baseline_days=28, now=None):
+    """Reset chatter that is not itself a verified reset.
+
+    Sources: the mirror feed's announce / related / note entries, posts the mirror
+    tags "Reset" or "Reset talk", and untagged posts that say "reset". Shown next
+    to the forecast as a radar; the hazard model does not read them.
+    """
+    ref = now or NOW
+    window_start = ref - dt.timedelta(days=days)
+    base_start = ref - dt.timedelta(days=days + baseline_days)
+    verified = {e["id"] for e in events if e["kind"] in ("reset", "banked") and e.get("id")}
+    resets = reset_times(events)
+    last = resets[-1] if resets else None
+    found = {}
+
+    def add(key, ts, kind, text, url, source, prefer_text=False):
+        t = parse_ts(ts)
+        if key in verified or t < base_start or t > ref:
+            return
+        cur = found.get(key)
+        if cur is None:
+            found[key] = {"id": key, "t": t, "kind": kind, "text": text, "url": url, "sources": [source]}
+            return
+        if SIGNAL_RANK.index(kind) < SIGNAL_RANK.index(cur["kind"]):
+            cur["kind"] = kind
+        if prefer_text and text:
+            cur["text"], cur["url"] = text, url or cur["url"]
+        if source not in cur["sources"]:
+            cur["sources"].append(source)
+
+    for e in events:
+        if e["kind"] in ("announce", "related", "note"):
+            add(e.get("id") or e["ts"], e["ts"], e["kind"], e["title"],
+                e.get("url") or e.get("mirror_url", ""), "feed")
+    for p in posts:
+        if p.get("pill_kind") == "reset":
+            kind = "reset_post"
+        elif p.get("pill_kind") == "codex":
+            kind = "talk"
+        elif RESET_WORD.search(p["text"]):
+            kind = "mention"
+        else:
+            continue
+        add(p["id"], p["ts"], kind, p["text"], p["url"], "page", prefer_text=True)
+
+    rows = sorted(found.values(), key=lambda r: r["t"], reverse=True)
+    recent = [r for r in rows if r["t"] >= window_start]
+    in_base = sum(1 for r in rows if r["t"] < window_start)
+    base_per_day = in_base / baseline_days
+
+    def count(hours):
+        return sum(1 for r in recent if (ref - r["t"]).total_seconds() <= hours * 3600)
+
+    c24 = count(24)
+    if c24 >= max(3, 2 * base_per_day):
+        level = "high"
+    elif c24 >= max(1, base_per_day):
+        level = "elevated"
+    else:
+        level = "quiet"
+    items = [{
+        "id": r["id"],
+        "ts": r["t"].isoformat(),
+        "ts_local": local(r["t"]).strftime("%Y-%m-%d %H:%M"),
+        "kind": r["kind"],
+        "label": SIGNAL_LABELS[r["kind"]],
+        "text": r["text"] if len(r["text"]) <= 240 else r["text"][:239].rstrip() + "…",
+        "url": r["url"],
+        "sources": r["sources"],
+        "forward": bool(PROMISE_RE.search(r["text"])),
+        "after_last_reset": bool(last and r["t"] > last),
+        "age_hours": round((ref - r["t"]).total_seconds() / 3600, 1),
+    } for r in recent]
+    return {
+        "window_days": days,
+        "count_24h": c24,
+        "count_72h": count(72),
+        "count_7d": count(24 * 7),
+        "since_last_reset": sum(1 for i in items if i["after_last_reset"]),
+        "baseline_per_day": round(base_per_day, 2),
+        "level": level,
+        "items": items[:40],
+    }
+
+
 # ---------------------------------------------------------------- backtest
 
 def backtest(resets, posts, days=45):
@@ -443,7 +538,7 @@ def topics(posts, days=14):
     return out
 
 
-def daily_series(posts, resets):
+def daily_series(posts, resets, banked=()):
     per = defaultdict(lambda: {"posts": 0, "replies": 0, "likes": 0, "replies_received": 0})
     for p in posts:
         d = per[local(p["ts"]).date().isoformat()]
@@ -454,10 +549,11 @@ def daily_series(posts, resets):
     counts = Counter(local(p["ts"]).date().isoformat() for p in posts)
     reply_counts = Counter(local(p["ts"]).date().isoformat() for p in posts if p["is_reply"])
     reset_days = Counter(local(t).date().isoformat() for t in resets)
+    banked_days = Counter(local(e["ts"]).date().isoformat() for e in banked)
     days = sorted(counts)
     return [{"date": d, "posts": counts[d], "replies": reply_counts[d],
              "likes": per[d]["likes"], "engagement_replies": per[d]["replies_received"],
-             "reset": reset_days.get(d, 0)} for d in days]
+             "reset": reset_days.get(d, 0), "banked": banked_days.get(d, 0)} for d in days]
 
 
 def main():
@@ -468,6 +564,7 @@ def main():
     fc = forecast(resets, posts)
     fc["weekly"] = weekly_rollup(fc["curve"])
     fc["backtest"] = backtest(resets, posts)
+    fc["signals"] = signals(posts, events)
     (PROC / "forecast.json").write_text(json.dumps(fc, ensure_ascii=False, indent=1), encoding="utf-8")
 
     hw = hotwords(posts)
@@ -494,11 +591,15 @@ def main():
         "top_terms": hw["top"][:12],
         "surge_terms": hw["surge"][:12],
         "topics": hw["topics"],
-        "daily": daily_series(posts, resets),
+        "banked_tracked": sum(1 for e in events if e["kind"] == "banked"),
+        "daily": daily_series(posts, resets, [e for e in events if e["kind"] == "banked"]),
     }
     (PROC / "metrics.json").write_text(json.dumps(summary, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"p24={fc['p_24h']:.2f} p48={fc['p_48h']:.2f} modal={fc['modal_reset_at']}")
     print(f"backtest={fc['backtest']}")
+    sg = fc["signals"]
+    print(f"signals: 24h={sg['count_24h']} 72h={sg['count_72h']} level={sg['level']} "
+          f"since_last_reset={sg['since_last_reset']}")
     print(f"top: {[t['term'] for t in hw['top'][:12]]}")
     print(f"surge: {[t['term'] for t in hw['surge'][:12]]}")
 

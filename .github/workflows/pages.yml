@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
     paths: [site/**]
+  # pushes made with GITHUB_TOKEN (the refresh bot) do not trigger push workflows,
+  # so redeploy whenever a refresh run finishes
+  workflow_run:
+    workflows: [refresh]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -23,6 +28,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

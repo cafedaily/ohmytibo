@@ -4,9 +4,12 @@ import html
 import json
 import pathlib
 
+import state
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROC = ROOT / "data" / "processed"
 SITE = ROOT / "site"
+REFRESH_MINUTES = 180  # cadence of .github/workflows/refresh.yml; drives the freshness light
 
 PAL = {
     "surface": "#1a1a19",
@@ -114,7 +117,7 @@ TEMPLATE = r"""<!doctype html>
   --plane:#0d0d0d;
   --ink:#f0efec; --ink2:#c3c2b7; --muted:#898781;
   --grid:#2c2c2a; --axis:#383835;
-  --s1:#3987e5; --s2:#d95926; --good:#0ca30c; --warn:#fab219;
+  --s1:#3987e5; --s2:#d95926; --good:#0ca30c; --warn:#fab219; --bad:#e5484d;
   --ring:rgba(255,255,255,.10);
 }
 *{box-sizing:border-box}
@@ -143,15 +146,18 @@ header{display:flex;gap:22px;align-items:flex-end;justify-content:space-between;
 .pulse::after{content:"";position:absolute;inset:-4px;border-radius:50%;border:1px solid var(--good);
   opacity:.5;animation:pulse 2.4s ease-out infinite}
 @keyframes pulse{0%{transform:scale(.6);opacity:.6}100%{transform:scale(1.9);opacity:0}}
+.pulse.warn{background:var(--warn)}.pulse.warn::after{border-color:var(--warn)}
+.pulse.bad{background:var(--bad)}.pulse.bad::after{border-color:var(--bad)}
 .clock{font-variant-numeric:tabular-nums;letter-spacing:.04em}
 
 .grid{display:grid;gap:16px}
 .card{background:var(--surface);border:1px solid var(--ring);border-radius:18px;padding:20px;
   backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
-  box-shadow:0 18px 50px -30px rgba(0,0,0,.9), inset 0 1px 0 rgba(255,255,255,.035)}
+  box-shadow:0 18px 50px -30px rgba(0,0,0,.9), inset 0 1px 0 rgba(255,255,255,.035);
+  min-width:0;overflow-x:auto}
 .card h2{font-size:14.5px;margin:0 0 3px;font-weight:620;letter-spacing:.01em}
 .card .note{color:var(--muted);font-size:12.5px;margin:0 0 14px}
-.hero{display:grid;grid-template-columns:200px 1fr;gap:26px;align-items:center;padding:24px}
+.hero{display:grid;grid-template-columns:200px 1fr;gap:26px;align-items:center;padding:24px;margin-bottom:16px}
 @media (max-width:700px){.hero{grid-template-columns:1fr;justify-items:start}}
 .ring{position:relative;width:190px;height:190px;flex:none}
 .ring svg{width:190px;height:190px;transform:rotate(-90deg);overflow:visible}
@@ -222,6 +228,40 @@ ol.posts .txt{display:block;color:var(--ink);margin-top:3px}
   box-shadow:0 10px 30px -12px #000}
 footer{color:var(--muted);font-size:12px;margin-top:30px;line-height:1.8}
 footer a{color:var(--ink2)}
+.promise{margin:14px 0 0;font-size:12.5px;color:var(--ink2);border-left:2px solid var(--warn);padding:2px 0 2px 10px}
+.promise a{color:var(--warn);text-decoration:none}
+.sig-head{display:flex;gap:10px 22px;flex-wrap:wrap;align-items:center;margin:0 0 6px}
+.level{display:inline-flex;align-items:center;gap:7px;border-radius:999px;padding:4px 12px;font-size:12.5px;
+  border:1px solid var(--ring);background:rgba(255,255,255,.04)}
+.level i{width:7px;height:7px;border-radius:50%;background:var(--muted)}
+.level.elevated i{background:var(--warn)}.level.high i{background:var(--bad)}
+.sig-n{font-size:12.5px;color:var(--muted)}
+.sig-n b{color:var(--ink);font-size:17px;font-weight:620;font-variant-numeric:tabular-nums;margin-right:3px}
+.sig-list{list-style:none;margin:6px 0 0;padding:0}
+.sig-list li{display:grid;grid-template-columns:96px 1fr;gap:4px 14px;padding:10px 0;border-bottom:1px solid var(--grid);
+  animation:fade .5s ease both;animation-delay:calc(var(--i,0)*30ms)}
+.sig-list li.before{opacity:.5}
+.sig-list time{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums;padding-top:2px}
+.sig-list .txt{color:var(--ink);font-size:13px;overflow-wrap:anywhere}
+.sig-list .txt a{color:var(--s1);text-decoration:none;margin-left:4px}
+.sig-tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px}
+.badge{font-size:11px;line-height:1.6;padding:0 7px;border-radius:999px;border:1px solid var(--ring);color:var(--ink2)}
+.badge.k-announce,.badge.k-related{color:#9cc4f4;border-color:rgba(57,135,229,.5)}
+.badge.k-reset_post{color:#7fd17f;border-color:rgba(12,163,12,.55)}
+.badge.fwd{color:var(--warn);border-color:rgba(250,178,25,.5)}
+.badge.after{color:var(--ink);border-color:rgba(240,239,236,.35)}
+@media (max-width:560px){.sig-list li{grid-template-columns:1fr}}
+.st-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.st{border:1px solid var(--ring);border-radius:12px;padding:12px 14px;background:rgba(255,255,255,.02)}
+.st.warn{border-color:rgba(250,178,25,.5)}.st.bad{border-color:rgba(229,72,77,.6)}
+.st .k{color:var(--muted);font-size:12px;margin:0;display:flex;align-items:center;gap:7px}
+.st .k i{width:7px;height:7px;border-radius:50%;background:var(--good)}
+.st.warn .k i{background:var(--warn)}.st.bad .k i{background:var(--bad)}
+.st .v{font-size:15px;font-weight:600;margin:5px 0 0}
+.st .d{color:var(--muted);font-size:12px;margin-top:4px;line-height:1.5;overflow-wrap:anywhere}
+.runs{display:flex;gap:3px;align-items:flex-end;height:26px;margin-top:8px}
+.runs span{flex:1;max-width:12px;border-radius:2px;background:var(--good);min-height:6px}
+.runs span.bad{background:var(--bad)}.runs span.warn{background:var(--warn)}
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important}
   .reveal{opacity:1;transform:none}
@@ -240,7 +280,7 @@ footer a{color:var(--ink2)}
     <p class="tagline"><b>@thsottiaux</b> · OpenAI Codex &amp; ChatGPT · 公开推文 {POSTS} 条 / {DAYS} 天 · 全部时间为北京时间</p>
   </div>
   <div class="live">
-    <div class="chip"><span class="pulse"></span>数据更新于 <span id="updated">{GENERATED}</span></div>
+    <div class="chip" id="freshChip"><span class="pulse" id="freshDot"></span><span id="freshLabel">数据更新于</span> <span id="updated">{GENERATED}</span></div>
     <div class="clock" id="clock">--:--:-- 北京时间</div>
   </div>
 </header>
@@ -272,6 +312,7 @@ footer a{color:var(--ink2)}
       <span>距概率峰值 <span class="t" id="countdown">--:--:--</span></span>
       <span class="sub" id="peakAt">—</span>
     </div>
+    <p class="promise" id="promise" hidden></p>
   </div>
 </section>
 
@@ -285,6 +326,15 @@ footer a{color:var(--ink2)}
   <div class="card stat reveal"><p class="k">样本内重置次数</p><div class="v" id="resetCount">—</div>
     <div class="d">来自独立追踪器的已核实全局重置</div></div>
 </div>
+
+<section class="card reveal" style="margin-bottom:16px" aria-labelledby="sig-h">
+  <h2 id="sig-h">重置信号雷达</h2>
+  <p class="note">最近提到重置的发言：镜像 feed 的公告 / 相关 / 备注条目，加上镜像标为 Reset、Reset talk 的帖子。
+  与已验证重置分开列出，不计入概率模型。</p>
+  <div class="sig-head" id="sigHead"></div>
+  <ol class="sig-list" id="sigList"></ol>
+  <details id="sigMore" hidden><summary>更早的信号</summary><ol class="sig-list" id="sigOlder"></ol></details>
+</section>
 
 <section class="card reveal" style="margin-bottom:16px">
   <h2>预测是怎么算出来的</h2>
@@ -304,12 +354,12 @@ footer a{color:var(--ink2)}
 
   <section class="card reveal">
     <h2>每日发帖节奏与重置标记</h2>
-    <p class="note">按北京时间切分 · 轴下绿点 = 当日有全局重置 · 点击图例可隐藏对应系列</p>
+    <p class="note">按北京时间切分 · 轴下绿点 = 当日有全局重置，黄圈 = 当日有 banked 发放 · 点击图例可隐藏对应系列</p>
     <div class="tools">
       <div class="seg" id="rangeSeg" role="group" aria-label="时间范围">
         <button data-range="14" aria-pressed="false">14 天</button>
         <button data-range="30" aria-pressed="false">30 天</button>
-        <button data-range="60" aria-pressed="true">全部</button>
+        <button data-range="60" aria-pressed="true">60 天</button>
       </div>
     </div>
     <div id="dailyChart"></div>
@@ -317,6 +367,7 @@ footer a{color:var(--ink2)}
       <span data-series="orig"><i class="sw" style="background:#3987e5"></i>原创帖</span>
       <span data-series="reps"><i class="sw" style="background:#d95926"></i>回复</span>
       <span><i class="sw" style="background:#0ca30c;border-radius:50%"></i>重置日</span>
+      <span><i class="sw" style="border:1.5px solid #fab219;border-radius:50%"></i>banked 发放</span>
     </div>
     <details><summary>表格视图（最近 10 天）</summary>{DAILY_TABLE}</details>
   </section>
@@ -360,6 +411,12 @@ footer a{color:var(--ink2)}
   </section>
 </div>
 
+<section class="card reveal" style="margin-top:16px" aria-labelledby="st-h">
+  <h2 id="st-h">监测状态</h2>
+  <p class="note">定时任务每 {REFRESH_HOURS} 小时抓取一次镜像与 feed，重算预测并推送告警 · 北京时间</p>
+  <div class="st-grid" id="statusGrid"></div>
+</section>
+
 <footer>
   数据来源：<a href="https://tiboreset.com/X-posts" target="_blank" rel="noopener">tiboreset.com</a>（推文镜像）与
   <a href="https://tiboreset.com/feed.xml" target="_blank" rel="noopener">其 Atom feed</a>（重置事件）。
@@ -373,8 +430,8 @@ footer a{color:var(--ink2)}
 <script id="payload" type="application/json">{PAYLOAD}</script>
 <script>
 (() => {
-  const PAL = {s1:'#3987e5', s2:'#d95926', good:'#0ca30c', grid:'#2c2c2a', axis:'#383835',
-               muted:'#898781', ink:'#f0efec', ink2:'#c3c2b7'};
+  const PAL = {s1:'#3987e5', s2:'#d95926', good:'#0ca30c', warn:'#fab219', grid:'#2c2c2a', axis:'#383835',
+               muted:'#898781', ink:'#f0efec', ink2:'#c3c2b7', solid:'#1a1a19'};
   let DATA = JSON.parse(document.getElementById('payload').textContent);
   const $ = (s, r = document) => r.querySelector(s);
   const bj = (iso, opts) => new Intl.DateTimeFormat('zh-CN', Object.assign(
@@ -472,7 +529,8 @@ footer a{color:var(--ink2)}
       const orig = r.posts - r.replies, reps = r.replies;
       const ho = orig ? ph * orig / top : 0, hr = reps ? ph * reps / top : 0;
       const yr = mt + ph - hr, yo = yr - ho - (orig && reps ? 2 : 0);
-      const tipText = r.date + ' · 原创 ' + orig + ' · 回复 ' + reps + (r.reset ? ' · 重置日' : '');
+      const tipText = r.date + ' · 原创 ' + orig + ' · 回复 ' + reps + (r.reset ? ' · 重置日' : '') +
+                      (r.banked ? ' · banked 发放' : '');
       s += '<g class="col" tabindex="0" style="--i:' + Math.min(i, 40) + '" data-tip="' + tipText + '">' +
            '<rect x="' + f1(x - 1) + '" y="' + mt + '" width="' + f1(bw + 2) + '" height="' + ph + '" fill="transparent"/>';
       if (reps && !hidden.has('reps'))
@@ -484,6 +542,9 @@ footer a{color:var(--ink2)}
       if (r.reset)
         s += '<circle cx="' + f1(x + bw / 2) + '" cy="' + (mt + ph + 11) + '" r="4" fill="' + PAL.good +
              '" stroke="' + PAL.solid + '" stroke-width="2"/>';
+      if (r.banked)
+        s += '<circle cx="' + f1(x + bw / 2) + '" cy="' + (mt + ph + 11) + '" r="6.5" fill="none" stroke="' + PAL.warn +
+             '" stroke-width="1.5"/>';
       s += '</g>';
     });
     const every = Math.max(1, Math.ceil(n / 8));
@@ -525,6 +586,127 @@ footer a{color:var(--ink2)}
     $('#hotHint').textContent = hotMode === 'top'
       ? '最近 7 天词频排名'
       : '相对前 28 天的异常抬升，越小众的抬升越靠前';
+  }
+
+  /* ---------------------------------------------------------------- signals + status */
+  function el(tag, attrs, ...kids) {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs || {})) {
+      if (v == null || v === false) continue;
+      if (k === 'class') n.className = v; else if (k === 'style') n.style.cssText = v; else n.setAttribute(k, v);
+    }
+    kids.flat().forEach(c => { if (c != null && c !== false) n.append(c.nodeType ? c : String(c)); });
+    return n;
+  }
+  const LEVEL = {quiet: '安静', elevated: '活跃', high: '密集'};
+  const ago = h => h < 1 ? Math.max(1, Math.round(h * 60)) + ' 分钟前' : h < 48 ? h.toFixed(h < 10 ? 1 : 0) + ' 小时前'
+                                                                       : Math.round(h / 24) + ' 天前';
+  const sinceH = iso => (Date.now() - new Date(iso).getTime()) / 3.6e6;
+
+  function sigItem(it, i) {
+    const tags = el('div', {class: 'sig-tags'},
+      el('span', {class: 'badge k-' + it.kind}, it.label),
+      it.forward ? el('span', {class: 'badge fwd'}, '前瞻') : null,
+      it.after_last_reset ? el('span', {class: 'badge after'}, '上次重置后') : null);
+    const link = /^https?:\/\//.test(it.url || '')
+      ? el('a', {href: it.url, target: '_blank', rel: 'noopener', 'aria-label': '打开原帖'}, '↗') : null;
+    return el('li', {class: it.after_last_reset ? '' : 'before', style: '--i:' + Math.min(i, 12)},
+      el('time', {datetime: it.ts, title: ago(sinceH(it.ts))}, it.ts_local.slice(5)),
+      el('div', {}, tags, el('div', {class: 'txt'}, it.text, link)));
+  }
+
+  function renderSignals(sg) {
+    const head = $('#sigHead'), list = $('#sigList'), older = $('#sigOlder');
+    head.replaceChildren(); list.replaceChildren(); older.replaceChildren();
+    if (!sg) { list.append(el('li', {}, '暂无数据')); return; }
+    const n = (v, label) => el('span', {class: 'sig-n'}, el('b', {}, v), label);
+    head.append(
+      el('span', {class: 'level ' + sg.level, title: '近 24 小时信号数相对前 28 天日均 ' + sg.baseline_per_day + ' 条'},
+         el('i'), '近 24 小时 · ' + (LEVEL[sg.level] || sg.level)),
+      n(sg.count_24h, '24 小时'), n(sg.count_72h, '72 小时'), n(sg.count_7d, '7 天'),
+      n(sg.since_last_reset, '上次重置后'));
+    const items = sg.items || [];
+    const week = items.filter(it => sinceH(it.ts) <= 24 * 7);
+    const shown = (week.length ? week : items).slice(0, 12);
+    if (!shown.length) list.append(el('li', {}, el('time'), el('div', {class: 'txt'}, '最近没有提到重置的发言')));
+    shown.forEach((it, i) => list.append(sigItem(it, i)));
+    const rest = items.slice(shown.length);
+    $('#sigMore').hidden = !rest.length;
+    rest.forEach((it, i) => older.append(sigItem(it, i)));
+  }
+
+  function stCard(level, key, value, ...detail) {
+    return el('div', {class: 'st ' + (level || '')},
+      el('p', {class: 'k'}, el('i'), key), el('div', {class: 'v'}, value),
+      ...detail.filter(Boolean).map(d => el('div', {class: 'd'}, d)));
+  }
+
+  function freshness() {
+    const age = sinceH(DATA.generated_at) * 60, cad = (DATA.status && DATA.status.refresh_minutes) || 180;
+    return {age, level: age <= cad * 1.5 ? '' : age <= cad * 3 ? 'warn' : 'bad'};
+  }
+
+  function paintFreshness() {
+    const f = freshness();
+    $('#freshDot').className = 'pulse ' + f.level;
+    $('#freshLabel').textContent = f.level === 'bad' ? '数据可能已过期 · 更新于' : '数据更新于';
+    $('#freshChip').title = '页面数据生成于 ' + ago(f.age / 60);
+  }
+
+  function renderStatus(st) {
+    const grid = $('#statusGrid');
+    grid.replaceChildren();
+    st = st || {};
+    const h = st.health || {}, al = st.alerts || {}, runs = st.runs || [];
+    const f = freshness();
+    grid.append(stCard(f.level, '页面数据', ago(f.age / 60), '生成于 ' + (DATA.generated_local || '—')));
+    const feed = h.feed;
+    if (feed) {
+      const lvl = feed.ok ? '' : feed.consecutive_failures >= 3 ? 'bad' : 'warn';
+      grid.append(stCard(lvl, '重置 feed', feed.ok ? '正常' : '抓取失败 ×' + feed.consecutive_failures,
+        'feed ' + feed.entries + ' 条 · 本次新增 ' + feed.new + ' · 累计 ' + (feed.total ?? '—') + ' 条',
+        feed.last_ok ? '上次成功 ' + bj(feed.last_ok) : '尚无成功记录',
+        feed.ok ? null : feed.error));
+    }
+    const cp = h.corpus;
+    if (cp) {
+      const lvl = cp.ok ? '' : cp.consecutive_failures >= 3 ? 'bad' : 'warn';
+      grid.append(stCard(lvl || (cp.failed ? 'warn' : ''), '推文镜像',
+        cp.ok ? (cp.failed ? '正常（' + cp.failed + ' 天失败）' : '正常') : cp.failed + ' 天抓取失败',
+        '本次抓取 ' + cp.fetched + ' 天 · 缓存 ' + cp.cached + ' · 空页 ' + cp.empty,
+        cp.failed_days && cp.failed_days.length ? '失败：' + cp.failed_days.join('、') : null,
+        cp.last_ok ? '上次成功 ' + bj(cp.last_ok) : null));
+    }
+    if (al.checked_at) {
+      grid.append(al.configured
+        ? stCard(al.undelivered_7d ? 'warn' : '', '告警推送', al.channels.join(' · '),
+            al.last_sent ? '上次送达：' + al.last_sent.title + ' · ' + bj(al.last_sent.created_at) : '尚未触发告警',
+            al.pending ? al.pending + ' 条待重试' : null,
+            al.undelivered_7d ? '近 7 天 ' + al.undelivered_7d + ' 条未送达' : null)
+        : stCard('warn', '告警推送', '告警通道未配置',
+            '检测结果只写入日志，不会推送，也不会记为已发送。',
+            al.pending ? al.pending + ' 条告警等待通道（12 小时内配置会补发）' : null,
+            '在仓库 Secrets 中设置 TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID、DISCORD_WEBHOOK_URL、BARK_URL 或 ALERT_WEBHOOK_URL 之一。'));
+    }
+    if (runs.length) {
+      const last = runs[runs.length - 1];
+      const bad = runs.filter(r => !r.ok).length;
+      const bars = el('div', {class: 'runs', 'aria-hidden': 'true'},
+        runs.map(r => el('span', {class: !r.ok ? 'bad' : (r.warnings || []).length ? 'warn' : '',
+                                  style: 'height:' + Math.max(25, Math.min(100, (r.seconds || 0) / 1.8)) + '%',
+                                  title: bj(r.at) + ' · ' + (r.ok ? '成功' : '失败') + ' · ' + r.seconds + ' 秒'})));
+      grid.append(stCard(bad ? (last.ok ? 'warn' : 'bad') : '', '最近运行',
+        (last.ok ? '成功' : '失败：' + last.failed.join(', ')) + ' · ' + last.seconds + ' 秒',
+        '近 ' + runs.length + ' 次中失败 ' + bad + ' 次 · 最近一次 ' + bj(last.at), bars));
+    }
+  }
+
+  function paintPromise(fc) {
+    const p = fc.pending_promise, box = $('#promise');
+    box.hidden = !p;
+    if (!p) return;
+    box.replaceChildren('未兑现的重置承诺（' + bj(p.ts) + '）：', p.text + ' ',
+      el('a', {href: 'https://x.com/thsottiaux/status/' + p.id, target: '_blank', rel: 'noopener'}, '原帖 ↗'));
   }
 
   /* ---------------------------------------------------------------- numbers */
@@ -578,6 +760,10 @@ footer a{color:var(--ink2)}
     renderForecast(fc);
     renderDailyRange();
     renderHot();
+    renderSignals(DATA.signals);
+    renderStatus(DATA.status);
+    paintPromise(fc);
+    paintFreshness();
     startCountdown();
   }
 
@@ -658,6 +844,7 @@ footer a{color:var(--ink2)}
   paint(true);
   clockTick();
   setInterval(clockTick, 1000);
+  setInterval(paintFreshness, 60 * 1000);
   setInterval(() => refresh(), 10 * 60 * 1000);
   document.addEventListener('visibilitychange', () => { if (!document.hidden) refresh(); });
 })();
@@ -766,6 +953,14 @@ init();
 """
 
 
+def status_block():
+    health = state.load_json(state.HEALTH, {})
+    alerts = state.load_json(state.STATE / "alerts.json", {}).get("summary") or {}
+    runs = [{k: r.get(k) for k in ("at", "seconds", "ok", "failed", "warnings")}
+            for r in state.recent_runs(n=16)]
+    return {"refresh_minutes": REFRESH_MINUTES, "health": health, "alerts": alerts, "runs": runs}
+
+
 def build():
     fc = load("forecast.json")
     hw = load("hotwords.json")
@@ -778,9 +973,11 @@ def build():
             "p_24h", "p_48h", "p_72h", "p_7d", "last_reset", "last_reset_local",
             "modal_reset_at", "modal_reset_local", "hours_since_last_reset",
             "reset_count", "mean_gap_days", "median_gap_days", "recent_mean_gap_days",
-            "backtest", "weekly")},
+            "backtest", "weekly", "pending_promise")},
         "daily": metrics["daily"],
         "hot": {"top": hw["top"][:20], "surge": hw["surge"][:20]},
+        "signals": fc.get("signals"),
+        "status": status_block(),
     }
 
     page = TEMPLATE
@@ -788,6 +985,7 @@ def build():
         "POSTS": f"{metrics['posts']:,}",
         "DAYS": str(metrics["days_covered"]),
         "GENERATED": metrics["generated_at_local"],
+        "REFRESH_HOURS": f"{REFRESH_MINUTES / 60:g}",
         "FORECAST_ROWS": forecast_rows(fc),
         "DAILY_TABLE": daily_table(metrics),
         "SURGE_TABLE": surge_table(hw),
