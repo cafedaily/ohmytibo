@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-21T11:46:31.850029+00:00",
- "generated_at_local": "2026-10-21 19:46",
+ "generated_at": "2026-10-21T14:32:25.567264+00:00",
+ "generated_at_local": "2026-10-21 22:32",
  "timezone": "UTC+8",
- "posts": 696,
- "replies": 501,
+ "posts": 697,
+ "replies": 502,
  "days_covered": 61,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-10-21T06:49:29Z",
+ "last_post": "2026-10-21T13:58:59Z",
  "resets_tracked": 31,
- "p_24h": 0.23,
- "p_48h": 0.4734,
- "modal_reset_at": "2026-10-22T20:46:31.850029+00:00",
+ "p_24h": 0.2174,
+ "p_48h": 0.4649,
+ "modal_reset_at": "2026-10-22T20:32:25.567264+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1792,
@@ -64,7 +64,7 @@
    "count_28d_before": 1,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -76,7 +76,7 @@
    "count_28d_before": 18,
    "lift": 0.55,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
@@ -86,9 +86,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 20,
-   "lift": 0.43,
+   "lift": 0.42,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -162,7 +162,7 @@
    "count_28d_before": 1,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -270,7 +270,7 @@
    "count_28d_before": 18,
    "lift": 0.55,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
@@ -280,9 +280,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 20,
-   "lift": 0.43,
+   "lift": 0.42,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -304,7 +304,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 34,
-   "share": 0.26,
+   "share": 0.258,
    "examples": [
     {
      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
@@ -326,7 +326,7 @@
   {
    "topic": "Models",
    "posts": 25,
-   "share": 0.191,
+   "share": 0.189,
    "examples": [
     {
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
@@ -348,7 +348,7 @@
   {
    "topic": "Reset / quota",
    "posts": 21,
-   "share": 0.16,
+   "share": 0.159,
    "examples": [
     {
      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
@@ -370,7 +370,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 21,
-   "share": 0.16,
+   "share": 0.159,
    "examples": [
     {
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
@@ -392,7 +392,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 18,
-   "share": 0.137,
+   "share": 0.136,
    "examples": [
     {
      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
@@ -414,7 +414,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 11,
-   "share": 0.084,
+   "share": 0.083,
    "examples": [
     {
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
@@ -988,17 +988,17 @@
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 18630,
-   "engagement_replies": 5867,
+   "likes": 18683,
+   "engagement_replies": 5877,
    "reset": 1,
    "banked": 0
   },
   {
    "date": "2026-10-21",
-   "posts": 3,
-   "replies": 1,
-   "likes": 26401,
-   "engagement_replies": 5009,
+   "posts": 4,
+   "replies": 2,
+   "likes": 28634,
+   "engagement_replies": 5307,
    "reset": 0,
    "banked": 0
   }

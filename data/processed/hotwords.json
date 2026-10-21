@@ -8,7 +8,7 @@
    "count_28d_before": 1,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -116,7 +116,7 @@
    "count_28d_before": 18,
    "lift": 0.55,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
@@ -126,9 +126,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 20,
-   "lift": 0.43,
+   "lift": 0.42,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -190,7 +190,7 @@
    "count_28d_before": 1,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -202,7 +202,7 @@
    "count_28d_before": 18,
    "lift": 0.55,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
@@ -212,9 +212,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 20,
-   "lift": 0.43,
+   "lift": 0.42,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
    "sample_url": "https://x.com/thsottiaux/status/2111244596131111253",
    "sample_ts": "2026-10-16T23:55:11Z"
@@ -280,13 +280,13 @@
    "sample_ts": "2026-10-16T23:57:00Z"
   }
  ],
- "tokens_recent": 536,
+ "tokens_recent": 537,
  "tokens_base": 3764,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 34,
-   "share": 0.26,
+   "share": 0.258,
    "examples": [
     {
      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
@@ -308,7 +308,7 @@
   {
    "topic": "Models",
    "posts": 25,
-   "share": 0.191,
+   "share": 0.189,
    "examples": [
     {
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
@@ -330,7 +330,7 @@
   {
    "topic": "Reset / quota",
    "posts": 21,
-   "share": 0.16,
+   "share": 0.159,
    "examples": [
     {
      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
@@ -352,7 +352,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 21,
-   "share": 0.16,
+   "share": 0.159,
    "examples": [
     {
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
@@ -374,7 +374,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 18,
-   "share": 0.137,
+   "share": 0.136,
    "examples": [
     {
      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGP",
@@ -396,7 +396,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 11,
-   "share": 0.084,
+   "share": 0.083,
    "examples": [
     {
      "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming togeth",
@@ -441,25 +441,25 @@
    "total": 16
   },
   {
-   "handle": "poteto",
-   "replies": 3,
-   "named": 5,
-   "total": 8
-  },
-  {
    "handle": "ajambrosino",
    "replies": 3,
    "named": 5,
    "total": 8
   },
   {
-   "handle": "steipete",
+   "handle": "poteto",
+   "replies": 3,
+   "named": 5,
+   "total": 8
+  },
+  {
+   "handle": "_simonsmith",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "_simonsmith",
+   "handle": "steipete",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -471,43 +471,31 @@
    "total": 3
   },
   {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "koltregaskes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rl_env",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "codeglitch",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "xiangning0",
+   "handle": "maria_rcks",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "maria_rcks",
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codex_resets",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ai_funss",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -525,7 +513,7 @@
    "total": 2
   },
   {
-   "handle": "ai_funss",
+   "handle": "jxnlco",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -537,13 +525,7 @@
    "total": 2
   },
   {
-   "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
+   "handle": "rl_env",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -555,19 +537,37 @@
    "total": 2
   },
   {
-   "handle": "codex_resets",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "StefanoGPT",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "koltregaskes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -677,8 +677,8 @@
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11464,
-   "replies": 2823
+   "likes": 11509,
+   "replies": 2832
   },
   {
    "ts": "2026-10-18 06:23",
