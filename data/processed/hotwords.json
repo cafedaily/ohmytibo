@@ -441,25 +441,25 @@
    "total": 16
   },
   {
-   "handle": "poteto",
-   "replies": 3,
-   "named": 5,
-   "total": 8
-  },
-  {
    "handle": "ajambrosino",
    "replies": 3,
    "named": 5,
    "total": 8
   },
   {
-   "handle": "steipete",
+   "handle": "poteto",
+   "replies": 3,
+   "named": 5,
+   "total": 8
+  },
+  {
+   "handle": "_simonsmith",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "_simonsmith",
+   "handle": "steipete",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -477,19 +477,31 @@
    "total": 2
   },
   {
-   "handle": "jxnlco",
+   "handle": "LexnLin",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "JamesStewau0y5",
+   "handle": "charlierguo",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
    "handle": "rl_env",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -507,49 +519,7 @@
    "total": 2
   },
   {
-   "handle": "codex_resets",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "koltregaskes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ZryMiller",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -567,7 +537,37 @@
    "total": 2
   },
   {
-   "handle": "charlierguo",
+   "handle": "gabrielchua",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "koltregaskes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codex_resets",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jkeatn",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -579,7 +579,7 @@
    "total": 2
   },
   {
-   "handle": "ananyairl",
+   "handle": "littlelion_love",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -677,8 +677,8 @@
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11425,
-   "replies": 2818
+   "likes": 11426,
+   "replies": 2819
   },
   {
    "ts": "2026-10-18 06:23",
