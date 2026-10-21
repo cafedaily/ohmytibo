@@ -1,10 +1,18 @@
 name: refresh
 
 on:
+  # GitHub runs schedules late (often by an hour or more), so a 5-minute cadence needs an
+  # external trigger calling workflow_dispatch with mode=fast; these crons are the fallback
   schedule:
     - cron: "1-59/5 * * * *"  # fast: today's and yesterday's mirror pages + feed
     - cron: "17 */3 * * *"    # full: rescan the last 60 day pages
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "fast = today's and yesterday's pages + feed; full = rescan 60 days"
+        type: choice
+        options: [full, fast]
+        default: full
 
 permissions:
   contents: write
@@ -29,8 +37,9 @@ jobs:
         id: mode
         env:
           SCHEDULE: ${{ github.event.schedule }}
+          MODE: ${{ inputs.mode }}
         run: |
-          if [ "$SCHEDULE" = "1-59/5 * * * *" ]; then
+          if [ "$SCHEDULE" = "1-59/5 * * * *" ] || [ "$MODE" = "fast" ]; then
             echo "days=1" >> "$GITHUB_OUTPUT"; echo "full=false" >> "$GITHUB_OUTPUT"
           else
             echo "days=60" >> "$GITHUB_OUTPUT"; echo "full=true" >> "$GITHUB_OUTPUT"

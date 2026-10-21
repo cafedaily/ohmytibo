@@ -9,7 +9,24 @@ Live dashboard: **https://cafedaily.github.io/ohmytibo/** — published to GitHu
 - **Fast run, every 5 minutes:** fetches the mirror's pages for today and yesterday plus the reset feed (three requests), recomputes, sends alerts, and redeploys the page. It commits only when stored data moved: a new post, a new feed event, alert state, or a source going down or recovering (`scripts/changed.py`).
 - **Full run, every 3 hours:** rescans the last 60 day pages to refresh engagement counts, and always commits.
 
-GitHub runs scheduled jobs late under load, so expect 5–15 minutes in practice. The header light turns amber after 20 minutes without new data and red after an hour.
+The header light turns amber after 20 minutes without new data and red after an hour.
+
+### Reliable 5-minute runs
+
+GitHub starts scheduled workflows late (often by an hour or more) and sometimes skips them, so the crons above are only a fallback. For a real 5-minute cadence, call the `workflow_dispatch` API from outside every 5 minutes:
+
+1. Create a fine-grained personal access token (GitHub → Settings → Developer settings). Limit it to the `cafedaily/ohmytibo` repository with the **Actions: Read and write** permission.
+2. Send this request every 5 minutes, from your own server's cron or systemd timer, or from a free scheduler such as cron-job.org:
+
+```bash
+curl -fsS -X POST \
+  -H "Authorization: Bearer $GH_DISPATCH_TOKEN" \
+  -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/cafedaily/ohmytibo/actions/workflows/refresh.yml/dispatches \
+  -d '{"ref":"main","inputs":{"mode":"fast"}}'
+```
+
+Runs share one concurrency group, so overlapping triggers queue instead of racing. A manual dispatch without inputs is a full run.
 
 ## What it does
 
