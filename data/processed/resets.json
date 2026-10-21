@@ -1,5 +1,25 @@
 [
  {
+  "id": "2071381664853319742",
+  "ts": "2026-06-28T23:54:07Z",
+  "date": "2026-06-28",
+  "hour_utc": 23,
+  "minute_utc": 54,
+  "kind": "reset",
+  "title": "As we are still investigating, I have reset everyone's Codex usage limits. This is a hard reset given some…",
+  "url": "https://x.com/thsottiaux/status/2071381664853319742"
+ },
+ {
+  "id": "2071740419030053227",
+  "ts": "2026-06-29T23:39:41Z",
+  "date": "2026-06-29",
+  "hour_utc": 23,
+  "minute_utc": 39,
+  "kind": "reset",
+  "title": "Full reset within the hour plus one additional banked reset, after usage was being consumed faster than…",
+  "url": "https://x.com/thsottiaux/status/2071740419030053227"
+ },
+ {
   "id": "2075330198887940337",
   "ts": "2026-07-09T21:24:11Z",
   "date": "2026-07-09",
@@ -348,26 +368,6 @@
   "kind": "reset",
   "title": "Full reset for Codex and ChatGPT Work users, picked by community vote in the 28-day ship-or-reset series…",
   "url": "https://x.com/thsottiaux/status/2107676072871600470"
- },
- {
-  "id": "2107676261099426030",
-  "ts": "2026-10-07T03:35:54Z",
-  "date": "2026-10-07",
-  "hour_utc": 3,
-  "minute_utc": 35,
-  "kind": "related",
-  "title": "And we won't unship the improvements. You get to have your cake and eat it too. See you tomorrow for Day 3!",
-  "url": "https://x.com/thsottiaux/status/2107676261099426030"
- },
- {
-  "id": "2107676653895967106",
-  "ts": "2026-10-07T03:37:27Z",
-  "date": "2026-10-07",
-  "hour_utc": 3,
-  "minute_utc": 37,
-  "kind": "related",
-  "title": "Also! Good evening!!",
-  "url": "https://x.com/thsottiaux/status/2107676653895967106"
  },
  {
   "id": "2107913674593644711",
