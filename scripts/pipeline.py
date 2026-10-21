@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Run the whole ohmytibo pipeline: fetch -> parse -> analyze -> alert -> render.
 
+  python scripts/pipeline.py 60   full run: rescan the last 60 day pages
+  python scripts/pipeline.py 1    fast run: today's and yesterday's pages only
+
 Every run is appended to data/state/runs.jsonl. A failed step stops the steps that
 depend on it, the alert step still runs on whatever data exists, and the process
 exits non-zero so the scheduled job shows red.
@@ -27,6 +30,7 @@ OPTIONAL = {"fetch_corpus.py", "alert.py"}  # failures are recorded but do not f
 
 def main():
     days = sys.argv[1] if len(sys.argv) > 1 else "60"
+    mode = "fast" if int(days) <= 1 else "full"
     started = time.monotonic()
     at = state.now_iso()
     results = {}
@@ -42,7 +46,7 @@ def main():
             args += ["--days", days]
         if step == "build_site.py":
             # the page shows this run's status, so record it before rendering
-            record(at, started, log, provisional=True)
+            record(at, mode, started, log, provisional=True)
         print(f"\n=== {step} ===", flush=True)
         t0 = time.monotonic()
         proc = subprocess.run(args, cwd=HERE.parent)
@@ -51,14 +55,14 @@ def main():
         log.append({"step": step, "ok": ok, "code": proc.returncode, "seconds": round(time.monotonic() - t0, 1)})
         if not ok:
             print(f"{step} failed with code {proc.returncode}", flush=True)
-    failed = record(at, started, log)
+    failed = record(at, mode, started, log)
     if failed:
         raise SystemExit(f"failed: {', '.join(failed)}")
 
 
-def record(at, started, log, provisional=False):
+def record(at, mode, started, log, provisional=False):
     failed = [r["step"] for r in log if r["ok"] is False and r["step"] not in OPTIONAL]
-    entry = {"at": at, "seconds": round(time.monotonic() - started, 1), "ok": not failed,
+    entry = {"at": at, "mode": mode, "seconds": round(time.monotonic() - started, 1), "ok": not failed,
              "failed": failed, "warnings": [r["step"] for r in log if r["ok"] is False and r["step"] in OPTIONAL],
              "steps": log}
     if provisional:

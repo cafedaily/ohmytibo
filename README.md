@@ -4,7 +4,12 @@ Follow [@thsottiaux](https://x.com/thsottiaux) — Tibo, OpenAI's Codex & ChatGP
 
 This repo tracks his public posts and replies, models when the next Codex/ChatGPT usage reset is likely, and turns his replies into a hot-word / topic picture.
 
-Live dashboard: **https://cafedaily.github.io/ohmytibo/** — published by GitHub Pages from `site/`. A scheduled Action refreshes the data every 3 hours, and the `pages` workflow redeploys after each refresh run.
+Live dashboard: **https://cafedaily.github.io/ohmytibo/** — published to GitHub Pages by the `refresh` workflow:
+
+- **Fast run, every 5 minutes:** fetches the mirror's pages for today and yesterday plus the reset feed (three requests), recomputes, sends alerts, and redeploys the page. It commits only when stored data moved: a new post, a new feed event, alert state, or a source going down or recovering (`scripts/changed.py`).
+- **Full run, every 3 hours:** rescans the last 60 day pages to refresh engagement counts, and always commits.
+
+GitHub runs scheduled jobs late under load, so expect 5–15 minutes in practice. The header light turns amber after 20 minutes without new data and red after an hour.
 
 ## What it does
 
@@ -29,7 +34,7 @@ Both stored datasets are append-only. The feed only carries its latest ~50 entri
 ## Run it
 
 ```bash
-python scripts/pipeline.py 60
+python scripts/pipeline.py 60   # full run; `1` for a fast run (today and yesterday only)
 ```
 
 That fetches the day pages, parses them into `data/processed/posts.jsonl`, refreshes the reset feed, recomputes the forecast, hot words and signals, sends alerts, and renders `site/index.html`. Each run is appended to `data/state/runs.jsonl`; a failed step skips the steps that depend on it and the run exits non-zero.
@@ -64,7 +69,7 @@ python -m http.server 8765 --directory site
 - **Three.js starfield** — a 2,200-point particle shell that drifts behind the content, pauses when the tab is hidden, and renders a single still frame under `prefers-reduced-motion`.
 - **Live numbers** — the 24h probability animates on a gradient ring, a countdown ticks down to the modal reset slot, and a Beijing-time clock runs in the header.
 - **Interactive charts** — hover/focus tooltips on every mark, 14/30/all range switching and series toggling on the activity chart, and a high-frequency / surging switch on the hot-word chart.
-- **Self-refresh** — `site/data.json` is re-fetched on visibility change and every 10 minutes (throttled to once a minute), so a rebuilt deploy propagates without a manual reload.
+- **Self-refresh** — `site/data.json` is re-fetched on visibility change and every 2 minutes (throttled to once a minute), so a new deploy shows up without a manual reload.
 
 The page ships a baked-in JSON payload, so it still renders with the CDN or `data.json` unreachable.
 
@@ -102,7 +107,7 @@ Delivery is recorded per channel in `data/state/alerts.json`:
 | `data/processed/hotwords.json` | Top terms, surge terms, phrases, topics, mentions, reset lexicon |
 | `data/processed/metrics.json` | Dashboard summary + daily series |
 | `data/state/health.json` | Latest status per source (feed, corpus, pipeline) with failure streaks |
-| `data/state/runs.jsonl` | One line per pipeline run: steps, durations, failures |
+| `data/state/runs.jsonl` | One line per committed pipeline run (full runs, and fast runs that changed data): mode, steps, durations, failures |
 | `data/state/alerts.json` | Alert keys already seen, alert delivery records, summary for the dashboard |
 | `site/index.html` | The dashboard (static shell + inline payload) |
 | `site/data.json` | Refreshable payload consumed by the dashboard |

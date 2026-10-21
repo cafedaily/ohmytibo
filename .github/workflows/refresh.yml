@@ -2,11 +2,14 @@ name: refresh
 
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "1-59/5 * * * *"  # fast: today's and yesterday's mirror pages + feed
+    - cron: "17 */3 * * *"    # full: rescan the last 60 day pages
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: refresh
@@ -22,6 +25,17 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Pick mode
+        id: mode
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [ "$SCHEDULE" = "1-59/5 * * * *" ]; then
+            echo "days=1" >> "$GITHUB_OUTPUT"; echo "full=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "days=60" >> "$GITHUB_OUTPUT"; echo "full=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Unit tests
         run: python -m unittest discover -s tests
 
@@ -33,12 +47,19 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           BARK_URL: ${{ secrets.BARK_URL }}
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
-        run: python scripts/pipeline.py 60
+        run: python scripts/pipeline.py ${{ steps.mode.outputs.days }}
 
-      # commit even when a step failed, so the run log and alert state record it
+      # commit even when a step failed, so the run log and alert state record it;
+      # fast runs commit only when stored data moved (see scripts/changed.py)
       - name: Commit changes
         if: always() && steps.pipeline.outcome != 'skipped'
+        env:
+          FULL: ${{ steps.mode.outputs.full }}
         run: |
+          if [ "$FULL" != "true" ] && [ "$(python scripts/changed.py)" = "no" ]; then
+            echo "fast run: no stored data changed, deploying without a commit"
+            exit 0
+          fi
           git config user.name "ohmytibo-bot"
           git config user.email "ohmytibo-bot@users.noreply.github.com"
           git add data/processed data/state site
@@ -49,3 +70,22 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      # pushes made with GITHUB_TOKEN do not trigger the pages workflow, so deploy from here
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -9,7 +9,10 @@ import state
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROC = ROOT / "data" / "processed"
 SITE = ROOT / "site"
-REFRESH_MINUTES = 180  # cadence of .github/workflows/refresh.yml; drives the freshness light
+# .github/workflows/refresh.yml runs a fast check every 5 minutes; scheduled runs are often
+# late, so the freshness light turns amber after 20 minutes and red after an hour
+REFRESH_MINUTES = 5
+STALE_MINUTES = (20, 60)
 
 PAL = {
     "surface": "#1a1a19",
@@ -413,7 +416,7 @@ footer a{color:var(--ink2)}
 
 <section class="card reveal" style="margin-top:16px" aria-labelledby="st-h">
   <h2 id="st-h">监测状态</h2>
-  <p class="note">定时任务每 {REFRESH_HOURS} 小时抓取一次镜像与 feed，重算预测并推送告警 · 北京时间</p>
+  <p class="note">每 {REFRESH_MINUTES} 分钟抓取镜像当天页面与 feed、重算预测并推送告警，每 3 小时全量回扫 60 天 · 北京时间</p>
   <div class="st-grid" id="statusGrid"></div>
 </section>
 
@@ -642,8 +645,8 @@ footer a{color:var(--ink2)}
   }
 
   function freshness() {
-    const age = sinceH(DATA.generated_at) * 60, cad = (DATA.status && DATA.status.refresh_minutes) || 180;
-    return {age, level: age <= cad * 1.5 ? '' : age <= cad * 3 ? 'warn' : 'bad'};
+    const age = sinceH(DATA.generated_at) * 60, [warn, bad] = (DATA.status && DATA.status.stale_minutes) || [20, 60];
+    return {age, level: age <= warn ? '' : age <= bad ? 'warn' : 'bad'};
   }
 
   function paintFreshness() {
@@ -696,6 +699,7 @@ footer a{color:var(--ink2)}
                                   style: 'height:' + Math.max(25, Math.min(100, (r.seconds || 0) / 1.8)) + '%',
                                   title: bj(r.at) + ' · ' + (r.ok ? '成功' : '失败') + ' · ' + r.seconds + ' 秒'})));
       grid.append(stCard(bad ? (last.ok ? 'warn' : 'bad') : '', '最近运行',
+        (last.mode === 'fast' ? '快速 · ' : last.mode === 'full' ? '全量 · ' : '') +
         (last.ok ? '成功' : '失败：' + last.failed.join(', ')) + ' · ' + last.seconds + ' 秒',
         '近 ' + runs.length + ' 次中失败 ' + bad + ' 次 · 最近一次 ' + bj(last.at), bars));
     }
@@ -845,7 +849,7 @@ footer a{color:var(--ink2)}
   clockTick();
   setInterval(clockTick, 1000);
   setInterval(paintFreshness, 60 * 1000);
-  setInterval(() => refresh(), 10 * 60 * 1000);
+  setInterval(() => refresh(), 2 * 60 * 1000);
   document.addEventListener('visibilitychange', () => { if (!document.hidden) refresh(); });
 })();
 </script>
@@ -956,9 +960,10 @@ init();
 def status_block():
     health = state.load_json(state.HEALTH, {})
     alerts = state.load_json(state.STATE / "alerts.json", {}).get("summary") or {}
-    runs = [{k: r.get(k) for k in ("at", "seconds", "ok", "failed", "warnings")}
+    runs = [{k: r.get(k) for k in ("at", "mode", "seconds", "ok", "failed", "warnings")}
             for r in state.recent_runs(n=16)]
-    return {"refresh_minutes": REFRESH_MINUTES, "health": health, "alerts": alerts, "runs": runs}
+    return {"refresh_minutes": REFRESH_MINUTES, "stale_minutes": list(STALE_MINUTES),
+            "health": health, "alerts": alerts, "runs": runs}
 
 
 def build():
@@ -985,7 +990,7 @@ def build():
         "POSTS": f"{metrics['posts']:,}",
         "DAYS": str(metrics["days_covered"]),
         "GENERATED": metrics["generated_at_local"],
-        "REFRESH_HOURS": f"{REFRESH_MINUTES / 60:g}",
+        "REFRESH_MINUTES": str(REFRESH_MINUTES),
         "FORECAST_ROWS": forecast_rows(fc),
         "DAILY_TABLE": daily_table(metrics),
         "SURGE_TABLE": surge_table(hw),
