@@ -1,75 +1,76 @@
 {
- "generated_at": "2026-10-21T04:43:54.377980+00:00",
- "generated_local": "2026-10-21 12:43",
+ "generated_at": "2026-10-21T09:09:31.660985+00:00",
+ "generated_local": "2026-10-21 17:09",
  "forecast": {
-  "p_24h": 0.2029,
-  "p_48h": 0.4448,
-  "p_72h": 0.6197,
-  "p_7d": 0.8657,
+  "p_24h": 0.2174,
+  "p_48h": 0.4649,
+  "p_72h": 0.6319,
+  "p_7d": 0.8681,
   "last_reset": "2026-10-20T06:33:48+00:00",
   "last_reset_local": "2026-10-20 14:33",
-  "modal_reset_at": "2026-10-22T06:43:54.377980+00:00",
-  "modal_reset_local": "2026-10-22 14:43",
-  "hours_since_last_reset": 22.17,
+  "modal_reset_at": "2026-10-22T20:09:31.660985+00:00",
+  "modal_reset_local": "2026-10-23 04:09",
+  "hours_since_last_reset": 26.6,
   "reset_count": 31,
   "mean_gap_days": 3.78,
   "median_gap_days": 2.41,
   "recent_mean_gap_days": 2.9,
   "backtest": {
    "days": 44,
-   "brier": 0.1725,
-   "brier_baseline": 0.1627,
-   "logloss": 0.5333,
-   "logloss_baseline": 0.5066,
-   "skill": -0.053,
-   "base_rate": 0.2045
+   "brier": 0.1792,
+   "brier_baseline": 0.1756,
+   "logloss": 0.5458,
+   "logloss_baseline": 0.536,
+   "skill": -0.018,
+   "base_rate": 0.2273
   },
   "weekly": [
    {
     "date": "2026-10-21",
-    "p": 0.1481
+    "p": 0.0925
    },
    {
     "date": "2026-10-22",
-    "p": 0.2354
+    "p": 0.2366
    },
    {
     "date": "2026-10-23",
-    "p": 0.1952
+    "p": 0.2116
    },
    {
     "date": "2026-10-24",
-    "p": 0.1201
+    "p": 0.1337
    },
    {
     "date": "2026-10-25",
-    "p": 0.0672
+    "p": 0.0753
    },
    {
     "date": "2026-10-26",
-    "p": 0.0447
+    "p": 0.0479
    },
    {
     "date": "2026-10-27",
-    "p": 0.0435
+    "p": 0.0449
    },
    {
     "date": "2026-10-28",
-    "p": 0.0351
+    "p": 0.0386
    },
    {
     "date": "2026-10-29",
-    "p": 0.0274
+    "p": 0.0289
    },
    {
     "date": "2026-10-30",
-    "p": 0.0246
+    "p": 0.026
    },
    {
     "date": "2026-10-31",
-    "p": 0.0058
+    "p": 0.0128
    }
-  ]
+  ],
+  "pending_promise": null
  },
  "daily": [
   {
@@ -78,7 +79,8 @@
    "replies": 11,
    "likes": 26860,
    "engagement_replies": 3570,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-08-23",
@@ -86,7 +88,8 @@
    "replies": 12,
    "likes": 27987,
    "engagement_replies": 2897,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-08-24",
@@ -94,7 +97,8 @@
    "replies": 7,
    "likes": 22894,
    "engagement_replies": 2337,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-08-25",
@@ -102,7 +106,8 @@
    "replies": 9,
    "likes": 28543,
    "engagement_replies": 6503,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-08-26",
@@ -110,7 +115,8 @@
    "replies": 13,
    "likes": 32523,
    "engagement_replies": 3836,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-08-27",
@@ -118,7 +124,8 @@
    "replies": 9,
    "likes": 30750,
    "engagement_replies": 3133,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-08-28",
@@ -126,7 +133,8 @@
    "replies": 14,
    "likes": 42678,
    "engagement_replies": 5114,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-08-29",
@@ -134,7 +142,8 @@
    "replies": 5,
    "likes": 24408,
    "engagement_replies": 3076,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-08-30",
@@ -142,7 +151,8 @@
    "replies": 7,
    "likes": 55823,
    "engagement_replies": 5014,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-08-31",
@@ -150,7 +160,8 @@
    "replies": 4,
    "likes": 57651,
    "engagement_replies": 10543,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-09-01",
@@ -158,7 +169,8 @@
    "replies": 5,
    "likes": 8107,
    "engagement_replies": 3236,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-02",
@@ -166,7 +178,8 @@
    "replies": 5,
    "likes": 37725,
    "engagement_replies": 3726,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-03",
@@ -174,7 +187,8 @@
    "replies": 10,
    "likes": 55640,
    "engagement_replies": 6946,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-04",
@@ -182,7 +196,8 @@
    "replies": 15,
    "likes": 108895,
    "engagement_replies": 9580,
-   "reset": 0
+   "reset": 0,
+   "banked": 1
   },
   {
    "date": "2026-09-05",
@@ -190,7 +205,8 @@
    "replies": 17,
    "likes": 127176,
    "engagement_replies": 9648,
-   "reset": 0
+   "reset": 0,
+   "banked": 1
   },
   {
    "date": "2026-09-06",
@@ -198,7 +214,8 @@
    "replies": 2,
    "likes": 4843,
    "engagement_replies": 164,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-07",
@@ -206,7 +223,8 @@
    "replies": 17,
    "likes": 72284,
    "engagement_replies": 7511,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-08",
@@ -214,7 +232,8 @@
    "replies": 8,
    "likes": 96783,
    "engagement_replies": 10812,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-09-09",
@@ -222,7 +241,8 @@
    "replies": 5,
    "likes": 45104,
    "engagement_replies": 5506,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-10",
@@ -230,7 +250,8 @@
    "replies": 3,
    "likes": 32839,
    "engagement_replies": 6200,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-11",
@@ -238,7 +259,8 @@
    "replies": 12,
    "likes": 66572,
    "engagement_replies": 8335,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-12",
@@ -246,7 +268,8 @@
    "replies": 3,
    "likes": 70219,
    "engagement_replies": 8785,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-09-13",
@@ -254,7 +277,8 @@
    "replies": 3,
    "likes": 5918,
    "engagement_replies": 315,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-14",
@@ -262,7 +286,8 @@
    "replies": 3,
    "likes": 11795,
    "engagement_replies": 9770,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-15",
@@ -270,7 +295,8 @@
    "replies": 8,
    "likes": 23495,
    "engagement_replies": 3145,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-16",
@@ -278,7 +304,8 @@
    "replies": 2,
    "likes": 22013,
    "engagement_replies": 4194,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-17",
@@ -286,7 +313,8 @@
    "replies": 5,
    "likes": 19291,
    "engagement_replies": 5475,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-18",
@@ -294,7 +322,8 @@
    "replies": 2,
    "likes": 11574,
    "engagement_replies": 2749,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-19",
@@ -302,7 +331,8 @@
    "replies": 11,
    "likes": 21016,
    "engagement_replies": 3025,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-20",
@@ -310,7 +340,8 @@
    "replies": 10,
    "likes": 34998,
    "engagement_replies": 3184,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-21",
@@ -318,7 +349,8 @@
    "replies": 5,
    "likes": 8360,
    "engagement_replies": 1283,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-22",
@@ -326,7 +358,8 @@
    "replies": 7,
    "likes": 33097,
    "engagement_replies": 6242,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-23",
@@ -334,7 +367,8 @@
    "replies": 8,
    "likes": 56459,
    "engagement_replies": 6733,
-   "reset": 0
+   "reset": 0,
+   "banked": 1
   },
   {
    "date": "2026-09-24",
@@ -342,7 +376,8 @@
    "replies": 4,
    "likes": 21751,
    "engagement_replies": 2541,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-25",
@@ -350,7 +385,8 @@
    "replies": 0,
    "likes": 9371,
    "engagement_replies": 1394,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-26",
@@ -358,7 +394,8 @@
    "replies": 1,
    "likes": 33676,
    "engagement_replies": 7134,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-27",
@@ -366,7 +403,8 @@
    "replies": 8,
    "likes": 41337,
    "engagement_replies": 4121,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-09-28",
@@ -374,7 +412,8 @@
    "replies": 9,
    "likes": 29151,
    "engagement_replies": 3540,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-29",
@@ -382,7 +421,8 @@
    "replies": 4,
    "likes": 48517,
    "engagement_replies": 12650,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-09-30",
@@ -390,7 +430,8 @@
    "replies": 33,
    "likes": 122881,
    "engagement_replies": 14414,
-   "reset": 0
+   "reset": 0,
+   "banked": 1
   },
   {
    "date": "2026-10-01",
@@ -398,7 +439,8 @@
    "replies": 8,
    "likes": 43518,
    "engagement_replies": 11649,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-02",
@@ -406,7 +448,8 @@
    "replies": 9,
    "likes": 35618,
    "engagement_replies": 6404,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-03",
@@ -414,7 +457,8 @@
    "replies": 7,
    "likes": 39046,
    "engagement_replies": 5052,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-04",
@@ -422,7 +466,8 @@
    "replies": 12,
    "likes": 40955,
    "engagement_replies": 14663,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-05",
@@ -430,7 +475,8 @@
    "replies": 14,
    "likes": 40112,
    "engagement_replies": 5840,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-06",
@@ -438,7 +484,8 @@
    "replies": 18,
    "likes": 55891,
    "engagement_replies": 7452,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-07",
@@ -446,7 +493,8 @@
    "replies": 27,
    "likes": 62283,
    "engagement_replies": 8810,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-08",
@@ -454,7 +502,8 @@
    "replies": 11,
    "likes": 58967,
    "engagement_replies": 5818,
-   "reset": 0
+   "reset": 0,
+   "banked": 1
   },
   {
    "date": "2026-10-09",
@@ -462,7 +511,8 @@
    "replies": 2,
    "likes": 44449,
    "engagement_replies": 5289,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-10",
@@ -470,7 +520,8 @@
    "replies": 5,
    "likes": 30449,
    "engagement_replies": 7770,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-11",
@@ -478,7 +529,8 @@
    "replies": 9,
    "likes": 47884,
    "engagement_replies": 10243,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-12",
@@ -486,7 +538,8 @@
    "replies": 5,
    "likes": 30380,
    "engagement_replies": 7195,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-13",
@@ -494,7 +547,8 @@
    "replies": 11,
    "likes": 56478,
    "engagement_replies": 7732,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-14",
@@ -502,7 +556,8 @@
    "replies": 3,
    "likes": 17595,
    "engagement_replies": 4660,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-15",
@@ -510,7 +565,8 @@
    "replies": 7,
    "likes": 48626,
    "engagement_replies": 7068,
-   "reset": 1
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-16",
@@ -518,7 +574,8 @@
    "replies": 4,
    "likes": 21524,
    "engagement_replies": 4503,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-17",
@@ -526,39 +583,44 @@
    "replies": 12,
    "likes": 28219,
    "engagement_replies": 4193,
-   "reset": 0
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-18",
    "posts": 15,
    "replies": 11,
    "likes": 39567,
-   "engagement_replies": 5269,
-   "reset": 1
+   "engagement_replies": 5270,
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 48796,
-   "engagement_replies": 8468,
-   "reset": 0
+   "likes": 48822,
+   "engagement_replies": 8470,
+   "reset": 0,
+   "banked": 0
   },
   {
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 18438,
-   "engagement_replies": 5849,
-   "reset": 1
+   "likes": 18578,
+   "engagement_replies": 5862,
+   "reset": 1,
+   "banked": 0
   },
   {
    "date": "2026-10-21",
-   "posts": 2,
-   "replies": 0,
-   "likes": 18758,
-   "engagement_replies": 3872,
-   "reset": 0
+   "posts": 3,
+   "replies": 1,
+   "likes": 24535,
+   "engagement_replies": 4730,
+   "reset": 0,
+   "banked": 0
   }
  ],
  "hot": {
@@ -568,21 +630,33 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 0.92,
+    "lift": 0.91,
     "docs": 4,
-    "share": 0.0094,
+    "share": 0.0093,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
     "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
     "sample_ts": "2026-10-16T23:56:37Z"
+   },
+   {
+    "term": "reset",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 19,
+    "lift": 0.78,
+    "docs": 4,
+    "share": 0.0093,
+    "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+    "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
+    "sample_ts": "2026-10-15T04:55:51Z"
    },
    {
     "term": "dot",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 30,
-    "lift": 0.22,
+    "lift": 0.2,
     "docs": 3,
-    "share": 0.0094,
+    "share": 0.0093,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
@@ -604,7 +678,7 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 18,
-    "lift": 0.56,
+    "lift": 0.55,
     "docs": 3,
     "share": 0.0075,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
@@ -612,23 +686,11 @@
     "sample_ts": "2026-10-16T23:56:37Z"
    },
    {
-    "term": "reset",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 19,
-    "lift": 0.5,
-    "docs": 3,
-    "share": 0.0075,
-    "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
-    "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
-    "sample_ts": "2026-10-15T04:55:51Z"
-   },
-   {
     "term": "usage",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 20,
-    "lift": 0.44,
+    "lift": 0.43,
     "docs": 2,
     "share": 0.0075,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -752,7 +814,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0038,
+    "share": 0.0037,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
@@ -786,21 +848,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 0.92,
+    "lift": 0.91,
     "docs": 4,
-    "share": 0.0094,
-    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
-    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
-    "sample_ts": "2026-10-16T23:56:37Z"
-   },
-   {
-    "term": "pro",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 18,
-    "lift": 0.56,
-    "docs": 3,
-    "share": 0.0075,
+    "share": 0.0093,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
     "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
     "sample_ts": "2026-10-16T23:56:37Z"
@@ -808,21 +858,33 @@
    {
     "term": "reset",
     "kind": "word",
-    "count_7d": 4,
+    "count_7d": 5,
     "count_28d_before": 19,
-    "lift": 0.5,
-    "docs": 3,
-    "share": 0.0075,
+    "lift": 0.78,
+    "docs": 4,
+    "share": 0.0093,
     "sample": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
     "sample_url": "https://x.com/thsottiaux/status/2110595484180214059",
     "sample_ts": "2026-10-15T04:55:51Z"
+   },
+   {
+    "term": "pro",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 18,
+    "lift": 0.55,
+    "docs": 3,
+    "share": 0.0075,
+    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
+    "sample_ts": "2026-10-16T23:56:37Z"
    },
    {
     "term": "usage",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 20,
-    "lift": 0.44,
+    "lift": 0.43,
     "docs": 2,
     "share": 0.0075,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -834,12 +896,471 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 30,
-    "lift": 0.22,
+    "lift": 0.2,
     "docs": 3,
-    "share": 0.0094,
+    "share": 0.0093,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
     "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
     "sample_ts": "2026-10-17T16:31:45Z"
+   }
+  ]
+ },
+ "signals": {
+  "window_days": 14,
+  "count_24h": 2,
+  "count_72h": 5,
+  "count_7d": 11,
+  "since_last_reset": 2,
+  "baseline_per_day": 1.54,
+  "level": "elevated",
+  "items": [
+   {
+    "id": "2112798407928713717",
+    "ts": "2026-10-21T06:49:29+00:00",
+    "ts_local": "2026-10-21 14:49",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "I demand a reset",
+    "url": "https://x.com/thsottiaux/status/2112798407928713717",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": true,
+    "age_hours": 2.3
+   },
+   {
+    "id": "2112592264686149749",
+    "ts": "2026-10-20T17:10:20+00:00",
+    "ts_local": "2026-10-21 01:10",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not co…",
+    "url": "https://x.com/thsottiaux/status/2112592264686149749",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": true,
+    "age_hours": 16.0
+   },
+   {
+    "id": "2112034063934742720",
+    "ts": "2026-10-19T04:12:15+00:00",
+    "ts_local": "2026-10-19 12:12",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you can request Daybreak Blue access to use our cyber permissiv…",
+    "url": "https://x.com/thsottiaux/status/2112034063934742720",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 53.0
+   },
+   {
+    "id": "2111918768733753664",
+    "ts": "2026-10-18T20:34:06+00:00",
+    "ts_local": "2026-10-19 04:34",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+    "url": "https://x.com/thsottiaux/status/2111918768733753664",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 60.6
+   },
+   {
+    "id": "2111918635849801739",
+    "ts": "2026-10-18T20:33:34+00:00",
+    "ts_local": "2026-10-19 04:33",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "We’ll see",
+    "url": "https://x.com/thsottiaux/status/2111918635849801739",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 60.6
+   },
+   {
+    "id": "2111583927156760690",
+    "ts": "2026-10-17T22:23:34+00:00",
+    "ts_local": "2026-10-18 06:23",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Pot committed",
+    "url": "https://x.com/thsottiaux/status/2111583927156760690",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 82.8
+   },
+   {
+    "id": "2111492673890824348",
+    "ts": "2026-10-17T16:20:57+00:00",
+    "ts_local": "2026-10-18 00:20",
+    "kind": "related",
+    "label": "相关",
+    "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+    "url": "https://x.com/thsottiaux/status/2111492673890824348",
+    "sources": [
+     "feed",
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 88.8
+   },
+   {
+    "id": "2111244596131111253",
+    "ts": "2026-10-16T23:55:11+00:00",
+    "ts_local": "2026-10-17 07:55",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache…",
+    "url": "https://x.com/thsottiaux/status/2111244596131111253",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 105.2
+   },
+   {
+    "id": "2110951585983631505",
+    "ts": "2026-10-16T04:30:52+00:00",
+    "ts_local": "2026-10-16 12:30",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
+    "url": "https://x.com/thsottiaux/status/2110951585983631505",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 124.6
+   },
+   {
+    "id": "2110750421367287996",
+    "ts": "2026-10-15T15:11:30+00:00",
+    "ts_local": "2026-10-15 23:11",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just c…",
+    "url": "https://x.com/thsottiaux/status/2110750421367287996",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 138.0
+   },
+   {
+    "id": "2110595484180214059",
+    "ts": "2026-10-15T04:55:51+00:00",
+    "ts_local": "2026-10-15 12:55",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+    "url": "https://x.com/thsottiaux/status/2110595484180214059",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 148.2
+   },
+   {
+    "id": "2109892247580000595",
+    "ts": "2026-10-13T06:21:26+00:00",
+    "ts_local": "2026-10-13 14:21",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+    "url": "https://x.com/thsottiaux/status/2109892247580000595",
+    "sources": [
+     "page"
+    ],
+    "forward": true,
+    "after_last_reset": false,
+    "age_hours": 194.8
+   },
+   {
+    "id": "2109873307722121591",
+    "ts": "2026-10-13T05:06:10+00:00",
+    "ts_local": "2026-10-13 13:06",
+    "kind": "related",
+    "label": "相关",
+    "text": "Mashed @poteto on the house.",
+    "url": "https://x.com/thsottiaux/status/2109873307722121591",
+    "sources": [
+     "feed",
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 196.1
+   },
+   {
+    "id": "2109873287853707513",
+    "ts": "2026-10-13T05:06:06+00:00",
+    "ts_local": "2026-10-13 13:06",
+    "kind": "related",
+    "label": "相关",
+    "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
+    "url": "https://x.com/thsottiaux/status/2109873287853707513",
+    "sources": [
+     "feed",
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 196.1
+   },
+   {
+    "id": "2109812216212099456",
+    "ts": "2026-10-13T01:03:25+00:00",
+    "ts_local": "2026-10-13 09:03",
+    "kind": "related",
+    "label": "相关",
+    "text": "Day 8/ Reset",
+    "url": "https://x.com/thsottiaux/status/2109812216212099456",
+    "sources": [
+     "feed",
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 200.1
+   },
+   {
+    "id": "2109439315570999598",
+    "ts": "2026-10-12T00:21:38+00:00",
+    "ts_local": "2026-10-12 08:21",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/z…",
+    "url": "https://x.com/thsottiaux/status/2109439315570999598",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 224.8
+   },
+   {
+    "id": "2109438305188327838",
+    "ts": "2026-10-12T00:17:38+00:00",
+    "ts_local": "2026-10-12 08:17",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "We're all proud of you @birdabo. Thank you for solving this one, hadn't thought about it",
+    "url": "https://x.com/thsottiaux/status/2109438305188327838",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 224.9
+   },
+   {
+    "id": "2109430894604026039",
+    "ts": "2026-10-11T23:48:11+00:00",
+    "ts_local": "2026-10-12 07:48",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
+    "url": "https://x.com/thsottiaux/status/2109430894604026039",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 225.4
+   },
+   {
+    "id": "2109090080497508356",
+    "ts": "2026-10-11T01:13:54+00:00",
+    "ts_local": "2026-10-11 09:13",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT",
+    "url": "https://x.com/thsottiaux/status/2109090080497508356",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 247.9
+   },
+   {
+    "id": "2109045392684032299",
+    "ts": "2026-10-10T22:16:20+00:00",
+    "ts_local": "2026-10-11 06:16",
+    "kind": "related",
+    "label": "相关",
+    "text": "Global reset by EOD. May the tokens do good things for you.",
+    "url": "https://x.com/thsottiaux/status/2109045392684032299",
+    "sources": [
+     "feed",
+     "page"
+    ],
+    "forward": true,
+    "after_last_reset": false,
+    "age_hours": 250.9
+   },
+   {
+    "id": "2109045220411351517",
+    "ts": "2026-10-10T22:15:39+00:00",
+    "ts_local": "2026-10-11 06:15",
+    "kind": "announce",
+    "label": "公告",
+    "text": "Day 6/ Reset",
+    "url": "https://x.com/thsottiaux/status/2109045220411351517",
+    "sources": [
+     "feed",
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 250.9
+   },
+   {
+    "id": "2108778939057664357",
+    "ts": "2026-10-10T04:37:32+00:00",
+    "ts_local": "2026-10-10 12:37",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important.",
+    "url": "https://x.com/thsottiaux/status/2108778939057664357",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 268.5
+   },
+   {
+    "id": "2108645667451318747",
+    "ts": "2026-10-09T19:47:58+00:00",
+    "ts_local": "2026-10-10 03:47",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage. https://t.co/02dqoClrWn",
+    "url": "https://x.com/thsottiaux/status/2108645667451318747",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 277.4
+   },
+   {
+    "id": "2108040921044639779",
+    "ts": "2026-10-08T03:44:55+00:00",
+    "ts_local": "2026-10-08 11:44",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Confirmed landed across all accounts. How are we doing so far? https://t.co/tzw7dNX4pN",
+    "url": "https://x.com/thsottiaux/status/2108040921044639779",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 317.4
+   },
+   {
+    "id": "r-2107975486798164736",
+    "ts": "2026-10-07T23:24:55+00:00",
+    "ts_local": "2026-10-08 07:24",
+    "kind": "note",
+    "label": "镜像备注",
+    "text": "The banked reset Tibo announced landed on our monitoring accounts.",
+    "url": "https://tiboreset.com/r/2107975486798164736",
+    "sources": [
+     "feed"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 321.7
+   },
+   {
+    "id": "2107913738791596286",
+    "ts": "2026-10-07T19:19:33+00:00",
+    "ts_local": "2026-10-08 03:19",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Will be there by EOD PST.",
+    "url": "https://x.com/thsottiaux/status/2107913738791596286",
+    "sources": [
+     "page"
+    ],
+    "forward": true,
+    "after_last_reset": false,
+    "age_hours": 325.8
+   }
+  ]
+ },
+ "status": {
+  "refresh_minutes": 180,
+  "health": {
+   "corpus": {
+    "at": "2026-10-21T09:09:31+00:00",
+    "ok": true,
+    "fetched": 61,
+    "cached": 0,
+    "empty": 0,
+    "failed": 0,
+    "failed_days": [],
+    "consecutive_failures": 0,
+    "last_ok": "2026-10-21T09:09:31+00:00"
+   },
+   "feed": {
+    "at": "2026-10-21T09:09:31+00:00",
+    "ok": true,
+    "source": "network",
+    "entries": 50,
+    "new": 0,
+    "error": null,
+    "total": 50,
+    "consecutive_failures": 0,
+    "last_ok": "2026-10-21T09:09:31+00:00"
+   },
+   "pipeline": {
+    "at": "2026-10-21T09:08:43+00:00",
+    "ok": true,
+    "failed": [],
+    "consecutive_failures": 0,
+    "last_ok": "2026-10-21T09:08:43+00:00"
+   }
+  },
+  "alerts": {
+   "checked_at": "2026-10-21T09:09:31+00:00",
+   "channels": [],
+   "configured": false,
+   "pending": 0,
+   "undelivered_7d": 0,
+   "last_sent": null,
+   "recent": []
+  },
+  "runs": [
+   {
+    "at": "2026-10-21T09:08:43+00:00",
+    "seconds": 47.9,
+    "ok": true,
+    "failed": [],
+    "warnings": []
    }
   ]
  }
