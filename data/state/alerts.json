@@ -7,7 +7,7 @@
    "body": "越过 30% 阈值 · 距上次重置 52 小时 · 峰值时点北京时间 10-23 04:20",
    "url": "",
    "created_at": "2026-10-22T10:20:19+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -19,7 +19,7 @@
    "body": "北京时间 10-22 14:55 · Lands tomorrow before 10am PST.",
    "url": "https://x.com/thsottiaux/status/2113162413008884099",
    "created_at": "2026-10-22T10:20:19+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -31,7 +31,7 @@
    "body": "北京时间 10-22 14:55 · Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t ",
    "url": "https://x.com/thsottiaux/status/2113162277688070445",
    "created_at": "2026-10-22T10:20:19+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -96,10 +96,10 @@
   "reset:2113162277688070445"
  ],
  "summary": {
-  "checked_at": "2026-10-22T21:34:16+00:00",
+  "checked_at": "2026-10-22T22:30:03+00:00",
   "channels": [],
   "configured": false,
-  "pending": 4,
+  "pending": 1,
   "undelivered_7d": 4,
   "last_sent": null,
   "recent": [
@@ -114,21 +114,21 @@
     "title": "24 小时重置概率升至 31%",
     "kind": "probability",
     "created_at": "2026-10-22T10:20:19+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
     "title": "重置信号 · 相关",
     "kind": "signal",
     "created_at": "2026-10-22T10:20:19+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
     "title": "重置信号 · 相关",
     "kind": "signal",
     "created_at": "2026-10-22T10:20:19+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    }
   ]
