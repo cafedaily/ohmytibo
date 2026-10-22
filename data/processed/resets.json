@@ -648,5 +648,31 @@
   "source": "x",
   "mirror_url": "https://tiboreset.com/r/2112432076767289678",
   "first_seen": null
+ },
+ {
+  "id": "2113162277688070445",
+  "ts": "2026-10-22T06:55:22Z",
+  "date": "2026-10-22",
+  "hour_utc": 6,
+  "minute_utc": 55,
+  "kind": "related",
+  "title": "Day 17/ Bet you thought we forgot, but no, it’s reset day today. Also good time to remind you to get…",
+  "source": "x",
+  "url": "https://x.com/thsottiaux/status/2113162277688070445",
+  "mirror_url": "https://tiboreset.com/r/2113162277688070445",
+  "first_seen": "2026-10-22T10:20:19+00:00"
+ },
+ {
+  "id": "2113162413008884099",
+  "ts": "2026-10-22T06:55:54Z",
+  "date": "2026-10-22",
+  "hour_utc": 6,
+  "minute_utc": 55,
+  "kind": "related",
+  "title": "Lands tomorrow before 10am PST.",
+  "source": "x",
+  "url": "https://x.com/thsottiaux/status/2113162413008884099",
+  "mirror_url": "https://tiboreset.com/r/2113162413008884099",
+  "first_seen": "2026-10-22T10:20:19+00:00"
  }
 ]
