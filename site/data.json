@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-22T17:09:20.618983+00:00",
- "generated_local": "2026-10-23 01:09",
+ "generated_at": "2026-10-22T19:20:13.573290+00:00",
+ "generated_local": "2026-10-23 03:20",
  "forecast": {
-  "p_24h": 0.3095,
-  "p_48h": 0.519,
-  "p_72h": 0.6407,
-  "p_7d": 0.8668,
-  "last_reset": "2026-10-20T06:33:48+00:00",
-  "last_reset_local": "2026-10-20 14:33",
-  "modal_reset_at": "2026-10-22T20:09:20.618983+00:00",
-  "modal_reset_local": "2026-10-23 04:09",
-  "hours_since_last_reset": 58.59,
-  "reset_count": 31,
-  "mean_gap_days": 3.78,
+  "p_24h": 0.1374,
+  "p_48h": 0.3378,
+  "p_72h": 0.5566,
+  "p_7d": 0.8538,
+  "last_reset": "2026-10-22T17:10:01+00:00",
+  "last_reset_local": "2026-10-23 01:10",
+  "modal_reset_at": "2026-10-24T20:20:13.573290+00:00",
+  "modal_reset_local": "2026-10-25 04:20",
+  "hours_since_last_reset": 2.17,
+  "reset_count": 32,
+  "mean_gap_days": 3.73,
   "median_gap_days": 2.41,
-  "recent_mean_gap_days": 2.9,
+  "recent_mean_gap_days": 2.59,
   "backtest": {
    "days": 44,
-   "brier": 0.1793,
+   "brier": 0.1786,
    "brier_baseline": 0.1756,
-   "logloss": 0.5461,
+   "logloss": 0.5431,
    "logloss_baseline": 0.536,
-   "skill": -0.019,
+   "skill": -0.013,
    "base_rate": 0.2273
   },
   "weekly": [
    {
     "date": "2026-10-22",
-    "p": 0.112
+    "p": 0.0321
    },
    {
     "date": "2026-10-23",
-    "p": 0.2747
+    "p": 0.1552
    },
    {
     "date": "2026-10-24",
-    "p": 0.1768
+    "p": 0.212
    },
    {
     "date": "2026-10-25",
-    "p": 0.1009
+    "p": 0.1976
    },
    {
     "date": "2026-10-26",
-    "p": 0.0642
+    "p": 0.122
    },
    {
     "date": "2026-10-27",
-    "p": 0.0602
+    "p": 0.0666
    },
    {
     "date": "2026-10-28",
-    "p": 0.0517
+    "p": 0.041
    },
    {
     "date": "2026-10-29",
-    "p": 0.0387
+    "p": 0.0375
    },
    {
     "date": "2026-10-30",
-    "p": 0.0349
+    "p": 0.0337
    },
    {
     "date": "2026-10-31",
-    "p": 0.024
+    "p": 0.0245
    },
    {
     "date": "2026-11-01",
-    "p": 0.0094
+    "p": 0.0167
    }
   ],
   "pending_promise": null
@@ -617,8 +617,8 @@
    "date": "2026-10-21",
    "posts": 4,
    "replies": 2,
-   "likes": 35032,
-   "engagement_replies": 6007,
+   "likes": 35065,
+   "engagement_replies": 6009,
    "reset": 0,
    "banked": 0
   },
@@ -626,8 +626,8 @@
    "date": "2026-10-22",
    "posts": 7,
    "replies": 5,
-   "likes": 27176,
-   "engagement_replies": 5910,
+   "likes": 28096,
+   "engagement_replies": 6254,
    "reset": 0,
    "banked": 0
   }
@@ -639,7 +639,7 @@
     "kind": "word",
     "count_7d": 8,
     "count_28d_before": 30,
-    "lift": 0.9,
+    "lift": 0.89,
     "docs": 5,
     "share": 0.0154,
     "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
@@ -651,7 +651,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 0.97,
+    "lift": 0.96,
     "docs": 4,
     "share": 0.0097,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
@@ -675,7 +675,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 20,
-    "lift": 0.78,
+    "lift": 0.77,
     "docs": 3,
     "share": 0.0097,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -699,7 +699,7 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 21,
-    "lift": 0.43,
+    "lift": 0.42,
     "docs": 4,
     "share": 0.0077,
     "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -759,7 +759,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.95,
+    "lift": 1.94,
     "docs": 3,
     "share": 0.0058,
     "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
@@ -857,7 +857,7 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.98,
+    "lift": 1.97,
     "docs": 2,
     "share": 0.0039,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -869,7 +869,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.95,
+    "lift": 1.94,
     "docs": 3,
     "share": 0.0058,
     "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
@@ -881,24 +881,12 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 0.97,
+    "lift": 0.96,
     "docs": 4,
     "share": 0.0097,
     "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
     "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
     "sample_ts": "2026-10-16T23:56:37Z"
-   },
-   {
-    "term": "dot",
-    "kind": "word",
-    "count_7d": 8,
-    "count_28d_before": 30,
-    "lift": 0.9,
-    "docs": 5,
-    "share": 0.0154,
-    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
-    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
-    "sample_ts": "2026-10-17T16:31:45Z"
    },
    {
     "term": "pro",
@@ -913,11 +901,23 @@
     "sample_ts": "2026-10-16T23:56:37Z"
    },
    {
+    "term": "dot",
+    "kind": "word",
+    "count_7d": 8,
+    "count_28d_before": 30,
+    "lift": 0.89,
+    "docs": 5,
+    "share": 0.0154,
+    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+    "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "sample_ts": "2026-10-17T16:31:45Z"
+   },
+   {
     "term": "usage",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 20,
-    "lift": 0.78,
+    "lift": 0.77,
     "docs": 3,
     "share": 0.0097,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -929,7 +929,7 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 21,
-    "lift": 0.43,
+    "lift": 0.42,
     "docs": 4,
     "share": 0.0077,
     "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -940,10 +940,10 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 3,
-  "count_72h": 6,
-  "count_7d": 13,
-  "since_last_reset": 6,
+  "count_24h": 2,
+  "count_72h": 5,
+  "count_7d": 12,
+  "since_last_reset": 0,
   "baseline_per_day": 1.61,
   "level": "elevated",
   "items": [
@@ -960,24 +960,8 @@
      "page"
     ],
     "forward": true,
-    "after_last_reset": true,
-    "age_hours": 10.2
-   },
-   {
-    "id": "2113162277688070445",
-    "ts": "2026-10-22T06:55:22+00:00",
-    "ts_local": "2026-10-22 14:55",
-    "kind": "related",
-    "label": "相关",
-    "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
-    "url": "https://x.com/thsottiaux/status/2113162277688070445",
-    "sources": [
-     "feed",
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": true,
-    "age_hours": 10.2
+    "after_last_reset": false,
+    "age_hours": 12.4
    },
    {
     "id": "2113029854417600834",
@@ -991,8 +975,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 19.0
+    "after_last_reset": false,
+    "age_hours": 21.2
    },
    {
     "id": "2112906496736641416",
@@ -1006,8 +990,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 27.2
+    "after_last_reset": false,
+    "age_hours": 29.4
    },
    {
     "id": "2112798407928713717",
@@ -1021,8 +1005,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 34.3
+    "after_last_reset": false,
+    "age_hours": 36.5
    },
    {
     "id": "2112592264686149749",
@@ -1036,8 +1020,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 48.0
+    "after_last_reset": false,
+    "age_hours": 50.2
    },
    {
     "id": "2112034063934742720",
@@ -1052,7 +1036,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 85.0
+    "age_hours": 87.1
    },
    {
     "id": "2111918768733753664",
@@ -1067,7 +1051,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 92.6
+    "age_hours": 94.8
    },
    {
     "id": "2111918635849801739",
@@ -1082,7 +1066,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 92.6
+    "age_hours": 94.8
    },
    {
     "id": "2111583927156760690",
@@ -1097,7 +1081,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 114.8
+    "age_hours": 116.9
    },
    {
     "id": "2111492673890824348",
@@ -1113,7 +1097,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 120.8
+    "age_hours": 123.0
    },
    {
     "id": "2111244596131111253",
@@ -1128,7 +1112,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 137.2
+    "age_hours": 139.4
    },
    {
     "id": "2110951585983631505",
@@ -1143,7 +1127,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 156.6
+    "age_hours": 158.8
    },
    {
     "id": "2110750421367287996",
@@ -1158,7 +1142,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 170.0
+    "age_hours": 172.1
    },
    {
     "id": "2110595484180214059",
@@ -1173,7 +1157,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 180.2
+    "age_hours": 182.4
    },
    {
     "id": "2109892247580000595",
@@ -1188,7 +1172,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 226.8
+    "age_hours": 229.0
    },
    {
     "id": "2109873307722121591",
@@ -1204,7 +1188,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 228.1
+    "age_hours": 230.2
    },
    {
     "id": "2109873287853707513",
@@ -1220,7 +1204,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 228.1
+    "age_hours": 230.2
    },
    {
     "id": "2109812216212099456",
@@ -1236,7 +1220,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 232.1
+    "age_hours": 234.3
    },
    {
     "id": "2109439315570999598",
@@ -1251,7 +1235,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 256.8
+    "age_hours": 259.0
    },
    {
     "id": "2109438305188327838",
@@ -1266,7 +1250,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 256.9
+    "age_hours": 259.0
    },
    {
     "id": "2109430894604026039",
@@ -1281,7 +1265,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 257.4
+    "age_hours": 259.5
    },
    {
     "id": "2109090080497508356",
@@ -1296,7 +1280,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 279.9
+    "age_hours": 282.1
    },
    {
     "id": "2109045392684032299",
@@ -1312,7 +1296,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 282.9
+    "age_hours": 285.1
    },
    {
     "id": "2109045220411351517",
@@ -1328,7 +1312,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 282.9
+    "age_hours": 285.1
    },
    {
     "id": "2108778939057664357",
@@ -1343,7 +1327,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 300.5
+    "age_hours": 302.7
    },
    {
     "id": "2108645667451318747",
@@ -1358,7 +1342,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 309.4
+    "age_hours": 311.5
    }
   ]
  },
@@ -1370,18 +1354,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-22T17:09:20+00:00",
+    "at": "2026-10-22T19:20:13+00:00",
     "ok": true,
-    "fetched": 61,
+    "fetched": 2,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-22T17:09:20+00:00"
+    "last_ok": "2026-10-22T19:20:13+00:00"
    },
    "feed": {
-    "at": "2026-10-22T17:09:20+00:00",
+    "at": "2026-10-22T19:20:13+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1389,24 +1373,31 @@
     "error": null,
     "total": 52,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-22T17:09:20+00:00"
+    "last_ok": "2026-10-22T19:20:13+00:00"
    },
    "pipeline": {
-    "at": "2026-10-22T17:08:20+00:00",
+    "at": "2026-10-22T19:20:10+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-22T17:08:20+00:00"
+    "last_ok": "2026-10-22T19:20:10+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-22T17:09:20+00:00",
+   "checked_at": "2026-10-22T19:20:13+00:00",
    "channels": [],
    "configured": false,
-   "pending": 3,
-   "undelivered_7d": 3,
+   "pending": 4,
+   "undelivered_7d": 4,
    "last_sent": null,
    "recent": [
+    {
+     "title": "检测到全局重置",
+     "kind": "reset",
+     "created_at": "2026-10-22T19:20:13+00:00",
+     "status": "pending",
+     "reason": "no_channel"
+    },
     {
      "title": "24 小时重置概率升至 31%",
      "kind": "probability",
@@ -1515,6 +1506,14 @@
     "at": "2026-10-22T17:08:20+00:00",
     "mode": "full",
     "seconds": 59.9,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-22T19:20:10+00:00",
+    "mode": "fast",
+    "seconds": 2.9,
     "ok": true,
     "failed": [],
     "warnings": []

@@ -35,6 +35,18 @@
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
+  },
+  {
+   "key": "reset:2113162277688070445",
+   "kind": "reset",
+   "title": "检测到全局重置",
+   "body": "北京时间 10-23 01:10 · Day 17/ Bet you thought we forgot, but no, it’s reset day today. Also good time to remind you to get…",
+   "url": "https://x.com/thsottiaux/status/2113162277688070445",
+   "created_at": "2026-10-22T19:20:13+00:00",
+   "status": "pending",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
   }
  ],
  "bootstrapped_at": "2026-10-21T09:09:31+00:00",
@@ -80,16 +92,24 @@
   "reset:2112432076767289678",
   "p24:30:2026-10-20T06:33:48+00:00",
   "signal:2113162413008884099",
-  "signal:2113162277688070445"
+  "signal:2113162277688070445",
+  "reset:2113162277688070445"
  ],
  "summary": {
-  "checked_at": "2026-10-22T17:09:20+00:00",
+  "checked_at": "2026-10-22T19:20:13+00:00",
   "channels": [],
   "configured": false,
-  "pending": 3,
-  "undelivered_7d": 3,
+  "pending": 4,
+  "undelivered_7d": 4,
   "last_sent": null,
   "recent": [
+   {
+    "title": "检测到全局重置",
+    "kind": "reset",
+    "created_at": "2026-10-22T19:20:13+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
    {
     "title": "24 小时重置概率升至 31%",
     "kind": "probability",

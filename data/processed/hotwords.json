@@ -90,7 +90,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.98,
+   "lift": 1.97,
    "docs": 2,
    "share": 0.0039,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.95,
+   "lift": 1.94,
    "docs": 3,
    "share": 0.0058,
    "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
@@ -114,24 +114,12 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.97,
+   "lift": 0.96,
    "docs": 4,
    "share": 0.0097,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
    "sample_url": "https://x.com/thsottiaux/status/2111244957851984181",
    "sample_ts": "2026-10-16T23:56:37Z"
-  },
-  {
-   "term": "dot",
-   "kind": "word",
-   "count_7d": 8,
-   "count_28d_before": 30,
-   "lift": 0.9,
-   "docs": 5,
-   "share": 0.0154,
-   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
-   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
-   "sample_ts": "2026-10-17T16:31:45Z"
   },
   {
    "term": "pro",
@@ -146,11 +134,23 @@
    "sample_ts": "2026-10-16T23:56:37Z"
   },
   {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 8,
+   "count_28d_before": 30,
+   "lift": 0.89,
+   "docs": 5,
+   "share": 0.0154,
+   "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
+   "sample_url": "https://x.com/thsottiaux/status/2111495392559067199",
+   "sample_ts": "2026-10-17T16:31:45Z"
+  },
+  {
    "term": "usage",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 20,
-   "lift": 0.78,
+   "lift": 0.77,
    "docs": 3,
    "share": 0.0097,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -162,7 +162,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 21,
-   "lift": 0.43,
+   "lift": 0.42,
    "docs": 4,
    "share": 0.0077,
    "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -176,7 +176,7 @@
    "kind": "word",
    "count_7d": 8,
    "count_28d_before": 30,
-   "lift": 0.9,
+   "lift": 0.89,
    "docs": 5,
    "share": 0.0154,
    "sample": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file som",
@@ -188,7 +188,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.97,
+   "lift": 0.96,
    "docs": 4,
    "share": 0.0097,
    "sample": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
@@ -212,7 +212,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 20,
-   "lift": 0.78,
+   "lift": 0.77,
    "docs": 3,
    "share": 0.0097,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -236,7 +236,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 21,
-   "lift": 0.43,
+   "lift": 0.42,
    "docs": 4,
    "share": 0.0077,
    "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -296,7 +296,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.95,
+   "lift": 1.94,
    "docs": 3,
    "share": 0.0058,
    "sample": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
@@ -305,18 +305,13 @@
   }
  ],
  "tokens_recent": 518,
- "tokens_base": 3820,
+ "tokens_base": 3798,
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 32,
-   "share": 0.258,
+   "posts": 31,
+   "share": 0.252,
    "examples": [
-    {
-     "text": "Day 4/\n\nWe have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to cour",
-     "url": "https://x.com/thsottiaux/status/2108275041276420573",
-     "ts": "2026-10-08T19:15:14Z"
-    },
     {
      "text": "Today, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ",
      "url": "https://x.com/thsottiaux/status/2108349826727588000",
@@ -326,13 +321,18 @@
      "text": "@SimonasLTU1 This was all client-side + network for playground only. Shipped optimized rendering logic that can keep up with ultrafast, try ",
      "url": "https://x.com/thsottiaux/status/2108428560822424062",
      "ts": "2026-10-09T05:25:16Z"
+    },
+    {
+     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
+     "url": "https://x.com/thsottiaux/status/2108645667451318747",
+     "ts": "2026-10-09T19:47:58Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
    "posts": 22,
-   "share": 0.177,
+   "share": 0.179,
    "examples": [
     {
      "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
@@ -353,14 +353,9 @@
   },
   {
    "topic": "Models",
-   "posts": 21,
-   "share": 0.169,
+   "posts": 20,
+   "share": 0.163,
    "examples": [
-    {
-     "text": "Day 4/\n\nWe have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to cour",
-     "url": "https://x.com/thsottiaux/status/2108275041276420573",
-     "ts": "2026-10-08T19:15:14Z"
-    },
     {
      "text": "Today, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ",
      "url": "https://x.com/thsottiaux/status/2108349826727588000",
@@ -370,19 +365,19 @@
      "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
      "url": "https://x.com/thsottiaux/status/2108645667451318747",
      "ts": "2026-10-09T19:47:58Z"
+    },
+    {
+     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
+     "url": "https://x.com/thsottiaux/status/2108646052178092403",
+     "ts": "2026-10-09T19:49:30Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
-   "posts": 21,
-   "share": 0.169,
+   "posts": 20,
+   "share": 0.163,
    "examples": [
-    {
-     "text": "Day 4/\n\nWe have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to cour",
-     "url": "https://x.com/thsottiaux/status/2108275041276420573",
-     "ts": "2026-10-08T19:15:14Z"
-    },
     {
      "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
      "url": "https://x.com/thsottiaux/status/2108645667451318747",
@@ -392,13 +387,18 @@
      "text": "Your ChatGPT subscription is now also a Devin subscription https://t.co/kJE3sbq2wP",
      "url": "https://x.com/thsottiaux/status/2108777962053292398",
      "ts": "2026-10-10T04:33:40Z"
+    },
+    {
+     "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
+     "url": "https://x.com/thsottiaux/status/2109132167112782291",
+     "ts": "2026-10-11T04:01:09Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
    "posts": 15,
-   "share": 0.121,
+   "share": 0.122,
    "examples": [
     {
      "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
@@ -494,73 +494,7 @@
    "total": 4
   },
   {
-   "handle": "xiangning0",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "maria_rcks",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codex_resets",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "koltregaskes",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -572,19 +506,37 @@
    "total": 2
   },
   {
-   "handle": "ai_funss",
+   "handle": "koltregaskes",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "JamesStewau0y5",
+   "handle": "StefanoGPT",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "rl_env",
+   "handle": "jkeatn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codeglitch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charliermarsh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "maria_rcks",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -602,13 +554,61 @@
    "total": 2
   },
   {
-   "handle": "littlelion_love",
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "xiangning0",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ai_funss",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rl_env",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codex_resets",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "gabrielchua",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ananyairl",
    "replies": 1,
    "named": 0,
    "total": 1
   },
   {
-   "handle": "JustLingonberry",
+   "handle": "littlelion_love",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -629,7 +629,7 @@
    "limit": 1,
    "limits": 2,
    "vote": 0,
-   "day": 18,
+   "day": 17,
    "series": 1
   },
   {
@@ -646,7 +646,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 18,
+   "day": 19,
    "series": 0
   },
   {
@@ -693,7 +693,7 @@
    "eod": 0,
    "propagate": 0,
    "propagated": 0,
-   "usage": 2,
+   "usage": 1,
    "limit": 0,
    "limits": 0,
    "vote": 0,
