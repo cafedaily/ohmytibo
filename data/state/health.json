@@ -1,17 +1,17 @@
 {
  "corpus": {
-  "at": "2026-10-22T22:30:02+00:00",
+  "at": "2026-10-23T00:52:36+00:00",
   "ok": true,
-  "fetched": 2,
+  "fetched": 1,
   "cached": 0,
-  "empty": 0,
+  "empty": 1,
   "failed": 0,
   "failed_days": [],
   "consecutive_failures": 0,
-  "last_ok": "2026-10-22T22:30:02+00:00"
+  "last_ok": "2026-10-23T00:52:36+00:00"
  },
  "feed": {
-  "at": "2026-10-22T22:30:02+00:00",
+  "at": "2026-10-23T00:52:36+00:00",
   "ok": true,
   "source": "network",
   "entries": 50,
@@ -19,13 +19,13 @@
   "error": null,
   "total": 52,
   "consecutive_failures": 0,
-  "last_ok": "2026-10-22T22:30:02+00:00"
+  "last_ok": "2026-10-23T00:52:36+00:00"
  },
  "pipeline": {
-  "at": "2026-10-22T22:30:01+00:00",
+  "at": "2026-10-23T00:52:34+00:00",
   "ok": true,
   "failed": [],
   "consecutive_failures": 0,
-  "last_ok": "2026-10-22T22:30:01+00:00"
+  "last_ok": "2026-10-23T00:52:34+00:00"
  }
 }
