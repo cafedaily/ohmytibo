@@ -162,7 +162,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 20,
-   "lift": 0.74,
+   "lift": 0.73,
    "docs": 3,
    "share": 0.0094,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -174,7 +174,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 21,
-   "lift": 0.68,
+   "lift": 0.67,
    "docs": 5,
    "share": 0.0094,
    "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -248,7 +248,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 20,
-   "lift": 0.74,
+   "lift": 0.73,
    "docs": 3,
    "share": 0.0094,
    "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -260,7 +260,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 21,
-   "lift": 0.68,
+   "lift": 0.67,
    "docs": 5,
    "share": 0.0094,
    "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -365,7 +365,7 @@
   }
  ],
  "tokens_recent": 534,
- "tokens_base": 3809,
+ "tokens_base": 3806,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -548,13 +548,43 @@
    "total": 4
   },
   {
+   "handle": "xiangning0",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jkeatn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "codex_resets",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "charliermarsh",
+   "handle": "romainhuet",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -572,43 +602,7 @@
    "total": 2
   },
   {
-   "handle": "ebloch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ai_funss",
+   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -620,7 +614,7 @@
    "total": 2
   },
   {
-   "handle": "jxnlco",
+   "handle": "codeglitch",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -632,7 +626,7 @@
    "total": 2
   },
   {
-   "handle": "xiangning0",
+   "handle": "ai_funss",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -644,13 +638,19 @@
    "total": 2
   },
   {
-   "handle": "LexnLin",
+   "handle": "ebloch",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "romainhuet",
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -662,13 +662,13 @@
    "total": 1
   },
   {
-   "handle": "ananyairl",
+   "handle": "JustLingonberry",
    "replies": 1,
    "named": 0,
    "total": 1
   },
   {
-   "handle": "JustLingonberry",
+   "handle": "ananyairl",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -766,15 +766,15 @@
    "ts": "2026-10-23 12:47",
    "text": "Landing tomorrow before 10am PST together with a small ship.",
    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-   "likes": 2657,
-   "replies": 477
+   "likes": 2891,
+   "replies": 842
   },
   {
    "ts": "2026-10-23 12:46",
    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "likes": 9358,
-   "replies": 1399
+   "likes": 9806,
+   "replies": 1600
   },
   {
    "ts": "2026-10-20 14:33",

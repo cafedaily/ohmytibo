@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-23T17:05:26.877078+00:00",
- "generated_local": "2026-10-24 01:05",
+ "generated_at": "2026-10-23T19:26:06.745657+00:00",
+ "generated_local": "2026-10-24 03:26",
  "forecast": {
-  "p_24h": 0.2115,
-  "p_48h": 0.4664,
-  "p_72h": 0.64,
-  "p_7d": 0.8721,
-  "last_reset": "2026-10-22T17:10:01+00:00",
-  "last_reset_local": "2026-10-23 01:10",
-  "modal_reset_at": "2026-10-24T20:05:26.877078+00:00",
-  "modal_reset_local": "2026-10-25 04:05",
-  "hours_since_last_reset": 23.92,
-  "reset_count": 32,
-  "mean_gap_days": 3.73,
+  "p_24h": 0.1364,
+  "p_48h": 0.3385,
+  "p_72h": 0.5619,
+  "p_7d": 0.8565,
+  "last_reset": "2026-10-23T17:40:51+00:00",
+  "last_reset_local": "2026-10-24 01:40",
+  "modal_reset_at": "2026-10-25T20:26:06.745657+00:00",
+  "modal_reset_local": "2026-10-26 04:26",
+  "hours_since_last_reset": 1.75,
+  "reset_count": 33,
+  "mean_gap_days": 3.65,
   "median_gap_days": 2.41,
-  "recent_mean_gap_days": 2.59,
+  "recent_mean_gap_days": 2.09,
   "backtest": {
    "days": 44,
-   "brier": 0.1649,
-   "brier_baseline": 0.1627,
-   "logloss": 0.5121,
-   "logloss_baseline": 0.5066,
-   "skill": -0.011,
-   "base_rate": 0.2045
+   "brier": 0.1772,
+   "brier_baseline": 0.1756,
+   "logloss": 0.5388,
+   "logloss_baseline": 0.536,
+   "skill": -0.005,
+   "base_rate": 0.2273
   },
   "weekly": [
    {
     "date": "2026-10-23",
-    "p": 0.0771
+    "p": 0.0319
    },
    {
     "date": "2026-10-24",
-    "p": 0.2327
+    "p": 0.1544
    },
    {
     "date": "2026-10-25",
-    "p": 0.2274
+    "p": 0.2118
    },
    {
     "date": "2026-10-26",
-    "p": 0.1423
+    "p": 0.2015
    },
    {
     "date": "2026-10-27",
-    "p": 0.0776
+    "p": 0.1235
    },
    {
     "date": "2026-10-28",
-    "p": 0.0465
+    "p": 0.0673
    },
    {
     "date": "2026-10-29",
-    "p": 0.0414
+    "p": 0.0401
    },
    {
     "date": "2026-10-30",
-    "p": 0.0388
+    "p": 0.0355
    },
    {
     "date": "2026-10-31",
-    "p": 0.0275
+    "p": 0.0336
    },
    {
     "date": "2026-11-01",
-    "p": 0.0249
+    "p": 0.0237
    },
    {
     "date": "2026-11-02",
-    "p": 0.0139
+    "p": 0.0163
    }
   ],
   "pending_promise": null
@@ -626,8 +626,8 @@
    "date": "2026-10-22",
    "posts": 7,
    "replies": 5,
-   "likes": 30354,
-   "engagement_replies": 6748,
+   "likes": 30415,
+   "engagement_replies": 6756,
    "reset": 0,
    "banked": 0
   },
@@ -635,8 +635,8 @@
    "date": "2026-10-23",
    "posts": 3,
    "replies": 2,
-   "likes": 12259,
-   "engagement_replies": 1915,
+   "likes": 12947,
+   "engagement_replies": 2482,
    "reset": 1,
    "banked": 0
   }
@@ -684,7 +684,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 20,
-    "lift": 0.74,
+    "lift": 0.73,
     "docs": 3,
     "share": 0.0094,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -696,7 +696,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 0.68,
+    "lift": 0.67,
     "docs": 5,
     "share": 0.0094,
     "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -962,7 +962,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 20,
-    "lift": 0.74,
+    "lift": 0.73,
     "docs": 3,
     "share": 0.0094,
     "sample": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and",
@@ -974,7 +974,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 0.68,
+    "lift": 0.67,
     "docs": 5,
     "share": 0.0094,
     "sample": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -1009,29 +1009,13 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 2,
-  "count_72h": 7,
-  "count_7d": 13,
-  "since_last_reset": 2,
+  "count_24h": 1,
+  "count_72h": 5,
+  "count_7d": 12,
+  "since_last_reset": 0,
   "baseline_per_day": 1.57,
-  "level": "elevated",
+  "level": "quiet",
   "items": [
-   {
-    "id": "2113492502355562875",
-    "ts": "2026-10-23T04:47:34+00:00",
-    "ts_local": "2026-10-23 12:47",
-    "kind": "related",
-    "label": "相关",
-    "text": "Landing tomorrow before 10am PST together with a small ship.",
-    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-    "sources": [
-     "feed",
-     "page"
-    ],
-    "forward": true,
-    "after_last_reset": true,
-    "age_hours": 12.3
-   },
    {
     "id": "2113492187770175603",
     "ts": "2026-10-23T04:46:19+00:00",
@@ -1045,8 +1029,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 12.3
+    "after_last_reset": false,
+    "age_hours": 14.7
    },
    {
     "id": "2113162413008884099",
@@ -1062,7 +1046,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 34.2
+    "age_hours": 36.5
    },
    {
     "id": "2113029854417600834",
@@ -1077,7 +1061,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 42.9
+    "age_hours": 45.3
    },
    {
     "id": "2112906496736641416",
@@ -1092,7 +1076,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 51.1
+    "age_hours": 53.5
    },
    {
     "id": "2112798407928713717",
@@ -1107,7 +1091,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 58.3
+    "age_hours": 60.6
    },
    {
     "id": "2112592264686149749",
@@ -1122,7 +1106,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 71.9
+    "age_hours": 74.3
    },
    {
     "id": "2112034063934742720",
@@ -1137,7 +1121,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 108.9
+    "age_hours": 111.2
    },
    {
     "id": "2111918768733753664",
@@ -1152,7 +1136,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 116.5
+    "age_hours": 118.9
    },
    {
     "id": "2111918635849801739",
@@ -1167,7 +1151,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 116.5
+    "age_hours": 118.9
    },
    {
     "id": "2111583927156760690",
@@ -1182,7 +1166,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 138.7
+    "age_hours": 141.0
    },
    {
     "id": "2111492673890824348",
@@ -1198,7 +1182,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 144.7
+    "age_hours": 147.1
    },
    {
     "id": "2111244596131111253",
@@ -1213,7 +1197,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 161.2
+    "age_hours": 163.5
    },
    {
     "id": "2110951585983631505",
@@ -1228,7 +1212,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 180.6
+    "age_hours": 182.9
    },
    {
     "id": "2110750421367287996",
@@ -1243,7 +1227,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 193.9
+    "age_hours": 196.2
    },
    {
     "id": "2110595484180214059",
@@ -1258,7 +1242,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 204.2
+    "age_hours": 206.5
    },
    {
     "id": "2109892247580000595",
@@ -1273,7 +1257,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 250.7
+    "age_hours": 253.1
    },
    {
     "id": "2109873307722121591",
@@ -1289,7 +1273,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 252.0
+    "age_hours": 254.3
    },
    {
     "id": "2109873287853707513",
@@ -1305,7 +1289,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 252.0
+    "age_hours": 254.3
    },
    {
     "id": "2109812216212099456",
@@ -1321,7 +1305,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 256.0
+    "age_hours": 258.4
    },
    {
     "id": "2109439315570999598",
@@ -1336,7 +1320,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 280.7
+    "age_hours": 283.1
    },
    {
     "id": "2109438305188327838",
@@ -1351,7 +1335,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 280.8
+    "age_hours": 283.1
    },
    {
     "id": "2109430894604026039",
@@ -1366,7 +1350,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 281.3
+    "age_hours": 283.6
    },
    {
     "id": "2109090080497508356",
@@ -1381,7 +1365,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 303.9
+    "age_hours": 306.2
    },
    {
     "id": "2109045392684032299",
@@ -1397,7 +1381,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 306.8
+    "age_hours": 309.2
    },
    {
     "id": "2109045220411351517",
@@ -1413,7 +1397,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 306.8
+    "age_hours": 309.2
    },
    {
     "id": "2108778939057664357",
@@ -1428,7 +1412,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 324.5
+    "age_hours": 326.8
    },
    {
     "id": "2108645667451318747",
@@ -1443,7 +1427,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 333.3
+    "age_hours": 335.6
    }
   ]
  },
@@ -1455,18 +1439,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-23T17:05:26+00:00",
+    "at": "2026-10-23T19:26:06+00:00",
     "ok": true,
-    "fetched": 61,
+    "fetched": 2,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-23T17:05:26+00:00"
+    "last_ok": "2026-10-23T19:26:06+00:00"
    },
    "feed": {
-    "at": "2026-10-23T17:05:26+00:00",
+    "at": "2026-10-23T19:26:06+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1474,28 +1458,28 @@
     "error": null,
     "total": 54,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-23T17:05:26+00:00"
+    "last_ok": "2026-10-23T19:26:06+00:00"
    },
    "pipeline": {
-    "at": "2026-10-23T17:04:37+00:00",
+    "at": "2026-10-23T19:26:04+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-23T17:04:37+00:00"
+    "last_ok": "2026-10-23T19:26:04+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-23T17:05:26+00:00",
+   "checked_at": "2026-10-23T19:26:06+00:00",
    "channels": [],
    "configured": false,
-   "pending": 2,
-   "undelivered_7d": 6,
+   "pending": 1,
+   "undelivered_7d": 7,
    "last_sent": null,
    "recent": [
     {
-     "title": "重置信号 · 相关",
-     "kind": "signal",
-     "created_at": "2026-10-23T05:34:37+00:00",
+     "title": "检测到全局重置",
+     "kind": "reset",
+     "created_at": "2026-10-23T19:26:06+00:00",
      "status": "pending",
      "reason": "no_channel"
     },
@@ -1503,7 +1487,14 @@
      "title": "重置信号 · 相关",
      "kind": "signal",
      "created_at": "2026-10-23T05:34:37+00:00",
-     "status": "pending",
+     "status": "expired",
+     "reason": "no_channel"
+    },
+    {
+     "title": "重置信号 · 相关",
+     "kind": "signal",
+     "created_at": "2026-10-23T05:34:37+00:00",
+     "status": "expired",
      "reason": "no_channel"
     },
     {
@@ -1526,25 +1517,10 @@
      "created_at": "2026-10-22T10:20:19+00:00",
      "status": "expired",
      "reason": "no_channel"
-    },
-    {
-     "title": "重置信号 · 相关",
-     "kind": "signal",
-     "created_at": "2026-10-22T10:20:19+00:00",
-     "status": "expired",
-     "reason": "no_channel"
     }
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-21T17:09:47+00:00",
-    "mode": "full",
-    "seconds": 73.2,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-21T21:41:01+00:00",
     "mode": "full",
@@ -1661,6 +1637,14 @@
     "at": "2026-10-23T17:04:37+00:00",
     "mode": "full",
     "seconds": 49.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-23T19:26:04+00:00",
+    "mode": "fast",
+    "seconds": 2.3,
     "ok": true,
     "failed": [],
     "warnings": []
