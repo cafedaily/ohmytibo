@@ -365,7 +365,7 @@
   }
  ],
  "tokens_recent": 534,
- "tokens_base": 3810,
+ "tokens_base": 3809,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -548,31 +548,13 @@
    "total": 4
   },
   {
-   "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "codex_resets",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "xiangning0",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rl_env",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "claudeai",
+   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -584,31 +566,13 @@
    "total": 2
   },
   {
+   "handle": "rl_env",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "ebloch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "romainhuet",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ai_funss",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -626,13 +590,49 @@
    "total": 2
   },
   {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "codeglitch",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
+   "handle": "ai_funss",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "gabrielchua",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -650,7 +650,7 @@
    "total": 2
   },
   {
-   "handle": "charliermarsh",
+   "handle": "romainhuet",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -736,7 +736,7 @@
    "eod": 1,
    "propagate": 0,
    "propagated": 0,
-   "usage": 13,
+   "usage": 12,
    "limit": 0,
    "limits": 2,
    "vote": 0,
@@ -748,7 +748,7 @@
    "label": "28天前",
    "reset": 0,
    "resets": 0,
-   "reseted": 1,
+   "reseted": 0,
    "banked": 0,
    "eod": 0,
    "propagate": 0,
@@ -766,21 +766,21 @@
    "ts": "2026-10-23 12:47",
    "text": "Landing tomorrow before 10am PST together with a small ship.",
    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-   "likes": 2201,
-   "replies": 337
+   "likes": 2657,
+   "replies": 477
   },
   {
    "ts": "2026-10-23 12:46",
    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "likes": 7648,
-   "replies": 1147
+   "likes": 9358,
+   "replies": 1399
   },
   {
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11670,
+   "likes": 11674,
    "replies": 2846
   },
   {
