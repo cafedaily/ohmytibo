@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-23T19:26:06.745657+00:00",
- "generated_local": "2026-10-24 03:26",
+ "generated_at": "2026-10-23T21:24:04.812898+00:00",
+ "generated_local": "2026-10-24 05:24",
  "forecast": {
-  "p_24h": 0.1364,
-  "p_48h": 0.3385,
-  "p_72h": 0.5619,
-  "p_7d": 0.8565,
+  "p_24h": 0.1507,
+  "p_48h": 0.3632,
+  "p_72h": 0.5771,
+  "p_7d": 0.8597,
   "last_reset": "2026-10-23T17:40:51+00:00",
   "last_reset_local": "2026-10-24 01:40",
-  "modal_reset_at": "2026-10-25T20:26:06.745657+00:00",
-  "modal_reset_local": "2026-10-26 04:26",
-  "hours_since_last_reset": 1.75,
+  "modal_reset_at": "2026-10-26T03:24:04.812898+00:00",
+  "modal_reset_local": "2026-10-26 11:24",
+  "hours_since_last_reset": 3.72,
   "reset_count": 33,
   "mean_gap_days": 3.65,
   "median_gap_days": 2.41,
   "recent_mean_gap_days": 2.09,
   "backtest": {
    "days": 44,
-   "brier": 0.1772,
+   "brier": 0.1809,
    "brier_baseline": 0.1756,
-   "logloss": 0.5388,
+   "logloss": 0.5508,
    "logloss_baseline": 0.536,
-   "skill": -0.005,
+   "skill": -0.028,
    "base_rate": 0.2273
   },
   "weekly": [
    {
     "date": "2026-10-23",
-    "p": 0.0319
+    "p": 0.0125
    },
    {
     "date": "2026-10-24",
-    "p": 0.1544
+    "p": 0.1575
    },
    {
     "date": "2026-10-25",
-    "p": 0.2118
+    "p": 0.216
    },
    {
     "date": "2026-10-26",
-    "p": 0.2015
+    "p": 0.2055
    },
    {
     "date": "2026-10-27",
-    "p": 0.1235
+    "p": 0.1259
    },
    {
     "date": "2026-10-28",
-    "p": 0.0673
+    "p": 0.0687
    },
    {
     "date": "2026-10-29",
-    "p": 0.0401
+    "p": 0.0409
    },
    {
     "date": "2026-10-30",
-    "p": 0.0355
+    "p": 0.0363
    },
    {
     "date": "2026-10-31",
-    "p": 0.0336
+    "p": 0.0343
    },
    {
     "date": "2026-11-01",
-    "p": 0.0237
+    "p": 0.0242
    },
    {
     "date": "2026-11-02",
-    "p": 0.0163
+    "p": 0.0199
    }
   ],
   "pending_promise": null
@@ -599,8 +599,8 @@
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 48989,
-   "engagement_replies": 8479,
+   "likes": 49004,
+   "engagement_replies": 8480,
    "reset": 0,
    "banked": 0
   },
@@ -608,7 +608,7 @@
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 18949,
+   "likes": 18956,
    "engagement_replies": 5894,
    "reset": 1,
    "banked": 0
@@ -617,8 +617,8 @@
    "date": "2026-10-21",
    "posts": 4,
    "replies": 2,
-   "likes": 35174,
-   "engagement_replies": 6029,
+   "likes": 35191,
+   "engagement_replies": 6032,
    "reset": 0,
    "banked": 0
   },
@@ -626,8 +626,8 @@
    "date": "2026-10-22",
    "posts": 7,
    "replies": 5,
-   "likes": 30415,
-   "engagement_replies": 6756,
+   "likes": 30538,
+   "engagement_replies": 6763,
    "reset": 0,
    "banked": 0
   },
@@ -635,8 +635,8 @@
    "date": "2026-10-23",
    "posts": 3,
    "replies": 2,
-   "likes": 12947,
-   "engagement_replies": 2482,
+   "likes": 13188,
+   "engagement_replies": 2528,
    "reset": 1,
    "banked": 0
   }
@@ -1013,7 +1013,7 @@
   "count_72h": 5,
   "count_7d": 12,
   "since_last_reset": 0,
-  "baseline_per_day": 1.57,
+  "baseline_per_day": 1.61,
   "level": "quiet",
   "items": [
    {
@@ -1030,7 +1030,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 14.7
+    "age_hours": 16.6
    },
    {
     "id": "2113162413008884099",
@@ -1046,7 +1046,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 36.5
+    "age_hours": 38.5
    },
    {
     "id": "2113029854417600834",
@@ -1061,7 +1061,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 45.3
+    "age_hours": 47.2
    },
    {
     "id": "2112906496736641416",
@@ -1076,7 +1076,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 53.5
+    "age_hours": 55.4
    },
    {
     "id": "2112798407928713717",
@@ -1091,7 +1091,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 60.6
+    "age_hours": 62.6
    },
    {
     "id": "2112592264686149749",
@@ -1106,7 +1106,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 74.3
+    "age_hours": 76.2
    },
    {
     "id": "2112034063934742720",
@@ -1121,7 +1121,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 111.2
+    "age_hours": 113.2
    },
    {
     "id": "2111918768733753664",
@@ -1136,7 +1136,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 118.9
+    "age_hours": 120.8
    },
    {
     "id": "2111918635849801739",
@@ -1151,7 +1151,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 118.9
+    "age_hours": 120.8
    },
    {
     "id": "2111583927156760690",
@@ -1166,7 +1166,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 141.0
+    "age_hours": 143.0
    },
    {
     "id": "2111492673890824348",
@@ -1182,7 +1182,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 147.1
+    "age_hours": 149.1
    },
    {
     "id": "2111244596131111253",
@@ -1197,7 +1197,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 163.5
+    "age_hours": 165.5
    },
    {
     "id": "2110951585983631505",
@@ -1212,7 +1212,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 182.9
+    "age_hours": 184.9
    },
    {
     "id": "2110750421367287996",
@@ -1227,7 +1227,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 196.2
+    "age_hours": 198.2
    },
    {
     "id": "2110595484180214059",
@@ -1242,7 +1242,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 206.5
+    "age_hours": 208.5
    },
    {
     "id": "2109892247580000595",
@@ -1257,7 +1257,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 253.1
+    "age_hours": 255.0
    },
    {
     "id": "2109873307722121591",
@@ -1273,7 +1273,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 254.3
+    "age_hours": 256.3
    },
    {
     "id": "2109873287853707513",
@@ -1289,7 +1289,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 254.3
+    "age_hours": 256.3
    },
    {
     "id": "2109812216212099456",
@@ -1305,7 +1305,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 258.4
+    "age_hours": 260.3
    },
    {
     "id": "2109439315570999598",
@@ -1320,7 +1320,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 283.1
+    "age_hours": 285.0
    },
    {
     "id": "2109438305188327838",
@@ -1335,7 +1335,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 283.1
+    "age_hours": 285.1
    },
    {
     "id": "2109430894604026039",
@@ -1350,7 +1350,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 283.6
+    "age_hours": 285.6
    },
    {
     "id": "2109090080497508356",
@@ -1365,7 +1365,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 306.2
+    "age_hours": 308.2
    },
    {
     "id": "2109045392684032299",
@@ -1381,7 +1381,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 309.2
+    "age_hours": 311.1
    },
    {
     "id": "2109045220411351517",
@@ -1397,7 +1397,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 309.2
+    "age_hours": 311.1
    },
    {
     "id": "2108778939057664357",
@@ -1412,22 +1412,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 326.8
-   },
-   {
-    "id": "2108645667451318747",
-    "ts": "2026-10-09T19:47:58+00:00",
-    "ts_local": "2026-10-10 03:47",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage. https://t.co/02dqoClrWn",
-    "url": "https://x.com/thsottiaux/status/2108645667451318747",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": false,
-    "age_hours": 335.6
+    "age_hours": 328.8
    }
   ]
  },
@@ -1439,18 +1424,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-23T19:26:06+00:00",
+    "at": "2026-10-23T21:24:04+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-23T19:26:06+00:00"
+    "last_ok": "2026-10-23T21:24:04+00:00"
    },
    "feed": {
-    "at": "2026-10-23T19:26:06+00:00",
+    "at": "2026-10-23T21:24:04+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1458,18 +1443,18 @@
     "error": null,
     "total": 54,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-23T19:26:06+00:00"
+    "last_ok": "2026-10-23T21:24:04+00:00"
    },
    "pipeline": {
-    "at": "2026-10-23T19:26:04+00:00",
+    "at": "2026-10-23T21:23:06+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-23T19:26:04+00:00"
+    "last_ok": "2026-10-23T21:23:06+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-23T19:26:06+00:00",
+   "checked_at": "2026-10-23T21:24:04+00:00",
    "channels": [],
    "configured": false,
    "pending": 1,
@@ -1521,14 +1506,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-21T21:41:01+00:00",
-    "mode": "full",
-    "seconds": 50.0,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-22T00:36:44+00:00",
     "mode": "fast",
@@ -1645,6 +1622,14 @@
     "at": "2026-10-23T19:26:04+00:00",
     "mode": "fast",
     "seconds": 2.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-23T21:23:06+00:00",
+    "mode": "full",
+    "seconds": 58.8,
     "ok": true,
     "failed": [],
     "warnings": []

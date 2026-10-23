@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T19:26:06.745657+00:00",
- "generated_at_local": "2026-10-24 03:26",
+ "generated_at": "2026-10-23T21:24:04.812898+00:00",
+ "generated_at_local": "2026-10-24 05:24",
  "timezone": "UTC+8",
  "posts": 707,
  "replies": 509,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-10-23T04:47:34Z",
  "resets_tracked": 33,
- "p_24h": 0.1364,
- "p_48h": 0.3385,
- "modal_reset_at": "2026-10-25T20:26:06.745657+00:00",
+ "p_24h": 0.1507,
+ "p_48h": 0.3632,
+ "modal_reset_at": "2026-10-26T03:24:04.812898+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.1772,
+  "brier": 0.1809,
   "brier_baseline": 0.1756,
-  "logloss": 0.5388,
+  "logloss": 0.5508,
   "logloss_baseline": 0.536,
-  "skill": -0.005,
+  "skill": -0.028,
   "base_rate": 0.2273
  },
  "top_terms": [
@@ -315,36 +315,31 @@
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 31,
-   "share": 0.252,
+   "posts": 29,
+   "share": 0.242,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
-    {
-     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
-     "url": "https://x.com/thsottiaux/status/2108646052178092403",
-     "ts": "2026-10-09T19:49:30Z"
-    },
     {
      "text": "Blinked and it’s already Saturday",
      "url": "https://x.com/thsottiaux/status/2108840070648397933",
      "ts": "2026-10-10T08:40:27Z"
+    },
+    {
+     "text": "Day 6/ Reset",
+     "url": "https://x.com/thsottiaux/status/2109045220411351517",
+     "ts": "2026-10-10T22:15:39Z"
+    },
+    {
+     "text": "@maria_rcks That’s right, no more ships",
+     "url": "https://x.com/thsottiaux/status/2109084804625158541",
+     "ts": "2026-10-11T00:52:56Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
-   "posts": 23,
-   "share": 0.187,
+   "posts": 22,
+   "share": 0.183,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
     {
      "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too ",
      "url": "https://x.com/thsottiaux/status/2108778939057664357",
@@ -354,19 +349,19 @@
      "text": "Day 6/ Reset",
      "url": "https://x.com/thsottiaux/status/2109045220411351517",
      "ts": "2026-10-10T22:15:39Z"
+    },
+    {
+     "text": "Global reset by EOD. May the tokens do good things for you.",
+     "url": "https://x.com/thsottiaux/status/2109045392684032299",
+     "ts": "2026-10-10T22:16:20Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
-   "posts": 21,
-   "share": 0.171,
+   "posts": 20,
+   "share": 0.167,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
     {
      "text": "Your ChatGPT subscription is now also a Devin subscription https://t.co/kJE3sbq2wP",
      "url": "https://x.com/thsottiaux/status/2108777962053292398",
@@ -376,57 +371,62 @@
      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
      "url": "https://x.com/thsottiaux/status/2109132167112782291",
      "ts": "2026-10-11T04:01:09Z"
+    },
+    {
+     "text": "Pro users, would you rather have",
+     "url": "https://x.com/thsottiaux/status/2109152716954222849",
+     "ts": "2026-10-11T05:22:48Z"
     }
    ]
   },
   {
    "topic": "Models",
-   "posts": 19,
-   "share": 0.154,
+   "posts": 17,
+   "share": 0.142,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
-    {
-     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
-     "url": "https://x.com/thsottiaux/status/2108646052178092403",
-     "ts": "2026-10-09T19:49:30Z"
-    },
     {
      "text": "Your ChatGPT subscription is now also a Devin subscription https://t.co/kJE3sbq2wP",
      "url": "https://x.com/thsottiaux/status/2108777962053292398",
      "ts": "2026-10-10T04:33:40Z"
-    }
-   ]
-  },
-  {
-   "topic": "Codex / dev tooling",
-   "posts": 16,
-   "share": 0.13,
-   "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
-    {
-     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
-     "url": "https://x.com/thsottiaux/status/2108646052178092403",
-     "ts": "2026-10-09T19:49:30Z"
     },
     {
      "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too ",
      "url": "https://x.com/thsottiaux/status/2108778939057664357",
      "ts": "2026-10-10T04:37:32Z"
+    },
+    {
+     "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
+     "url": "https://x.com/thsottiaux/status/2109430343346581527",
+     "ts": "2026-10-11T23:45:59Z"
+    }
+   ]
+  },
+  {
+   "topic": "Codex / dev tooling",
+   "posts": 14,
+   "share": 0.117,
+   "examples": [
+    {
+     "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too ",
+     "url": "https://x.com/thsottiaux/status/2108778939057664357",
+     "ts": "2026-10-10T04:37:32Z"
+    },
+    {
+     "text": "@TrustAgentic @elonmusk @bot Buy something nice",
+     "url": "https://x.com/thsottiaux/status/2109089556675137886",
+     "ts": "2026-10-11T01:11:49Z"
+    },
+    {
+     "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
+     "url": "https://x.com/thsottiaux/status/2109430343346581527",
+     "ts": "2026-10-11T23:45:59Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
    "posts": 8,
-   "share": 0.065,
+   "share": 0.067,
    "examples": [
     {
      "text": "@ziwenxu_ 1M dots running and doing things for their users",
@@ -448,7 +448,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 3,
-   "share": 0.024,
+   "share": 0.025,
    "examples": [
     {
      "text": "@theo Nice. Will fix",
@@ -996,8 +996,8 @@
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 48989,
-   "engagement_replies": 8479,
+   "likes": 49004,
+   "engagement_replies": 8480,
    "reset": 0,
    "banked": 0
   },
@@ -1005,7 +1005,7 @@
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 18949,
+   "likes": 18956,
    "engagement_replies": 5894,
    "reset": 1,
    "banked": 0
@@ -1014,8 +1014,8 @@
    "date": "2026-10-21",
    "posts": 4,
    "replies": 2,
-   "likes": 35174,
-   "engagement_replies": 6029,
+   "likes": 35191,
+   "engagement_replies": 6032,
    "reset": 0,
    "banked": 0
   },
@@ -1023,8 +1023,8 @@
    "date": "2026-10-22",
    "posts": 7,
    "replies": 5,
-   "likes": 30415,
-   "engagement_replies": 6756,
+   "likes": 30538,
+   "engagement_replies": 6763,
    "reset": 0,
    "banked": 0
   },
@@ -1032,8 +1032,8 @@
    "date": "2026-10-23",
    "posts": 3,
    "replies": 2,
-   "likes": 12947,
-   "engagement_replies": 2482,
+   "likes": 13188,
+   "engagement_replies": 2528,
    "reset": 1,
    "banked": 0
   }

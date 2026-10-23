@@ -365,40 +365,35 @@
   }
  ],
  "tokens_recent": 534,
- "tokens_base": 3806,
+ "tokens_base": 3805,
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 31,
-   "share": 0.252,
+   "posts": 29,
+   "share": 0.242,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
-    {
-     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
-     "url": "https://x.com/thsottiaux/status/2108646052178092403",
-     "ts": "2026-10-09T19:49:30Z"
-    },
     {
      "text": "Blinked and it’s already Saturday",
      "url": "https://x.com/thsottiaux/status/2108840070648397933",
      "ts": "2026-10-10T08:40:27Z"
+    },
+    {
+     "text": "Day 6/ Reset",
+     "url": "https://x.com/thsottiaux/status/2109045220411351517",
+     "ts": "2026-10-10T22:15:39Z"
+    },
+    {
+     "text": "@maria_rcks That’s right, no more ships",
+     "url": "https://x.com/thsottiaux/status/2109084804625158541",
+     "ts": "2026-10-11T00:52:56Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
-   "posts": 23,
-   "share": 0.187,
+   "posts": 22,
+   "share": 0.183,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
     {
      "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too ",
      "url": "https://x.com/thsottiaux/status/2108778939057664357",
@@ -408,19 +403,19 @@
      "text": "Day 6/ Reset",
      "url": "https://x.com/thsottiaux/status/2109045220411351517",
      "ts": "2026-10-10T22:15:39Z"
+    },
+    {
+     "text": "Global reset by EOD. May the tokens do good things for you.",
+     "url": "https://x.com/thsottiaux/status/2109045392684032299",
+     "ts": "2026-10-10T22:16:20Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
-   "posts": 21,
-   "share": 0.171,
+   "posts": 20,
+   "share": 0.167,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
     {
      "text": "Your ChatGPT subscription is now also a Devin subscription https://t.co/kJE3sbq2wP",
      "url": "https://x.com/thsottiaux/status/2108777962053292398",
@@ -430,57 +425,62 @@
      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
      "url": "https://x.com/thsottiaux/status/2109132167112782291",
      "ts": "2026-10-11T04:01:09Z"
+    },
+    {
+     "text": "Pro users, would you rather have",
+     "url": "https://x.com/thsottiaux/status/2109152716954222849",
+     "ts": "2026-10-11T05:22:48Z"
     }
    ]
   },
   {
    "topic": "Models",
-   "posts": 19,
-   "share": 0.154,
+   "posts": 17,
+   "share": 0.142,
    "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
-    {
-     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
-     "url": "https://x.com/thsottiaux/status/2108646052178092403",
-     "ts": "2026-10-09T19:49:30Z"
-    },
     {
      "text": "Your ChatGPT subscription is now also a Devin subscription https://t.co/kJE3sbq2wP",
      "url": "https://x.com/thsottiaux/status/2108777962053292398",
      "ts": "2026-10-10T04:33:40Z"
-    }
-   ]
-  },
-  {
-   "topic": "Codex / dev tooling",
-   "posts": 16,
-   "share": 0.13,
-   "examples": [
-    {
-     "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without ",
-     "url": "https://x.com/thsottiaux/status/2108645667451318747",
-     "ts": "2026-10-09T19:47:58Z"
-    },
-    {
-     "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the des",
-     "url": "https://x.com/thsottiaux/status/2108646052178092403",
-     "ts": "2026-10-09T19:49:30Z"
     },
     {
      "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too ",
      "url": "https://x.com/thsottiaux/status/2108778939057664357",
      "ts": "2026-10-10T04:37:32Z"
+    },
+    {
+     "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
+     "url": "https://x.com/thsottiaux/status/2109430343346581527",
+     "ts": "2026-10-11T23:45:59Z"
+    }
+   ]
+  },
+  {
+   "topic": "Codex / dev tooling",
+   "posts": 14,
+   "share": 0.117,
+   "examples": [
+    {
+     "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too ",
+     "url": "https://x.com/thsottiaux/status/2108778939057664357",
+     "ts": "2026-10-10T04:37:32Z"
+    },
+    {
+     "text": "@TrustAgentic @elonmusk @bot Buy something nice",
+     "url": "https://x.com/thsottiaux/status/2109089556675137886",
+     "ts": "2026-10-11T01:11:49Z"
+    },
+    {
+     "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
+     "url": "https://x.com/thsottiaux/status/2109430343346581527",
+     "ts": "2026-10-11T23:45:59Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
    "posts": 8,
-   "share": 0.065,
+   "share": 0.067,
    "examples": [
     {
      "text": "@ziwenxu_ 1M dots running and doing things for their users",
@@ -502,7 +502,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 3,
-   "share": 0.024,
+   "share": 0.025,
    "examples": [
     {
      "text": "@theo Nice. Will fix",
@@ -548,55 +548,13 @@
    "total": 4
   },
   {
-   "handle": "xiangning0",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codex_resets",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "romainhuet",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "koltregaskes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rl_env",
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -608,43 +566,7 @@
    "total": 2
   },
   {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "ai_funss",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_simonsmith",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ebloch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -656,6 +578,90 @@
    "total": 2
   },
   {
+   "handle": "_simonsmith",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codeglitch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rl_env",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "gabrielchua",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codex_resets",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ebloch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "koltregaskes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jkeatn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ananyairl",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
    "handle": "littlelion_love",
    "replies": 1,
    "named": 0,
@@ -663,12 +669,6 @@
   },
   {
    "handle": "JustLingonberry",
-   "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
-   "handle": "ananyairl",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -685,11 +685,11 @@
    "eod": 3,
    "propagate": 0,
    "propagated": 1,
-   "usage": 7,
+   "usage": 6,
    "limit": 1,
    "limits": 2,
    "vote": 0,
-   "day": 18,
+   "day": 16,
    "series": 1
   },
   {
@@ -702,11 +702,11 @@
    "eod": 1,
    "propagate": 0,
    "propagated": 2,
-   "usage": 11,
+   "usage": 12,
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 19,
+   "day": 21,
    "series": 0
   },
   {
@@ -766,21 +766,21 @@
    "ts": "2026-10-23 12:47",
    "text": "Landing tomorrow before 10am PST together with a small ship.",
    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-   "likes": 2891,
-   "replies": 842
+   "likes": 2939,
+   "replies": 856
   },
   {
    "ts": "2026-10-23 12:46",
    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "likes": 9806,
-   "replies": 1600
+   "likes": 9997,
+   "replies": 1632
   },
   {
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11674,
+   "likes": 11678,
    "replies": 2846
   },
   {
