@@ -548,61 +548,7 @@
    "total": 4
   },
   {
-   "handle": "koltregaskes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ai_funss",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "xiangning0",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -614,25 +560,7 @@
    "total": 2
   },
   {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_simonsmith",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -644,7 +572,13 @@
    "total": 2
   },
   {
-   "handle": "romainhuet",
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "koltregaskes",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -656,6 +590,78 @@
    "total": 2
   },
   {
+   "handle": "gabrielchua",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "romainhuet",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ai_funss",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jkeatn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codeglitch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "_simonsmith",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charliermarsh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "littlelion_love",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
    "handle": "ananyairl",
    "replies": 1,
    "named": 0,
@@ -663,12 +669,6 @@
   },
   {
    "handle": "JustLingonberry",
-   "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
-   "handle": "littlelion_love",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -766,21 +766,21 @@
    "ts": "2026-10-23 12:47",
    "text": "Landing tomorrow before 10am PST together with a small ship.",
    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-   "likes": 2072,
-   "replies": 319
+   "likes": 2201,
+   "replies": 337
   },
   {
    "ts": "2026-10-23 12:46",
    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "likes": 7115,
-   "replies": 1100
+   "likes": 7648,
+   "replies": 1147
   },
   {
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11667,
+   "likes": 11670,
    "replies": 2846
   },
   {
