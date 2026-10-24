@@ -602,19 +602,13 @@
    "total": 3
   },
   {
-   "handle": "LexnLin",
+   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "romainhuet",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "xiangning0",
+   "handle": "jkeatn",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -626,13 +620,55 @@
    "total": 2
   },
   {
-   "handle": "argofowl",
+   "handle": "JamesStewau0y5",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "romainhuet",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codeglitch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "gabrielchua",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
    "handle": "ebloch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "xiangning0",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -645,42 +681,6 @@
   },
   {
    "handle": "playdropai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesStewau0y5",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -710,25 +710,25 @@
    "total": 1
   },
   {
+   "handle": "amorriscode",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
    "handle": "ah20im",
    "replies": 0,
    "named": 1,
    "total": 1
   },
   {
-   "handle": "bcherny",
+   "handle": "alexandr_wang",
    "replies": 0,
    "named": 1,
    "total": 1
   },
   {
    "handle": "petergyang",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
-   "handle": "alexandr_wang",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -826,28 +826,28 @@
    "ts": "2026-10-24 07:13",
    "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows cor",
    "url": "https://x.com/thsottiaux/status/2113770862860222611",
-   "likes": 1426,
-   "replies": 182
+   "likes": 1464,
+   "replies": 188
   },
   {
    "ts": "2026-10-23 12:47",
    "text": "Landing tomorrow before 10am PST together with a small ship.",
    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-   "likes": 3064,
+   "likes": 3066,
    "replies": 869
   },
   {
    "ts": "2026-10-23 12:46",
    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "likes": 10430,
-   "replies": 1668
+   "likes": 10445,
+   "replies": 1669
   },
   {
    "ts": "2026-10-20 14:33",
    "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "likes": 11679,
+   "likes": 11681,
    "replies": 2846
   },
   {
