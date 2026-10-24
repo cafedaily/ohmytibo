@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -20,7 +20,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -32,7 +32,7 @@
    "count_28d_before": 2,
    "lift": 2.57,
    "docs": 2,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
@@ -42,9 +42,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.47,
+   "lift": 2.48,
    "docs": 3,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
    "sample_ts": "2026-10-18T05:17:04Z"
@@ -102,9 +102,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.78,
+   "lift": 1.79,
    "docs": 2,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
    "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
    "sample_ts": "2026-10-19T01:18:10Z"
@@ -114,9 +114,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.78,
+   "lift": 1.79,
    "docs": 3,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
@@ -126,9 +126,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 1.02,
+   "lift": 1.04,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0101,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
@@ -138,9 +138,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 21,
-   "lift": 0.77,
+   "lift": 0.79,
    "docs": 3,
-   "share": 0.0099,
+   "share": 0.0101,
    "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
    "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
    "sample_ts": "2026-10-20T17:10:20Z"
@@ -150,9 +150,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 18,
-   "lift": 0.66,
+   "lift": 0.69,
    "docs": 3,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
    "sample_ts": "2026-10-19T04:12:15Z"
@@ -162,9 +162,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 31,
-   "lift": 0.52,
+   "lift": 0.54,
    "docs": 4,
-   "share": 0.0119,
+   "share": 0.0121,
    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
    "sample_ts": "2026-10-18T05:17:04Z"
@@ -174,9 +174,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.51,
+   "lift": 0.54,
    "docs": 3,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
    "sample_ts": "2026-10-19T04:12:15Z"
@@ -186,9 +186,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 22,
-   "lift": 0.42,
+   "lift": 0.44,
    "docs": 4,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
    "sample_ts": "2026-10-20T06:33:48Z"
@@ -200,9 +200,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 31,
-   "lift": 0.52,
+   "lift": 0.54,
    "docs": 4,
-   "share": 0.0119,
+   "share": 0.0121,
    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
    "sample_ts": "2026-10-18T05:17:04Z"
@@ -212,9 +212,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 1.02,
+   "lift": 1.04,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0101,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
@@ -224,9 +224,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 21,
-   "lift": 0.77,
+   "lift": 0.79,
    "docs": 3,
-   "share": 0.0099,
+   "share": 0.0101,
    "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
    "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
    "sample_ts": "2026-10-20T17:10:20Z"
@@ -238,7 +238,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -250,7 +250,7 @@
    "count_28d_before": 2,
    "lift": 2.57,
    "docs": 2,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
@@ -260,9 +260,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 18,
-   "lift": 0.66,
+   "lift": 0.69,
    "docs": 3,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
    "sample_ts": "2026-10-19T04:12:15Z"
@@ -272,9 +272,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 22,
-   "lift": 0.42,
+   "lift": 0.44,
    "docs": 4,
-   "share": 0.008,
+   "share": 0.0081,
    "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
    "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
    "sample_ts": "2026-10-20T06:33:48Z"
@@ -286,7 +286,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -296,9 +296,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.47,
+   "lift": 2.48,
    "docs": 3,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
    "sample_ts": "2026-10-18T05:17:04Z"
@@ -308,9 +308,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.78,
+   "lift": 1.79,
    "docs": 2,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
    "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
    "sample_ts": "2026-10-19T01:18:10Z"
@@ -320,9 +320,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.78,
+   "lift": 1.79,
    "docs": 3,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
@@ -332,21 +332,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.51,
+   "lift": 0.54,
    "docs": 3,
-   "share": 0.006,
+   "share": 0.0061,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
    "sample_ts": "2026-10-19T04:12:15Z"
   }
  ],
- "tokens_recent": 503,
- "tokens_base": 3866,
+ "tokens_recent": 495,
+ "tokens_base": 3877,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 33,
-   "share": 0.277,
+   "share": 0.273,
    "examples": [
     {
      "text": "Day 6/ Reset",
@@ -368,7 +368,7 @@
   {
    "topic": "Reset / quota",
    "posts": 22,
-   "share": 0.185,
+   "share": 0.182,
    "examples": [
     {
      "text": "Day 6/ Reset",
@@ -390,7 +390,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 20,
-   "share": 0.168,
+   "share": 0.165,
    "examples": [
     {
      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
@@ -412,7 +412,7 @@
   {
    "topic": "Models",
    "posts": 17,
-   "share": 0.143,
+   "share": 0.14,
    "examples": [
     {
      "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
@@ -434,7 +434,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 15,
-   "share": 0.126,
+   "share": 0.124,
    "examples": [
     {
      "text": "@TrustAgentic @elonmusk @bot Buy something nice",
@@ -456,7 +456,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 8,
-   "share": 0.067,
+   "share": 0.066,
    "examples": [
     {
      "text": "@ziwenxu_ 1M dots running and doing things for their users",
@@ -478,7 +478,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 5,
-   "share": 0.042,
+   "share": 0.041,
    "examples": [
     {
      "text": "@theo Nice. Will fix",
@@ -506,49 +506,7 @@
    "total": 7
   },
   {
-   "handle": "ajambrosino",
-   "replies": 1,
-   "named": 2,
-   "total": 3
-  },
-  {
-   "handle": "ebloch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rl_env",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "gabrielchua",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesStewau0y5",
+   "handle": "TokenGremlin",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -560,13 +518,7 @@
    "total": 2
   },
   {
-   "handle": "playdropai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkeatn",
+   "handle": "jxnlco",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -584,7 +536,37 @@
    "total": 2
   },
   {
+   "handle": "can",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rl_env",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ebloch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "playdropai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -596,19 +578,19 @@
    "total": 2
   },
   {
-   "handle": "ananyairl",
+   "handle": "JamesStewau0y5",
    "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
-   "handle": "JustLingonberry",
-   "replies": 1,
-   "named": 0,
-   "total": 1
+   "named": 1,
+   "total": 2
   },
   {
    "handle": "littlelion_love",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "ananyairl",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -620,7 +602,25 @@
    "total": 1
   },
   {
-   "handle": "amorriscode",
+   "handle": "JustLingonberry",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "OpenAIDevs",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
+   "handle": "bcherny",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
+   "handle": "hqmank",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -632,19 +632,7 @@
    "total": 1
   },
   {
-   "handle": "petergyang",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
    "handle": "poteto",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
-   "handle": "bcherny",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -672,12 +660,12 @@
    "week": 1,
    "label": "7天前",
    "reset": 8,
-   "resets": 3,
+   "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 1,
    "propagate": 0,
-   "propagated": 2,
+   "propagated": 1,
    "usage": 12,
    "limit": 1,
    "limits": 0,
@@ -689,12 +677,12 @@
    "week": 2,
    "label": "14天前",
    "reset": 3,
-   "resets": 0,
+   "resets": 1,
    "reseted": 0,
    "banked": 1,
    "eod": 0,
    "propagate": 0,
-   "propagated": 0,
+   "propagated": 1,
    "usage": 2,
    "limit": 0,
    "limits": 1,
@@ -742,22 +730,22 @@
    "ts": "2026-10-24 07:13",
    "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows cor",
    "url": "https://x.com/thsottiaux/status/2113770862860222611",
-   "likes": 1620,
-   "replies": 207
+   "likes": 1645,
+   "replies": 211
   },
   {
    "ts": "2026-10-23 12:47",
    "text": "Landing tomorrow before 10am PST together with a small ship.",
    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-   "likes": 3091,
-   "replies": 869
+   "likes": 3095,
+   "replies": 871
   },
   {
    "ts": "2026-10-23 12:46",
    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "likes": 10537,
-   "replies": 1673
+   "likes": 10561,
+   "replies": 1675
   },
   {
    "ts": "2026-10-20 14:33",
