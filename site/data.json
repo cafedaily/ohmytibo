@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-24T19:21:17.804410+00:00",
- "generated_local": "2026-10-25 03:21",
+ "generated_at": "2026-10-24T20:47:04.072151+00:00",
+ "generated_local": "2026-10-25 04:47",
  "forecast": {
-  "p_24h": 0.2302,
-  "p_48h": 0.4876,
-  "p_72h": 0.6528,
+  "p_24h": 0.2491,
+  "p_48h": 0.4989,
+  "p_72h": 0.6555,
   "p_7d": 0.8756,
   "last_reset": "2026-10-23T17:40:51+00:00",
   "last_reset_local": "2026-10-24 01:40",
-  "modal_reset_at": "2026-10-25T20:21:17.804410+00:00",
-  "modal_reset_local": "2026-10-26 04:21",
-  "hours_since_last_reset": 25.67,
+  "modal_reset_at": "2026-10-25T20:47:04.072151+00:00",
+  "modal_reset_local": "2026-10-26 04:47",
+  "hours_since_last_reset": 27.1,
   "reset_count": 33,
   "mean_gap_days": 3.65,
   "median_gap_days": 2.41,
   "recent_mean_gap_days": 2.09,
   "backtest": {
    "days": 44,
-   "brier": 0.1938,
+   "brier": 0.1935,
    "brier_baseline": 0.1875,
-   "logloss": 0.5813,
+   "logloss": 0.5805,
    "logloss_baseline": 0.5623,
-   "skill": -0.034,
+   "skill": -0.032,
    "base_rate": 0.25
   },
   "weekly": [
    {
     "date": "2026-10-24",
-    "p": 0.0568
+    "p": 0.0479
    },
    {
     "date": "2026-10-25",
-    "p": 0.242
+    "p": 0.2577
    },
    {
     "date": "2026-10-26",
-    "p": 0.2329
+    "p": 0.2298
    },
    {
     "date": "2026-10-27",
-    "p": 0.1444
+    "p": 0.1396
    },
    {
     "date": "2026-10-28",
-    "p": 0.0788
+    "p": 0.0762
    },
    {
     "date": "2026-10-29",
-    "p": 0.0469
+    "p": 0.0476
    },
    {
     "date": "2026-10-30",
-    "p": 0.0416
+    "p": 0.044
    },
    {
     "date": "2026-10-31",
-    "p": 0.0393
+    "p": 0.0387
    },
    {
     "date": "2026-11-01",
-    "p": 0.0277
+    "p": 0.0286
    },
    {
     "date": "2026-11-02",
-    "p": 0.0251
+    "p": 0.0258
    },
    {
     "date": "2026-11-03",
-    "p": 0.0163
+    "p": 0.0159
    }
   ],
   "pending_promise": null
@@ -599,7 +599,7 @@
    "date": "2026-10-19",
    "posts": 13,
    "replies": 8,
-   "likes": 49011,
+   "likes": 49013,
    "engagement_replies": 8480,
    "reset": 0,
    "banked": 0
@@ -608,7 +608,7 @@
    "date": "2026-10-20",
    "posts": 3,
    "replies": 1,
-   "likes": 18962,
+   "likes": 18963,
    "engagement_replies": 5894,
    "reset": 1,
    "banked": 0
@@ -617,7 +617,7 @@
    "date": "2026-10-21",
    "posts": 4,
    "replies": 2,
-   "likes": 35220,
+   "likes": 35233,
    "engagement_replies": 6039,
    "reset": 0,
    "banked": 0
@@ -626,8 +626,8 @@
    "date": "2026-10-22",
    "posts": 7,
    "replies": 5,
-   "likes": 30734,
-   "engagement_replies": 6769,
+   "likes": 30772,
+   "engagement_replies": 6770,
    "reset": 0,
    "banked": 0
   },
@@ -635,8 +635,8 @@
    "date": "2026-10-23",
    "posts": 3,
    "replies": 2,
-   "likes": 13922,
-   "engagement_replies": 2586,
+   "likes": 13945,
+   "engagement_replies": 2587,
    "reset": 1,
    "banked": 0
   },
@@ -644,17 +644,17 @@
    "date": "2026-10-24",
    "posts": 4,
    "replies": 2,
-   "likes": 18806,
-   "engagement_replies": 2654,
+   "likes": 19065,
+   "engagement_replies": 2667,
    "reset": 1,
    "banked": 0
   },
   {
    "date": "2026-10-25",
-   "posts": 4,
-   "replies": 3,
-   "likes": 3827,
-   "engagement_replies": 947,
+   "posts": 6,
+   "replies": 4,
+   "likes": 7128,
+   "engagement_replies": 1848,
    "reset": 0,
    "banked": 0
   }
@@ -666,9 +666,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 31,
-    "lift": 0.54,
+    "lift": 0.5,
     "docs": 4,
-    "share": 0.0121,
+    "share": 0.0117,
     "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
     "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
     "sample_ts": "2026-10-18T05:17:04Z"
@@ -678,21 +678,33 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 1.04,
+    "lift": 1.0,
     "docs": 4,
-    "share": 0.0101,
+    "share": 0.0098,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 18,
+    "lift": 0.94,
+    "docs": 4,
+    "share": 0.0098,
+    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
+    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
+    "sample_ts": "2026-10-19T04:12:15Z"
    },
    {
     "term": "usage",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 0.79,
+    "lift": 0.75,
     "docs": 3,
-    "share": 0.0101,
+    "share": 0.0098,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
@@ -704,7 +716,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0081,
+    "share": 0.0078,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -714,33 +726,21 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 2,
-    "lift": 2.57,
+    "lift": 2.56,
     "docs": 2,
-    "share": 0.0081,
+    "share": 0.0078,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
-   },
-   {
-    "term": "users",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 18,
-    "lift": 0.69,
-    "docs": 3,
-    "share": 0.0081,
-    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
-    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
-    "sample_ts": "2026-10-19T04:12:15Z"
    },
    {
     "term": "reset",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 22,
-    "lift": 0.44,
+    "lift": 0.4,
     "docs": 4,
-    "share": 0.0081,
+    "share": 0.0078,
     "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
     "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
     "sample_ts": "2026-10-20T06:33:48Z"
@@ -752,7 +752,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -762,9 +762,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.48,
+    "lift": 2.47,
     "docs": 3,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
     "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
     "sample_ts": "2026-10-18T05:17:04Z"
@@ -774,9 +774,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.79,
+    "lift": 1.77,
     "docs": 2,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
     "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
     "sample_ts": "2026-10-19T01:18:10Z"
@@ -786,9 +786,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.79,
+    "lift": 1.77,
     "docs": 3,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -798,12 +798,24 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 15,
-    "lift": 0.54,
+    "lift": 0.5,
     "docs": 3,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
     "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
     "sample_ts": "2026-10-19T04:12:15Z"
+   },
+   {
+    "term": "dots",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 17,
+    "lift": 0.35,
+    "docs": 3,
+    "share": 0.0059,
+    "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+    "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
+    "sample_ts": "2026-10-18T14:53:08Z"
    }
   ],
   "surge": [
@@ -814,7 +826,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0081,
+    "share": 0.0078,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -826,7 +838,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -836,9 +848,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 2,
-    "lift": 2.57,
+    "lift": 2.56,
     "docs": 2,
-    "share": 0.0081,
+    "share": 0.0078,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -848,9 +860,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.48,
+    "lift": 2.47,
     "docs": 3,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
     "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
     "sample_ts": "2026-10-18T05:17:04Z"
@@ -862,7 +874,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.004,
+    "share": 0.0039,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
     "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
     "sample_ts": "2026-10-19T04:12:15Z"
@@ -874,7 +886,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.004,
+    "share": 0.0039,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
@@ -886,7 +898,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.004,
+    "share": 0.0039,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -896,9 +908,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.99,
+    "lift": 1.98,
     "docs": 2,
-    "share": 0.004,
+    "share": 0.0039,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
     "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
     "sample_ts": "2026-10-19T04:12:15Z"
@@ -908,9 +920,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.79,
+    "lift": 1.77,
     "docs": 2,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
     "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
     "sample_ts": "2026-10-19T01:18:10Z"
@@ -920,9 +932,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.79,
+    "lift": 1.77,
     "docs": 3,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -932,45 +944,45 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 1.04,
+    "lift": 1.0,
     "docs": 4,
-    "share": 0.0101,
+    "share": 0.0098,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 18,
+    "lift": 0.94,
+    "docs": 4,
+    "share": 0.0098,
+    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
+    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
+    "sample_ts": "2026-10-19T04:12:15Z"
    },
    {
     "term": "usage",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 0.79,
+    "lift": 0.75,
     "docs": 3,
-    "share": 0.0101,
+    "share": 0.0098,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
-   },
-   {
-    "term": "users",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 18,
-    "lift": 0.69,
-    "docs": 3,
-    "share": 0.0081,
-    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
-    "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
-    "sample_ts": "2026-10-19T04:12:15Z"
    },
    {
     "term": "dot",
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 31,
-    "lift": 0.54,
+    "lift": 0.5,
     "docs": 4,
-    "share": 0.0121,
+    "share": 0.0117,
     "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
     "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
     "sample_ts": "2026-10-18T05:17:04Z"
@@ -980,9 +992,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 15,
-    "lift": 0.54,
+    "lift": 0.5,
     "docs": 3,
-    "share": 0.0061,
+    "share": 0.0059,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
     "sample_url": "https://x.com/thsottiaux/status/2112034063934742720",
     "sample_ts": "2026-10-19T04:12:15Z"
@@ -992,12 +1004,24 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 22,
-    "lift": 0.44,
+    "lift": 0.4,
     "docs": 4,
-    "share": 0.0081,
+    "share": 0.0078,
     "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
     "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
     "sample_ts": "2026-10-20T06:33:48Z"
+   },
+   {
+    "term": "dots",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 17,
+    "lift": 0.35,
+    "docs": 3,
+    "share": 0.0059,
+    "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+    "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
+    "sample_ts": "2026-10-18T14:53:08Z"
    }
   ]
  },
@@ -1023,7 +1047,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 2.5
+    "age_hours": 3.9
    },
    {
     "id": "2113770862860222611",
@@ -1038,7 +1062,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 20.1
+    "age_hours": 21.6
    },
    {
     "id": "2113492187770175603",
@@ -1054,7 +1078,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 38.6
+    "age_hours": 40.0
    },
    {
     "id": "2113162413008884099",
@@ -1070,7 +1094,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 60.4
+    "age_hours": 61.9
    },
    {
     "id": "2113029854417600834",
@@ -1085,7 +1109,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 69.2
+    "age_hours": 70.6
    },
    {
     "id": "2112906496736641416",
@@ -1100,7 +1124,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 77.4
+    "age_hours": 78.8
    },
    {
     "id": "2112798407928713717",
@@ -1115,7 +1139,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 84.5
+    "age_hours": 86.0
    },
    {
     "id": "2112592264686149749",
@@ -1130,7 +1154,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 98.2
+    "age_hours": 99.6
    },
    {
     "id": "2112034063934742720",
@@ -1145,7 +1169,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 135.2
+    "age_hours": 136.6
    },
    {
     "id": "2111918768733753664",
@@ -1160,7 +1184,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 142.8
+    "age_hours": 144.2
    },
    {
     "id": "2111918635849801739",
@@ -1175,7 +1199,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 142.8
+    "age_hours": 144.2
    },
    {
     "id": "2111583927156760690",
@@ -1190,7 +1214,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 165.0
+    "age_hours": 166.4
    },
    {
     "id": "2111492673890824348",
@@ -1206,7 +1230,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 171.0
+    "age_hours": 172.4
    },
    {
     "id": "2111244596131111253",
@@ -1221,7 +1245,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 187.4
+    "age_hours": 188.9
    },
    {
     "id": "2110951585983631505",
@@ -1236,7 +1260,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 206.8
+    "age_hours": 208.3
    },
    {
     "id": "2110750421367287996",
@@ -1251,7 +1275,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 220.2
+    "age_hours": 221.6
    },
    {
     "id": "2110595484180214059",
@@ -1266,7 +1290,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 230.4
+    "age_hours": 231.9
    },
    {
     "id": "2109892247580000595",
@@ -1281,7 +1305,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 277.0
+    "age_hours": 278.4
    },
    {
     "id": "2109873307722121591",
@@ -1297,7 +1321,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 278.3
+    "age_hours": 279.7
    },
    {
     "id": "2109873287853707513",
@@ -1313,7 +1337,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 278.3
+    "age_hours": 279.7
    },
    {
     "id": "2109812216212099456",
@@ -1329,7 +1353,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 282.3
+    "age_hours": 283.7
    },
    {
     "id": "2109439315570999598",
@@ -1344,7 +1368,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 307.0
+    "age_hours": 308.4
    },
    {
     "id": "2109438305188327838",
@@ -1359,7 +1383,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 307.1
+    "age_hours": 308.5
    },
    {
     "id": "2109430894604026039",
@@ -1374,7 +1398,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 307.6
+    "age_hours": 309.0
    },
    {
     "id": "2109090080497508356",
@@ -1389,7 +1413,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 330.1
+    "age_hours": 331.6
    },
    {
     "id": "2109045392684032299",
@@ -1405,7 +1429,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 333.1
+    "age_hours": 334.5
    },
    {
     "id": "2109045220411351517",
@@ -1421,7 +1445,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 333.1
+    "age_hours": 334.5
    }
   ]
  },
@@ -1433,18 +1457,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-24T19:21:17+00:00",
+    "at": "2026-10-24T20:47:03+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-24T19:21:17+00:00"
+    "last_ok": "2026-10-24T20:47:03+00:00"
    },
    "feed": {
-    "at": "2026-10-24T19:21:17+00:00",
+    "at": "2026-10-24T20:47:03+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1452,18 +1476,18 @@
     "error": null,
     "total": 54,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-24T19:21:17+00:00"
+    "last_ok": "2026-10-24T20:47:03+00:00"
    },
    "pipeline": {
-    "at": "2026-10-24T19:21:15+00:00",
+    "at": "2026-10-24T20:46:07+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-24T19:21:15+00:00"
+    "last_ok": "2026-10-24T20:46:07+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-24T19:21:17+00:00",
+   "checked_at": "2026-10-24T20:47:04+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1515,14 +1539,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-22T22:30:01+00:00",
-    "mode": "fast",
-    "seconds": 2.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-23T00:52:34+00:00",
     "mode": "fast",
@@ -1639,6 +1655,14 @@
     "at": "2026-10-24T19:21:15+00:00",
     "mode": "fast",
     "seconds": 2.4,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-24T20:46:07+00:00",
+    "mode": "full",
+    "seconds": 56.7,
     "ok": true,
     "failed": [],
     "warnings": []
