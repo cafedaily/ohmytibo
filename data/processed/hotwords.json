@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0074,
+   "share": 0.0075,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -30,24 +30,12 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.53,
+   "lift": 2.54,
    "docs": 2,
-   "share": 0.0074,
+   "share": 0.0075,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
-  },
-  {
-   "term": "openai",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 1,
-   "lift": 2.45,
-   "docs": 3,
-   "share": 0.0056,
-   "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-   "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-   "sample_ts": "2026-10-18T05:17:04Z"
   },
   {
    "term": "blue access",
@@ -114,12 +102,24 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.93,
+   "lift": 1.94,
    "docs": 2,
    "share": 0.0056,
    "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
    "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
    "sample_ts": "2026-10-19T01:18:10Z"
+  },
+  {
+   "term": "enjoy",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 4,
+   "lift": 1.73,
+   "docs": 3,
+   "share": 0.0056,
+   "sample": "@theo Instead\n\n1) Buy a Pro 100 sub\n2) ???\n3) Enjoy T3Code",
+   "sample_url": "https://x.com/thsottiaux/status/2112426606870585551",
+   "sample_ts": "2026-10-20T06:12:04Z"
   },
   {
    "term": "don",
@@ -150,7 +150,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 18,
-   "lift": 1.11,
+   "lift": 1.12,
    "docs": 5,
    "share": 0.0112,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -162,7 +162,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.94,
+   "lift": 0.95,
    "docs": 4,
    "share": 0.0093,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -170,11 +170,23 @@
    "sample_ts": "2026-10-21T01:10:02Z"
   },
   {
+   "term": "reset",
+   "kind": "word",
+   "count_7d": 6,
+   "count_28d_before": 22,
+   "lift": 0.88,
+   "docs": 6,
+   "share": 0.0112,
+   "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+   "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
+   "sample_ts": "2026-10-20T06:33:48Z"
+  },
+  {
    "term": "usage",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 21,
-   "lift": 0.68,
+   "lift": 0.7,
    "docs": 3,
    "share": 0.0093,
    "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
@@ -182,23 +194,11 @@
    "sample_ts": "2026-10-20T17:10:20Z"
   },
   {
-   "term": "reset",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 22,
-   "lift": 0.63,
-   "docs": 5,
-   "share": 0.0093,
-   "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
-   "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "sample_ts": "2026-10-20T06:33:48Z"
-  },
-  {
    "term": "api",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.44,
+   "lift": 0.45,
    "docs": 3,
    "share": 0.0056,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -206,25 +206,25 @@
    "sample_ts": "2026-10-19T04:12:15Z"
   },
   {
-   "term": "dot",
-   "kind": "word",
-   "count_7d": 6,
-   "count_28d_before": 31,
-   "lift": 0.43,
-   "docs": 4,
-   "share": 0.0112,
-   "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-   "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-   "sample_ts": "2026-10-18T05:17:04Z"
-  },
-  {
    "term": "dots",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 17,
-   "lift": 0.29,
+   "lift": 0.3,
    "docs": 3,
    "share": 0.0056,
+   "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+   "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
+   "sample_ts": "2026-10-18T14:53:08Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 33,
+   "lift": -0.17,
+   "docs": 3,
+   "share": 0.0075,
    "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
    "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
    "sample_ts": "2026-10-18T14:53:08Z"
@@ -236,7 +236,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 18,
-   "lift": 1.11,
+   "lift": 1.12,
    "docs": 5,
    "share": 0.0112,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -244,23 +244,23 @@
    "sample_ts": "2026-10-19T04:12:15Z"
   },
   {
-   "term": "dot",
+   "term": "reset",
    "kind": "word",
    "count_7d": 6,
-   "count_28d_before": 31,
-   "lift": 0.43,
-   "docs": 4,
+   "count_28d_before": 22,
+   "lift": 0.88,
+   "docs": 6,
    "share": 0.0112,
-   "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-   "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-   "sample_ts": "2026-10-18T05:17:04Z"
+   "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+   "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
+   "sample_ts": "2026-10-20T06:33:48Z"
   },
   {
    "term": "codex",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.94,
+   "lift": 0.95,
    "docs": 4,
    "share": 0.0093,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -272,24 +272,12 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 21,
-   "lift": 0.68,
+   "lift": 0.7,
    "docs": 3,
    "share": 0.0093,
    "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
    "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
    "sample_ts": "2026-10-20T17:10:20Z"
-  },
-  {
-   "term": "reset",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 22,
-   "lift": 0.63,
-   "docs": 5,
-   "share": 0.0093,
-   "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
-   "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "sample_ts": "2026-10-20T06:33:48Z"
   },
   {
    "term": "tool",
@@ -298,7 +286,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0074,
+   "share": 0.0075,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -308,12 +296,24 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.53,
+   "lift": 2.54,
    "docs": 2,
-   "share": 0.0074,
+   "share": 0.0075,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
    "sample_ts": "2026-10-21T01:10:02Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 33,
+   "lift": -0.17,
+   "docs": 3,
+   "share": 0.0075,
+   "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+   "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
+   "sample_ts": "2026-10-18T14:53:08Z"
   },
   {
    "term": "cli",
@@ -326,18 +326,6 @@
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
-  },
-  {
-   "term": "openai",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 1,
-   "lift": 2.45,
-   "docs": 3,
-   "share": 0.0056,
-   "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-   "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-   "sample_ts": "2026-10-18T05:17:04Z"
   },
   {
    "term": "step",
@@ -356,12 +344,24 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.93,
+   "lift": 1.94,
    "docs": 2,
    "share": 0.0056,
    "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
    "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
    "sample_ts": "2026-10-19T01:18:10Z"
+  },
+  {
+   "term": "enjoy",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 4,
+   "lift": 1.73,
+   "docs": 3,
+   "share": 0.0056,
+   "sample": "@theo Instead\n\n1) Buy a Pro 100 sub\n2) ???\n3) Enjoy T3Code",
+   "sample_url": "https://x.com/thsottiaux/status/2112426606870585551",
+   "sample_ts": "2026-10-20T06:12:04Z"
   },
   {
    "term": "don",
@@ -392,7 +392,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.44,
+   "lift": 0.45,
    "docs": 3,
    "share": 0.0056,
    "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -404,7 +404,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 17,
-   "lift": 0.29,
+   "lift": 0.3,
    "docs": 3,
    "share": 0.0056,
    "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
@@ -412,13 +412,13 @@
    "sample_ts": "2026-10-18T14:53:08Z"
   }
  ],
- "tokens_recent": 538,
- "tokens_base": 3865,
+ "tokens_recent": 535,
+ "tokens_base": 3880,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 31,
-   "share": 0.265,
+   "share": 0.261,
    "examples": [
     {
      "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
@@ -439,8 +439,8 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 19,
-   "share": 0.162,
+   "posts": 21,
+   "share": 0.176,
    "examples": [
     {
      "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
@@ -461,14 +461,9 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 19,
-   "share": 0.162,
+   "posts": 20,
+   "share": 0.168,
    "examples": [
-    {
-     "text": "Pro users, would you rather have",
-     "url": "https://x.com/thsottiaux/status/2109152716954222849",
-     "ts": "2026-10-11T05:22:48Z"
-    },
     {
      "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
      "url": "https://x.com/thsottiaux/status/2109430343346581527",
@@ -478,13 +473,18 @@
      "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
      "url": "https://x.com/thsottiaux/status/2109430894604026039",
      "ts": "2026-10-11T23:48:11Z"
+    },
+    {
+     "text": "We're all proud of you @birdabo. Thank you for solving this one, hadn't thought about it",
+     "url": "https://x.com/thsottiaux/status/2109438305188327838",
+     "ts": "2026-10-12T00:17:38Z"
     }
    ]
   },
   {
    "topic": "Models",
    "posts": 17,
-   "share": 0.145,
+   "share": 0.143,
    "examples": [
     {
      "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
@@ -505,8 +505,8 @@
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 14,
-   "share": 0.12,
+   "posts": 15,
+   "share": 0.126,
    "examples": [
     {
      "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
@@ -527,14 +527,9 @@
   },
   {
    "topic": "Growth / milestones",
-   "posts": 9,
-   "share": 0.077,
+   "posts": 8,
+   "share": 0.067,
    "examples": [
-    {
-     "text": "Pro users, would you rather have",
-     "url": "https://x.com/thsottiaux/status/2109152716954222849",
-     "ts": "2026-10-11T05:22:48Z"
-    },
     {
      "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n",
      "url": "https://x.com/thsottiaux/status/2109430343346581527",
@@ -544,13 +539,18 @@
      "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount store",
      "url": "https://x.com/thsottiaux/status/2110151780478927344",
      "ts": "2026-10-13T23:32:43Z"
+    },
+    {
+     "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+     "url": "https://x.com/thsottiaux/status/2111244957851984181",
+     "ts": "2026-10-16T23:56:37Z"
     }
    ]
   },
   {
    "topic": "Reliability / incidents",
    "posts": 5,
-   "share": 0.043,
+   "share": 0.042,
    "examples": [
     {
      "text": "@theo Nice. Will fix",
@@ -573,9 +573,9 @@
  "mentions": [
   {
    "handle": "theo",
-   "replies": 4,
+   "replies": 5,
    "named": 3,
-   "total": 7
+   "total": 8
   },
   {
    "handle": "alexandr_wang",
@@ -584,61 +584,19 @@
    "total": 5
   },
   {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "specialkdelslay",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "romainhuet",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "ebloch",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "rl_env",
+   "handle": "playdropai",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
    "handle": "TokenGremlin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "can",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -656,7 +614,43 @@
    "total": 2
   },
   {
-   "handle": "playdropai",
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "can",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codeglitch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ScriptedAlchemy",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "romainhuet",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -668,7 +662,13 @@
    "total": 2
   },
   {
-   "handle": "argofowl",
+   "handle": "LexnLin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "specialkdelslay",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -692,7 +692,19 @@
    "total": 1
   },
   {
+   "handle": "_jayyy18_13k",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
    "handle": "poteto",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
+   "handle": "OpenAIDevs",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -708,25 +720,19 @@
    "replies": 0,
    "named": 1,
    "total": 1
-  },
-  {
-   "handle": "OpenAIDevs",
-   "replies": 0,
-   "named": 1,
-   "total": 1
   }
  ],
  "reset_lexicon": [
   {
    "week": 0,
    "label": "最近7天",
-   "reset": 10,
+   "reset": 11,
    "resets": 1,
    "reseted": 0,
    "banked": 0,
    "eod": 2,
    "propagate": 0,
-   "propagated": 0,
+   "propagated": 1,
    "usage": 6,
    "limit": 1,
    "limits": 2,
@@ -805,6 +811,41 @@
  ],
  "reset_posts": [
   {
+   "ts": "2026-10-25 13:31",
+   "text": "https://t.co/cjuGQnsUgA",
+   "url": "https://x.com/thsottiaux/status/2114228445043691592",
+   "likes": 399,
+   "replies": 28
+  },
+  {
+   "ts": "2026-10-25 13:30",
+   "text": "Not a real improvement, put the reset in the bag",
+   "url": "https://x.com/thsottiaux/status/2114228044072403055",
+   "likes": 454,
+   "replies": 43
+  },
+  {
+   "ts": "2026-10-25 11:40",
+   "text": "By midnight PST",
+   "url": "https://x.com/thsottiaux/status/2114200291319124163",
+   "likes": 1500,
+   "replies": 310
+  },
+  {
+   "ts": "2026-10-25 11:39",
+   "text": "Day 20/ Rest and reset",
+   "url": "https://x.com/thsottiaux/status/2114200152701575656",
+   "likes": 6775,
+   "replies": 860
+  },
+  {
+   "ts": "2026-10-25 00:53",
+   "text": "One day",
+   "url": "https://x.com/thsottiaux/status/2114037527598576003",
+   "likes": 558,
+   "replies": 69
+  },
+  {
    "ts": "2026-10-24 07:13",
    "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows cor",
    "url": "https://x.com/thsottiaux/status/2113770862860222611",
@@ -852,41 +893,6 @@
    "url": "https://x.com/thsottiaux/status/2111492673890824348",
    "likes": 16208,
    "replies": 1645
-  },
-  {
-   "ts": "2026-10-15 23:11",
-   "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does h",
-   "url": "https://x.com/thsottiaux/status/2110750421367287996",
-   "likes": 11044,
-   "replies": 2763
-  },
-  {
-   "ts": "2026-10-15 12:56",
-   "text": "Landing within the next 2 hours",
-   "url": "https://x.com/thsottiaux/status/2110595554036400151",
-   "likes": 3824,
-   "replies": 510
-  },
-  {
-   "ts": "2026-10-15 12:55",
-   "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
-   "url": "https://x.com/thsottiaux/status/2110595484180214059",
-   "likes": 17072,
-   "replies": 2102
-  },
-  {
-   "ts": "2026-10-13 14:21",
-   "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
-   "url": "https://x.com/thsottiaux/status/2109892247580000595",
-   "likes": 13351,
-   "replies": 2459
-  },
-  {
-   "ts": "2026-10-13 13:06",
-   "text": "Mashed @poteto on the house.",
-   "url": "https://x.com/thsottiaux/status/2109873307722121591",
-   "likes": 2220,
-   "replies": 157
   }
  ]
 }

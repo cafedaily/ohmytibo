@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-25T04:38:38.406361+00:00",
- "generated_local": "2026-10-25 12:38",
+ "generated_at": "2026-10-25T06:56:03.887460+00:00",
+ "generated_local": "2026-10-25 14:56",
  "forecast": {
-  "p_24h": 0.2834,
-  "p_48h": 0.5197,
-  "p_72h": 0.6605,
-  "p_7d": 0.8756,
-  "last_reset": "2026-10-23T17:40:51+00:00",
-  "last_reset_local": "2026-10-24 01:40",
-  "modal_reset_at": "2026-10-25T20:38:38.406361+00:00",
-  "modal_reset_local": "2026-10-26 04:38",
-  "hours_since_last_reset": 34.96,
-  "reset_count": 33,
-  "mean_gap_days": 3.65,
-  "median_gap_days": 2.41,
-  "recent_mean_gap_days": 2.09,
+  "p_24h": 0.1381,
+  "p_48h": 0.3449,
+  "p_72h": 0.5711,
+  "p_7d": 0.8601,
+  "last_reset": "2026-10-25T06:10:01+00:00",
+  "last_reset_local": "2026-10-25 14:10",
+  "modal_reset_at": "2026-10-27T06:56:03.887460+00:00",
+  "modal_reset_local": "2026-10-27 14:56",
+  "hours_since_last_reset": 0.77,
+  "reset_count": 34,
+  "mean_gap_days": 3.58,
+  "median_gap_days": 2.33,
+  "recent_mean_gap_days": 2.01,
   "backtest": {
    "days": 44,
-   "brier": 0.1975,
+   "brier": 0.1964,
    "brier_baseline": 0.1875,
-   "logloss": 0.5925,
+   "logloss": 0.5898,
    "logloss_baseline": 0.5623,
-   "skill": -0.054,
+   "skill": -0.049,
    "base_rate": 0.25
   },
   "weekly": [
    {
     "date": "2026-10-25",
-    "p": 0.2092
+    "p": 0.0892
    },
    {
     "date": "2026-10-26",
-    "p": 0.2626
+    "p": 0.1854
    },
    {
     "date": "2026-10-27",
-    "p": 0.1629
+    "p": 0.2234
    },
    {
     "date": "2026-10-28",
-    "p": 0.0888
+    "p": 0.167
    },
    {
     "date": "2026-10-29",
-    "p": 0.0529
+    "p": 0.0957
    },
    {
     "date": "2026-10-30",
-    "p": 0.0469
+    "p": 0.0523
    },
    {
     "date": "2026-10-31",
-    "p": 0.0443
+    "p": 0.0357
    },
    {
     "date": "2026-11-01",
-    "p": 0.0313
+    "p": 0.0355
    },
    {
     "date": "2026-11-02",
-    "p": 0.0283
+    "p": 0.0276
    },
    {
     "date": "2026-11-03",
-    "p": 0.0216
+    "p": 0.0221
    },
    {
     "date": "2026-11-04",
-    "p": 0.0031
+    "p": 0.0071
    }
   ],
   "pending_promise": null
@@ -644,18 +644,18 @@
    "date": "2026-10-24",
    "posts": 4,
    "replies": 2,
-   "likes": 19997,
-   "engagement_replies": 2732,
+   "likes": 20107,
+   "engagement_replies": 2735,
    "reset": 1,
    "banked": 0
   },
   {
    "date": "2026-10-25",
-   "posts": 11,
-   "replies": 8,
-   "likes": 21010,
-   "engagement_replies": 3928,
-   "reset": 0,
+   "posts": 15,
+   "replies": 11,
+   "likes": 28849,
+   "engagement_replies": 4985,
+   "reset": 1,
    "banked": 0
   }
  ],
@@ -666,7 +666,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 18,
-    "lift": 1.11,
+    "lift": 1.12,
     "docs": 5,
     "share": 0.0112,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -674,23 +674,23 @@
     "sample_ts": "2026-10-19T04:12:15Z"
    },
    {
-    "term": "dot",
+    "term": "reset",
     "kind": "word",
     "count_7d": 6,
-    "count_28d_before": 31,
-    "lift": 0.43,
-    "docs": 4,
+    "count_28d_before": 22,
+    "lift": 0.88,
+    "docs": 6,
     "share": 0.0112,
-    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-    "sample_ts": "2026-10-18T05:17:04Z"
+    "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+    "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
+    "sample_ts": "2026-10-20T06:33:48Z"
    },
    {
     "term": "codex",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 0.94,
+    "lift": 0.95,
     "docs": 4,
     "share": 0.0093,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -702,24 +702,12 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 0.68,
+    "lift": 0.7,
     "docs": 3,
     "share": 0.0093,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
-   },
-   {
-    "term": "reset",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 22,
-    "lift": 0.63,
-    "docs": 5,
-    "share": 0.0093,
-    "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
-    "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
-    "sample_ts": "2026-10-20T06:33:48Z"
    },
    {
     "term": "tool",
@@ -728,7 +716,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0074,
+    "share": 0.0075,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -738,12 +726,24 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 2,
-    "lift": 2.53,
+    "lift": 2.54,
     "docs": 2,
-    "share": 0.0074,
+    "share": 0.0075,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
+   },
+   {
+    "term": "dot",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 33,
+    "lift": -0.17,
+    "docs": 3,
+    "share": 0.0075,
+    "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+    "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
+    "sample_ts": "2026-10-18T14:53:08Z"
    },
    {
     "term": "cli",
@@ -756,18 +756,6 @@
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
-   },
-   {
-    "term": "openai",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 1,
-    "lift": 2.45,
-    "docs": 3,
-    "share": 0.0056,
-    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-    "sample_ts": "2026-10-18T05:17:04Z"
    },
    {
     "term": "step",
@@ -786,12 +774,24 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.93,
+    "lift": 1.94,
     "docs": 2,
     "share": 0.0056,
     "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
     "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
     "sample_ts": "2026-10-19T01:18:10Z"
+   },
+   {
+    "term": "enjoy",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 4,
+    "lift": 1.73,
+    "docs": 3,
+    "share": 0.0056,
+    "sample": "@theo Instead\n\n1) Buy a Pro 100 sub\n2) ???\n3) Enjoy T3Code",
+    "sample_url": "https://x.com/thsottiaux/status/2112426606870585551",
+    "sample_ts": "2026-10-20T06:12:04Z"
    },
    {
     "term": "don",
@@ -822,7 +822,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 15,
-    "lift": 0.44,
+    "lift": 0.45,
     "docs": 3,
     "share": 0.0056,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -834,7 +834,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 17,
-    "lift": 0.29,
+    "lift": 0.3,
     "docs": 3,
     "share": 0.0056,
     "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
@@ -850,7 +850,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0074,
+    "share": 0.0075,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -872,24 +872,12 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 2,
-    "lift": 2.53,
+    "lift": 2.54,
     "docs": 2,
-    "share": 0.0074,
+    "share": 0.0075,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
-   },
-   {
-    "term": "openai",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 1,
-    "lift": 2.45,
-    "docs": 3,
-    "share": 0.0056,
-    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-    "sample_ts": "2026-10-18T05:17:04Z"
    },
    {
     "term": "blue access",
@@ -956,12 +944,24 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.93,
+    "lift": 1.94,
     "docs": 2,
     "share": 0.0056,
     "sample": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
     "sample_url": "https://x.com/thsottiaux/status/2111990254408434095",
     "sample_ts": "2026-10-19T01:18:10Z"
+   },
+   {
+    "term": "enjoy",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 4,
+    "lift": 1.73,
+    "docs": 3,
+    "share": 0.0056,
+    "sample": "@theo Instead\n\n1) Buy a Pro 100 sub\n2) ???\n3) Enjoy T3Code",
+    "sample_url": "https://x.com/thsottiaux/status/2112426606870585551",
+    "sample_ts": "2026-10-20T06:12:04Z"
    },
    {
     "term": "don",
@@ -992,7 +992,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 18,
-    "lift": 1.11,
+    "lift": 1.12,
     "docs": 5,
     "share": 0.0112,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -1004,7 +1004,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 17,
-    "lift": 0.94,
+    "lift": 0.95,
     "docs": 4,
     "share": 0.0093,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -1012,11 +1012,23 @@
     "sample_ts": "2026-10-21T01:10:02Z"
    },
    {
+    "term": "reset",
+    "kind": "word",
+    "count_7d": 6,
+    "count_28d_before": 22,
+    "lift": 0.88,
+    "docs": 6,
+    "share": 0.0112,
+    "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+    "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
+    "sample_ts": "2026-10-20T06:33:48Z"
+   },
+   {
     "term": "usage",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 0.68,
+    "lift": 0.7,
     "docs": 3,
     "share": 0.0093,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
@@ -1024,23 +1036,11 @@
     "sample_ts": "2026-10-20T17:10:20Z"
    },
    {
-    "term": "reset",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 22,
-    "lift": 0.63,
-    "docs": 5,
-    "share": 0.0093,
-    "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
-    "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
-    "sample_ts": "2026-10-20T06:33:48Z"
-   },
-   {
     "term": "api",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 15,
-    "lift": 0.44,
+    "lift": 0.45,
     "docs": 3,
     "share": 0.0056,
     "sample": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you ",
@@ -1048,25 +1048,25 @@
     "sample_ts": "2026-10-19T04:12:15Z"
    },
    {
-    "term": "dot",
-    "kind": "word",
-    "count_7d": 6,
-    "count_28d_before": 31,
-    "lift": 0.43,
-    "docs": 4,
-    "share": 0.0112,
-    "sample": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-    "sample_url": "https://x.com/thsottiaux/status/2111687989328011357",
-    "sample_ts": "2026-10-18T05:17:04Z"
-   },
-   {
     "term": "dots",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 17,
-    "lift": 0.29,
+    "lift": 0.3,
     "docs": 3,
     "share": 0.0056,
+    "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+    "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
+    "sample_ts": "2026-10-18T14:53:08Z"
+   },
+   {
+    "term": "dot",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 33,
+    "lift": -0.17,
+    "docs": 3,
+    "share": 0.0075,
     "sample": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
     "sample_url": "https://x.com/thsottiaux/status/2111832959842161136",
     "sample_ts": "2026-10-18T14:53:08Z"
@@ -1075,28 +1075,42 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 3,
+  "count_24h": 4,
   "count_72h": 6,
-  "count_7d": 13,
-  "since_last_reset": 4,
+  "count_7d": 14,
+  "since_last_reset": 0,
   "baseline_per_day": 1.71,
-  "level": "elevated",
+  "level": "high",
   "items": [
    {
-    "id": "2114200291319124163",
-    "ts": "2026-10-25T03:40:04+00:00",
-    "ts_local": "2026-10-25 11:40",
-    "kind": "related",
-    "label": "相关",
-    "text": "By midnight PST",
-    "url": "https://x.com/thsottiaux/status/2114200291319124163",
+    "id": "2114228445043691592",
+    "ts": "2026-10-25T05:31:56+00:00",
+    "ts_local": "2026-10-25 13:31",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "https://t.co/cjuGQnsUgA",
+    "url": "https://x.com/thsottiaux/status/2114228445043691592",
     "sources": [
-     "feed",
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 1.0
+    "after_last_reset": false,
+    "age_hours": 1.4
+   },
+   {
+    "id": "2114228044072403055",
+    "ts": "2026-10-25T05:30:20+00:00",
+    "ts_local": "2026-10-25 13:30",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Not a real improvement, put the reset in the bag",
+    "url": "https://x.com/thsottiaux/status/2114228044072403055",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 1.4
    },
    {
     "id": "2114200152701575656",
@@ -1110,8 +1124,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 1.0
+    "after_last_reset": false,
+    "age_hours": 3.3
    },
    {
     "id": "2114037527598576003",
@@ -1125,8 +1139,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 11.8
+    "after_last_reset": false,
+    "age_hours": 14.0
    },
    {
     "id": "2113770862860222611",
@@ -1140,8 +1154,8 @@
      "page"
     ],
     "forward": false,
-    "after_last_reset": true,
-    "age_hours": 29.4
+    "after_last_reset": false,
+    "age_hours": 31.7
    },
    {
     "id": "2113492187770175603",
@@ -1157,7 +1171,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 47.9
+    "age_hours": 50.2
    },
    {
     "id": "2113162413008884099",
@@ -1173,7 +1187,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 69.7
+    "age_hours": 72.0
    },
    {
     "id": "2113029854417600834",
@@ -1188,7 +1202,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 78.5
+    "age_hours": 80.8
    },
    {
     "id": "2112906496736641416",
@@ -1203,7 +1217,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 86.7
+    "age_hours": 89.0
    },
    {
     "id": "2112798407928713717",
@@ -1218,7 +1232,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 93.8
+    "age_hours": 96.1
    },
    {
     "id": "2112592264686149749",
@@ -1233,7 +1247,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 107.5
+    "age_hours": 109.8
    },
    {
     "id": "2112034063934742720",
@@ -1248,7 +1262,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 144.4
+    "age_hours": 146.7
    },
    {
     "id": "2111918768733753664",
@@ -1263,7 +1277,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 152.1
+    "age_hours": 154.4
    },
    {
     "id": "2111918635849801739",
@@ -1278,7 +1292,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 152.1
+    "age_hours": 154.4
    },
    {
     "id": "2111583927156760690",
@@ -1293,7 +1307,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 174.3
+    "age_hours": 176.5
    },
    {
     "id": "2111492673890824348",
@@ -1309,7 +1323,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 180.3
+    "age_hours": 182.6
    },
    {
     "id": "2111244596131111253",
@@ -1324,7 +1338,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 196.7
+    "age_hours": 199.0
    },
    {
     "id": "2110951585983631505",
@@ -1339,7 +1353,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 216.1
+    "age_hours": 218.4
    },
    {
     "id": "2110750421367287996",
@@ -1354,7 +1368,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 229.5
+    "age_hours": 231.7
    },
    {
     "id": "2110595484180214059",
@@ -1369,7 +1383,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 239.7
+    "age_hours": 242.0
    },
    {
     "id": "2109892247580000595",
@@ -1384,7 +1398,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 286.3
+    "age_hours": 288.6
    },
    {
     "id": "2109873307722121591",
@@ -1400,7 +1414,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 287.5
+    "age_hours": 289.8
    },
    {
     "id": "2109873287853707513",
@@ -1416,7 +1430,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 287.5
+    "age_hours": 289.8
    },
    {
     "id": "2109812216212099456",
@@ -1432,7 +1446,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 291.6
+    "age_hours": 293.9
    },
    {
     "id": "2109439315570999598",
@@ -1447,7 +1461,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 316.3
+    "age_hours": 318.6
    },
    {
     "id": "2109438305188327838",
@@ -1462,7 +1476,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 316.4
+    "age_hours": 318.6
    },
    {
     "id": "2109430894604026039",
@@ -1477,7 +1491,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 316.8
+    "age_hours": 319.1
    }
   ]
  },
@@ -1489,43 +1503,50 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-25T04:38:38+00:00",
+    "at": "2026-10-25T06:56:03+00:00",
     "ok": true,
-    "fetched": 61,
+    "fetched": 2,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-25T04:38:38+00:00"
+    "last_ok": "2026-10-25T06:56:03+00:00"
    },
    "feed": {
-    "at": "2026-10-25T04:38:38+00:00",
+    "at": "2026-10-25T06:56:03+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
-    "new": 1,
+    "new": 0,
     "error": null,
     "total": 55,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-25T04:38:38+00:00"
+    "last_ok": "2026-10-25T06:56:03+00:00"
    },
    "pipeline": {
-    "at": "2026-10-25T04:37:45+00:00",
+    "at": "2026-10-25T06:56:01+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-25T04:37:45+00:00"
+    "last_ok": "2026-10-25T06:56:01+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-25T04:38:38+00:00",
+   "checked_at": "2026-10-25T06:56:03+00:00",
    "channels": [],
    "configured": false,
-   "pending": 1,
-   "undelivered_7d": 8,
+   "pending": 2,
+   "undelivered_7d": 9,
    "last_sent": null,
    "recent": [
+    {
+     "title": "检测到全局重置",
+     "kind": "reset",
+     "created_at": "2026-10-25T06:56:03+00:00",
+     "status": "pending",
+     "reason": "no_channel"
+    },
     {
      "title": "重置信号 · 相关",
      "kind": "signal",
@@ -1560,25 +1581,10 @@
      "created_at": "2026-10-22T19:20:13+00:00",
      "status": "expired",
      "reason": "no_channel"
-    },
-    {
-     "title": "24 小时重置概率升至 31%",
-     "kind": "probability",
-     "created_at": "2026-10-22T10:20:19+00:00",
-     "status": "expired",
-     "reason": "no_channel"
     }
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-23T05:34:35+00:00",
-    "mode": "fast",
-    "seconds": 2.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-23T10:29:03+00:00",
     "mode": "fast",
@@ -1694,7 +1700,15 @@
    {
     "at": "2026-10-25T04:37:45+00:00",
     "mode": "full",
-    "seconds": 53.2,
+    "seconds": 53.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-25T06:56:01+00:00",
+    "mode": "fast",
+    "seconds": 2.4,
     "ok": true,
     "failed": [],
     "warnings": []
