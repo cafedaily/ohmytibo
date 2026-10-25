@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-25T06:56:03.887460+00:00",
- "generated_local": "2026-10-25 14:56",
+ "generated_at": "2026-10-25T11:24:12.410747+00:00",
+ "generated_local": "2026-10-25 19:24",
  "forecast": {
-  "p_24h": 0.1381,
-  "p_48h": 0.3449,
-  "p_72h": 0.5711,
-  "p_7d": 0.8601,
+  "p_24h": 0.1577,
+  "p_48h": 0.377,
+  "p_72h": 0.5899,
+  "p_7d": 0.8639,
   "last_reset": "2026-10-25T06:10:01+00:00",
   "last_reset_local": "2026-10-25 14:10",
-  "modal_reset_at": "2026-10-27T06:56:03.887460+00:00",
-  "modal_reset_local": "2026-10-27 14:56",
-  "hours_since_last_reset": 0.77,
+  "modal_reset_at": "2026-10-27T06:24:12.410747+00:00",
+  "modal_reset_local": "2026-10-27 14:24",
+  "hours_since_last_reset": 5.24,
   "reset_count": 34,
   "mean_gap_days": 3.58,
   "median_gap_days": 2.33,
   "recent_mean_gap_days": 2.01,
   "backtest": {
    "days": 44,
-   "brier": 0.1964,
+   "brier": 0.1908,
    "brier_baseline": 0.1875,
-   "logloss": 0.5898,
+   "logloss": 0.5744,
    "logloss_baseline": 0.5623,
-   "skill": -0.049,
+   "skill": -0.021,
    "base_rate": 0.25
   },
   "weekly": [
    {
     "date": "2026-10-25",
-    "p": 0.0892
+    "p": 0.0641
    },
    {
     "date": "2026-10-26",
-    "p": 0.1854
+    "p": 0.1905
    },
    {
     "date": "2026-10-27",
-    "p": 0.2234
+    "p": 0.2296
    },
    {
     "date": "2026-10-28",
-    "p": 0.167
+    "p": 0.1716
    },
    {
     "date": "2026-10-29",
-    "p": 0.0957
+    "p": 0.0983
    },
    {
     "date": "2026-10-30",
-    "p": 0.0523
+    "p": 0.0537
    },
    {
     "date": "2026-10-31",
-    "p": 0.0357
+    "p": 0.0367
    },
    {
     "date": "2026-11-01",
-    "p": 0.0355
+    "p": 0.0365
    },
    {
     "date": "2026-11-02",
-    "p": 0.0276
+    "p": 0.0284
    },
    {
     "date": "2026-11-03",
-    "p": 0.0221
+    "p": 0.0227
    },
    {
     "date": "2026-11-04",
-    "p": 0.0071
+    "p": 0.0115
    }
   ],
   "pending_promise": null
@@ -626,7 +626,7 @@
    "date": "2026-10-22",
    "posts": 7,
    "replies": 5,
-   "likes": 30807,
+   "likes": 30821,
    "engagement_replies": 6771,
    "reset": 0,
    "banked": 0
@@ -635,8 +635,8 @@
    "date": "2026-10-23",
    "posts": 3,
    "replies": 2,
-   "likes": 14008,
-   "engagement_replies": 2591,
+   "likes": 14035,
+   "engagement_replies": 2592,
    "reset": 1,
    "banked": 0
   },
@@ -644,8 +644,8 @@
    "date": "2026-10-24",
    "posts": 4,
    "replies": 2,
-   "likes": 20107,
-   "engagement_replies": 2735,
+   "likes": 20359,
+   "engagement_replies": 2756,
    "reset": 1,
    "banked": 0
   },
@@ -653,8 +653,8 @@
    "date": "2026-10-25",
    "posts": 15,
    "replies": 11,
-   "likes": 28849,
-   "engagement_replies": 4985,
+   "likes": 35441,
+   "engagement_replies": 5536,
    "reset": 1,
    "banked": 0
   }
@@ -1095,7 +1095,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 1.4
+    "age_hours": 5.9
    },
    {
     "id": "2114228044072403055",
@@ -1110,7 +1110,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 1.4
+    "age_hours": 5.9
    },
    {
     "id": "2114200152701575656",
@@ -1125,7 +1125,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 3.3
+    "age_hours": 7.7
    },
    {
     "id": "2114037527598576003",
@@ -1140,7 +1140,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 14.0
+    "age_hours": 18.5
    },
    {
     "id": "2113770862860222611",
@@ -1155,7 +1155,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 31.7
+    "age_hours": 36.2
    },
    {
     "id": "2113492187770175603",
@@ -1171,7 +1171,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 50.2
+    "age_hours": 54.6
    },
    {
     "id": "2113162413008884099",
@@ -1187,7 +1187,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 72.0
+    "age_hours": 76.5
    },
    {
     "id": "2113029854417600834",
@@ -1202,7 +1202,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 80.8
+    "age_hours": 85.3
    },
    {
     "id": "2112906496736641416",
@@ -1217,7 +1217,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 89.0
+    "age_hours": 93.4
    },
    {
     "id": "2112798407928713717",
@@ -1232,7 +1232,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 96.1
+    "age_hours": 100.6
    },
    {
     "id": "2112592264686149749",
@@ -1247,7 +1247,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 109.8
+    "age_hours": 114.2
    },
    {
     "id": "2112034063934742720",
@@ -1262,7 +1262,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 146.7
+    "age_hours": 151.2
    },
    {
     "id": "2111918768733753664",
@@ -1277,7 +1277,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 154.4
+    "age_hours": 158.8
    },
    {
     "id": "2111918635849801739",
@@ -1292,7 +1292,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 154.4
+    "age_hours": 158.8
    },
    {
     "id": "2111583927156760690",
@@ -1307,7 +1307,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 176.5
+    "age_hours": 181.0
    },
    {
     "id": "2111492673890824348",
@@ -1323,7 +1323,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 182.6
+    "age_hours": 187.1
    },
    {
     "id": "2111244596131111253",
@@ -1338,7 +1338,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 199.0
+    "age_hours": 203.5
    },
    {
     "id": "2110951585983631505",
@@ -1353,7 +1353,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 218.4
+    "age_hours": 222.9
    },
    {
     "id": "2110750421367287996",
@@ -1368,7 +1368,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 231.7
+    "age_hours": 236.2
    },
    {
     "id": "2110595484180214059",
@@ -1383,7 +1383,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 242.0
+    "age_hours": 246.5
    },
    {
     "id": "2109892247580000595",
@@ -1398,7 +1398,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 288.6
+    "age_hours": 293.0
    },
    {
     "id": "2109873307722121591",
@@ -1414,7 +1414,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 289.8
+    "age_hours": 294.3
    },
    {
     "id": "2109873287853707513",
@@ -1430,7 +1430,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 289.8
+    "age_hours": 294.3
    },
    {
     "id": "2109812216212099456",
@@ -1446,7 +1446,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 293.9
+    "age_hours": 298.3
    },
    {
     "id": "2109439315570999598",
@@ -1461,7 +1461,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 318.6
+    "age_hours": 323.0
    },
    {
     "id": "2109438305188327838",
@@ -1476,7 +1476,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 318.6
+    "age_hours": 323.1
    },
    {
     "id": "2109430894604026039",
@@ -1491,7 +1491,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 319.1
+    "age_hours": 323.6
    }
   ]
  },
@@ -1503,18 +1503,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-25T06:56:03+00:00",
+    "at": "2026-10-25T11:24:12+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-25T06:56:03+00:00"
+    "last_ok": "2026-10-25T11:24:12+00:00"
    },
    "feed": {
-    "at": "2026-10-25T06:56:03+00:00",
+    "at": "2026-10-25T11:24:12+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1522,18 +1522,18 @@
     "error": null,
     "total": 55,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-25T06:56:03+00:00"
+    "last_ok": "2026-10-25T11:24:12+00:00"
    },
    "pipeline": {
-    "at": "2026-10-25T06:56:01+00:00",
+    "at": "2026-10-25T11:23:16+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-25T06:56:01+00:00"
+    "last_ok": "2026-10-25T11:23:16+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-25T06:56:03+00:00",
+   "checked_at": "2026-10-25T11:24:12+00:00",
    "channels": [],
    "configured": false,
    "pending": 2,
@@ -1585,14 +1585,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-23T10:29:03+00:00",
-    "mode": "fast",
-    "seconds": 2.4,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-23T11:35:20+00:00",
     "mode": "full",
@@ -1709,6 +1701,14 @@
     "at": "2026-10-25T06:56:01+00:00",
     "mode": "fast",
     "seconds": 2.4,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-25T11:23:16+00:00",
+    "mode": "full",
+    "seconds": 56.0,
     "ok": true,
     "failed": [],
     "warnings": []
