@@ -91,7 +91,7 @@
    "body": "北京时间 10-25 11:40 · By midnight PST",
    "url": "https://x.com/thsottiaux/status/2114200291319124163",
    "created_at": "2026-10-25T04:38:38+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -103,7 +103,7 @@
    "body": "北京时间 10-25 14:10 · By midnight PST",
    "url": "https://x.com/thsottiaux/status/2114200291319124163",
    "created_at": "2026-10-25T06:56:03+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -161,10 +161,10 @@
   "reset:2114200291319124163"
  ],
  "summary": {
-  "checked_at": "2026-10-25T16:14:59+00:00",
+  "checked_at": "2026-10-25T19:14:54+00:00",
   "channels": [],
   "configured": false,
-  "pending": 2,
+  "pending": 0,
   "undelivered_7d": 9,
   "last_sent": null,
   "recent": [
@@ -172,14 +172,14 @@
     "title": "检测到全局重置",
     "kind": "reset",
     "created_at": "2026-10-25T06:56:03+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
     "title": "重置信号 · 相关",
     "kind": "signal",
     "created_at": "2026-10-25T04:38:38+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {

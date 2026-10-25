@@ -389,7 +389,7 @@
   }
  ],
  "tokens_recent": 522,
- "tokens_base": 3894,
+ "tokens_base": 3889,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -560,25 +560,19 @@
    "total": 5
   },
   {
-   "handle": "codeglitch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ScriptedAlchemy",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "TokenGremlin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "playdropai",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -590,19 +584,25 @@
    "total": 2
   },
   {
-   "handle": "ebloch",
+   "handle": "LexnLin",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "mitsuhiko",
+   "handle": "romainhuet",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "claudeai",
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "codeglitch",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -620,34 +620,28 @@
    "total": 2
   },
   {
-   "handle": "LexnLin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "playdropai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "romainhuet",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "specialkdelslay",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "littlelion_love",
+   "handle": "ScriptedAlchemy",
    "replies": 1,
-   "named": 0,
-   "total": 1
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "mitsuhiko",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ebloch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
   },
   {
    "handle": "_jayyy18_13k",
@@ -668,6 +662,18 @@
    "total": 1
   },
   {
+   "handle": "littlelion_love",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "poteto",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
    "handle": "hqmank",
    "replies": 0,
    "named": 1,
@@ -675,12 +681,6 @@
   },
   {
    "handle": "bcherny",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
-   "handle": "poteto",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -784,35 +784,35 @@
    "ts": "2026-10-25 13:31",
    "text": "https://t.co/cjuGQnsUgA",
    "url": "https://x.com/thsottiaux/status/2114228445043691592",
-   "likes": 1011,
-   "replies": 44
+   "likes": 1169,
+   "replies": 51
   },
   {
    "ts": "2026-10-25 13:30",
    "text": "Not a real improvement, put the reset in the bag",
    "url": "https://x.com/thsottiaux/status/2114228044072403055",
-   "likes": 1617,
+   "likes": 1794,
    "replies": 64
   },
   {
    "ts": "2026-10-25 11:40",
    "text": "By midnight PST",
    "url": "https://x.com/thsottiaux/status/2114200291319124163",
-   "likes": 1967,
-   "replies": 344
+   "likes": 2022,
+   "replies": 349
   },
   {
    "ts": "2026-10-25 11:39",
    "text": "Day 20/ Rest and reset",
    "url": "https://x.com/thsottiaux/status/2114200152701575656",
-   "likes": 10423,
-   "replies": 1131
+   "likes": 10850,
+   "replies": 1159
   },
   {
    "ts": "2026-10-25 00:53",
    "text": "One day",
    "url": "https://x.com/thsottiaux/status/2114037527598576003",
-   "likes": 571,
+   "likes": 580,
    "replies": 69
   },
   {
