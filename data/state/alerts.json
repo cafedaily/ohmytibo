@@ -83,6 +83,18 @@
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
+  },
+  {
+   "key": "signal:2114200291319124163",
+   "kind": "signal",
+   "title": "重置信号 · 相关",
+   "body": "北京时间 10-25 11:40 · By midnight PST",
+   "url": "https://x.com/thsottiaux/status/2114200291319124163",
+   "created_at": "2026-10-25T04:38:38+00:00",
+   "status": "pending",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
   }
  ],
  "bootstrapped_at": "2026-10-21T09:09:31+00:00",
@@ -132,16 +144,24 @@
   "reset:2113162277688070445",
   "signal:2113492502355562875",
   "signal:2113492187770175603",
-  "reset:2113492502355562875"
+  "reset:2113492502355562875",
+  "signal:2114200291319124163"
  ],
  "summary": {
-  "checked_at": "2026-10-24T23:12:12+00:00",
+  "checked_at": "2026-10-25T04:38:38+00:00",
   "channels": [],
   "configured": false,
-  "pending": 0,
-  "undelivered_7d": 7,
+  "pending": 1,
+  "undelivered_7d": 8,
   "last_sent": null,
   "recent": [
+   {
+    "title": "重置信号 · 相关",
+    "kind": "signal",
+    "created_at": "2026-10-25T04:38:38+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
    {
     "title": "检测到全局重置",
     "kind": "reset",
@@ -173,13 +193,6 @@
    {
     "title": "24 小时重置概率升至 31%",
     "kind": "probability",
-    "created_at": "2026-10-22T10:20:19+00:00",
-    "status": "expired",
-    "reason": "no_channel"
-   },
-   {
-    "title": "重置信号 · 相关",
-    "kind": "signal",
     "created_at": "2026-10-22T10:20:19+00:00",
     "status": "expired",
     "reason": "no_channel"
