@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T07:02:21.043504+00:00",
- "generated_at_local": "2026-10-26 15:02",
+ "generated_at": "2026-10-26T12:58:40.411826+00:00",
+ "generated_at_local": "2026-10-26 20:58",
  "timezone": "UTC+8",
  "posts": 735,
  "replies": 529,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-10-26T06:05:56Z",
  "resets_tracked": 35,
- "p_24h": 0.1546,
- "p_48h": 0.3625,
- "modal_reset_at": "2026-10-29T06:02:21.043504+00:00",
+ "p_24h": 0.176,
+ "p_48h": 0.3981,
+ "modal_reset_at": "2026-10-28T06:58:40.411826+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2108,
+  "brier": 0.2053,
   "brier_baseline": 0.1983,
-  "logloss": 0.6263,
+  "logloss": 0.6109,
   "logloss_baseline": 0.586,
-  "skill": -0.069,
+  "skill": -0.043,
   "base_rate": 0.2727
  },
  "top_terms": [
@@ -1032,7 +1032,7 @@
    "date": "2026-10-23",
    "posts": 3,
    "replies": 2,
-   "likes": 14058,
+   "likes": 14059,
    "engagement_replies": 2593,
    "reset": 1,
    "banked": 0
@@ -1041,7 +1041,7 @@
    "date": "2026-10-24",
    "posts": 4,
    "replies": 2,
-   "likes": 20799,
+   "likes": 20820,
    "engagement_replies": 2777,
    "reset": 1,
    "banked": 0
@@ -1050,8 +1050,8 @@
    "date": "2026-10-25",
    "posts": 16,
    "replies": 12,
-   "likes": 44924,
-   "engagement_replies": 6487,
+   "likes": 45492,
+   "engagement_replies": 6531,
    "reset": 1,
    "banked": 0
   },
@@ -1059,8 +1059,8 @@
    "date": "2026-10-26",
    "posts": 8,
    "replies": 6,
-   "likes": 10092,
-   "engagement_replies": 2047,
+   "likes": 16440,
+   "engagement_replies": 2953,
    "reset": 1,
    "banked": 0
   }
