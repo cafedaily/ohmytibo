@@ -107,6 +107,18 @@
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
+  },
+  {
+   "key": "reset:2114588174249071102",
+   "kind": "reset",
+   "title": "检测到全局重置",
+   "body": "北京时间 10-26 14:08 · Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+   "url": "https://x.com/thsottiaux/status/2114588174249071102",
+   "created_at": "2026-10-26T07:02:21+00:00",
+   "status": "pending",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
   }
  ],
  "bootstrapped_at": "2026-10-21T09:09:31+00:00",
@@ -158,16 +170,24 @@
   "signal:2113492187770175603",
   "reset:2113492502355562875",
   "signal:2114200291319124163",
-  "reset:2114200291319124163"
+  "reset:2114200291319124163",
+  "reset:2114588174249071102"
  ],
  "summary": {
-  "checked_at": "2026-10-26T04:44:20+00:00",
+  "checked_at": "2026-10-26T07:02:21+00:00",
   "channels": [],
   "configured": false,
-  "pending": 0,
-  "undelivered_7d": 9,
+  "pending": 1,
+  "undelivered_7d": 10,
   "last_sent": null,
   "recent": [
+   {
+    "title": "检测到全局重置",
+    "kind": "reset",
+    "created_at": "2026-10-26T07:02:21+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
    {
     "title": "检测到全局重置",
     "kind": "reset",
@@ -200,13 +220,6 @@
     "title": "重置信号 · 相关",
     "kind": "signal",
     "created_at": "2026-10-23T05:34:37+00:00",
-    "status": "expired",
-    "reason": "no_channel"
-   },
-   {
-    "title": "检测到全局重置",
-    "kind": "reset",
-    "created_at": "2026-10-22T19:20:13+00:00",
     "status": "expired",
     "reason": "no_channel"
    }

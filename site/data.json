@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-26T04:44:20.768708+00:00",
- "generated_local": "2026-10-26 12:44",
+ "generated_at": "2026-10-26T07:02:21.043504+00:00",
+ "generated_local": "2026-10-26 15:02",
  "forecast": {
-  "p_24h": 0.2261,
-  "p_48h": 0.4824,
-  "p_72h": 0.6521,
-  "p_7d": 0.8772,
-  "last_reset": "2026-10-25T06:10:01+00:00",
-  "last_reset_local": "2026-10-25 14:10",
-  "modal_reset_at": "2026-10-27T06:44:20.768708+00:00",
-  "modal_reset_local": "2026-10-27 14:44",
-  "hours_since_last_reset": 22.57,
-  "reset_count": 34,
-  "mean_gap_days": 3.58,
+  "p_24h": 0.1546,
+  "p_48h": 0.3625,
+  "p_72h": 0.5827,
+  "p_7d": 0.8638,
+  "last_reset": "2026-10-26T06:08:46+00:00",
+  "last_reset_local": "2026-10-26 14:08",
+  "modal_reset_at": "2026-10-29T06:02:21.043504+00:00",
+  "modal_reset_local": "2026-10-29 14:02",
+  "hours_since_last_reset": 0.89,
+  "reset_count": 35,
+  "mean_gap_days": 3.51,
   "median_gap_days": 2.33,
-  "recent_mean_gap_days": 2.01,
+  "recent_mean_gap_days": 1.83,
   "backtest": {
    "days": 44,
-   "brier": 0.1952,
-   "brier_baseline": 0.1875,
-   "logloss": 0.5862,
-   "logloss_baseline": 0.5623,
-   "skill": -0.043,
-   "base_rate": 0.25
+   "brier": 0.2108,
+   "brier_baseline": 0.1983,
+   "logloss": 0.6263,
+   "logloss_baseline": 0.586,
+   "skill": -0.069,
+   "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-10-26",
-    "p": 0.176
+    "p": 0.0733
    },
    {
     "date": "2026-10-27",
-    "p": 0.2538
+    "p": 0.1828
    },
    {
     "date": "2026-10-28",
-    "p": 0.1897
+    "p": 0.2178
    },
    {
     "date": "2026-10-29",
-    "p": 0.1087
+    "p": 0.1768
    },
    {
     "date": "2026-10-30",
-    "p": 0.0594
+    "p": 0.1036
    },
    {
     "date": "2026-10-31",
-    "p": 0.0406
+    "p": 0.0566
    },
    {
     "date": "2026-11-01",
-    "p": 0.0404
+    "p": 0.0361
    },
    {
     "date": "2026-11-02",
-    "p": 0.0314
+    "p": 0.034
    },
    {
     "date": "2026-11-03",
-    "p": 0.0251
+    "p": 0.029
    },
    {
     "date": "2026-11-04",
-    "p": 0.0225
+    "p": 0.0218
    },
    {
     "date": "2026-11-05",
-    "p": 0.0044
+    "p": 0.0105
    }
   ],
   "pending_promise": null
@@ -653,18 +653,18 @@
    "date": "2026-10-25",
    "posts": 16,
    "replies": 12,
-   "likes": 44681,
-   "engagement_replies": 6423,
+   "likes": 44924,
+   "engagement_replies": 6487,
    "reset": 1,
    "banked": 0
   },
   {
    "date": "2026-10-26",
-   "posts": 2,
-   "replies": 2,
-   "likes": 2203,
-   "engagement_replies": 116,
-   "reset": 0,
+   "posts": 8,
+   "replies": 6,
+   "likes": 10092,
+   "engagement_replies": 2047,
+   "reset": 1,
    "banked": 0
   }
  ],
@@ -673,11 +673,11 @@
    {
     "term": "reset",
     "kind": "word",
-    "count_7d": 6,
+    "count_7d": 7,
     "count_28d_before": 22,
-    "lift": 1.21,
-    "docs": 6,
-    "share": 0.0143,
+    "lift": 1.36,
+    "docs": 7,
+    "share": 0.0159,
     "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
     "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
     "sample_ts": "2026-10-20T06:33:48Z"
@@ -686,10 +686,10 @@
     "term": "codex",
     "kind": "word",
     "count_7d": 5,
-    "count_28d_before": 17,
-    "lift": 1.27,
+    "count_28d_before": 16,
+    "lift": 1.28,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0114,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -699,9 +699,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 19,
-    "lift": 1.14,
+    "lift": 1.09,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0114,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
@@ -711,9 +711,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 1.02,
+    "lift": 0.97,
     "docs": 3,
-    "share": 0.0119,
+    "share": 0.0114,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
@@ -725,7 +725,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0095,
+    "share": 0.0091,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -735,9 +735,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 2,
-    "lift": 2.66,
+    "lift": 2.64,
     "docs": 2,
-    "share": 0.0095,
+    "share": 0.0091,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -749,7 +749,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -759,9 +759,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.3,
+    "lift": 2.28,
     "docs": 1,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
     "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
     "sample_ts": "2026-10-24T22:42:03Z"
@@ -771,9 +771,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.93,
+    "lift": 1.9,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "@theo Instead\n\n1) Buy a Pro 100 sub\n2) ???\n3) Enjoy T3Code",
     "sample_url": "https://x.com/thsottiaux/status/2112426606870585551",
     "sample_ts": "2026-10-20T06:12:04Z"
@@ -783,9 +783,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.93,
+    "lift": 1.9,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -795,9 +795,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.93,
+    "lift": 1.9,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
@@ -807,9 +807,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 34,
-    "lift": -0.22,
+    "lift": -0.28,
     "docs": 2,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
     "sample_url": "https://x.com/thsottiaux/status/2112992042465009736",
     "sample_ts": "2026-10-21T19:38:55Z"
@@ -823,7 +823,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0095,
+    "share": 0.0091,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -835,7 +835,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -845,9 +845,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 2,
-    "lift": 2.66,
+    "lift": 2.64,
     "docs": 2,
-    "share": 0.0095,
+    "share": 0.0091,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -859,7 +859,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0048,
+    "share": 0.0046,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
@@ -871,7 +871,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0048,
+    "share": 0.0046,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -881,9 +881,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.3,
+    "lift": 2.28,
     "docs": 1,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
     "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
     "sample_ts": "2026-10-24T22:42:03Z"
@@ -893,9 +893,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.93,
+    "lift": 1.9,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "@theo Instead\n\n1) Buy a Pro 100 sub\n2) ???\n3) Enjoy T3Code",
     "sample_url": "https://x.com/thsottiaux/status/2112426606870585551",
     "sample_ts": "2026-10-20T06:12:04Z"
@@ -905,9 +905,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.93,
+    "lift": 1.9,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
     "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
     "sample_ts": "2026-10-21T01:10:02Z"
@@ -917,45 +917,45 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.93,
+    "lift": 1.9,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
    },
    {
-    "term": "codex",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 17,
-    "lift": 1.27,
-    "docs": 4,
-    "share": 0.0119,
-    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-    "sample_ts": "2026-10-21T01:10:02Z"
-   },
-   {
     "term": "reset",
     "kind": "word",
-    "count_7d": 6,
+    "count_7d": 7,
     "count_28d_before": 22,
-    "lift": 1.21,
-    "docs": 6,
-    "share": 0.0143,
+    "lift": 1.36,
+    "docs": 7,
+    "share": 0.0159,
     "sample": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
     "sample_url": "https://x.com/thsottiaux/status/2112432076767289678",
     "sample_ts": "2026-10-20T06:33:48Z"
+   },
+   {
+    "term": "codex",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 16,
+    "lift": 1.28,
+    "docs": 4,
+    "share": 0.0114,
+    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
+    "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
+    "sample_ts": "2026-10-21T01:10:02Z"
    },
    {
     "term": "users",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 19,
-    "lift": 1.14,
+    "lift": 1.09,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0114,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
@@ -965,9 +965,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 21,
-    "lift": 1.02,
+    "lift": 0.97,
     "docs": 3,
-    "share": 0.0119,
+    "share": 0.0114,
     "sample": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usag",
     "sample_url": "https://x.com/thsottiaux/status/2112592264686149749",
     "sample_ts": "2026-10-20T17:10:20Z"
@@ -977,9 +977,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 34,
-    "lift": -0.22,
+    "lift": -0.28,
     "docs": 2,
-    "share": 0.0072,
+    "share": 0.0068,
     "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
     "sample_url": "https://x.com/thsottiaux/status/2112992042465009736",
     "sample_ts": "2026-10-21T19:38:55Z"
@@ -988,13 +988,28 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 2,
+  "count_24h": 1,
   "count_72h": 6,
-  "count_7d": 11,
+  "count_7d": 12,
   "since_last_reset": 0,
   "baseline_per_day": 1.82,
-  "level": "elevated",
+  "level": "quiet",
   "items": [
+   {
+    "id": "2114599388454481930",
+    "ts": "2026-10-26T06:05:56+00:00",
+    "ts_local": "2026-10-26 14:05",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Not enough resets",
+    "url": "https://x.com/thsottiaux/status/2114599388454481930",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": false,
+    "age_hours": 0.9
+   },
    {
     "id": "2114228445043691592",
     "ts": "2026-10-25T05:31:56+00:00",
@@ -1008,7 +1023,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 23.2
+    "age_hours": 25.5
    },
    {
     "id": "2114228044072403055",
@@ -1023,7 +1038,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 23.2
+    "age_hours": 25.5
    },
    {
     "id": "2114200152701575656",
@@ -1038,7 +1053,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 25.1
+    "age_hours": 27.4
    },
    {
     "id": "2114037527598576003",
@@ -1053,7 +1068,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 35.9
+    "age_hours": 38.2
    },
    {
     "id": "2113770862860222611",
@@ -1068,7 +1083,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 53.5
+    "age_hours": 55.8
    },
    {
     "id": "2113492187770175603",
@@ -1084,7 +1099,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 72.0
+    "age_hours": 74.3
    },
    {
     "id": "2113162413008884099",
@@ -1100,7 +1115,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 93.8
+    "age_hours": 96.1
    },
    {
     "id": "2113029854417600834",
@@ -1115,7 +1130,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 102.6
+    "age_hours": 104.9
    },
    {
     "id": "2112906496736641416",
@@ -1130,7 +1145,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 110.8
+    "age_hours": 113.1
    },
    {
     "id": "2112798407928713717",
@@ -1145,7 +1160,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 117.9
+    "age_hours": 120.2
    },
    {
     "id": "2112592264686149749",
@@ -1160,7 +1175,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 131.6
+    "age_hours": 133.9
    },
    {
     "id": "2112034063934742720",
@@ -1175,7 +1190,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 168.5
+    "age_hours": 170.8
    },
    {
     "id": "2111918768733753664",
@@ -1190,7 +1205,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 176.2
+    "age_hours": 178.5
    },
    {
     "id": "2111918635849801739",
@@ -1205,7 +1220,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 176.2
+    "age_hours": 178.5
    },
    {
     "id": "2111583927156760690",
@@ -1220,7 +1235,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 198.3
+    "age_hours": 200.6
    },
    {
     "id": "2111492673890824348",
@@ -1236,7 +1251,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 204.4
+    "age_hours": 206.7
    },
    {
     "id": "2111244596131111253",
@@ -1251,7 +1266,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 220.8
+    "age_hours": 223.1
    },
    {
     "id": "2110951585983631505",
@@ -1266,7 +1281,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 240.2
+    "age_hours": 242.5
    },
    {
     "id": "2110750421367287996",
@@ -1281,7 +1296,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 253.5
+    "age_hours": 255.8
    },
    {
     "id": "2110595484180214059",
@@ -1296,7 +1311,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 263.8
+    "age_hours": 266.1
    },
    {
     "id": "2109892247580000595",
@@ -1311,7 +1326,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 310.4
+    "age_hours": 312.7
    },
    {
     "id": "2109873307722121591",
@@ -1327,7 +1342,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 311.6
+    "age_hours": 313.9
    },
    {
     "id": "2109873287853707513",
@@ -1343,7 +1358,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 311.6
+    "age_hours": 313.9
    },
    {
     "id": "2109812216212099456",
@@ -1359,7 +1374,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 315.7
+    "age_hours": 318.0
    }
   ]
  },
@@ -1371,43 +1386,50 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-26T04:44:20+00:00",
+    "at": "2026-10-26T07:02:20+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-26T04:44:20+00:00"
+    "last_ok": "2026-10-26T07:02:20+00:00"
    },
    "feed": {
-    "at": "2026-10-26T04:44:20+00:00",
+    "at": "2026-10-26T07:02:20+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
-    "new": 0,
+    "new": 1,
     "error": null,
-    "total": 55,
+    "total": 56,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-26T04:44:20+00:00"
+    "last_ok": "2026-10-26T07:02:20+00:00"
    },
    "pipeline": {
-    "at": "2026-10-26T04:43:24+00:00",
+    "at": "2026-10-26T07:02:18+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-26T04:43:24+00:00"
+    "last_ok": "2026-10-26T07:02:18+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-26T04:44:20+00:00",
+   "checked_at": "2026-10-26T07:02:21+00:00",
    "channels": [],
    "configured": false,
-   "pending": 0,
-   "undelivered_7d": 9,
+   "pending": 1,
+   "undelivered_7d": 10,
    "last_sent": null,
    "recent": [
+    {
+     "title": "检测到全局重置",
+     "kind": "reset",
+     "created_at": "2026-10-26T07:02:21+00:00",
+     "status": "pending",
+     "reason": "no_channel"
+    },
     {
      "title": "检测到全局重置",
      "kind": "reset",
@@ -1442,25 +1464,10 @@
      "created_at": "2026-10-23T05:34:37+00:00",
      "status": "expired",
      "reason": "no_channel"
-    },
-    {
-     "title": "检测到全局重置",
-     "kind": "reset",
-     "created_at": "2026-10-22T19:20:13+00:00",
-     "status": "expired",
-     "reason": "no_channel"
     }
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-24T04:33:30+00:00",
-    "mode": "full",
-    "seconds": 48.2,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-24T09:47:54+00:00",
     "mode": "fast",
@@ -1576,7 +1583,15 @@
    {
     "at": "2026-10-26T04:43:24+00:00",
     "mode": "full",
-    "seconds": 55.9,
+    "seconds": 56.0,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-26T07:02:18+00:00",
+    "mode": "fast",
+    "seconds": 2.5,
     "ok": true,
     "failed": [],
     "warnings": []
