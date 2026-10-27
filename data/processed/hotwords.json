@@ -66,7 +66,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.31,
+   "lift": 2.3,
    "docs": 1,
    "share": 0.0074,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
@@ -90,7 +90,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.94,
+   "lift": 1.93,
    "docs": 3,
    "share": 0.0074,
    "sample": "Lands tomorrow before 10am PST.",
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 16,
-   "lift": 1.35,
+   "lift": 1.34,
    "docs": 4,
    "share": 0.0123,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -114,7 +114,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 21,
-   "lift": 1.28,
+   "lift": 1.27,
    "docs": 6,
    "share": 0.0147,
    "sample": "I demand a reset",
@@ -126,7 +126,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 1.01,
+   "lift": 1.0,
    "docs": 2,
    "share": 0.0074,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -138,7 +138,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.77,
+   "lift": 0.76,
    "docs": 3,
    "share": 0.0074,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -162,7 +162,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 23,
-   "lift": 0.28,
+   "lift": 0.27,
    "docs": 3,
    "share": 0.0074,
    "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -174,7 +174,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 34,
-   "lift": -0.2,
+   "lift": -0.21,
    "docs": 2,
    "share": 0.0074,
    "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
@@ -188,7 +188,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 21,
-   "lift": 1.28,
+   "lift": 1.27,
    "docs": 6,
    "share": 0.0147,
    "sample": "I demand a reset",
@@ -200,7 +200,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 16,
-   "lift": 1.35,
+   "lift": 1.34,
    "docs": 4,
    "share": 0.0123,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -248,7 +248,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.31,
+   "lift": 2.3,
    "docs": 1,
    "share": 0.0074,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
@@ -272,7 +272,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.94,
+   "lift": 1.93,
    "docs": 3,
    "share": 0.0074,
    "sample": "Lands tomorrow before 10am PST.",
@@ -284,7 +284,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 1.01,
+   "lift": 1.0,
    "docs": 2,
    "share": 0.0074,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -296,7 +296,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.77,
+   "lift": 0.76,
    "docs": 3,
    "share": 0.0074,
    "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -320,7 +320,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 23,
-   "lift": 0.28,
+   "lift": 0.27,
    "docs": 3,
    "share": 0.0074,
    "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -332,7 +332,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 34,
-   "lift": -0.2,
+   "lift": -0.21,
    "docs": 2,
    "share": 0.0074,
    "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
@@ -341,7 +341,7 @@
   }
  ],
  "tokens_recent": 407,
- "tokens_base": 3927,
+ "tokens_base": 3903,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -518,79 +518,7 @@
    "total": 4
   },
   {
-   "handle": "ZryMiller",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ebloch",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "playdropai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mitsuhiko",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "romainhuet",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Sisymiro",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "can",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "bijanbowen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "specialkdelslay",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "himanshutwtxs",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "kirtandopamine",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -602,25 +530,91 @@
    "total": 2
   },
   {
+   "handle": "himanshutwtxs",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "bijanbowen",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "Aoakudotcom",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "JustLingonberry",
+   "handle": "mitsuhiko",
    "replies": 1,
-   "named": 0,
-   "total": 1
+   "named": 1,
+   "total": 2
   },
   {
-   "handle": "_jayyy18_13k",
+   "handle": "Sisymiro",
    "replies": 1,
-   "named": 0,
-   "total": 1
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "romainhuet",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BrenBuilds",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ebloch",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "playdropai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "kirtandopamine",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "can",
+   "replies": 1,
+   "named": 1,
+   "total": 2
   },
   {
    "handle": "vishalsingh2972",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "JustLingonberry",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -632,13 +626,19 @@
    "total": 1
   },
   {
-   "handle": "bcherny",
+   "handle": "_jayyy18_13k",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "OpenAIDevs",
    "replies": 0,
    "named": 1,
    "total": 1
   },
   {
-   "handle": "OpenAIDevs",
+   "handle": "rohit3a",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -725,42 +725,42 @@
    "ts": "2026-10-26 14:05",
    "text": "Not enough resets",
    "url": "https://x.com/thsottiaux/status/2114599388454481930",
-   "likes": 1610,
-   "replies": 157
+   "likes": 1623,
+   "replies": 158
   },
   {
    "ts": "2026-10-26 13:21",
    "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
    "url": "https://x.com/thsottiaux/status/2114588174249071102",
-   "likes": 11183,
-   "replies": 2334
+   "likes": 11271,
+   "replies": 2342
   },
   {
    "ts": "2026-10-25 13:31",
    "text": "https://t.co/cjuGQnsUgA",
    "url": "https://x.com/thsottiaux/status/2114228445043691592",
-   "likes": 1580,
+   "likes": 1582,
    "replies": 52
   },
   {
    "ts": "2026-10-25 13:30",
    "text": "Not a real improvement, put the reset in the bag",
    "url": "https://x.com/thsottiaux/status/2114228044072403055",
-   "likes": 2178,
+   "likes": 2182,
    "replies": 68
   },
   {
    "ts": "2026-10-25 11:40",
    "text": "By midnight PST",
    "url": "https://x.com/thsottiaux/status/2114200291319124163",
-   "likes": 2179,
+   "likes": 2186,
    "replies": 357
   },
   {
    "ts": "2026-10-25 11:39",
    "text": "Day 20/ Rest and reset",
    "url": "https://x.com/thsottiaux/status/2114200152701575656",
-   "likes": 11848,
+   "likes": 11862,
    "replies": 1236
   },
   {

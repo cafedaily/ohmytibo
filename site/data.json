@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-27T19:33:35.619728+00:00",
- "generated_local": "2026-10-28 03:33",
+ "generated_at": "2026-10-27T22:12:00.929061+00:00",
+ "generated_local": "2026-10-28 06:12",
  "forecast": {
-  "p_24h": 0.2878,
-  "p_48h": 0.5259,
-  "p_72h": 0.667,
-  "p_7d": 0.8784,
+  "p_24h": 0.3056,
+  "p_48h": 0.5357,
+  "p_72h": 0.6685,
+  "p_7d": 0.8779,
   "last_reset": "2026-10-26T06:08:46+00:00",
   "last_reset_local": "2026-10-26 14:08",
-  "modal_reset_at": "2026-10-28T06:33:35.619728+00:00",
-  "modal_reset_local": "2026-10-28 14:33",
-  "hours_since_last_reset": 37.41,
+  "modal_reset_at": "2026-10-28T06:12:00.929061+00:00",
+  "modal_reset_local": "2026-10-28 14:12",
+  "hours_since_last_reset": 40.05,
   "reset_count": 35,
   "mean_gap_days": 3.51,
   "median_gap_days": 2.33,
   "recent_mean_gap_days": 1.83,
   "backtest": {
    "days": 44,
-   "brier": 0.2096,
+   "brier": 0.2132,
    "brier_baseline": 0.1983,
-   "logloss": 0.62,
+   "logloss": 0.6321,
    "logloss_baseline": 0.586,
-   "skill": -0.058,
+   "skill": -0.079,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-10-27",
-    "p": 0.0554
+    "p": 0.0071
    },
    {
     "date": "2026-10-28",
-    "p": 0.2911
+    "p": 0.306
    },
    {
     "date": "2026-10-29",
-    "p": 0.2162
+    "p": 0.2273
    },
    {
     "date": "2026-10-30",
-    "p": 0.1243
+    "p": 0.1307
    },
    {
     "date": "2026-10-31",
-    "p": 0.0679
+    "p": 0.0714
    },
    {
     "date": "2026-11-01",
-    "p": 0.0468
+    "p": 0.0492
    },
    {
     "date": "2026-11-02",
-    "p": 0.0468
+    "p": 0.0492
    },
    {
     "date": "2026-11-03",
-    "p": 0.036
+    "p": 0.0378
    },
    {
     "date": "2026-11-04",
-    "p": 0.029
+    "p": 0.0304
    },
    {
     "date": "2026-11-05",
-    "p": 0.026
+    "p": 0.0273
    },
    {
     "date": "2026-11-06",
-    "p": 0.0134
+    "p": 0.0163
    }
   ],
   "pending_promise": null
@@ -653,8 +653,8 @@
    "date": "2026-10-25",
    "posts": 16,
    "replies": 12,
-   "likes": 47145,
-   "engagement_replies": 6636,
+   "likes": 47199,
+   "engagement_replies": 6641,
    "reset": 1,
    "banked": 0
   },
@@ -662,8 +662,8 @@
    "date": "2026-10-26",
    "posts": 8,
    "replies": 6,
-   "likes": 21466,
-   "engagement_replies": 3484,
+   "likes": 21611,
+   "engagement_replies": 3499,
    "reset": 1,
    "banked": 0
   },
@@ -671,8 +671,8 @@
    "date": "2026-10-27",
    "posts": 3,
    "replies": 2,
-   "likes": 10472,
-   "engagement_replies": 2415,
+   "likes": 10583,
+   "engagement_replies": 2495,
    "reset": 0,
    "banked": 0
   },
@@ -680,8 +680,8 @@
    "date": "2026-10-28",
    "posts": 1,
    "replies": 1,
-   "likes": 637,
-   "engagement_replies": 95,
+   "likes": 1100,
+   "engagement_replies": 136,
    "reset": 0,
    "banked": 0
   }
@@ -693,7 +693,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 21,
-    "lift": 1.28,
+    "lift": 1.27,
     "docs": 6,
     "share": 0.0147,
     "sample": "I demand a reset",
@@ -705,7 +705,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 16,
-    "lift": 1.35,
+    "lift": 1.34,
     "docs": 4,
     "share": 0.0123,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -753,7 +753,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.31,
+    "lift": 2.3,
     "docs": 1,
     "share": 0.0074,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
@@ -777,7 +777,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.94,
+    "lift": 1.93,
     "docs": 3,
     "share": 0.0074,
     "sample": "Lands tomorrow before 10am PST.",
@@ -789,7 +789,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 12,
-    "lift": 1.01,
+    "lift": 1.0,
     "docs": 2,
     "share": 0.0074,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -801,7 +801,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 15,
-    "lift": 0.77,
+    "lift": 0.76,
     "docs": 3,
     "share": 0.0074,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -825,7 +825,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 23,
-    "lift": 0.28,
+    "lift": 0.27,
     "docs": 3,
     "share": 0.0074,
     "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -837,7 +837,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 34,
-    "lift": -0.2,
+    "lift": -0.21,
     "docs": 2,
     "share": 0.0074,
     "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
@@ -911,7 +911,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.31,
+    "lift": 2.3,
     "docs": 1,
     "share": 0.0074,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
@@ -935,7 +935,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.94,
+    "lift": 1.93,
     "docs": 3,
     "share": 0.0074,
     "sample": "Lands tomorrow before 10am PST.",
@@ -947,7 +947,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 16,
-    "lift": 1.35,
+    "lift": 1.34,
     "docs": 4,
     "share": 0.0123,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -959,7 +959,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 21,
-    "lift": 1.28,
+    "lift": 1.27,
     "docs": 6,
     "share": 0.0147,
     "sample": "I demand a reset",
@@ -971,7 +971,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 12,
-    "lift": 1.01,
+    "lift": 1.0,
     "docs": 2,
     "share": 0.0074,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -983,7 +983,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 15,
-    "lift": 0.77,
+    "lift": 0.76,
     "docs": 3,
     "share": 0.0074,
     "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
@@ -1007,7 +1007,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 23,
-    "lift": 0.28,
+    "lift": 0.27,
     "docs": 3,
     "share": 0.0074,
     "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -1019,7 +1019,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 34,
-    "lift": -0.2,
+    "lift": -0.21,
     "docs": 2,
     "share": 0.0074,
     "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
@@ -1050,7 +1050,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 24.2
+    "age_hours": 26.8
    },
    {
     "id": "2114599388454481930",
@@ -1065,7 +1065,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 37.5
+    "age_hours": 40.1
    },
    {
     "id": "2114228445043691592",
@@ -1080,7 +1080,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 62.0
+    "age_hours": 64.7
    },
    {
     "id": "2114228044072403055",
@@ -1095,7 +1095,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 62.1
+    "age_hours": 64.7
    },
    {
     "id": "2114200152701575656",
@@ -1110,7 +1110,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 63.9
+    "age_hours": 66.5
    },
    {
     "id": "2114037527598576003",
@@ -1125,7 +1125,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 74.7
+    "age_hours": 77.3
    },
    {
     "id": "2113770862860222611",
@@ -1140,7 +1140,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 92.3
+    "age_hours": 95.0
    },
    {
     "id": "2113492187770175603",
@@ -1156,7 +1156,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 110.8
+    "age_hours": 113.4
    },
    {
     "id": "2113162413008884099",
@@ -1172,7 +1172,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 132.6
+    "age_hours": 135.3
    },
    {
     "id": "2113029854417600834",
@@ -1187,7 +1187,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 141.4
+    "age_hours": 144.0
    },
    {
     "id": "2112906496736641416",
@@ -1202,7 +1202,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 149.6
+    "age_hours": 152.2
    },
    {
     "id": "2112798407928713717",
@@ -1217,7 +1217,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 156.7
+    "age_hours": 159.4
    },
    {
     "id": "2112592264686149749",
@@ -1232,7 +1232,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 170.4
+    "age_hours": 173.0
    },
    {
     "id": "2112034063934742720",
@@ -1247,7 +1247,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 207.4
+    "age_hours": 210.0
    },
    {
     "id": "2111918768733753664",
@@ -1262,7 +1262,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 215.0
+    "age_hours": 217.6
    },
    {
     "id": "2111918635849801739",
@@ -1277,7 +1277,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 215.0
+    "age_hours": 217.6
    },
    {
     "id": "2111583927156760690",
@@ -1292,7 +1292,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 237.2
+    "age_hours": 239.8
    },
    {
     "id": "2111492673890824348",
@@ -1308,7 +1308,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 243.2
+    "age_hours": 245.9
    },
    {
     "id": "2111244596131111253",
@@ -1323,7 +1323,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 259.6
+    "age_hours": 262.3
    },
    {
     "id": "2110951585983631505",
@@ -1338,7 +1338,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 279.0
+    "age_hours": 281.7
    },
    {
     "id": "2110750421367287996",
@@ -1353,7 +1353,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 292.4
+    "age_hours": 295.0
    },
    {
     "id": "2110595484180214059",
@@ -1368,7 +1368,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 302.6
+    "age_hours": 305.3
    }
   ]
  },
@@ -1380,18 +1380,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-27T19:33:35+00:00",
+    "at": "2026-10-27T22:12:00+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-27T19:33:35+00:00"
+    "last_ok": "2026-10-27T22:12:00+00:00"
    },
    "feed": {
-    "at": "2026-10-27T19:33:35+00:00",
+    "at": "2026-10-27T22:12:00+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1399,24 +1399,31 @@
     "error": null,
     "total": 56,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-27T19:33:35+00:00"
+    "last_ok": "2026-10-27T22:12:00+00:00"
    },
    "pipeline": {
-    "at": "2026-10-27T19:33:33+00:00",
+    "at": "2026-10-27T22:11:02+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-27T19:33:33+00:00"
+    "last_ok": "2026-10-27T22:11:02+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-27T19:33:35+00:00",
+   "checked_at": "2026-10-27T22:12:01+00:00",
    "channels": [],
    "configured": false,
-   "pending": 0,
-   "undelivered_7d": 10,
+   "pending": 1,
+   "undelivered_7d": 11,
    "last_sent": null,
    "recent": [
+    {
+     "title": "24 小时重置概率升至 31%",
+     "kind": "probability",
+     "created_at": "2026-10-27T22:12:01+00:00",
+     "status": "pending",
+     "reason": "no_channel"
+    },
     {
      "title": "检测到全局重置",
      "kind": "reset",
@@ -1451,25 +1458,10 @@
      "created_at": "2026-10-23T05:34:37+00:00",
      "status": "expired",
      "reason": "no_channel"
-    },
-    {
-     "title": "重置信号 · 相关",
-     "kind": "signal",
-     "created_at": "2026-10-23T05:34:37+00:00",
-     "status": "expired",
-     "reason": "no_channel"
     }
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-25T11:23:16+00:00",
-    "mode": "full",
-    "seconds": 56.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-25T16:14:12+00:00",
     "mode": "full",
@@ -1586,6 +1578,14 @@
     "at": "2026-10-27T19:33:33+00:00",
     "mode": "fast",
     "seconds": 2.1,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-27T22:11:02+00:00",
+    "mode": "full",
+    "seconds": 58.8,
     "ok": true,
     "failed": [],
     "warnings": []
