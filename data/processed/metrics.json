@@ -1,49 +1,37 @@
 {
- "generated_at": "2026-10-27T22:12:00.929061+00:00",
- "generated_at_local": "2026-10-28 06:12",
+ "generated_at": "2026-10-28T05:39:51.890182+00:00",
+ "generated_at_local": "2026-10-28 13:39",
  "timezone": "UTC+8",
- "posts": 739,
- "replies": 532,
- "days_covered": 67,
+ "posts": 747,
+ "replies": 538,
+ "days_covered": 68,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-10-27T18:26:57Z",
+ "last_post": "2026-10-28T04:26:03Z",
  "resets_tracked": 35,
- "p_24h": 0.3056,
- "p_48h": 0.5357,
- "modal_reset_at": "2026-10-28T06:12:00.929061+00:00",
+ "p_24h": 0.3363,
+ "p_48h": 0.5526,
+ "modal_reset_at": "2026-10-28T06:39:51.890182+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2132,
+  "brier": 0.2081,
   "brier_baseline": 0.1983,
-  "logloss": 0.6321,
+  "logloss": 0.6173,
   "logloss_baseline": 0.586,
-  "skill": -0.079,
+  "skill": -0.054,
   "base_rate": 0.2727
  },
  "top_terms": [
   {
    "term": "reset",
    "kind": "word",
-   "count_7d": 6,
+   "count_7d": 7,
    "count_28d_before": 21,
-   "lift": 1.27,
-   "docs": 6,
-   "share": 0.0147,
+   "lift": 1.47,
+   "docs": 7,
+   "share": 0.0169,
    "sample": "I demand a reset",
    "sample_url": "https://x.com/thsottiaux/status/2112798407928713717",
    "sample_ts": "2026-10-21T06:49:29Z"
-  },
-  {
-   "term": "codex",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 16,
-   "lift": 1.34,
-   "docs": 4,
-   "share": 0.0123,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
   },
   {
    "term": "tool",
@@ -52,22 +40,34 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0098,
+   "share": 0.0097,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
   },
   {
-   "term": "cache",
+   "term": "pst",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 2,
-   "lift": 2.67,
-   "docs": 2,
-   "share": 0.0098,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
+   "count_28d_before": 4,
+   "lift": 2.29,
+   "docs": 4,
+   "share": 0.0097,
+   "sample": "Lands tomorrow before 10am PST.",
+   "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
+   "sample_ts": "2026-10-22T06:55:54Z"
+  },
+  {
+   "term": "codex",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 17,
+   "lift": 0.98,
+   "docs": 3,
+   "share": 0.0097,
+   "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+   "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
+   "sample_ts": "2026-10-23T04:46:19Z"
   },
   {
    "term": "cli",
@@ -76,7 +76,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0074,
+   "share": 0.0073,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -88,70 +88,10 @@
    "count_28d_before": 2,
    "lift": 2.3,
    "docs": 1,
-   "share": 0.0074,
+   "share": 0.0073,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
-  },
-  {
-   "term": "don",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 3,
-   "lift": 2.11,
-   "docs": 3,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
-  },
-  {
-   "term": "pst",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 4,
-   "lift": 1.93,
-   "docs": 3,
-   "share": 0.0074,
-   "sample": "Lands tomorrow before 10am PST.",
-   "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
-   "sample_ts": "2026-10-22T06:55:54Z"
-  },
-  {
-   "term": "across",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 12,
-   "lift": 1.0,
-   "docs": 2,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
-  },
-  {
-   "term": "api",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 15,
-   "lift": 0.76,
-   "docs": 3,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
-  },
-  {
-   "term": "users",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 20,
-   "lift": 0.44,
-   "docs": 3,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
   },
   {
    "term": "usage",
@@ -160,10 +100,22 @@
    "count_28d_before": 23,
    "lift": 0.27,
    "docs": 3,
-   "share": 0.0074,
+   "share": 0.0073,
    "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "sample_url": "https://x.com/thsottiaux/status/2113029854417600834",
    "sample_ts": "2026-10-21T22:09:10Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 34,
+   "lift": -0.22,
+   "docs": 2,
+   "share": 0.0073,
+   "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
+   "sample_url": "https://x.com/thsottiaux/status/2112992042465009736",
+   "sample_ts": "2026-10-21T19:38:55Z"
   }
  ],
  "surge_terms": [
@@ -174,7 +126,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0098,
+   "share": 0.0097,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -186,22 +138,10 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0074,
+   "share": 0.0073,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
-  },
-  {
-   "term": "cache",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 2,
-   "lift": 2.67,
-   "docs": 2,
-   "share": 0.0098,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
   },
   {
    "term": "before pst",
@@ -210,7 +150,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0049,
+   "share": 0.0048,
    "sample": "Lands tomorrow before 10am PST.",
    "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
    "sample_ts": "2026-10-22T06:55:54Z"
@@ -222,10 +162,22 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0049,
+   "share": 0.0048,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
+  },
+  {
+   "term": "midnight pst",
+   "kind": "phrase",
+   "count_7d": 2,
+   "count_28d_before": 0,
+   "lift": 2.32,
+   "docs": 2,
+   "share": 0.0048,
+   "sample": "By midnight PST",
+   "sample_url": "https://x.com/thsottiaux/status/2114200291319124163",
+   "sample_ts": "2026-10-25T03:40:04Z"
   },
   {
    "term": "step",
@@ -234,95 +186,78 @@
    "count_28d_before": 2,
    "lift": 2.3,
    "docs": 1,
-   "share": 0.0074,
+   "share": 0.0073,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
   },
   {
-   "term": "don",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 3,
-   "lift": 2.11,
-   "docs": 3,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
-  },
-  {
    "term": "pst",
    "kind": "word",
-   "count_7d": 3,
+   "count_7d": 4,
    "count_28d_before": 4,
-   "lift": 1.93,
-   "docs": 3,
-   "share": 0.0074,
+   "lift": 2.29,
+   "docs": 4,
+   "share": 0.0097,
    "sample": "Lands tomorrow before 10am PST.",
    "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
    "sample_ts": "2026-10-22T06:55:54Z"
   },
   {
-   "term": "codex",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 16,
-   "lift": 1.34,
-   "docs": 4,
-   "share": 0.0123,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
-  },
-  {
    "term": "reset",
    "kind": "word",
-   "count_7d": 6,
+   "count_7d": 7,
    "count_28d_before": 21,
-   "lift": 1.27,
-   "docs": 6,
-   "share": 0.0147,
+   "lift": 1.47,
+   "docs": 7,
+   "share": 0.0169,
    "sample": "I demand a reset",
    "sample_url": "https://x.com/thsottiaux/status/2112798407928713717",
    "sample_ts": "2026-10-21T06:49:29Z"
   },
   {
-   "term": "across",
+   "term": "codex",
    "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 12,
-   "lift": 1.0,
-   "docs": 2,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
+   "count_7d": 4,
+   "count_28d_before": 17,
+   "lift": 0.98,
+   "docs": 3,
+   "share": 0.0097,
+   "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+   "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
+   "sample_ts": "2026-10-23T04:46:19Z"
   },
   {
-   "term": "api",
+   "term": "usage",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 15,
-   "lift": 0.76,
+   "count_28d_before": 23,
+   "lift": 0.27,
    "docs": 3,
-   "share": 0.0074,
-   "sample": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversatio",
-   "sample_url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "sample_ts": "2026-10-21T01:10:02Z"
+   "share": 0.0073,
+   "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "sample_url": "https://x.com/thsottiaux/status/2113029854417600834",
+   "sample_ts": "2026-10-21T22:09:10Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 34,
+   "lift": -0.22,
+   "docs": 2,
+   "share": 0.0073,
+   "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
+   "sample_url": "https://x.com/thsottiaux/status/2112992042465009736",
+   "sample_ts": "2026-10-21T19:38:55Z"
   }
  ],
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 28,
-   "share": 0.252,
+   "share": 0.243,
    "examples": [
-    {
-     "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount store",
-     "url": "https://x.com/thsottiaux/status/2110151780478927344",
-     "ts": "2026-10-13T23:32:43Z"
-    },
     {
      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
      "url": "https://x.com/thsottiaux/status/2110595484180214059",
@@ -332,13 +267,18 @@
      "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
      "url": "https://x.com/thsottiaux/status/2110612268962779352",
      "ts": "2026-10-15T06:02:32Z"
+    },
+    {
+     "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
+     "url": "https://x.com/thsottiaux/status/2110750421367287996",
+     "ts": "2026-10-15T15:11:30Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
-   "posts": 18,
-   "share": 0.162,
+   "posts": 19,
+   "share": 0.165,
    "examples": [
     {
      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
@@ -359,14 +299,9 @@
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 16,
-   "share": 0.144,
+   "posts": 15,
+   "share": 0.13,
    "examples": [
-    {
-     "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount store",
-     "url": "https://x.com/thsottiaux/status/2110151780478927344",
-     "ts": "2026-10-13T23:32:43Z"
-    },
     {
      "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
      "url": "https://x.com/thsottiaux/status/2110750421367287996",
@@ -376,19 +311,19 @@
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
      "url": "https://x.com/thsottiaux/status/2111244596131111253",
      "ts": "2026-10-16T23:55:11Z"
+    },
+    {
+     "text": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+     "url": "https://x.com/thsottiaux/status/2111245052513259606",
+     "ts": "2026-10-16T23:57:00Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
-   "posts": 16,
-   "share": 0.144,
+   "posts": 15,
+   "share": 0.13,
    "examples": [
-    {
-     "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount store",
-     "url": "https://x.com/thsottiaux/status/2110151780478927344",
-     "ts": "2026-10-13T23:32:43Z"
-    },
     {
      "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
      "url": "https://x.com/thsottiaux/status/2110612268962779352",
@@ -398,41 +333,41 @@
      "text": "Je programme en français",
      "url": "https://x.com/thsottiaux/status/2110864861119045840",
      "ts": "2026-10-15T22:46:15Z"
+    },
+    {
+     "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
+     "url": "https://x.com/thsottiaux/status/2111244596131111253",
+     "ts": "2026-10-16T23:55:11Z"
     }
    ]
   },
   {
    "topic": "Models",
-   "posts": 13,
-   "share": 0.117,
+   "posts": 11,
+   "share": 0.096,
    "examples": [
-    {
-     "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount store",
-     "url": "https://x.com/thsottiaux/status/2110151780478927344",
-     "ts": "2026-10-13T23:32:43Z"
-    },
-    {
-     "text": "@StefanoGPT Legit how I look like. Must have trained on my face data",
-     "url": "https://x.com/thsottiaux/status/2110152344029778279",
-     "ts": "2026-10-13T23:34:58Z"
-    },
     {
      "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
      "url": "https://x.com/thsottiaux/status/2110750421367287996",
      "ts": "2026-10-15T15:11:30Z"
+    },
+    {
+     "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
+     "url": "https://x.com/thsottiaux/status/2111244596131111253",
+     "ts": "2026-10-16T23:55:11Z"
+    },
+    {
+     "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
+     "url": "https://x.com/thsottiaux/status/2111244957851984181",
+     "ts": "2026-10-16T23:56:37Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
-   "posts": 7,
-   "share": 0.063,
+   "posts": 6,
+   "share": 0.052,
    "examples": [
-    {
-     "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount store",
-     "url": "https://x.com/thsottiaux/status/2110151780478927344",
-     "ts": "2026-10-13T23:32:43Z"
-    },
     {
      "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
      "url": "https://x.com/thsottiaux/status/2111244957851984181",
@@ -442,13 +377,18 @@
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
      "url": "https://x.com/thsottiaux/status/2112034063934742720",
      "ts": "2026-10-19T04:12:15Z"
+    },
+    {
+     "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts",
+     "url": "https://x.com/thsottiaux/status/2112592264686149749",
+     "ts": "2026-10-20T17:10:20Z"
     }
    ]
   },
   {
    "topic": "Reliability / incidents",
    "posts": 5,
-   "share": 0.045,
+   "share": 0.043,
    "examples": [
     {
      "text": "@theo Nice. Will fix",
@@ -1050,8 +990,8 @@
    "date": "2026-10-25",
    "posts": 16,
    "replies": 12,
-   "likes": 47199,
-   "engagement_replies": 6641,
+   "likes": 47243,
+   "engagement_replies": 6642,
    "reset": 1,
    "banked": 0
   },
@@ -1059,8 +999,8 @@
    "date": "2026-10-26",
    "posts": 8,
    "replies": 6,
-   "likes": 21611,
-   "engagement_replies": 3499,
+   "likes": 21837,
+   "engagement_replies": 3526,
    "reset": 1,
    "banked": 0
   },
@@ -1068,17 +1008,17 @@
    "date": "2026-10-27",
    "posts": 3,
    "replies": 2,
-   "likes": 10583,
-   "engagement_replies": 2495,
+   "likes": 10829,
+   "engagement_replies": 2747,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-10-28",
-   "posts": 1,
-   "replies": 1,
-   "likes": 1100,
-   "engagement_replies": 136,
+   "posts": 9,
+   "replies": 7,
+   "likes": 14046,
+   "engagement_replies": 2663,
    "reset": 0,
    "banked": 0
   }
