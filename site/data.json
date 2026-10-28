@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-28T08:31:27.292235+00:00",
- "generated_local": "2026-10-28 16:31",
+ "generated_at": "2026-10-28T12:50:58.610931+00:00",
+ "generated_local": "2026-10-28 20:50",
  "forecast": {
-  "p_24h": 0.1503,
-  "p_48h": 0.3594,
-  "p_72h": 0.587,
-  "p_7d": 0.8673,
+  "p_24h": 0.1766,
+  "p_48h": 0.4043,
+  "p_72h": 0.6128,
+  "p_7d": 0.8721,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-10-31T06:31:27.292235+00:00",
-  "modal_reset_local": "2026-10-31 14:31",
-  "hours_since_last_reset": 1.93,
+  "modal_reset_at": "2026-10-30T06:50:58.610931+00:00",
+  "modal_reset_local": "2026-10-30 14:50",
+  "hours_since_last_reset": 6.26,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
@@ -27,47 +27,47 @@
   "weekly": [
    {
     "date": "2026-10-28",
-    "p": 0.0678
+    "p": 0.0633
    },
    {
     "date": "2026-10-29",
-    "p": 0.1799
+    "p": 0.2016
    },
    {
     "date": "2026-10-30",
-    "p": 0.2221
+    "p": 0.2356
    },
    {
     "date": "2026-10-31",
-    "p": 0.1839
+    "p": 0.1709
    },
    {
     "date": "2026-11-01",
-    "p": 0.1054
+    "p": 0.0943
    },
    {
     "date": "2026-11-02",
-    "p": 0.0559
+    "p": 0.0506
    },
    {
     "date": "2026-11-03",
-    "p": 0.0354
+    "p": 0.0351
    },
    {
     "date": "2026-11-04",
-    "p": 0.0331
+    "p": 0.0353
    },
    {
     "date": "2026-11-05",
-    "p": 0.0286
+    "p": 0.0269
    },
    {
     "date": "2026-11-06",
-    "p": 0.0213
+    "p": 0.0218
    },
    {
     "date": "2026-11-07",
-    "p": 0.0107
+    "p": 0.012
    }
   ],
   "pending_promise": null
@@ -653,7 +653,7 @@
    "date": "2026-10-25",
    "posts": 16,
    "replies": 12,
-   "likes": 47243,
+   "likes": 47251,
    "engagement_replies": 6642,
    "reset": 1,
    "banked": 0
@@ -662,8 +662,8 @@
    "date": "2026-10-26",
    "posts": 8,
    "replies": 6,
-   "likes": 21837,
-   "engagement_replies": 3526,
+   "likes": 21909,
+   "engagement_replies": 3528,
    "reset": 1,
    "banked": 0
   },
@@ -671,8 +671,8 @@
    "date": "2026-10-27",
    "posts": 3,
    "replies": 2,
-   "likes": 10829,
-   "engagement_replies": 2747,
+   "likes": 10933,
+   "engagement_replies": 2763,
    "reset": 0,
    "banked": 0
   },
@@ -680,8 +680,8 @@
    "date": "2026-10-28",
    "posts": 11,
    "replies": 8,
-   "likes": 24386,
-   "engagement_replies": 4091,
+   "likes": 32149,
+   "engagement_replies": 4757,
    "reset": 1,
    "banked": 0
   }
@@ -942,7 +942,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 4.7
+    "age_hours": 9.0
    },
    {
     "id": "2115273064481218829",
@@ -958,7 +958,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 5.8
+    "age_hours": 10.1
    },
    {
     "id": "2115272201922572627",
@@ -973,7 +973,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 5.9
+    "age_hours": 10.2
    },
    {
     "id": "2114800277677092936",
@@ -988,7 +988,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 37.1
+    "age_hours": 41.4
    },
    {
     "id": "2114599388454481930",
@@ -1003,7 +1003,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 50.4
+    "age_hours": 54.8
    },
    {
     "id": "2114228445043691592",
@@ -1018,7 +1018,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 75.0
+    "age_hours": 79.3
    },
    {
     "id": "2114228044072403055",
@@ -1033,7 +1033,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 75.0
+    "age_hours": 79.3
    },
    {
     "id": "2114200152701575656",
@@ -1048,7 +1048,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 76.9
+    "age_hours": 81.2
    },
    {
     "id": "2114037527598576003",
@@ -1063,7 +1063,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 87.6
+    "age_hours": 92.0
    },
    {
     "id": "2113770862860222611",
@@ -1078,7 +1078,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 105.3
+    "age_hours": 109.6
    },
    {
     "id": "2113492187770175603",
@@ -1094,7 +1094,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 123.8
+    "age_hours": 128.1
    },
    {
     "id": "2113162413008884099",
@@ -1110,7 +1110,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 145.6
+    "age_hours": 149.9
    },
    {
     "id": "2113029854417600834",
@@ -1125,7 +1125,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 154.4
+    "age_hours": 158.7
    },
    {
     "id": "2112906496736641416",
@@ -1140,7 +1140,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 162.5
+    "age_hours": 166.9
    },
    {
     "id": "2112798407928713717",
@@ -1155,7 +1155,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 169.7
+    "age_hours": 174.0
    },
    {
     "id": "2112592264686149749",
@@ -1170,7 +1170,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 183.4
+    "age_hours": 187.7
    },
    {
     "id": "2112034063934742720",
@@ -1185,7 +1185,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 220.3
+    "age_hours": 224.6
    },
    {
     "id": "2111918768733753664",
@@ -1200,7 +1200,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 228.0
+    "age_hours": 232.3
    },
    {
     "id": "2111918635849801739",
@@ -1215,7 +1215,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 228.0
+    "age_hours": 232.3
    },
    {
     "id": "2111583927156760690",
@@ -1230,7 +1230,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 250.1
+    "age_hours": 254.5
    },
    {
     "id": "2111492673890824348",
@@ -1246,7 +1246,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 256.2
+    "age_hours": 260.5
    },
    {
     "id": "2111244596131111253",
@@ -1261,7 +1261,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 272.6
+    "age_hours": 276.9
    },
    {
     "id": "2110951585983631505",
@@ -1276,7 +1276,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 292.0
+    "age_hours": 296.3
    },
    {
     "id": "2110750421367287996",
@@ -1291,7 +1291,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 305.3
+    "age_hours": 309.7
    },
    {
     "id": "2110595484180214059",
@@ -1306,7 +1306,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 315.6
+    "age_hours": 319.9
    }
   ]
  },
@@ -1318,18 +1318,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-28T08:31:26+00:00",
+    "at": "2026-10-28T12:50:58+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-28T08:31:26+00:00"
+    "last_ok": "2026-10-28T12:50:58+00:00"
    },
    "feed": {
-    "at": "2026-10-28T08:31:27+00:00",
+    "at": "2026-10-28T12:50:58+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1337,21 +1337,21 @@
     "error": null,
     "total": 58,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-28T08:31:27+00:00"
+    "last_ok": "2026-10-28T12:50:58+00:00"
    },
    "pipeline": {
-    "at": "2026-10-28T08:31:24+00:00",
+    "at": "2026-10-28T12:50:10+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-28T08:31:24+00:00"
+    "last_ok": "2026-10-28T12:50:10+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-28T08:31:27+00:00",
+   "checked_at": "2026-10-28T12:50:58+00:00",
    "channels": [],
    "configured": false,
-   "pending": 4,
+   "pending": 3,
    "undelivered_7d": 14,
    "last_sent": null,
    "recent": [
@@ -1380,7 +1380,7 @@
      "title": "24 小时重置概率升至 31%",
      "kind": "probability",
      "created_at": "2026-10-27T22:12:01+00:00",
-     "status": "pending",
+     "status": "expired",
      "reason": "no_channel"
     },
     {
@@ -1400,14 +1400,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-25T20:48:43+00:00",
-    "mode": "full",
-    "seconds": 57.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-25T23:15:07+00:00",
     "mode": "full",
@@ -1524,6 +1516,14 @@
     "at": "2026-10-28T08:31:24+00:00",
     "mode": "fast",
     "seconds": 2.6,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-28T12:50:10+00:00",
+    "mode": "full",
+    "seconds": 47.8,
     "ok": true,
     "failed": [],
     "warnings": []

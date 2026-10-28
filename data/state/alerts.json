@@ -127,7 +127,7 @@
    "body": "越过 30% 阈值 · 距上次重置 40 小时 · 峰值时点北京时间 10-28 14:12",
    "url": "",
    "created_at": "2026-10-27T22:12:01+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -226,10 +226,10 @@
   "reset:2115273253711409208"
  ],
  "summary": {
-  "checked_at": "2026-10-28T08:31:27+00:00",
+  "checked_at": "2026-10-28T12:50:58+00:00",
   "channels": [],
   "configured": false,
-  "pending": 4,
+  "pending": 3,
   "undelivered_7d": 14,
   "last_sent": null,
   "recent": [
@@ -258,7 +258,7 @@
     "title": "24 小时重置概率升至 31%",
     "kind": "probability",
     "created_at": "2026-10-27T22:12:01+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
