@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-10-28T05:39:51.890182+00:00",
- "generated_at_local": "2026-10-28 13:39",
+ "generated_at": "2026-10-28T08:31:27.292235+00:00",
+ "generated_at_local": "2026-10-28 16:31",
  "timezone": "UTC+8",
- "posts": 747,
- "replies": 538,
+ "posts": 749,
+ "replies": 539,
  "days_covered": 68,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-10-28T04:26:03Z",
- "resets_tracked": 35,
- "p_24h": 0.3363,
- "p_48h": 0.5526,
- "modal_reset_at": "2026-10-28T06:39:51.890182+00:00",
+ "last_post": "2026-10-28T06:29:38Z",
+ "resets_tracked": 36,
+ "p_24h": 0.1503,
+ "p_48h": 0.3594,
+ "modal_reset_at": "2026-10-31T06:31:27.292235+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2081,
+  "brier": 0.211,
   "brier_baseline": 0.1983,
-  "logloss": 0.6173,
+  "logloss": 0.6283,
   "logloss_baseline": 0.586,
-  "skill": -0.054,
+  "skill": -0.072,
   "base_rate": 0.2727
  },
  "top_terms": [
   {
    "term": "reset",
    "kind": "word",
-   "count_7d": 7,
-   "count_28d_before": 21,
-   "lift": 1.47,
-   "docs": 7,
-   "share": 0.0169,
-   "sample": "I demand a reset",
-   "sample_url": "https://x.com/thsottiaux/status/2112798407928713717",
-   "sample_ts": "2026-10-21T06:49:29Z"
+   "count_7d": 6,
+   "count_28d_before": 22,
+   "lift": 1.2,
+   "docs": 6,
+   "share": 0.0144,
+   "sample": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do i",
+   "sample_url": "https://x.com/thsottiaux/status/2113162277688070445",
+   "sample_ts": "2026-10-22T06:55:22Z"
   },
   {
    "term": "tool",
@@ -40,7 +40,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0097,
+   "share": 0.0096,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 4,
-   "lift": 2.29,
+   "lift": 2.28,
    "docs": 4,
-   "share": 0.0097,
+   "share": 0.0096,
    "sample": "Lands tomorrow before 10am PST.",
    "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
    "sample_ts": "2026-10-22T06:55:54Z"
@@ -62,9 +62,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 17,
-   "lift": 0.98,
+   "lift": 0.97,
    "docs": 3,
-   "share": 0.0097,
+   "share": 0.0096,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -76,7 +76,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -88,7 +88,7 @@
    "count_28d_before": 2,
    "lift": 2.3,
    "docs": 1,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -98,9 +98,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 23,
-   "lift": 0.27,
+   "lift": 0.25,
    "docs": 3,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "sample_url": "https://x.com/thsottiaux/status/2113029854417600834",
    "sample_ts": "2026-10-21T22:09:10Z"
@@ -110,9 +110,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 34,
-   "lift": -0.22,
+   "lift": -0.23,
    "docs": 2,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
    "sample_url": "https://x.com/thsottiaux/status/2112992042465009736",
    "sample_ts": "2026-10-21T19:38:55Z"
@@ -126,7 +126,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0097,
+   "share": 0.0096,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -138,7 +138,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -186,7 +186,7 @@
    "count_28d_before": 2,
    "lift": 2.3,
    "docs": 1,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -196,9 +196,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 4,
-   "lift": 2.29,
+   "lift": 2.28,
    "docs": 4,
-   "share": 0.0097,
+   "share": 0.0096,
    "sample": "Lands tomorrow before 10am PST.",
    "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
    "sample_ts": "2026-10-22T06:55:54Z"
@@ -206,23 +206,23 @@
   {
    "term": "reset",
    "kind": "word",
-   "count_7d": 7,
-   "count_28d_before": 21,
-   "lift": 1.47,
-   "docs": 7,
-   "share": 0.0169,
-   "sample": "I demand a reset",
-   "sample_url": "https://x.com/thsottiaux/status/2112798407928713717",
-   "sample_ts": "2026-10-21T06:49:29Z"
+   "count_7d": 6,
+   "count_28d_before": 22,
+   "lift": 1.2,
+   "docs": 6,
+   "share": 0.0144,
+   "sample": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do i",
+   "sample_url": "https://x.com/thsottiaux/status/2113162277688070445",
+   "sample_ts": "2026-10-22T06:55:22Z"
   },
   {
    "term": "codex",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 17,
-   "lift": 0.98,
+   "lift": 0.97,
    "docs": 3,
-   "share": 0.0097,
+   "share": 0.0096,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -232,9 +232,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 23,
-   "lift": 0.27,
+   "lift": 0.25,
    "docs": 3,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "sample_url": "https://x.com/thsottiaux/status/2113029854417600834",
    "sample_ts": "2026-10-21T22:09:10Z"
@@ -244,9 +244,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 34,
-   "lift": -0.22,
+   "lift": -0.23,
    "docs": 2,
-   "share": 0.0073,
+   "share": 0.0072,
    "sample": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
    "sample_url": "https://x.com/thsottiaux/status/2112992042465009736",
    "sample_ts": "2026-10-21T19:38:55Z"
@@ -256,7 +256,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 28,
-   "share": 0.243,
+   "share": 0.239,
    "examples": [
     {
      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
@@ -278,7 +278,7 @@
   {
    "topic": "Reset / quota",
    "posts": 19,
-   "share": 0.165,
+   "share": 0.162,
    "examples": [
     {
      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
@@ -300,7 +300,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 15,
-   "share": 0.13,
+   "share": 0.128,
    "examples": [
     {
      "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
@@ -322,7 +322,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 15,
-   "share": 0.13,
+   "share": 0.128,
    "examples": [
     {
      "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
@@ -343,8 +343,8 @@
   },
   {
    "topic": "Models",
-   "posts": 11,
-   "share": 0.096,
+   "posts": 12,
+   "share": 0.103,
    "examples": [
     {
      "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
@@ -366,7 +366,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 6,
-   "share": 0.052,
+   "share": 0.051,
    "examples": [
     {
      "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
@@ -1015,11 +1015,11 @@
   },
   {
    "date": "2026-10-28",
-   "posts": 9,
-   "replies": 7,
-   "likes": 14046,
-   "engagement_replies": 2663,
-   "reset": 0,
+   "posts": 11,
+   "replies": 8,
+   "likes": 24386,
+   "engagement_replies": 4091,
+   "reset": 1,
    "banked": 0
   }
  ]
