@@ -1,69 +1,73 @@
 {
- "generated_at": "2026-10-29T00:54:48.068708+00:00",
- "generated_local": "2026-10-29 08:54",
+ "generated_at": "2026-10-29T05:50:32.740169+00:00",
+ "generated_local": "2026-10-29 13:50",
  "forecast": {
-  "p_24h": 0.2153,
-  "p_48h": 0.4668,
-  "p_72h": 0.6492,
-  "p_7d": 0.879,
+  "p_24h": 0.2411,
+  "p_48h": 0.5064,
+  "p_72h": 0.6725,
+  "p_7d": 0.8835,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-10-30T06:54:48.068708+00:00",
-  "modal_reset_local": "2026-10-30 14:54",
-  "hours_since_last_reset": 18.32,
+  "modal_reset_at": "2026-10-30T06:50:32.740169+00:00",
+  "modal_reset_local": "2026-10-30 14:50",
+  "hours_since_last_reset": 23.25,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2131,
+   "brier": 0.2079,
    "brier_baseline": 0.1983,
-   "logloss": 0.6315,
+   "logloss": 0.6168,
    "logloss_baseline": 0.586,
-   "skill": -0.078,
+   "skill": -0.053,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-10-29",
-    "p": 0.2153
+    "p": 0.1787
    },
    {
     "date": "2026-10-30",
-    "p": 0.2515
+    "p": 0.2633
    },
    {
     "date": "2026-10-31",
-    "p": 0.1824
+    "p": 0.1909
    },
    {
     "date": "2026-11-01",
-    "p": 0.1007
+    "p": 0.1054
    },
    {
     "date": "2026-11-02",
-    "p": 0.054
+    "p": 0.0565
    },
    {
     "date": "2026-11-03",
-    "p": 0.0374
+    "p": 0.0392
    },
    {
     "date": "2026-11-04",
-    "p": 0.0377
+    "p": 0.0394
    },
    {
     "date": "2026-11-05",
-    "p": 0.0287
+    "p": 0.03
    },
    {
     "date": "2026-11-06",
-    "p": 0.0232
+    "p": 0.0243
    },
    {
     "date": "2026-11-07",
-    "p": 0.0208
+    "p": 0.0218
+   },
+   {
+    "date": "2026-11-08",
+    "p": 0.0051
    }
   ],
   "pending_promise": null
@@ -676,17 +680,17 @@
    "date": "2026-10-28",
    "posts": 13,
    "replies": 9,
-   "likes": 44464,
-   "engagement_replies": 6123,
+   "likes": 45792,
+   "engagement_replies": 6203,
    "reset": 1,
    "banked": 0
   },
   {
    "date": "2026-10-29",
-   "posts": 1,
-   "replies": 0,
-   "likes": 1994,
-   "engagement_replies": 644,
+   "posts": 5,
+   "replies": 3,
+   "likes": 10653,
+   "engagement_replies": 2911,
    "reset": 0,
    "banked": 0
   }
@@ -698,9 +702,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 22,
-    "lift": 1.18,
+    "lift": 1.02,
     "docs": 6,
-    "share": 0.0142,
+    "share": 0.0125,
     "sample": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do i",
     "sample_url": "https://x.com/thsottiaux/status/2113162277688070445",
     "sample_ts": "2026-10-22T06:55:22Z"
@@ -712,7 +716,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0095,
+    "share": 0.0084,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -722,9 +726,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 4,
-    "lift": 2.27,
+    "lift": 2.18,
     "docs": 4,
-    "share": 0.0095,
+    "share": 0.0084,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
@@ -734,9 +738,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 17,
-    "lift": 0.95,
+    "lift": 0.8,
     "docs": 3,
-    "share": 0.0095,
+    "share": 0.0084,
     "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
     "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
     "sample_ts": "2026-10-23T04:46:19Z"
@@ -748,7 +752,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0071,
+    "share": 0.0063,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -758,9 +762,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.29,
+    "lift": 2.23,
     "docs": 1,
-    "share": 0.0071,
+    "share": 0.0063,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
     "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
     "sample_ts": "2026-10-24T22:42:03Z"
@@ -770,9 +774,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.91,
+    "lift": 1.82,
     "docs": 2,
-    "share": 0.0071,
+    "share": 0.0063,
     "sample": "Landing tomorrow before 10am PST together with a small ship.",
     "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
     "sample_ts": "2026-10-23T04:47:34Z"
@@ -786,7 +790,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 1,
-    "share": 0.0095,
+    "share": 0.0084,
     "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
     "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
     "sample_ts": "2026-10-24T03:41:04Z"
@@ -798,7 +802,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 2,
-    "share": 0.0071,
+    "share": 0.0063,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -810,7 +814,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0047,
+    "share": 0.0042,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
@@ -822,7 +826,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0047,
+    "share": 0.0042,
     "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
     "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
     "sample_ts": "2026-10-23T23:12:31Z"
@@ -834,7 +838,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0047,
+    "share": 0.0042,
     "sample": "By midnight PST",
     "sample_url": "https://x.com/thsottiaux/status/2114200291319124163",
     "sample_ts": "2026-10-25T03:40:04Z"
@@ -844,9 +848,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.29,
+    "lift": 2.23,
     "docs": 1,
-    "share": 0.0071,
+    "share": 0.0063,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
     "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
     "sample_ts": "2026-10-24T22:42:03Z"
@@ -856,9 +860,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 4,
-    "lift": 2.27,
+    "lift": 2.18,
     "docs": 4,
-    "share": 0.0095,
+    "share": 0.0084,
     "sample": "Lands tomorrow before 10am PST.",
     "sample_url": "https://x.com/thsottiaux/status/2113162413008884099",
     "sample_ts": "2026-10-22T06:55:54Z"
@@ -868,9 +872,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.91,
+    "lift": 1.82,
     "docs": 2,
-    "share": 0.0071,
+    "share": 0.0063,
     "sample": "Landing tomorrow before 10am PST together with a small ship.",
     "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
     "sample_ts": "2026-10-23T04:47:34Z"
@@ -880,9 +884,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 22,
-    "lift": 1.18,
+    "lift": 1.02,
     "docs": 6,
-    "share": 0.0142,
+    "share": 0.0125,
     "sample": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do i",
     "sample_url": "https://x.com/thsottiaux/status/2113162277688070445",
     "sample_ts": "2026-10-22T06:55:22Z"
@@ -892,9 +896,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 17,
-    "lift": 0.95,
+    "lift": 0.8,
     "docs": 3,
-    "share": 0.0095,
+    "share": 0.0084,
     "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
     "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
     "sample_ts": "2026-10-23T04:46:19Z"
@@ -903,12 +907,12 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 3,
+  "count_24h": 0,
   "count_72h": 5,
   "count_7d": 12,
   "since_last_reset": 0,
-  "baseline_per_day": 1.96,
-  "level": "elevated",
+  "baseline_per_day": 2.0,
+  "level": "quiet",
   "items": [
    {
     "id": "2115290318652444729",
@@ -923,7 +927,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 21.1
+    "age_hours": 26.0
    },
    {
     "id": "2115273064481218829",
@@ -939,7 +943,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 22.2
+    "age_hours": 27.1
    },
    {
     "id": "2115272201922572627",
@@ -954,7 +958,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 22.3
+    "age_hours": 27.2
    },
    {
     "id": "2114800277677092936",
@@ -969,7 +973,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 53.5
+    "age_hours": 58.4
    },
    {
     "id": "2114599388454481930",
@@ -984,7 +988,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 66.8
+    "age_hours": 71.7
    },
    {
     "id": "2114228445043691592",
@@ -999,7 +1003,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 91.4
+    "age_hours": 96.3
    },
    {
     "id": "2114228044072403055",
@@ -1014,7 +1018,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 91.4
+    "age_hours": 96.3
    },
    {
     "id": "2114200152701575656",
@@ -1029,7 +1033,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 93.3
+    "age_hours": 98.2
    },
    {
     "id": "2114037527598576003",
@@ -1044,7 +1048,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 104.0
+    "age_hours": 109.0
    },
    {
     "id": "2113770862860222611",
@@ -1059,7 +1063,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 121.7
+    "age_hours": 126.6
    },
    {
     "id": "2113492187770175603",
@@ -1075,7 +1079,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 140.1
+    "age_hours": 145.1
    },
    {
     "id": "2113162413008884099",
@@ -1091,7 +1095,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 162.0
+    "age_hours": 166.9
    },
    {
     "id": "2113029854417600834",
@@ -1106,7 +1110,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 170.8
+    "age_hours": 175.7
    },
    {
     "id": "2112906496736641416",
@@ -1121,7 +1125,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 178.9
+    "age_hours": 183.9
    },
    {
     "id": "2112798407928713717",
@@ -1136,7 +1140,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 186.1
+    "age_hours": 191.0
    },
    {
     "id": "2112592264686149749",
@@ -1151,7 +1155,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 199.7
+    "age_hours": 204.7
    },
    {
     "id": "2112034063934742720",
@@ -1166,7 +1170,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 236.7
+    "age_hours": 241.6
    },
    {
     "id": "2111918768733753664",
@@ -1181,7 +1185,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 244.3
+    "age_hours": 249.3
    },
    {
     "id": "2111918635849801739",
@@ -1196,7 +1200,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 244.4
+    "age_hours": 249.3
    },
    {
     "id": "2111583927156760690",
@@ -1211,7 +1215,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 266.5
+    "age_hours": 271.4
    },
    {
     "id": "2111492673890824348",
@@ -1227,7 +1231,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 272.6
+    "age_hours": 277.5
    },
    {
     "id": "2111244596131111253",
@@ -1242,7 +1246,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 289.0
+    "age_hours": 293.9
    },
    {
     "id": "2110951585983631505",
@@ -1257,7 +1261,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 308.4
+    "age_hours": 313.3
    },
    {
     "id": "2110750421367287996",
@@ -1272,22 +1276,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 321.7
-   },
-   {
-    "id": "2110595484180214059",
-    "ts": "2026-10-15T04:55:51+00:00",
-    "ts_local": "2026-10-15 12:55",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
-    "url": "https://x.com/thsottiaux/status/2110595484180214059",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": false,
-    "age_hours": 332.0
+    "age_hours": 326.7
    }
   ]
  },
@@ -1299,18 +1288,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-29T00:54:47+00:00",
+    "at": "2026-10-29T05:50:32+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-29T00:54:47+00:00"
+    "last_ok": "2026-10-29T05:50:32+00:00"
    },
    "feed": {
-    "at": "2026-10-29T00:54:47+00:00",
+    "at": "2026-10-29T05:50:32+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1318,18 +1307,18 @@
     "error": null,
     "total": 58,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-29T00:54:47+00:00"
+    "last_ok": "2026-10-29T05:50:32+00:00"
    },
    "pipeline": {
-    "at": "2026-10-29T00:53:54+00:00",
+    "at": "2026-10-29T05:50:30+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-29T00:53:54+00:00"
+    "last_ok": "2026-10-29T05:50:30+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-29T00:54:48+00:00",
+   "checked_at": "2026-10-29T05:50:32+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1381,14 +1370,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-26T12:57:42+00:00",
-    "mode": "full",
-    "seconds": 57.9,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-26T19:55:13+00:00",
     "mode": "fast",
@@ -1504,7 +1485,15 @@
    {
     "at": "2026-10-29T00:53:54+00:00",
     "mode": "full",
-    "seconds": 53.9,
+    "seconds": 54.0,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-29T05:50:30+00:00",
+    "mode": "fast",
+    "seconds": 2.0,
     "ok": true,
     "failed": [],
     "warnings": []
