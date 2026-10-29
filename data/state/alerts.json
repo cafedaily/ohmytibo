@@ -163,7 +163,7 @@
    "body": "北京时间 10-28 14:35 · Lands by midnight PST.",
    "url": "https://x.com/thsottiaux/status/2115273253711409208",
    "created_at": "2026-10-28T08:31:27+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -226,10 +226,10 @@
   "reset:2115273253711409208"
  ],
  "summary": {
-  "checked_at": "2026-10-28T20:15:55+00:00",
+  "checked_at": "2026-10-29T00:12:01+00:00",
   "channels": [],
   "configured": false,
-  "pending": 1,
+  "pending": 0,
   "undelivered_7d": 14,
   "last_sent": null,
   "recent": [
@@ -237,7 +237,7 @@
     "title": "检测到全局重置",
     "kind": "reset",
     "created_at": "2026-10-28T08:31:27+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
