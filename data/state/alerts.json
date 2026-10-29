@@ -226,11 +226,11 @@
   "reset:2115273253711409208"
  ],
  "summary": {
-  "checked_at": "2026-10-29T18:28:22+00:00",
+  "checked_at": "2026-10-29T22:00:19+00:00",
   "channels": [],
   "configured": false,
   "pending": 0,
-  "undelivered_7d": 11,
+  "undelivered_7d": 10,
   "last_sent": null,
   "recent": [
    {
