@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0089,
+   "share": 0.0075,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
@@ -20,7 +20,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -32,7 +32,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0045,
+   "share": 0.0037,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -44,55 +44,103 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0045,
+   "share": 0.0037,
    "sample": "By midnight PST",
    "sample_url": "https://x.com/thsottiaux/status/2114200291319124163",
    "sample_ts": "2026-10-25T03:40:04Z"
+  },
+  {
+   "term": "limits pro",
+   "kind": "phrase",
+   "count_7d": 2,
+   "count_28d_before": 0,
+   "lift": 2.32,
+   "docs": 1,
+   "share": 0.0037,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
    "term": "step",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.27,
+   "lift": 2.18,
    "docs": 1,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
+  },
+  {
+   "term": "limits",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 3,
+   "lift": 1.95,
+   "docs": 1,
+   "share": 0.0056,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
    "term": "together",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.87,
+   "lift": 1.74,
    "docs": 2,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
+  },
+  {
+   "term": "usage limits",
+   "kind": "phrase",
+   "count_7d": 2,
+   "count_28d_before": 2,
+   "lift": 1.69,
+   "docs": 1,
+   "share": 0.0037,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
    "term": "pst",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 5,
-   "lift": 1.71,
+   "lift": 1.57,
    "docs": 3,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
   },
   {
+   "term": "usage",
+   "kind": "word",
+   "count_7d": 8,
+   "count_28d_before": 24,
+   "lift": 1.17,
+   "docs": 3,
+   "share": 0.0149,
+   "sample": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions a",
+   "sample_url": "https://x.com/thsottiaux/status/2113770862860222611",
+   "sample_ts": "2026-10-23T23:13:40Z"
+  },
+  {
    "term": "codex",
    "kind": "word",
-   "count_7d": 4,
+   "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.89,
-   "docs": 3,
-   "share": 0.0089,
+   "lift": 0.97,
+   "docs": 4,
+   "share": 0.0093,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -100,25 +148,73 @@
   {
    "term": "reset",
    "kind": "word",
-   "count_7d": 5,
+   "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 0.82,
-   "docs": 5,
+   "lift": 0.84,
+   "docs": 6,
    "share": 0.0112,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 18,
+   "lift": 0.25,
+   "docs": 3,
+   "share": 0.0056,
+   "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
+   "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
+   "sample_ts": "2026-10-23T23:12:31Z"
+  },
+  {
+   "term": "pro",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 22,
+   "lift": 0.0,
+   "docs": 2,
+   "share": 0.0056,
+   "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
+   "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
+   "sample_ts": "2026-10-29T03:36:28Z"
   }
  ],
  "top": [
   {
+   "term": "usage",
+   "kind": "word",
+   "count_7d": 8,
+   "count_28d_before": 24,
+   "lift": 1.17,
+   "docs": 3,
+   "share": 0.0149,
+   "sample": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions a",
+   "sample_url": "https://x.com/thsottiaux/status/2113770862860222611",
+   "sample_ts": "2026-10-23T23:13:40Z"
+  },
+  {
    "term": "reset",
    "kind": "word",
-   "count_7d": 5,
+   "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 0.82,
-   "docs": 5,
+   "lift": 0.84,
+   "docs": 6,
    "share": 0.0112,
+   "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+   "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
+   "sample_ts": "2026-10-23T04:46:19Z"
+  },
+  {
+   "term": "codex",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 17,
+   "lift": 0.97,
+   "docs": 4,
+   "share": 0.0093,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -130,22 +226,10 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 1,
-   "share": 0.0089,
+   "share": 0.0075,
    "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
    "sample_ts": "2026-10-24T03:41:04Z"
-  },
-  {
-   "term": "codex",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 17,
-   "lift": 0.89,
-   "docs": 3,
-   "share": 0.0089,
-   "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
-   "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
-   "sample_ts": "2026-10-23T04:46:19Z"
   },
   {
    "term": "cli",
@@ -154,7 +238,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -164,21 +248,33 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.27,
+   "lift": 2.18,
    "docs": 1,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
+  },
+  {
+   "term": "limits",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 3,
+   "lift": 1.95,
+   "docs": 1,
+   "share": 0.0056,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
    "term": "together",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.87,
+   "lift": 1.74,
    "docs": 2,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -188,27 +284,46 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 5,
-   "lift": 1.71,
+   "lift": 1.57,
    "docs": 3,
-   "share": 0.0067,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 18,
+   "lift": 0.25,
+   "docs": 3,
+   "share": 0.0056,
+   "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
+   "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
+   "sample_ts": "2026-10-23T23:12:31Z"
+  },
+  {
+   "term": "pro",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 22,
+   "lift": 0.0,
+   "docs": 2,
+   "share": 0.0056,
+   "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
+   "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
+   "sample_ts": "2026-10-29T03:36:28Z"
   }
  ],
- "tokens_recent": 448,
+ "tokens_recent": 536,
  "tokens_base": 3935,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 27,
-   "share": 0.235,
+   "share": 0.227,
    "examples": [
-    {
-     "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
-     "url": "https://x.com/thsottiaux/status/2110750421367287996",
-     "ts": "2026-10-15T15:11:30Z"
-    },
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
      "url": "https://x.com/thsottiaux/status/2111244596131111253",
@@ -218,13 +333,18 @@
      "text": "@theo How many packs do you smoke per day?",
      "url": "https://x.com/thsottiaux/status/2111245772645896573",
      "ts": "2026-10-16T23:59:51Z"
+    },
+    {
+     "text": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedba",
+     "url": "https://x.com/thsottiaux/status/2111249810502353152",
+     "ts": "2026-10-17T00:15:54Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
-   "posts": 18,
-   "share": 0.157,
+   "posts": 20,
+   "share": 0.168,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -245,8 +365,8 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 16,
-   "share": 0.139,
+   "posts": 17,
+   "share": 0.143,
    "examples": [
     {
      "text": "Je programme en français",
@@ -268,13 +388,8 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 15,
-   "share": 0.13,
+   "share": 0.126,
    "examples": [
-    {
-     "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
-     "url": "https://x.com/thsottiaux/status/2110750421367287996",
-     "ts": "2026-10-15T15:11:30Z"
-    },
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
      "url": "https://x.com/thsottiaux/status/2111244596131111253",
@@ -284,19 +399,19 @@
      "text": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
      "url": "https://x.com/thsottiaux/status/2111245052513259606",
      "ts": "2026-10-16T23:57:00Z"
+    },
+    {
+     "text": "@codex_resets Mehga ghud",
+     "url": "https://x.com/thsottiaux/status/2111246098207813946",
+     "ts": "2026-10-17T00:01:09Z"
     }
    ]
   },
   {
    "topic": "Models",
-   "posts": 12,
-   "share": 0.104,
+   "posts": 13,
+   "share": 0.109,
    "examples": [
-    {
-     "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model i",
-     "url": "https://x.com/thsottiaux/status/2110750421367287996",
-     "ts": "2026-10-15T15:11:30Z"
-    },
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
      "url": "https://x.com/thsottiaux/status/2111244596131111253",
@@ -306,13 +421,18 @@
      "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
      "url": "https://x.com/thsottiaux/status/2111244957851984181",
      "ts": "2026-10-16T23:56:37Z"
+    },
+    {
+     "text": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to",
+     "url": "https://x.com/thsottiaux/status/2111249534072529256",
+     "ts": "2026-10-17T00:14:48Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
    "posts": 6,
-   "share": 0.052,
+   "share": 0.05,
    "examples": [
     {
      "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
@@ -334,7 +454,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.035,
+   "share": 0.034,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -369,30 +489,18 @@
   },
   {
    "handle": "theo",
-   "replies": 2,
-   "named": 1,
-   "total": 3
+   "replies": 3,
+   "named": 2,
+   "total": 5
   },
   {
-   "handle": "rezoundous",
+   "handle": "poteto",
    "replies": 1,
-   "named": 1,
-   "total": 2
+   "named": 3,
+   "total": 4
   },
   {
-   "handle": "Ananth7e",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "himanshutwtxs",
+   "handle": "mitsuhiko",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -404,19 +512,19 @@
    "total": 2
   },
   {
-   "handle": "playdropai",
+   "handle": "StefanoGPT",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "mark_k",
+   "handle": "BrenBuilds",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "ScriptedAlchemy",
+   "handle": "rezoundous",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -428,25 +536,7 @@
    "total": 2
   },
   {
-   "handle": "matteing",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BenjaminDEKR",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mitsuhiko",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Sisymiro",
+   "handle": "Aoakudotcom",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -458,13 +548,25 @@
    "total": 2
   },
   {
-   "handle": "can",
+   "handle": "Ananth7e",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "kirtandopamine",
+   "handle": "playdropai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ScriptedAlchemy",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "himanshutwtxs",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -476,31 +578,49 @@
    "total": 2
   },
   {
-   "handle": "Aoakudotcom",
+   "handle": "can",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "poteto",
-   "replies": 0,
-   "named": 2,
+   "handle": "mark_k",
+   "replies": 1,
+   "named": 1,
    "total": 2
   },
   {
-   "handle": "vishalsingh2972",
+   "handle": "Sisymiro",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "matteing",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "kirtandopamine",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BenjaminDEKR",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "larsencc",
    "replies": 1,
    "named": 0,
    "total": 1
   },
   {
-   "handle": "AdamHoltererer",
-   "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
-   "handle": "Xanderwow_A",
+   "handle": "_jayyy18_13k",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -510,48 +630,48 @@
   {
    "week": 0,
    "label": "最近7天",
-   "reset": 9,
+   "reset": 10,
    "resets": 2,
    "reseted": 0,
    "banked": 0,
    "eod": 1,
    "propagate": 0,
    "propagated": 1,
-   "usage": 5,
+   "usage": 6,
    "limit": 1,
-   "limits": 1,
+   "limits": 2,
    "vote": 0,
    "day": 17,
-   "series": 1
+   "series": 0
   },
   {
    "week": 1,
    "label": "7天前",
-   "reset": 15,
+   "reset": 14,
    "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 3,
    "propagate": 0,
    "propagated": 2,
-   "usage": 9,
+   "usage": 8,
    "limit": 0,
    "limits": 1,
    "vote": 3,
-   "day": 26,
-   "series": 0
+   "day": 27,
+   "series": 1
   },
   {
    "week": 2,
    "label": "14天前",
-   "reset": 3,
+   "reset": 4,
    "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 0,
    "propagate": 0,
    "propagated": 1,
-   "usage": 7,
+   "usage": 8,
    "limit": 1,
    "limits": 1,
    "vote": 0,
@@ -598,29 +718,29 @@
    "ts": "2026-10-28 11:51",
    "text": "Maybe it’s because I have bad long term memory.",
    "url": "https://x.com/thsottiaux/status/2115290318652444729",
-   "likes": 1344,
-   "replies": 94
+   "likes": 1384,
+   "replies": 95
   },
   {
    "ts": "2026-10-28 10:43",
    "text": "Lands by midnight PST.",
    "url": "https://x.com/thsottiaux/status/2115273253711409208",
-   "likes": 2177,
-   "replies": 450
+   "likes": 2193,
+   "replies": 452
   },
   {
    "ts": "2026-10-28 10:42",
    "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
    "url": "https://x.com/thsottiaux/status/2115273064481218829",
-   "likes": 8233,
-   "replies": 1125
+   "likes": 8295,
+   "replies": 1130
   },
   {
    "ts": "2026-10-28 10:39",
    "text": "What's going on",
    "url": "https://x.com/thsottiaux/status/2115272201922572627",
-   "likes": 1253,
-   "replies": 126
+   "likes": 1279,
+   "replies": 127
   },
   {
    "ts": "2026-10-26 14:05",
