@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-29T17:37:21.113880+00:00",
- "generated_local": "2026-10-30 01:37",
+ "generated_at": "2026-10-29T18:28:22.764310+00:00",
+ "generated_local": "2026-10-30 02:28",
  "forecast": {
-  "p_24h": 0.28,
-  "p_48h": 0.5294,
-  "p_72h": 0.6762,
-  "p_7d": 0.8824,
+  "p_24h": 0.2657,
+  "p_48h": 0.5215,
+  "p_72h": 0.6752,
+  "p_7d": 0.8827,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-10-30T06:37:21.113880+00:00",
-  "modal_reset_local": "2026-10-30 14:37",
-  "hours_since_last_reset": 35.03,
+  "modal_reset_at": "2026-10-30T06:28:22.764310+00:00",
+  "modal_reset_local": "2026-10-30 14:28",
+  "hours_since_last_reset": 35.88,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2219,
+   "brier": 0.2211,
    "brier_baseline": 0.2082,
-   "logloss": 0.6481,
+   "logloss": 0.6453,
    "logloss_baseline": 0.607,
-   "skill": -0.068,
+   "skill": -0.063,
    "base_rate": 0.2955
   },
   "weekly": [
    {
     "date": "2026-10-29",
-    "p": 0.0894
+    "p": 0.0618
    },
    {
     "date": "2026-10-30",
-    "p": 0.2885
+    "p": 0.2735
    },
    {
     "date": "2026-10-31",
-    "p": 0.212
+    "p": 0.2291
    },
    {
     "date": "2026-11-01",
-    "p": 0.1177
+    "p": 0.1326
    },
    {
     "date": "2026-11-02",
-    "p": 0.0631
+    "p": 0.0703
    },
    {
     "date": "2026-11-03",
-    "p": 0.0438
+    "p": 0.0445
    },
    {
     "date": "2026-11-04",
-    "p": 0.044
+    "p": 0.0416
    },
    {
     "date": "2026-11-05",
-    "p": 0.0336
+    "p": 0.0359
    },
    {
     "date": "2026-11-06",
-    "p": 0.0271
+    "p": 0.0268
    },
    {
     "date": "2026-11-07",
-    "p": 0.0243
+    "p": 0.0242
    },
    {
     "date": "2026-11-08",
-    "p": 0.0109
+    "p": 0.0142
    }
   ],
   "pending_promise": null
@@ -662,7 +662,7 @@
    "date": "2026-10-26",
    "posts": 8,
    "replies": 6,
-   "likes": 21945,
+   "likes": 21949,
    "engagement_replies": 3528,
    "reset": 1,
    "banked": 0
@@ -671,8 +671,8 @@
    "date": "2026-10-27",
    "posts": 3,
    "replies": 2,
-   "likes": 11003,
-   "engagement_replies": 2777,
+   "likes": 11016,
+   "engagement_replies": 2782,
    "reset": 0,
    "banked": 0
   },
@@ -680,7 +680,7 @@
    "date": "2026-10-28",
    "posts": 13,
    "replies": 9,
-   "likes": 47581,
+   "likes": 47685,
    "engagement_replies": 6328,
    "reset": 1,
    "banked": 0
@@ -689,8 +689,8 @@
    "date": "2026-10-29",
    "posts": 5,
    "replies": 3,
-   "likes": 18914,
-   "engagement_replies": 4308,
+   "likes": 19144,
+   "engagement_replies": 4329,
    "reset": 0,
    "banked": 0
   },
@@ -698,8 +698,8 @@
    "date": "2026-10-30",
    "posts": 5,
    "replies": 4,
-   "likes": 16191,
-   "engagement_replies": 3165,
+   "likes": 25796,
+   "engagement_replies": 4468,
    "reset": 0,
    "banked": 0
   }
@@ -1044,7 +1044,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 0.6
+    "age_hours": 1.4
    },
    {
     "id": "2115850175868727621",
@@ -1059,7 +1059,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 0.7
+    "age_hours": 1.5
    },
    {
     "id": "2115290318652444729",
@@ -1074,7 +1074,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 37.8
+    "age_hours": 38.6
    },
    {
     "id": "2115273064481218829",
@@ -1090,7 +1090,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 38.9
+    "age_hours": 39.8
    },
    {
     "id": "2115272201922572627",
@@ -1105,7 +1105,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 39.0
+    "age_hours": 39.8
    },
    {
     "id": "2114800277677092936",
@@ -1120,7 +1120,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 70.2
+    "age_hours": 71.1
    },
    {
     "id": "2114599388454481930",
@@ -1135,7 +1135,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 83.5
+    "age_hours": 84.4
    },
    {
     "id": "2114228445043691592",
@@ -1150,7 +1150,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 108.1
+    "age_hours": 108.9
    },
    {
     "id": "2114228044072403055",
@@ -1165,7 +1165,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 108.1
+    "age_hours": 109.0
    },
    {
     "id": "2114200152701575656",
@@ -1180,7 +1180,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 110.0
+    "age_hours": 110.8
    },
    {
     "id": "2114037527598576003",
@@ -1195,7 +1195,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 120.7
+    "age_hours": 121.6
    },
    {
     "id": "2113770862860222611",
@@ -1210,7 +1210,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 138.4
+    "age_hours": 139.2
    },
    {
     "id": "2113492187770175603",
@@ -1226,7 +1226,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 156.9
+    "age_hours": 157.7
    },
    {
     "id": "2113162413008884099",
@@ -1242,7 +1242,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 178.7
+    "age_hours": 179.5
    },
    {
     "id": "2113029854417600834",
@@ -1257,7 +1257,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 187.5
+    "age_hours": 188.3
    },
    {
     "id": "2112906496736641416",
@@ -1272,7 +1272,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 195.6
+    "age_hours": 196.5
    },
    {
     "id": "2112798407928713717",
@@ -1287,7 +1287,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 202.8
+    "age_hours": 203.6
    },
    {
     "id": "2112592264686149749",
@@ -1302,7 +1302,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 216.5
+    "age_hours": 217.3
    },
    {
     "id": "2112034063934742720",
@@ -1317,7 +1317,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 253.4
+    "age_hours": 254.3
    },
    {
     "id": "2111918768733753664",
@@ -1332,7 +1332,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 261.1
+    "age_hours": 261.9
    },
    {
     "id": "2111918635849801739",
@@ -1347,7 +1347,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 261.1
+    "age_hours": 261.9
    },
    {
     "id": "2111583927156760690",
@@ -1362,7 +1362,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 283.2
+    "age_hours": 284.1
    },
    {
     "id": "2111492673890824348",
@@ -1378,7 +1378,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 289.3
+    "age_hours": 290.1
    },
    {
     "id": "2111244596131111253",
@@ -1393,7 +1393,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 305.7
+    "age_hours": 306.6
    },
    {
     "id": "2110951585983631505",
@@ -1408,7 +1408,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 325.1
+    "age_hours": 326.0
    }
   ]
  },
@@ -1420,18 +1420,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-29T17:37:20+00:00",
+    "at": "2026-10-29T18:28:22+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-29T17:37:20+00:00"
+    "last_ok": "2026-10-29T18:28:22+00:00"
    },
    "feed": {
-    "at": "2026-10-29T17:37:20+00:00",
+    "at": "2026-10-29T18:28:22+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1439,18 +1439,18 @@
     "error": null,
     "total": 58,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-29T17:37:20+00:00"
+    "last_ok": "2026-10-29T18:28:22+00:00"
    },
    "pipeline": {
-    "at": "2026-10-29T17:37:18+00:00",
+    "at": "2026-10-29T18:27:29+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-29T17:37:18+00:00"
+    "last_ok": "2026-10-29T18:27:29+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-29T17:37:21+00:00",
+   "checked_at": "2026-10-29T18:28:22+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1502,14 +1502,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-26T23:33:53+00:00",
-    "mode": "fast",
-    "seconds": 2.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-27T00:24:50+00:00",
     "mode": "full",
@@ -1625,7 +1617,15 @@
    {
     "at": "2026-10-29T17:37:18+00:00",
     "mode": "fast",
-    "seconds": 2.3,
+    "seconds": 2.4,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-29T18:27:29+00:00",
+    "mode": "full",
+    "seconds": 53.1,
     "ok": true,
     "failed": [],
     "warnings": []
