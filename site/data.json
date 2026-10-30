@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-30T07:50:10.916278+00:00",
- "generated_local": "2026-10-30 15:50",
+ "generated_at": "2026-10-30T09:58:45.158302+00:00",
+ "generated_local": "2026-10-30 17:58",
  "forecast": {
-  "p_24h": 0.3413,
-  "p_48h": 0.5486,
-  "p_72h": 0.6595,
-  "p_7d": 0.8751,
+  "p_24h": 0.3409,
+  "p_48h": 0.547,
+  "p_72h": 0.6574,
+  "p_7d": 0.8746,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-10-31T06:50:10.916278+00:00",
-  "modal_reset_local": "2026-10-31 14:50",
-  "hours_since_last_reset": 49.24,
+  "modal_reset_at": "2026-10-31T06:58:45.158302+00:00",
+  "modal_reset_local": "2026-10-31 14:58",
+  "hours_since_last_reset": 51.39,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2225,
+   "brier": 0.2208,
    "brier_baseline": 0.2082,
-   "logloss": 0.6536,
+   "logloss": 0.649,
    "logloss_baseline": 0.607,
-   "skill": -0.077,
+   "skill": -0.069,
    "base_rate": 0.2955
   },
   "weekly": [
    {
     "date": "2026-10-30",
-    "p": 0.1664
+    "p": 0.1561
    },
    {
     "date": "2026-10-31",
-    "p": 0.2793
+    "p": 0.2828
    },
    {
     "date": "2026-11-01",
-    "p": 0.158
+    "p": 0.16
    },
    {
     "date": "2026-11-02",
-    "p": 0.0855
+    "p": 0.0866
    },
    {
     "date": "2026-11-03",
-    "p": 0.0593
+    "p": 0.0601
    },
    {
     "date": "2026-11-04",
-    "p": 0.0596
+    "p": 0.0604
    },
    {
     "date": "2026-11-05",
-    "p": 0.0455
+    "p": 0.046
    },
    {
     "date": "2026-11-06",
-    "p": 0.0368
+    "p": 0.0372
    },
    {
     "date": "2026-11-07",
-    "p": 0.033
+    "p": 0.0334
    },
    {
     "date": "2026-11-08",
-    "p": 0.0199
+    "p": 0.0201
    },
    {
     "date": "2026-11-09",
-    "p": 0.0067
+    "p": 0.007
    }
   ],
   "pending_promise": null
@@ -680,8 +680,8 @@
    "date": "2026-10-28",
    "posts": 13,
    "replies": 9,
-   "likes": 47963,
-   "engagement_replies": 6341,
+   "likes": 48186,
+   "engagement_replies": 6352,
    "reset": 1,
    "banked": 0
   },
@@ -689,8 +689,8 @@
    "date": "2026-10-29",
    "posts": 5,
    "replies": 3,
-   "likes": 20224,
-   "engagement_replies": 4383,
+   "likes": 20394,
+   "engagement_replies": 4439,
    "reset": 0,
    "banked": 0
   },
@@ -698,8 +698,8 @@
    "date": "2026-10-30",
    "posts": 11,
    "replies": 9,
-   "likes": 52613,
-   "engagement_replies": 8581,
+   "likes": 54208,
+   "engagement_replies": 8903,
    "reset": 0,
    "banked": 0
   }
@@ -1008,7 +1008,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 2.0
+    "age_hours": 4.1
    },
    {
     "id": "2115851621137784832",
@@ -1023,7 +1023,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 14.8
+    "age_hours": 16.9
    },
    {
     "id": "2115850175868727621",
@@ -1038,7 +1038,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 14.9
+    "age_hours": 17.0
    },
    {
     "id": "2115290318652444729",
@@ -1053,7 +1053,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 52.0
+    "age_hours": 54.1
    },
    {
     "id": "2115273064481218829",
@@ -1069,7 +1069,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 53.1
+    "age_hours": 55.3
    },
    {
     "id": "2115272201922572627",
@@ -1084,7 +1084,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 53.2
+    "age_hours": 55.3
    },
    {
     "id": "2114800277677092936",
@@ -1099,7 +1099,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 84.4
+    "age_hours": 86.6
    },
    {
     "id": "2114599388454481930",
@@ -1114,7 +1114,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 97.7
+    "age_hours": 99.9
    },
    {
     "id": "2114228445043691592",
@@ -1129,7 +1129,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 122.3
+    "age_hours": 124.4
    },
    {
     "id": "2114228044072403055",
@@ -1144,7 +1144,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 122.3
+    "age_hours": 124.5
    },
    {
     "id": "2114200152701575656",
@@ -1159,7 +1159,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 124.2
+    "age_hours": 126.3
    },
    {
     "id": "2114037527598576003",
@@ -1174,7 +1174,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 134.9
+    "age_hours": 137.1
    },
    {
     "id": "2113770862860222611",
@@ -1189,7 +1189,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 152.6
+    "age_hours": 154.8
    },
    {
     "id": "2113492187770175603",
@@ -1205,7 +1205,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 171.1
+    "age_hours": 173.2
    },
    {
     "id": "2113162413008884099",
@@ -1221,7 +1221,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 192.9
+    "age_hours": 195.0
    },
    {
     "id": "2113029854417600834",
@@ -1236,7 +1236,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 201.7
+    "age_hours": 203.8
    },
    {
     "id": "2112906496736641416",
@@ -1251,7 +1251,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 209.9
+    "age_hours": 212.0
    },
    {
     "id": "2112798407928713717",
@@ -1266,7 +1266,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 217.0
+    "age_hours": 219.2
    },
    {
     "id": "2112592264686149749",
@@ -1281,7 +1281,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 230.7
+    "age_hours": 232.8
    },
    {
     "id": "2112034063934742720",
@@ -1296,7 +1296,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 267.6
+    "age_hours": 269.8
    },
    {
     "id": "2111918768733753664",
@@ -1311,7 +1311,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 275.3
+    "age_hours": 277.4
    },
    {
     "id": "2111918635849801739",
@@ -1326,7 +1326,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 275.3
+    "age_hours": 277.4
    },
    {
     "id": "2111583927156760690",
@@ -1341,7 +1341,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 297.4
+    "age_hours": 299.6
    },
    {
     "id": "2111492673890824348",
@@ -1357,7 +1357,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 303.5
+    "age_hours": 305.6
    },
    {
     "id": "2111244596131111253",
@@ -1372,7 +1372,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 319.9
+    "age_hours": 322.1
    }
   ]
  },
@@ -1384,18 +1384,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-30T07:50:10+00:00",
+    "at": "2026-10-30T09:58:44+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-30T07:50:10+00:00"
+    "last_ok": "2026-10-30T09:58:44+00:00"
    },
    "feed": {
-    "at": "2026-10-30T07:50:10+00:00",
+    "at": "2026-10-30T09:58:45+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1403,18 +1403,18 @@
     "error": null,
     "total": 58,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-30T07:50:10+00:00"
+    "last_ok": "2026-10-30T09:58:45+00:00"
    },
    "pipeline": {
-    "at": "2026-10-30T07:50:08+00:00",
+    "at": "2026-10-30T09:57:57+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-30T07:50:08+00:00"
+    "last_ok": "2026-10-30T09:57:57+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-30T07:50:11+00:00",
+   "checked_at": "2026-10-30T09:58:45+00:00",
    "channels": [],
    "configured": false,
    "pending": 1,
@@ -1466,14 +1466,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-27T19:33:33+00:00",
-    "mode": "fast",
-    "seconds": 2.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-27T22:11:02+00:00",
     "mode": "full",
@@ -1589,7 +1581,15 @@
    {
     "at": "2026-10-30T07:50:08+00:00",
     "mode": "fast",
-    "seconds": 2.5,
+    "seconds": 2.6,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-30T09:57:57+00:00",
+    "mode": "full",
+    "seconds": 47.4,
     "ok": true,
     "failed": [],
     "warnings": []
