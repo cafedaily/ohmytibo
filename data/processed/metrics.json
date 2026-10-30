@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-30T00:58:43.377621+00:00",
- "generated_at_local": "2026-10-30 08:58",
+ "generated_at": "2026-10-30T01:51:41.862070+00:00",
+ "generated_at_local": "2026-10-30 09:51",
  "timezone": "UTC+8",
- "posts": 762,
- "replies": 547,
- "days_covered": 69,
+ "posts": 763,
+ "replies": 548,
+ "days_covered": 70,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-10-29T19:35:42Z",
+ "last_post": "2026-10-30T01:09:13Z",
  "resets_tracked": 36,
- "p_24h": 0.3169,
- "p_48h": 0.5497,
- "modal_reset_at": "2026-10-30T06:58:43.377621+00:00",
+ "p_24h": 0.3215,
+ "p_48h": 0.5523,
+ "modal_reset_at": "2026-10-30T06:51:41.862070+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.2248,
@@ -28,7 +28,7 @@
    "count_28d_before": 24,
    "lift": 1.16,
    "docs": 3,
-   "share": 0.0148,
+   "share": 0.0147,
    "sample": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions a",
    "sample_url": "https://x.com/thsottiaux/status/2113770862860222611",
    "sample_ts": "2026-10-23T23:13:40Z"
@@ -38,9 +38,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 0.83,
+   "lift": 0.82,
    "docs": 6,
-   "share": 0.0111,
+   "share": 0.011,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.96,
+   "lift": 0.95,
    "docs": 4,
-   "share": 0.0093,
+   "share": 0.0092,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -76,7 +76,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -86,9 +86,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.18,
+   "lift": 2.17,
    "docs": 1,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -100,7 +100,7 @@
    "count_28d_before": 3,
    "lift": 1.94,
    "docs": 1,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -110,9 +110,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.74,
+   "lift": 1.73,
    "docs": 2,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -124,7 +124,7 @@
    "count_28d_before": 5,
    "lift": 1.56,
    "docs": 3,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -134,9 +134,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 18,
-   "lift": 0.24,
+   "lift": 0.23,
    "docs": 3,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -148,7 +148,7 @@
    "count_28d_before": 22,
    "lift": -0.01,
    "docs": 2,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
    "sample_ts": "2026-10-29T03:36:28Z"
@@ -174,7 +174,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -232,9 +232,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.18,
+   "lift": 2.17,
    "docs": 1,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -246,7 +246,7 @@
    "count_28d_before": 3,
    "lift": 1.94,
    "docs": 1,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -256,9 +256,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.74,
+   "lift": 1.73,
    "docs": 2,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -282,7 +282,7 @@
    "count_28d_before": 5,
    "lift": 1.56,
    "docs": 3,
-   "share": 0.0056,
+   "share": 0.0055,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -294,7 +294,7 @@
    "count_28d_before": 24,
    "lift": 1.16,
    "docs": 3,
-   "share": 0.0148,
+   "share": 0.0147,
    "sample": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions a",
    "sample_url": "https://x.com/thsottiaux/status/2113770862860222611",
    "sample_ts": "2026-10-23T23:13:40Z"
@@ -304,7 +304,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 27,
-   "share": 0.231,
+   "share": 0.229,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -326,7 +326,7 @@
   {
    "topic": "Reset / quota",
    "posts": 20,
-   "share": 0.171,
+   "share": 0.169,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -348,7 +348,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 16,
-   "share": 0.137,
+   "share": 0.136,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -370,7 +370,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 15,
-   "share": 0.128,
+   "share": 0.127,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -392,7 +392,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.111,
+   "share": 0.11,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -1074,17 +1074,17 @@
    "date": "2026-10-29",
    "posts": 5,
    "replies": 3,
-   "likes": 19960,
-   "engagement_replies": 4369,
+   "likes": 20026,
+   "engagement_replies": 4371,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-10-30",
-   "posts": 6,
-   "replies": 4,
-   "likes": 45146,
-   "engagement_replies": 6960,
+   "posts": 7,
+   "replies": 5,
+   "likes": 46666,
+   "engagement_replies": 7303,
    "reset": 0,
    "banked": 0
   }
