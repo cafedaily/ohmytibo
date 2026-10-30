@@ -239,11 +239,11 @@
   "p24:30:2026-10-28T06:35:38+00:00"
  ],
  "summary": {
-  "checked_at": "2026-10-30T01:51:41+00:00",
+  "checked_at": "2026-10-30T07:50:11+00:00",
   "channels": [],
   "configured": false,
   "pending": 1,
-  "undelivered_7d": 11,
+  "undelivered_7d": 9,
   "last_sent": null,
   "recent": [
    {
