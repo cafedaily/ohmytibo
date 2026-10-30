@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T22:00:19.155302+00:00",
- "generated_at_local": "2026-10-30 06:00",
+ "generated_at": "2026-10-30T00:58:43.377621+00:00",
+ "generated_at_local": "2026-10-30 08:58",
  "timezone": "UTC+8",
  "posts": 762,
  "replies": 547,
@@ -8,9 +8,9 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-10-29T19:35:42Z",
  "resets_tracked": 36,
- "p_24h": 0.2888,
- "p_48h": 0.5342,
- "modal_reset_at": "2026-10-30T06:00:19.155302+00:00",
+ "p_24h": 0.3169,
+ "p_48h": 0.5497,
+ "modal_reset_at": "2026-10-30T06:58:43.377621+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.2248,
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 17,
-   "lift": 0.95,
+   "lift": 0.96,
    "docs": 4,
-   "share": 0.0092,
+   "share": 0.0093,
    "sample": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
    "sample_url": "https://x.com/thsottiaux/status/2113492187770175603",
    "sample_ts": "2026-10-23T04:46:19Z"
@@ -76,7 +76,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -88,7 +88,7 @@
    "count_28d_before": 2,
    "lift": 2.18,
    "docs": 1,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -100,7 +100,7 @@
    "count_28d_before": 3,
    "lift": 1.94,
    "docs": 1,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -112,7 +112,7 @@
    "count_28d_before": 4,
    "lift": 1.74,
    "docs": 2,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -124,7 +124,7 @@
    "count_28d_before": 5,
    "lift": 1.56,
    "docs": 3,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -134,9 +134,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 18,
-   "lift": 0.23,
+   "lift": 0.24,
    "docs": 3,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -148,7 +148,7 @@
    "count_28d_before": 22,
    "lift": -0.01,
    "docs": 2,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
    "sample_ts": "2026-10-29T03:36:28Z"
@@ -174,7 +174,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 2,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex ",
    "sample_url": "https://x.com/thsottiaux/status/2113770573994299544",
    "sample_ts": "2026-10-23T23:12:31Z"
@@ -234,7 +234,7 @@
    "count_28d_before": 2,
    "lift": 2.18,
    "docs": 1,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -246,7 +246,7 @@
    "count_28d_before": 3,
    "lift": 1.94,
    "docs": 1,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -258,7 +258,7 @@
    "count_28d_before": 4,
    "lift": 1.74,
    "docs": 2,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -282,7 +282,7 @@
    "count_28d_before": 5,
    "lift": 1.56,
    "docs": 3,
-   "share": 0.0055,
+   "share": 0.0056,
    "sample": "Landing tomorrow before 10am PST together with a small ship.",
    "sample_url": "https://x.com/thsottiaux/status/2113492502355562875",
    "sample_ts": "2026-10-23T04:47:34Z"
@@ -304,7 +304,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 27,
-   "share": 0.225,
+   "share": 0.231,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -326,7 +326,7 @@
   {
    "topic": "Reset / quota",
    "posts": 20,
-   "share": 0.167,
+   "share": 0.171,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -347,14 +347,9 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 17,
-   "share": 0.142,
+   "posts": 16,
+   "share": 0.137,
    "examples": [
-    {
-     "text": "Je programme en français",
-     "url": "https://x.com/thsottiaux/status/2110864861119045840",
-     "ts": "2026-10-15T22:46:15Z"
-    },
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
      "url": "https://x.com/thsottiaux/status/2111244596131111253",
@@ -364,13 +359,18 @@
      "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
      "url": "https://x.com/thsottiaux/status/2111244957851984181",
      "ts": "2026-10-16T23:56:37Z"
+    },
+    {
+     "text": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedba",
+     "url": "https://x.com/thsottiaux/status/2111249810502353152",
+     "ts": "2026-10-17T00:15:54Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
    "posts": 15,
-   "share": 0.125,
+   "share": 0.128,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -392,7 +392,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.108,
+   "share": 0.111,
    "examples": [
     {
      "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subag",
@@ -414,7 +414,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 6,
-   "share": 0.05,
+   "share": 0.051,
    "examples": [
     {
      "text": "We also significantly improved GPT-6 Pro for all pro users\n\nhttps://t.co/XE28U4S359",
@@ -436,7 +436,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.033,
+   "share": 0.034,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -1056,7 +1056,7 @@
    "date": "2026-10-27",
    "posts": 3,
    "replies": 2,
-   "likes": 11016,
+   "likes": 11017,
    "engagement_replies": 2782,
    "reset": 0,
    "banked": 0
@@ -1065,8 +1065,8 @@
    "date": "2026-10-28",
    "posts": 13,
    "replies": 9,
-   "likes": 47877,
-   "engagement_replies": 6340,
+   "likes": 47963,
+   "engagement_replies": 6341,
    "reset": 1,
    "banked": 0
   },
@@ -1074,8 +1074,8 @@
    "date": "2026-10-29",
    "posts": 5,
    "replies": 3,
-   "likes": 19706,
-   "engagement_replies": 4356,
+   "likes": 19960,
+   "engagement_replies": 4369,
    "reset": 0,
    "banked": 0
   },
@@ -1083,8 +1083,8 @@
    "date": "2026-10-30",
    "posts": 6,
    "replies": 4,
-   "likes": 39064,
-   "engagement_replies": 6102,
+   "likes": 45146,
+   "engagement_replies": 6960,
    "reset": 0,
    "banked": 0
   }
