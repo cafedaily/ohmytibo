@@ -458,13 +458,13 @@
    "total": 5
   },
   {
-   "handle": "Ananth7e",
+   "handle": "ajambrosino",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "ajambrosino",
+   "handle": "Ananth7e",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -476,61 +476,7 @@
    "total": 4
   },
   {
-   "handle": "Sisymiro",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "matteing",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "Aoakudotcom",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ScriptedAlchemy",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "playdropai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mark_k",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "himanshutwtxs",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "specialkdelslay",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ZryMiller",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -542,13 +488,55 @@
    "total": 2
   },
   {
+   "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "playdropai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Sisymiro",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "himanshutwtxs",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "mark_k",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BrenBuilds",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "matteing",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "StefanoGPT",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "janus_of_DC",
+   "handle": "specialkdelslay",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -560,13 +548,13 @@
    "total": 2
   },
   {
-   "handle": "rezoundous",
+   "handle": "janus_of_DC",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "mitsuhiko",
+   "handle": "ScriptedAlchemy",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -584,7 +572,19 @@
    "total": 2
   },
   {
-   "handle": "AdamHoltererer",
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "mitsuhiko",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "larsencc",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -652,7 +652,7 @@
    "eod": 1,
    "propagate": 0,
    "propagated": 1,
-   "usage": 6,
+   "usage": 5,
    "limit": 0,
    "limits": 0,
    "vote": 0,
@@ -669,7 +669,7 @@
    "eod": 0,
    "propagate": 0,
    "propagated": 0,
-   "usage": 1,
+   "usage": 2,
    "limit": 0,
    "limits": 0,
    "vote": 0,
@@ -682,7 +682,7 @@
    "ts": "2026-10-28 11:51",
    "text": "Maybe it’s because I have bad long term memory.",
    "url": "https://x.com/thsottiaux/status/2115290318652444729",
-   "likes": 1389,
+   "likes": 1391,
    "replies": 97
   },
   {
