@@ -187,7 +187,7 @@
    "body": "北京时间 10-31 13:42 · Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what y · 24h 概率 41%",
    "url": "https://x.com/thsottiaux/status/2116405414921384099",
    "created_at": "2026-10-31T08:46:24+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -199,6 +199,18 @@
    "body": "北京时间 10-31 13:42 · Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what y",
    "url": "https://x.com/thsottiaux/status/2116405414921384099",
    "created_at": "2026-10-31T08:46:24+00:00",
+   "status": "expired",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
+  },
+  {
+   "key": "banked:r-2116621096580065504",
+   "kind": "banked",
+   "title": "检测到 banked 重置发放",
+   "body": "北京时间 11-01 03:59 · A new banked Codex reset landed on our monitoring accounts.",
+   "url": "https://tiboreset.com/r/2116621096580065504",
+   "created_at": "2026-10-31T22:01:54+00:00",
    "status": "pending",
    "reason": "no_channel",
    "attempts": 0,
@@ -262,28 +274,36 @@
   "reset:2115273253711409208",
   "p24:30:2026-10-28T06:35:38+00:00",
   "promise:2116405414921384099",
-  "signal:2116405414921384099"
+  "signal:2116405414921384099",
+  "banked:r-2116621096580065504"
  ],
  "summary": {
-  "checked_at": "2026-10-31T19:17:42+00:00",
+  "checked_at": "2026-10-31T22:01:54+00:00",
   "channels": [],
   "configured": false,
-  "pending": 2,
-  "undelivered_7d": 10,
+  "pending": 1,
+  "undelivered_7d": 11,
   "last_sent": null,
   "recent": [
+   {
+    "title": "检测到 banked 重置发放",
+    "kind": "banked",
+    "created_at": "2026-10-31T22:01:54+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
    {
     "title": "出现未兑现的重置承诺",
     "kind": "promise",
     "created_at": "2026-10-31T08:46:24+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
     "title": "重置信号 · 重置话题",
     "kind": "signal",
     "created_at": "2026-10-31T08:46:24+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
@@ -297,13 +317,6 @@
     "title": "检测到全局重置",
     "kind": "reset",
     "created_at": "2026-10-28T08:31:27+00:00",
-    "status": "expired",
-    "reason": "no_channel"
-   },
-   {
-    "title": "重置信号 · 相关",
-    "kind": "signal",
-    "created_at": "2026-10-28T05:39:52+00:00",
     "status": "expired",
     "reason": "no_channel"
    },
