@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T02:29:58.987855+00:00",
- "generated_at_local": "2026-10-31 10:29",
+ "generated_at": "2026-10-31T05:37:34.341664+00:00",
+ "generated_at_local": "2026-10-31 13:37",
  "timezone": "UTC+8",
  "posts": 769,
  "replies": 554,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-10-31T01:46:35Z",
  "resets_tracked": 36,
- "p_24h": 0.3372,
- "p_48h": 0.5327,
- "modal_reset_at": "2026-10-31T06:29:58.987855+00:00",
+ "p_24h": 0.3311,
+ "p_48h": 0.5085,
+ "modal_reset_at": "2026-10-31T06:37:34.341664+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.223,
+  "brier": 0.2178,
   "brier_baseline": 0.2082,
-  "logloss": 0.6522,
+  "logloss": 0.6375,
   "logloss_baseline": 0.607,
-  "skill": -0.075,
+  "skill": -0.05,
   "base_rate": 0.2955
  },
  "top_terms": [
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 24,
-   "lift": 1.29,
+   "lift": 1.36,
    "docs": 2,
-   "share": 0.0163,
+   "share": 0.0172,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -38,33 +38,21 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 1.13,
+   "lift": 1.2,
    "docs": 6,
-   "share": 0.014,
+   "share": 0.0148,
    "sample": "Day 20/ Rest and reset",
    "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
    "sample_ts": "2026-10-25T03:39:31Z"
-  },
-  {
-   "term": "tool",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 0,
-   "lift": 3.17,
-   "docs": 1,
-   "share": 0.0093,
-   "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
-   "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
-   "sample_ts": "2026-10-24T03:41:04Z"
   },
   {
    "term": "step",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.29,
+   "lift": 2.32,
    "docs": 1,
-   "share": 0.007,
+   "share": 0.0074,
    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
    "sample_ts": "2026-10-24T22:42:03Z"
@@ -74,9 +62,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.29,
+   "lift": 2.32,
    "docs": 1,
-   "share": 0.007,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -86,9 +74,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.37,
+   "lift": 1.42,
    "docs": 3,
-   "share": 0.007,
+   "share": 0.0074,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -98,9 +86,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.29,
+   "lift": 0.36,
    "docs": 2,
-   "share": 0.007,
+   "share": 0.0074,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
    "sample_ts": "2026-10-29T03:36:28Z"
@@ -108,16 +96,28 @@
  ],
  "surge_terms": [
   {
-   "term": "tool",
+   "term": "step",
    "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 0,
-   "lift": 3.17,
+   "count_7d": 3,
+   "count_28d_before": 2,
+   "lift": 2.32,
    "docs": 1,
-   "share": 0.0093,
-   "sample": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
-   "sample_url": "https://x.com/thsottiaux/status/2113838156193894447",
-   "sample_ts": "2026-10-24T03:41:04Z"
+   "share": 0.0074,
+   "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
+   "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
+   "sample_ts": "2026-10-24T22:42:03Z"
+  },
+  {
+   "term": "limits",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 2,
+   "lift": 2.32,
+   "docs": 1,
+   "share": 0.0074,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
    "term": "midnight pst",
@@ -126,7 +126,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0047,
+   "share": 0.0049,
    "sample": "By midnight PST",
    "sample_url": "https://x.com/thsottiaux/status/2114200291319124163",
    "sample_ts": "2026-10-25T03:40:04Z"
@@ -138,7 +138,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 1,
-   "share": 0.0047,
+   "share": 0.0049,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -150,31 +150,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0047,
-   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
-   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
-   "sample_ts": "2026-10-29T16:56:07Z"
-  },
-  {
-   "term": "step",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 2,
-   "lift": 2.29,
-   "docs": 1,
-   "share": 0.007,
-   "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
-   "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
-   "sample_ts": "2026-10-24T22:42:03Z"
-  },
-  {
-   "term": "limits",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 2,
-   "lift": 2.29,
-   "docs": 1,
-   "share": 0.007,
+   "share": 0.0049,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -184,9 +160,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.04,
+   "lift": 2.06,
    "docs": 1,
-   "share": 0.0047,
+   "share": 0.0049,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -196,9 +172,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.37,
+   "lift": 1.42,
    "docs": 3,
-   "share": 0.007,
+   "share": 0.0074,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -208,9 +184,9 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 24,
-   "lift": 1.29,
+   "lift": 1.36,
    "docs": 2,
-   "share": 0.0163,
+   "share": 0.0172,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -220,9 +196,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 1.13,
+   "lift": 1.2,
    "docs": 6,
-   "share": 0.014,
+   "share": 0.0148,
    "sample": "Day 20/ Rest and reset",
    "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
    "sample_ts": "2026-10-25T03:39:31Z"
@@ -232,9 +208,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.29,
+   "lift": 0.36,
    "docs": 2,
-   "share": 0.007,
+   "share": 0.0074,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
    "sample_ts": "2026-10-29T03:36:28Z"
@@ -244,7 +220,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 26,
-   "share": 0.23,
+   "share": 0.232,
    "examples": [
     {
      "text": "Is it just me or was @ajambrosino nerfed today",
@@ -266,7 +242,7 @@
   {
    "topic": "Reset / quota",
    "posts": 19,
-   "share": 0.168,
+   "share": 0.17,
    "examples": [
     {
      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
@@ -288,7 +264,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.115,
+   "share": 0.116,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -310,7 +286,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 12,
-   "share": 0.106,
+   "share": 0.107,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -331,14 +307,9 @@
   },
   {
    "topic": "Models",
-   "posts": 10,
-   "share": 0.088,
+   "posts": 9,
+   "share": 0.08,
    "examples": [
-    {
-     "text": "@StefanoGPT @OpenAI https://t.co/Qyskzehl84",
-     "url": "https://x.com/thsottiaux/status/2111323620471632217",
-     "ts": "2026-10-17T05:09:12Z"
-    },
     {
      "text": "@poteto Close, but it's missing the gpt",
      "url": "https://x.com/thsottiaux/status/2111491105120547265",
@@ -348,13 +319,18 @@
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
      "url": "https://x.com/thsottiaux/status/2113770573994299544",
      "ts": "2026-10-23T23:12:31Z"
+    },
+    {
+     "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixe",
+     "url": "https://x.com/thsottiaux/status/2113770862860222611",
+     "ts": "2026-10-23T23:13:40Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
    "posts": 5,
-   "share": 0.044,
+   "share": 0.045,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -376,7 +352,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.035,
+   "share": 0.036,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -1005,7 +981,7 @@
    "date": "2026-10-28",
    "posts": 13,
    "replies": 9,
-   "likes": 48244,
+   "likes": 48260,
    "engagement_replies": 6353,
    "reset": 1,
    "banked": 0
@@ -1014,8 +990,8 @@
    "date": "2026-10-29",
    "posts": 5,
    "replies": 3,
-   "likes": 20683,
-   "engagement_replies": 4491,
+   "likes": 20737,
+   "engagement_replies": 4502,
    "reset": 0,
    "banked": 0
   },
@@ -1023,8 +999,8 @@
    "date": "2026-10-30",
    "posts": 11,
    "replies": 9,
-   "likes": 58452,
-   "engagement_replies": 9723,
+   "likes": 59310,
+   "engagement_replies": 10120,
    "reset": 0,
    "banked": 0
   },
@@ -1032,8 +1008,8 @@
    "date": "2026-10-31",
    "posts": 2,
    "replies": 2,
-   "likes": 4518,
-   "engagement_replies": 487,
+   "likes": 5855,
+   "engagement_replies": 719,
    "reset": 0,
    "banked": 0
   }
