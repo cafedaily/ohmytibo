@@ -1,76 +1,80 @@
 {
- "generated_at": "2026-10-31T05:37:34.341664+00:00",
- "generated_local": "2026-10-31 13:37",
+ "generated_at": "2026-10-31T08:46:24.369863+00:00",
+ "generated_local": "2026-10-31 16:46",
  "forecast": {
-  "p_24h": 0.3311,
-  "p_48h": 0.5085,
-  "p_72h": 0.6048,
-  "p_7d": 0.8644,
+  "p_24h": 0.4132,
+  "p_48h": 0.6044,
+  "p_72h": 0.7067,
+  "p_7d": 0.9406,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-10-31T06:37:34.341664+00:00",
-  "modal_reset_local": "2026-10-31 14:37",
-  "hours_since_last_reset": 71.03,
+  "modal_reset_at": "2026-11-01T06:46:24.369863+00:00",
+  "modal_reset_local": "2026-11-01 14:46",
+  "hours_since_last_reset": 74.18,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2178,
+   "brier": 0.2201,
    "brier_baseline": 0.2082,
-   "logloss": 0.6375,
+   "logloss": 0.6473,
    "logloss_baseline": 0.607,
-   "skill": -0.05,
+   "skill": -0.066,
    "base_rate": 0.2955
   },
   "weekly": [
    {
     "date": "2026-10-31",
-    "p": 0.2518
+    "p": 0.2167
    },
    {
     "date": "2026-11-01",
-    "p": 0.2133
+    "p": 0.2943
    },
    {
     "date": "2026-11-02",
-    "p": 0.1154
+    "p": 0.1413
    },
    {
     "date": "2026-11-03",
-    "p": 0.0801
+    "p": 0.0896
    },
    {
     "date": "2026-11-04",
-    "p": 0.0805
+    "p": 0.0828
    },
    {
     "date": "2026-11-05",
-    "p": 0.0614
+    "p": 0.0561
    },
    {
     "date": "2026-11-06",
-    "p": 0.0497
+    "p": 0.0405
    },
    {
     "date": "2026-11-07",
-    "p": 0.0445
+    "p": 0.032
    },
    {
     "date": "2026-11-08",
-    "p": 0.0268
+    "p": 0.0164
    },
    {
     "date": "2026-11-09",
-    "p": 0.0137
+    "p": 0.0073
    },
    {
     "date": "2026-11-10",
-    "p": 0.0029
+    "p": 0.0037
    }
   ],
-  "pending_promise": null
+  "pending_promise": {
+   "id": "2116405414921384099",
+   "ts": "2026-10-31T05:42:26Z",
+   "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t"
+  }
  },
  "daily": [
   {
@@ -698,17 +702,17 @@
    "date": "2026-10-30",
    "posts": 11,
    "replies": 9,
-   "likes": 59310,
-   "engagement_replies": 10120,
+   "likes": 59427,
+   "engagement_replies": 10124,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-10-31",
-   "posts": 2,
-   "replies": 2,
-   "likes": 5855,
-   "engagement_replies": 719,
+   "posts": 4,
+   "replies": 3,
+   "likes": 14214,
+   "engagement_replies": 2328,
    "reset": 0,
    "banked": 0
   }
@@ -720,9 +724,9 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 24,
-    "lift": 1.36,
+    "lift": 1.3,
     "docs": 2,
-    "share": 0.0172,
+    "share": 0.0164,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
     "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
     "sample_ts": "2026-10-26T19:24:11Z"
@@ -732,9 +736,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 23,
-    "lift": 1.2,
+    "lift": 1.15,
     "docs": 6,
-    "share": 0.0148,
+    "share": 0.0141,
     "sample": "Day 20/ Rest and reset",
     "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
     "sample_ts": "2026-10-25T03:39:31Z"
@@ -744,9 +748,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.32,
+    "lift": 2.3,
     "docs": 1,
-    "share": 0.0074,
+    "share": 0.007,
     "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
     "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
     "sample_ts": "2026-10-24T22:42:03Z"
@@ -756,9 +760,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.32,
+    "lift": 2.3,
     "docs": 1,
-    "share": 0.0074,
+    "share": 0.007,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -768,9 +772,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.42,
+    "lift": 1.38,
     "docs": 3,
-    "share": 0.0074,
+    "share": 0.007,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
     "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
     "sample_ts": "2026-10-26T19:24:11Z"
@@ -780,9 +784,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 22,
-    "lift": 0.36,
+    "lift": 0.31,
     "docs": 2,
-    "share": 0.0074,
+    "share": 0.007,
     "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
     "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
     "sample_ts": "2026-10-29T03:36:28Z"
@@ -790,37 +794,13 @@
   ],
   "surge": [
    {
-    "term": "step",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 2,
-    "lift": 2.32,
-    "docs": 1,
-    "share": 0.0074,
-    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
-    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
-    "sample_ts": "2026-10-24T22:42:03Z"
-   },
-   {
-    "term": "limits",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 2,
-    "lift": 2.32,
-    "docs": 1,
-    "share": 0.0074,
-    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
-    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
-    "sample_ts": "2026-10-29T16:56:07Z"
-   },
-   {
     "term": "midnight pst",
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0049,
+    "share": 0.0047,
     "sample": "By midnight PST",
     "sample_url": "https://x.com/thsottiaux/status/2114200291319124163",
     "sample_ts": "2026-10-25T03:40:04Z"
@@ -832,7 +812,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0049,
+    "share": 0.0047,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -844,7 +824,31 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0049,
+    "share": 0.0047,
+    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+    "sample_ts": "2026-10-29T16:56:07Z"
+   },
+   {
+    "term": "step",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 2,
+    "lift": 2.3,
+    "docs": 1,
+    "share": 0.007,
+    "sample": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
+    "sample_url": "https://x.com/thsottiaux/status/2114125293124542632",
+    "sample_ts": "2026-10-24T22:42:03Z"
+   },
+   {
+    "term": "limits",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 2,
+    "lift": 2.3,
+    "docs": 1,
+    "share": 0.007,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -854,9 +858,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 2.06,
+    "lift": 2.04,
     "docs": 1,
-    "share": 0.0049,
+    "share": 0.0047,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -866,9 +870,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.42,
+    "lift": 1.38,
     "docs": 3,
-    "share": 0.0074,
+    "share": 0.007,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
     "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
     "sample_ts": "2026-10-26T19:24:11Z"
@@ -878,9 +882,9 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 24,
-    "lift": 1.36,
+    "lift": 1.3,
     "docs": 2,
-    "share": 0.0172,
+    "share": 0.0164,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
     "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
     "sample_ts": "2026-10-26T19:24:11Z"
@@ -890,9 +894,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 23,
-    "lift": 1.2,
+    "lift": 1.15,
     "docs": 6,
-    "share": 0.0148,
+    "share": 0.0141,
     "sample": "Day 20/ Rest and reset",
     "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
     "sample_ts": "2026-10-25T03:39:31Z"
@@ -902,9 +906,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 22,
-    "lift": 0.36,
+    "lift": 0.31,
     "docs": 2,
-    "share": 0.0074,
+    "share": 0.007,
     "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
     "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
     "sample_ts": "2026-10-29T03:36:28Z"
@@ -914,12 +918,27 @@
  "signals": {
   "window_days": 14,
   "count_24h": 2,
-  "count_72h": 4,
-  "count_7d": 13,
-  "since_last_reset": 4,
+  "count_72h": 5,
+  "count_7d": 14,
+  "since_last_reset": 5,
   "baseline_per_day": 2.11,
   "level": "quiet",
   "items": [
+   {
+    "id": "2116405414921384099",
+    "ts": "2026-10-31T05:42:26+00:00",
+    "ts_local": "2026-10-31 13:42",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
+    "url": "https://x.com/thsottiaux/status/2116405414921384099",
+    "sources": [
+     "page"
+    ],
+    "forward": true,
+    "after_last_reset": true,
+    "age_hours": 3.1
+   },
    {
     "id": "2116256600436641887",
     "ts": "2026-10-30T19:51:06+00:00",
@@ -933,7 +952,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 9.8
+    "age_hours": 12.9
    },
    {
     "id": "2116045727642366367",
@@ -948,7 +967,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 23.7
+    "age_hours": 26.9
    },
    {
     "id": "2115851621137784832",
@@ -963,7 +982,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 36.6
+    "age_hours": 39.7
    },
    {
     "id": "2115850175868727621",
@@ -978,7 +997,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 36.7
+    "age_hours": 39.8
    },
    {
     "id": "2115290318652444729",
@@ -993,7 +1012,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 73.8
+    "age_hours": 76.9
    },
    {
     "id": "2115273064481218829",
@@ -1009,7 +1028,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 74.9
+    "age_hours": 78.1
    },
    {
     "id": "2115272201922572627",
@@ -1024,7 +1043,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 75.0
+    "age_hours": 78.1
    },
    {
     "id": "2114800277677092936",
@@ -1039,7 +1058,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 106.2
+    "age_hours": 109.4
    },
    {
     "id": "2114599388454481930",
@@ -1054,7 +1073,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 119.5
+    "age_hours": 122.7
    },
    {
     "id": "2114228445043691592",
@@ -1069,7 +1088,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 144.1
+    "age_hours": 147.2
    },
    {
     "id": "2114228044072403055",
@@ -1084,7 +1103,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 144.1
+    "age_hours": 147.3
    },
    {
     "id": "2114200152701575656",
@@ -1099,7 +1118,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 146.0
+    "age_hours": 149.1
    },
    {
     "id": "2114037527598576003",
@@ -1114,7 +1133,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 156.7
+    "age_hours": 159.9
    },
    {
     "id": "2113770862860222611",
@@ -1129,7 +1148,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 174.4
+    "age_hours": 177.5
    },
    {
     "id": "2113492187770175603",
@@ -1145,7 +1164,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 192.9
+    "age_hours": 196.0
    },
    {
     "id": "2113162413008884099",
@@ -1161,7 +1180,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 214.7
+    "age_hours": 217.8
    },
    {
     "id": "2113029854417600834",
@@ -1176,7 +1195,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 223.5
+    "age_hours": 226.6
    },
    {
     "id": "2112906496736641416",
@@ -1191,7 +1210,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 231.6
+    "age_hours": 234.8
    },
    {
     "id": "2112798407928713717",
@@ -1206,7 +1225,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 238.8
+    "age_hours": 241.9
    },
    {
     "id": "2112592264686149749",
@@ -1221,7 +1240,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 252.5
+    "age_hours": 255.6
    },
    {
     "id": "2112034063934742720",
@@ -1236,7 +1255,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 289.4
+    "age_hours": 292.6
    },
    {
     "id": "2111918768733753664",
@@ -1251,7 +1270,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 297.1
+    "age_hours": 300.2
    },
    {
     "id": "2111918635849801739",
@@ -1266,7 +1285,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 297.1
+    "age_hours": 300.2
    },
    {
     "id": "2111583927156760690",
@@ -1281,7 +1300,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 319.2
+    "age_hours": 322.4
    },
    {
     "id": "2111492673890824348",
@@ -1297,7 +1316,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 325.3
+    "age_hours": 328.4
    }
   ]
  },
@@ -1309,18 +1328,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-10-31T05:37:33+00:00",
+    "at": "2026-10-31T08:46:23+00:00",
     "ok": true,
-    "fetched": 61,
+    "fetched": 2,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-31T05:37:33+00:00"
+    "last_ok": "2026-10-31T08:46:23+00:00"
    },
    "feed": {
-    "at": "2026-10-31T05:37:34+00:00",
+    "at": "2026-10-31T08:46:24+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1328,24 +1347,38 @@
     "error": null,
     "total": 58,
     "consecutive_failures": 0,
-    "last_ok": "2026-10-31T05:37:34+00:00"
+    "last_ok": "2026-10-31T08:46:24+00:00"
    },
    "pipeline": {
-    "at": "2026-10-31T05:36:37+00:00",
+    "at": "2026-10-31T08:46:21+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-10-31T05:36:37+00:00"
+    "last_ok": "2026-10-31T08:46:21+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-10-31T05:37:34+00:00",
+   "checked_at": "2026-10-31T08:46:24+00:00",
    "channels": [],
    "configured": false,
-   "pending": 0,
-   "undelivered_7d": 8,
+   "pending": 2,
+   "undelivered_7d": 10,
    "last_sent": null,
    "recent": [
+    {
+     "title": "出现未兑现的重置承诺",
+     "kind": "promise",
+     "created_at": "2026-10-31T08:46:24+00:00",
+     "status": "pending",
+     "reason": "no_channel"
+    },
+    {
+     "title": "重置信号 · 重置话题",
+     "kind": "signal",
+     "created_at": "2026-10-31T08:46:24+00:00",
+     "status": "pending",
+     "reason": "no_channel"
+    },
     {
      "title": "24 小时重置概率升至 32%",
      "kind": "probability",
@@ -1373,32 +1406,10 @@
      "created_at": "2026-10-28T05:39:52+00:00",
      "status": "expired",
      "reason": "no_channel"
-    },
-    {
-     "title": "24 小时重置概率升至 31%",
-     "kind": "probability",
-     "created_at": "2026-10-27T22:12:01+00:00",
-     "status": "expired",
-     "reason": "no_channel"
-    },
-    {
-     "title": "检测到全局重置",
-     "kind": "reset",
-     "created_at": "2026-10-26T07:02:21+00:00",
-     "status": "expired",
-     "reason": "no_channel"
     }
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-29T00:11:57+00:00",
-    "mode": "fast",
-    "seconds": 3.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-29T00:53:54+00:00",
     "mode": "full",
@@ -1515,6 +1526,14 @@
     "at": "2026-10-31T05:36:37+00:00",
     "mode": "full",
     "seconds": 57.2,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-10-31T08:46:21+00:00",
+    "mode": "fast",
+    "seconds": 2.5,
     "ok": true,
     "failed": [],
     "warnings": []

@@ -179,6 +179,30 @@
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
+  },
+  {
+   "key": "promise:2116405414921384099",
+   "kind": "promise",
+   "title": "出现未兑现的重置承诺",
+   "body": "北京时间 10-31 13:42 · Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what y · 24h 概率 41%",
+   "url": "https://x.com/thsottiaux/status/2116405414921384099",
+   "created_at": "2026-10-31T08:46:24+00:00",
+   "status": "pending",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
+  },
+  {
+   "key": "signal:2116405414921384099",
+   "kind": "signal",
+   "title": "重置信号 · 重置话题",
+   "body": "北京时间 10-31 13:42 · Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what y",
+   "url": "https://x.com/thsottiaux/status/2116405414921384099",
+   "created_at": "2026-10-31T08:46:24+00:00",
+   "status": "pending",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
   }
  ],
  "bootstrapped_at": "2026-10-21T09:09:31+00:00",
@@ -236,16 +260,32 @@
   "signal:2115273253711409208",
   "signal:2115273064481218829",
   "reset:2115273253711409208",
-  "p24:30:2026-10-28T06:35:38+00:00"
+  "p24:30:2026-10-28T06:35:38+00:00",
+  "promise:2116405414921384099",
+  "signal:2116405414921384099"
  ],
  "summary": {
-  "checked_at": "2026-10-31T05:37:34+00:00",
+  "checked_at": "2026-10-31T08:46:24+00:00",
   "channels": [],
   "configured": false,
-  "pending": 0,
-  "undelivered_7d": 8,
+  "pending": 2,
+  "undelivered_7d": 10,
   "last_sent": null,
   "recent": [
+   {
+    "title": "出现未兑现的重置承诺",
+    "kind": "promise",
+    "created_at": "2026-10-31T08:46:24+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
+   {
+    "title": "重置信号 · 重置话题",
+    "kind": "signal",
+    "created_at": "2026-10-31T08:46:24+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
    {
     "title": "24 小时重置概率升至 32%",
     "kind": "probability",
@@ -271,20 +311,6 @@
     "title": "重置信号 · 相关",
     "kind": "signal",
     "created_at": "2026-10-28T05:39:52+00:00",
-    "status": "expired",
-    "reason": "no_channel"
-   },
-   {
-    "title": "24 小时重置概率升至 31%",
-    "kind": "probability",
-    "created_at": "2026-10-27T22:12:01+00:00",
-    "status": "expired",
-    "reason": "no_channel"
-   },
-   {
-    "title": "检测到全局重置",
-    "kind": "reset",
-    "created_at": "2026-10-26T07:02:21+00:00",
     "status": "expired",
     "reason": "no_channel"
    }
