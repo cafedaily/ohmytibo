@@ -30,7 +30,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.33,
+   "lift": 2.34,
    "docs": 1,
    "share": 0.0077,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -200,7 +200,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.33,
+   "lift": 2.34,
    "docs": 1,
    "share": 0.0077,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -256,8 +256,8 @@
    "sample_ts": "2026-10-29T01:49:26Z"
   }
  ],
- "tokens_recent": 391,
- "tokens_base": 4032,
+ "tokens_recent": 390,
+ "tokens_base": 4033,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -452,72 +452,6 @@
    "total": 4
   },
   {
-   "handle": "Aoakudotcom",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "bijanbowen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "kirtandopamine",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Sisymiro",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "matteing",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mark_k",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rezoundous",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "himanshutwtxs",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "BenjaminDEKR",
    "replies": 1,
    "named": 1,
@@ -530,13 +464,67 @@
    "total": 2
   },
   {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Aoakudotcom",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "bijanbowen",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "janus_of_DC",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "jxnlco",
+   "handle": "matteing",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "mark_k",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BrenBuilds",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charliermarsh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Sisymiro",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -548,12 +536,6 @@
    "total": 2
   },
   {
-   "handle": "blueemi99",
-   "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
    "handle": "AdamHoltererer",
    "replies": 1,
    "named": 0,
@@ -561,6 +543,24 @@
   },
   {
    "handle": "larsencc",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "Xanderwow_A",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "blueemi99",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "claudeai",
    "replies": 1,
    "named": 0,
    "total": 1
