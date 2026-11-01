@@ -30,7 +30,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.34,
+   "lift": 2.33,
    "docs": 1,
    "share": 0.0077,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -200,7 +200,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.34,
+   "lift": 2.33,
    "docs": 1,
    "share": 0.0077,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -257,12 +257,12 @@
   }
  ],
  "tokens_recent": 390,
- "tokens_base": 4033,
+ "tokens_base": 4026,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 24,
-   "share": 0.235,
+   "share": 0.245,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -283,14 +283,9 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 21,
-   "share": 0.206,
+   "posts": 20,
+   "share": 0.204,
    "examples": [
-    {
-     "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-     "url": "https://x.com/thsottiaux/status/2111918768733753664",
-     "ts": "2026-10-18T20:34:06Z"
-    },
     {
      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
      "url": "https://x.com/thsottiaux/status/2112432076767289678",
@@ -300,13 +295,18 @@
      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts",
      "url": "https://x.com/thsottiaux/status/2112592264686149749",
      "ts": "2026-10-20T17:10:20Z"
+    },
+    {
+     "text": "I demand a reset",
+     "url": "https://x.com/thsottiaux/status/2112798407928713717",
+     "ts": "2026-10-21T06:49:29Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
    "posts": 14,
-   "share": 0.137,
+   "share": 0.143,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -328,7 +328,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.127,
+   "share": 0.133,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -350,7 +350,7 @@
   {
    "topic": "Models",
    "posts": 8,
-   "share": 0.078,
+   "share": 0.082,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -372,7 +372,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 5,
-   "share": 0.049,
+   "share": 0.051,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -394,7 +394,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 5,
-   "share": 0.049,
+   "share": 0.051,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -428,6 +428,12 @@
    "total": 5
   },
   {
+   "handle": "theo",
+   "replies": 2,
+   "named": 2,
+   "total": 4
+  },
+  {
    "handle": "ajambrosino",
    "replies": 2,
    "named": 2,
@@ -440,31 +446,13 @@
    "total": 4
   },
   {
-   "handle": "theo",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
    "handle": "alexandr_wang",
    "replies": 1,
    "named": 3,
    "total": 4
   },
   {
-   "handle": "BenjaminDEKR",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ZryMiller",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
+   "handle": "BrenBuilds",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -476,19 +464,43 @@
    "total": 2
   },
   {
-   "handle": "bijanbowen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "janus_of_DC",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
+   "handle": "bijanbowen",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "matteing",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BenjaminDEKR",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -506,13 +518,7 @@
    "total": 2
   },
   {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rezoundous",
+   "handle": "yacineMTB",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -530,10 +536,10 @@
    "total": 2
   },
   {
-   "handle": "yacineMTB",
+   "handle": "Xanderwow_A",
    "replies": 1,
-   "named": 1,
-   "total": 2
+   "named": 0,
+   "total": 1
   },
   {
    "handle": "AdamHoltererer",
@@ -543,12 +549,6 @@
   },
   {
    "handle": "larsencc",
-   "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
-   "handle": "Xanderwow_A",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -571,7 +571,7 @@
    "week": 0,
    "label": "最近7天",
    "reset": 11,
-   "resets": 3,
+   "resets": 2,
    "reseted": 0,
    "banked": 3,
    "eod": 0,
@@ -587,8 +587,8 @@
   {
    "week": 1,
    "label": "7天前",
-   "reset": 12,
-   "resets": 2,
+   "reset": 11,
+   "resets": 3,
    "reseted": 0,
    "banked": 1,
    "eod": 4,
@@ -598,13 +598,13 @@
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 28,
+   "day": 27,
    "series": 1
   },
   {
    "week": 2,
    "label": "14天前",
-   "reset": 7,
+   "reset": 8,
    "resets": 2,
    "reseted": 0,
    "banked": 1,
@@ -615,24 +615,41 @@
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 4,
+   "day": 5,
    "series": 0
   },
   {
    "week": 3,
    "label": "21天前",
-   "reset": 8,
+   "reset": 6,
    "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 1,
    "propagate": 0,
    "propagated": 1,
-   "usage": 5,
+   "usage": 3,
    "limit": 0,
    "limits": 0,
    "vote": 0,
-   "day": 2,
+   "day": 1,
+   "series": 0
+  },
+  {
+   "week": 4,
+   "label": "28天前",
+   "reset": 2,
+   "resets": 0,
+   "reseted": 0,
+   "banked": 0,
+   "eod": 0,
+   "propagate": 0,
+   "propagated": 0,
+   "usage": 2,
+   "limit": 0,
+   "limits": 0,
+   "vote": 0,
+   "day": 1,
    "series": 0
   }
  ],

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T19:39:16.178773+00:00",
- "generated_at_local": "2026-11-02 03:39",
+ "generated_at": "2026-11-01T22:42:59.669604+00:00",
+ "generated_at_local": "2026-11-02 06:42",
  "timezone": "UTC+8",
  "posts": 780,
  "replies": 562,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-11-01T17:15:24Z",
  "resets_tracked": 36,
- "p_24h": 0.2945,
- "p_48h": 0.4739,
- "modal_reset_at": "2026-11-02T06:39:16.178773+00:00",
+ "p_24h": 0.281,
+ "p_48h": 0.4645,
+ "modal_reset_at": "2026-11-02T06:42:59.669604+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2201,
+  "brier": 0.2238,
   "brier_baseline": 0.2082,
-  "logloss": 0.6421,
+  "logloss": 0.6542,
   "logloss_baseline": 0.607,
-  "skill": -0.058,
+  "skill": -0.078,
   "base_rate": 0.2955
  },
  "top_terms": [
@@ -74,7 +74,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.34,
+   "lift": 2.33,
    "docs": 1,
    "share": 0.0077,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -160,7 +160,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.34,
+   "lift": 2.33,
    "docs": 1,
    "share": 0.0077,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -280,7 +280,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 24,
-   "share": 0.235,
+   "share": 0.245,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -301,14 +301,9 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 21,
-   "share": 0.206,
+   "posts": 20,
+   "share": 0.204,
    "examples": [
-    {
-     "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-     "url": "https://x.com/thsottiaux/status/2111918768733753664",
-     "ts": "2026-10-18T20:34:06Z"
-    },
     {
      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
      "url": "https://x.com/thsottiaux/status/2112432076767289678",
@@ -318,13 +313,18 @@
      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts",
      "url": "https://x.com/thsottiaux/status/2112592264686149749",
      "ts": "2026-10-20T17:10:20Z"
+    },
+    {
+     "text": "I demand a reset",
+     "url": "https://x.com/thsottiaux/status/2112798407928713717",
+     "ts": "2026-10-21T06:49:29Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
    "posts": 14,
-   "share": 0.137,
+   "share": 0.143,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -346,7 +346,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.127,
+   "share": 0.133,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -368,7 +368,7 @@
   {
    "topic": "Models",
    "posts": 8,
-   "share": 0.078,
+   "share": 0.082,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -390,7 +390,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 5,
-   "share": 0.049,
+   "share": 0.051,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -412,7 +412,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 5,
-   "share": 0.049,
+   "share": 0.051,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -432,7 +432,7 @@
    ]
   }
  ],
- "banked_tracked": 9,
+ "banked_tracked": 10,
  "daily": [
   {
    "date": "2026-08-22",
@@ -1068,8 +1068,8 @@
    "date": "2026-10-31",
    "posts": 4,
    "replies": 3,
-   "likes": 23763,
-   "engagement_replies": 3508,
+   "likes": 23810,
+   "engagement_replies": 3514,
    "reset": 0,
    "banked": 0
   },
@@ -1077,8 +1077,8 @@
    "date": "2026-11-01",
    "posts": 3,
    "replies": 2,
-   "likes": 10680,
-   "engagement_replies": 1667,
+   "likes": 10944,
+   "engagement_replies": 1690,
    "reset": 0,
    "banked": 1
   },
@@ -1086,10 +1086,10 @@
    "date": "2026-11-02",
    "posts": 6,
    "replies": 5,
-   "likes": 4142,
-   "engagement_replies": 694,
+   "likes": 5496,
+   "engagement_replies": 796,
    "reset": 0,
-   "banked": 0
+   "banked": 1
   }
  ]
 }
