@@ -66,7 +66,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.51,
+   "lift": 1.5,
    "docs": 3,
    "share": 0.0081,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
@@ -78,9 +78,9 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 24,
-   "lift": 1.48,
+   "lift": 1.47,
    "docs": 2,
-   "share": 0.0189,
+   "share": 0.0188,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -90,9 +90,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 1.32,
+   "lift": 1.31,
    "docs": 6,
-   "share": 0.0162,
+   "share": 0.0161,
    "sample": "Day 20/ Rest and reset",
    "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
    "sample_ts": "2026-10-25T03:39:31Z"
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.48,
+   "lift": 0.47,
    "docs": 2,
    "share": 0.0081,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -116,9 +116,9 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 24,
-   "lift": 1.48,
+   "lift": 1.47,
    "docs": 2,
-   "share": 0.0189,
+   "share": 0.0188,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -128,9 +128,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 1.32,
+   "lift": 1.31,
    "docs": 6,
-   "share": 0.0162,
+   "share": 0.0161,
    "sample": "Day 20/ Rest and reset",
    "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
    "sample_ts": "2026-10-25T03:39:31Z"
@@ -152,7 +152,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.51,
+   "lift": 1.5,
    "docs": 3,
    "share": 0.0081,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
@@ -164,7 +164,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.48,
+   "lift": 0.47,
    "docs": 2,
    "share": 0.0081,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -172,13 +172,13 @@
    "sample_ts": "2026-10-29T03:36:28Z"
   }
  ],
- "tokens_recent": 370,
+ "tokens_recent": 372,
  "tokens_base": 4045,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 23,
-   "share": 0.24,
+   "share": 0.232,
    "examples": [
     {
      "text": "What’s cooking today",
@@ -199,8 +199,8 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 19,
-   "share": 0.198,
+   "posts": 20,
+   "share": 0.202,
    "examples": [
     {
      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
@@ -222,7 +222,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 14,
-   "share": 0.146,
+   "share": 0.141,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -244,7 +244,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.135,
+   "share": 0.131,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -266,7 +266,7 @@
   {
    "topic": "Models",
    "posts": 8,
-   "share": 0.083,
+   "share": 0.081,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -288,7 +288,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 5,
-   "share": 0.052,
+   "share": 0.051,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -310,7 +310,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.042,
+   "share": 0.04,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -344,7 +344,13 @@
    "total": 6
   },
   {
-   "handle": "Ananth7e",
+   "handle": "poteto",
+   "replies": 2,
+   "named": 3,
+   "total": 5
+  },
+  {
+   "handle": "TokenGremlin",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -356,25 +362,13 @@
    "total": 4
   },
   {
-   "handle": "TokenGremlin",
+   "handle": "Ananth7e",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "poteto",
-   "replies": 1,
-   "named": 2,
-   "total": 3
-  },
-  {
-   "handle": "janus_of_DC",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
+   "handle": "rezoundous",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -386,49 +380,7 @@
    "total": 2
   },
   {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "matteing",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Sisymiro",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ZryMiller",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ScriptedAlchemy",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "kirtandopamine",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Aoakudotcom",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rezoundous",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -440,7 +392,13 @@
    "total": 2
   },
   {
-   "handle": "StefanoGPT",
+   "handle": "BrenBuilds",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ScriptedAlchemy",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -452,16 +410,58 @@
    "total": 2
   },
   {
+   "handle": "charliermarsh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Sisymiro",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "yacineMTB",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Aoakudotcom",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ZryMiller",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "janus_of_DC",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "himanshutwtxs",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "larsencc",
+   "handle": "matteing",
    "replies": 1,
-   "named": 0,
-   "total": 1
+   "named": 1,
+   "total": 2
   },
   {
    "handle": "claudeai",
@@ -470,13 +470,13 @@
    "total": 1
   },
   {
-   "handle": "blueemi99",
+   "handle": "Xanderwow_A",
    "replies": 1,
    "named": 0,
    "total": 1
   },
   {
-   "handle": "_jayyy18_13k",
+   "handle": "larsencc",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -489,7 +489,7 @@
    "reset": 10,
    "resets": 3,
    "reseted": 0,
-   "banked": 1,
+   "banked": 2,
    "eod": 0,
    "propagate": 0,
    "propagated": 1,
@@ -549,23 +549,6 @@
    "limits": 0,
    "vote": 0,
    "day": 2,
-   "series": 0
-  },
-  {
-   "week": 4,
-   "label": "28天前",
-   "reset": 1,
-   "resets": 0,
-   "reseted": 0,
-   "banked": 1,
-   "eod": 0,
-   "propagate": 0,
-   "propagated": 0,
-   "usage": 0,
-   "limit": 0,
-   "limits": 0,
-   "vote": 0,
-   "day": 1,
    "series": 0
   }
  ],

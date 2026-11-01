@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-01T00:07:26.486293+00:00",
- "generated_at_local": "2026-11-01 08:07",
+ "generated_at": "2026-11-01T00:59:49.929007+00:00",
+ "generated_at_local": "2026-11-01 08:59",
  "timezone": "UTC+8",
- "posts": 771,
- "replies": 555,
- "days_covered": 71,
+ "posts": 774,
+ "replies": 557,
+ "days_covered": 72,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-10-31T05:53:15Z",
+ "last_post": "2026-11-01T00:44:30Z",
  "resets_tracked": 36,
- "p_24h": 0.3964,
- "p_48h": 0.583,
- "modal_reset_at": "2026-11-01T06:07:26.486293+00:00",
+ "p_24h": 0.3757,
+ "p_48h": 0.5562,
+ "modal_reset_at": "2026-11-01T06:59:49.929007+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.2222,
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 24,
-   "lift": 1.48,
+   "lift": 1.47,
    "docs": 2,
-   "share": 0.0189,
+   "share": 0.0188,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -38,9 +38,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 1.32,
+   "lift": 1.31,
    "docs": 6,
-   "share": 0.0162,
+   "share": 0.0161,
    "sample": "Day 20/ Rest and reset",
    "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
    "sample_ts": "2026-10-25T03:39:31Z"
@@ -62,7 +62,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.51,
+   "lift": 1.5,
    "docs": 3,
    "share": 0.0081,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
@@ -74,7 +74,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.48,
+   "lift": 0.47,
    "docs": 2,
    "share": 0.0081,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -148,7 +148,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.51,
+   "lift": 1.5,
    "docs": 3,
    "share": 0.0081,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
@@ -160,9 +160,9 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 24,
-   "lift": 1.48,
+   "lift": 1.47,
    "docs": 2,
-   "share": 0.0189,
+   "share": 0.0188,
    "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
    "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
    "sample_ts": "2026-10-26T19:24:11Z"
@@ -172,9 +172,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 23,
-   "lift": 1.32,
+   "lift": 1.31,
    "docs": 6,
-   "share": 0.0162,
+   "share": 0.0161,
    "sample": "Day 20/ Rest and reset",
    "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
    "sample_ts": "2026-10-25T03:39:31Z"
@@ -184,7 +184,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.48,
+   "lift": 0.47,
    "docs": 2,
    "share": 0.0081,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -196,7 +196,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 23,
-   "share": 0.24,
+   "share": 0.232,
    "examples": [
     {
      "text": "What’s cooking today",
@@ -217,8 +217,8 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 19,
-   "share": 0.198,
+   "posts": 20,
+   "share": 0.202,
    "examples": [
     {
      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
@@ -240,7 +240,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 14,
-   "share": 0.146,
+   "share": 0.141,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -262,7 +262,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.135,
+   "share": 0.131,
    "examples": [
     {
      "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and ",
@@ -284,7 +284,7 @@
   {
    "topic": "Models",
    "posts": 8,
-   "share": 0.083,
+   "share": 0.081,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -306,7 +306,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 5,
-   "share": 0.052,
+   "share": 0.051,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -328,7 +328,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.042,
+   "share": 0.04,
    "examples": [
     {
      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would ha",
@@ -984,10 +984,19 @@
    "date": "2026-10-31",
    "posts": 4,
    "replies": 3,
-   "likes": 22552,
-   "engagement_replies": 3357,
+   "likes": 22645,
+   "engagement_replies": 3382,
    "reset": 0,
    "banked": 0
+  },
+  {
+   "date": "2026-11-01",
+   "posts": 3,
+   "replies": 2,
+   "likes": 1618,
+   "engagement_replies": 339,
+   "reset": 0,
+   "banked": 1
   }
  ]
 }

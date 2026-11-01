@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-01T00:07:26.486293+00:00",
- "generated_local": "2026-11-01 08:07",
+ "generated_at": "2026-11-01T00:59:49.929007+00:00",
+ "generated_local": "2026-11-01 08:59",
  "forecast": {
-  "p_24h": 0.3964,
-  "p_48h": 0.583,
-  "p_72h": 0.6907,
+  "p_24h": 0.3757,
+  "p_48h": 0.5562,
+  "p_72h": 0.6706,
   "p_7d": 0.9405,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-01T06:07:26.486293+00:00",
-  "modal_reset_local": "2026-11-01 14:07",
-  "hours_since_last_reset": 89.53,
+  "modal_reset_at": "2026-11-01T06:59:49.929007+00:00",
+  "modal_reset_local": "2026-11-01 14:59",
+  "hours_since_last_reset": 90.4,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
@@ -27,43 +27,43 @@
   "weekly": [
    {
     "date": "2026-11-01",
-    "p": 0.3964
+    "p": 0.3757
    },
    {
     "date": "2026-11-02",
-    "p": 0.1866
+    "p": 0.1804
    },
    {
     "date": "2026-11-03",
-    "p": 0.1077
+    "p": 0.1144
    },
    {
     "date": "2026-11-04",
-    "p": 0.0925
+    "p": 0.1057
    },
    {
     "date": "2026-11-05",
-    "p": 0.0718
+    "p": 0.0717
    },
    {
     "date": "2026-11-06",
-    "p": 0.0475
+    "p": 0.0517
    },
    {
     "date": "2026-11-07",
-    "p": 0.038
+    "p": 0.0409
    },
    {
     "date": "2026-11-08",
-    "p": 0.0227
+    "p": 0.0209
    },
    {
     "date": "2026-11-09",
-    "p": 0.0098
+    "p": 0.0094
    },
    {
     "date": "2026-11-10",
-    "p": 0.0072
+    "p": 0.0087
    }
   ],
   "pending_promise": {
@@ -707,10 +707,19 @@
    "date": "2026-10-31",
    "posts": 4,
    "replies": 3,
-   "likes": 22552,
-   "engagement_replies": 3357,
+   "likes": 22645,
+   "engagement_replies": 3382,
    "reset": 0,
    "banked": 0
+  },
+  {
+   "date": "2026-11-01",
+   "posts": 3,
+   "replies": 2,
+   "likes": 1618,
+   "engagement_replies": 339,
+   "reset": 0,
+   "banked": 1
   }
  ],
  "hot": {
@@ -720,9 +729,9 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 24,
-    "lift": 1.48,
+    "lift": 1.47,
     "docs": 2,
-    "share": 0.0189,
+    "share": 0.0188,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
     "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
     "sample_ts": "2026-10-26T19:24:11Z"
@@ -732,9 +741,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 23,
-    "lift": 1.32,
+    "lift": 1.31,
     "docs": 6,
-    "share": 0.0162,
+    "share": 0.0161,
     "sample": "Day 20/ Rest and reset",
     "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
     "sample_ts": "2026-10-25T03:39:31Z"
@@ -756,7 +765,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.51,
+    "lift": 1.5,
     "docs": 3,
     "share": 0.0081,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
@@ -768,7 +777,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 22,
-    "lift": 0.48,
+    "lift": 0.47,
     "docs": 2,
     "share": 0.0081,
     "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -842,7 +851,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.51,
+    "lift": 1.5,
     "docs": 3,
     "share": 0.0081,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
@@ -854,9 +863,9 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 24,
-    "lift": 1.48,
+    "lift": 1.47,
     "docs": 2,
-    "share": 0.0189,
+    "share": 0.0188,
     "sample": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at ",
     "sample_url": "https://x.com/thsottiaux/status/2114800277677092936",
     "sample_ts": "2026-10-26T19:24:11Z"
@@ -866,9 +875,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 23,
-    "lift": 1.32,
+    "lift": 1.31,
     "docs": 6,
-    "share": 0.0162,
+    "share": 0.0161,
     "sample": "Day 20/ Rest and reset",
     "sample_url": "https://x.com/thsottiaux/status/2114200152701575656",
     "sample_ts": "2026-10-25T03:39:31Z"
@@ -878,7 +887,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 22,
-    "lift": 0.48,
+    "lift": 0.47,
     "docs": 2,
     "share": 0.0081,
     "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -909,7 +918,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 18.4
+    "age_hours": 19.3
    },
    {
     "id": "2116256600436641887",
@@ -924,7 +933,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 28.3
+    "age_hours": 29.1
    },
    {
     "id": "2116045727642366367",
@@ -939,7 +948,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 42.2
+    "age_hours": 43.1
    },
    {
     "id": "2115851621137784832",
@@ -954,7 +963,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 55.1
+    "age_hours": 56.0
    },
    {
     "id": "2115850175868727621",
@@ -969,7 +978,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 55.2
+    "age_hours": 56.1
    },
    {
     "id": "2115290318652444729",
@@ -984,7 +993,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 92.3
+    "age_hours": 93.1
    },
    {
     "id": "2115273064481218829",
@@ -1000,7 +1009,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 93.4
+    "age_hours": 94.3
    },
    {
     "id": "2115272201922572627",
@@ -1015,7 +1024,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 93.5
+    "age_hours": 94.3
    },
    {
     "id": "2114800277677092936",
@@ -1030,7 +1039,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 124.7
+    "age_hours": 125.6
    },
    {
     "id": "2114599388454481930",
@@ -1045,7 +1054,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 138.0
+    "age_hours": 138.9
    },
    {
     "id": "2114228445043691592",
@@ -1060,7 +1069,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 162.6
+    "age_hours": 163.5
    },
    {
     "id": "2114228044072403055",
@@ -1075,7 +1084,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 162.6
+    "age_hours": 163.5
    },
    {
     "id": "2114200152701575656",
@@ -1090,7 +1099,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 164.5
+    "age_hours": 165.3
    },
    {
     "id": "2114037527598576003",
@@ -1105,7 +1114,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 175.2
+    "age_hours": 176.1
    },
    {
     "id": "2113770862860222611",
@@ -1120,7 +1129,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 192.9
+    "age_hours": 193.8
    },
    {
     "id": "2113492187770175603",
@@ -1136,7 +1145,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 211.4
+    "age_hours": 212.2
    },
    {
     "id": "2113162413008884099",
@@ -1152,7 +1161,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 233.2
+    "age_hours": 234.1
    },
    {
     "id": "2113029854417600834",
@@ -1167,7 +1176,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 242.0
+    "age_hours": 242.8
    },
    {
     "id": "2112906496736641416",
@@ -1182,7 +1191,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 250.1
+    "age_hours": 251.0
    },
    {
     "id": "2112798407928713717",
@@ -1197,7 +1206,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 257.3
+    "age_hours": 258.2
    },
    {
     "id": "2112592264686149749",
@@ -1212,7 +1221,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 271.0
+    "age_hours": 271.8
    },
    {
     "id": "2112034063934742720",
@@ -1227,7 +1236,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 307.9
+    "age_hours": 308.8
    },
    {
     "id": "2111918768733753664",
@@ -1242,7 +1251,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 315.6
+    "age_hours": 316.4
    },
    {
     "id": "2111918635849801739",
@@ -1257,7 +1266,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 315.6
+    "age_hours": 316.4
    }
   ]
  },
@@ -1269,18 +1278,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-01T00:07:26+00:00",
+    "at": "2026-11-01T00:59:49+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-01T00:07:26+00:00"
+    "last_ok": "2026-11-01T00:59:49+00:00"
    },
    "feed": {
-    "at": "2026-11-01T00:07:26+00:00",
+    "at": "2026-11-01T00:59:49+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1288,18 +1297,18 @@
     "error": null,
     "total": 59,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-01T00:07:26+00:00"
+    "last_ok": "2026-11-01T00:59:49+00:00"
    },
    "pipeline": {
-    "at": "2026-11-01T00:06:39+00:00",
+    "at": "2026-11-01T00:59:47+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-01T00:06:39+00:00"
+    "last_ok": "2026-11-01T00:59:47+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-01T00:07:26+00:00",
+   "checked_at": "2026-11-01T00:59:50+00:00",
    "channels": [],
    "configured": false,
    "pending": 1,
@@ -1351,14 +1360,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-10-29T18:27:29+00:00",
-    "mode": "full",
-    "seconds": 53.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-10-29T22:00:16+00:00",
     "mode": "fast",
@@ -1475,6 +1476,14 @@
     "at": "2026-11-01T00:06:39+00:00",
     "mode": "full",
     "seconds": 47.6,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-01T00:59:47+00:00",
+    "mode": "fast",
+    "seconds": 2.3,
     "ok": true,
     "failed": [],
     "warnings": []
