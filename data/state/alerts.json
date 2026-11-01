@@ -278,11 +278,11 @@
   "banked:r-2116621096580065504"
  ],
  "summary": {
-  "checked_at": "2026-11-01T00:59:50+00:00",
+  "checked_at": "2026-11-01T05:59:33+00:00",
   "channels": [],
   "configured": false,
   "pending": 1,
-  "undelivered_7d": 11,
+  "undelivered_7d": 10,
   "last_sent": null,
   "recent": [
    {
