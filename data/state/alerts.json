@@ -223,7 +223,7 @@
    "body": "北京时间 11-02 06:32 · A new banked Codex reset landed on our monitoring accounts.",
    "url": "https://tiboreset.com/r/2117022101404096435",
    "created_at": "2026-11-01T22:42:59+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -291,10 +291,10 @@
   "banked:r-2117022101404096435"
  ],
  "summary": {
-  "checked_at": "2026-11-02T08:29:42+00:00",
+  "checked_at": "2026-11-02T11:00:06+00:00",
   "channels": [],
   "configured": false,
-  "pending": 1,
+  "pending": 0,
   "undelivered_7d": 9,
   "last_sent": null,
   "recent": [
@@ -302,7 +302,7 @@
     "title": "检测到 banked 重置发放",
     "kind": "banked",
     "created_at": "2026-11-01T22:42:59+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
