@@ -66,7 +66,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.27,
+   "lift": 2.25,
    "docs": 1,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -78,7 +78,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 2.06,
+   "lift": 2.04,
    "docs": 3,
    "share": 0.0069,
    "sample": "@mark_k @OpenAI Taking notes",
@@ -90,7 +90,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.03,
+   "lift": 2.02,
    "docs": 1,
    "share": 0.0046,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.87,
+   "lift": 1.85,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -114,7 +114,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.43,
+   "lift": 1.41,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -126,7 +126,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.43,
+   "lift": 1.41,
    "docs": 3,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -138,7 +138,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 21,
-   "lift": 1.17,
+   "lift": 1.14,
    "docs": 1,
    "share": 0.0138,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -150,7 +150,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 15,
-   "lift": 1.03,
+   "lift": 1.0,
    "docs": 3,
    "share": 0.0092,
    "sample": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
@@ -161,8 +161,8 @@
    "term": "pro",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 19,
-   "lift": 0.4,
+   "count_28d_before": 14,
+   "lift": 0.71,
    "docs": 2,
    "share": 0.0069,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -174,7 +174,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 26,
-   "lift": 0.38,
+   "lift": 0.34,
    "docs": 4,
    "share": 0.0092,
    "sample": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -186,7 +186,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 20,
-   "lift": 0.34,
+   "lift": 0.3,
    "docs": 2,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -198,7 +198,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 37,
-   "lift": -0.06,
+   "lift": -0.1,
    "docs": 4,
    "share": 0.0092,
    "sample": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD",
@@ -212,7 +212,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 21,
-   "lift": 1.17,
+   "lift": 1.14,
    "docs": 1,
    "share": 0.0138,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -248,7 +248,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 15,
-   "lift": 1.03,
+   "lift": 1.0,
    "docs": 3,
    "share": 0.0092,
    "sample": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
@@ -260,7 +260,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 26,
-   "lift": 0.38,
+   "lift": 0.34,
    "docs": 4,
    "share": 0.0092,
    "sample": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -272,7 +272,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 37,
-   "lift": -0.06,
+   "lift": -0.1,
    "docs": 4,
    "share": 0.0092,
    "sample": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD",
@@ -296,7 +296,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.27,
+   "lift": 2.25,
    "docs": 1,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -308,7 +308,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 2.06,
+   "lift": 2.04,
    "docs": 3,
    "share": 0.0069,
    "sample": "@mark_k @OpenAI Taking notes",
@@ -320,7 +320,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.87,
+   "lift": 1.85,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -332,7 +332,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.43,
+   "lift": 1.41,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -344,7 +344,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.43,
+   "lift": 1.41,
    "docs": 3,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -355,8 +355,8 @@
    "term": "pro",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 19,
-   "lift": 0.4,
+   "count_28d_before": 14,
+   "lift": 0.71,
    "docs": 2,
    "share": 0.0069,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -368,7 +368,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 20,
-   "lift": 0.34,
+   "lift": 0.3,
    "docs": 2,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -377,7 +377,7 @@
   }
  ],
  "tokens_recent": 436,
- "tokens_base": 3836,
+ "tokens_base": 3725,
  "topics": [
   {
    "topic": "Reset / quota",
@@ -554,13 +554,13 @@
    "total": 4
   },
   {
-   "handle": "theo",
+   "handle": "Ananth7e",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "Ananth7e",
+   "handle": "theo",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -578,13 +578,43 @@
    "total": 3
   },
   {
+   "handle": "yacineMTB",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BenjaminDEKR",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
+   "handle": "Raitox_tech",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "matteing",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "BrenBuilds",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -602,52 +632,16 @@
    "total": 2
   },
   {
-   "handle": "janus_of_DC",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "_aidan_clark_",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "BenjaminDEKR",
+   "handle": "janus_of_DC",
    "replies": 1,
    "named": 1,
    "total": 2
-  },
-  {
-   "handle": "Raitox_tech",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "yacineMTB",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "blueemi99",
-   "replies": 1,
-   "named": 0,
-   "total": 1
   },
   {
    "handle": "claudeai",
@@ -662,15 +656,15 @@
    "total": 1
   },
   {
-   "handle": "Xanderwow_A",
+   "handle": "blueemi99",
    "replies": 1,
    "named": 0,
    "total": 1
   },
   {
-   "handle": "MyCrazyIdeal",
-   "replies": 0,
-   "named": 1,
+   "handle": "Xanderwow_A",
+   "replies": 1,
+   "named": 0,
    "total": 1
   },
   {
@@ -681,6 +675,12 @@
   },
   {
    "handle": "romainhuet",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
+   "handle": "OpenAI",
    "replies": 0,
    "named": 1,
    "total": 1
