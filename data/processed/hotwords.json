@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.88,
+   "lift": 1.87,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -114,7 +114,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.44,
+   "lift": 1.43,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -126,7 +126,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.44,
+   "lift": 1.43,
    "docs": 3,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -320,7 +320,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.88,
+   "lift": 1.87,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -332,7 +332,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.44,
+   "lift": 1.43,
    "docs": 2,
    "share": 0.0069,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -344,7 +344,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.44,
+   "lift": 1.43,
    "docs": 3,
    "share": 0.0069,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -377,12 +377,12 @@
   }
  ],
  "tokens_recent": 436,
- "tokens_base": 3844,
+ "tokens_base": 3836,
  "topics": [
   {
    "topic": "Reset / quota",
    "posts": 21,
-   "share": 0.216,
+   "share": 0.214,
    "examples": [
     {
      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts",
@@ -404,7 +404,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 21,
-   "share": 0.216,
+   "share": 0.214,
    "examples": [
     {
      "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penal",
@@ -426,7 +426,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 12,
-   "share": 0.124,
+   "share": 0.122,
    "examples": [
     {
      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts",
@@ -448,7 +448,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 12,
-   "share": 0.124,
+   "share": 0.122,
    "examples": [
     {
      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts",
@@ -470,7 +470,7 @@
   {
    "topic": "Models",
    "posts": 11,
-   "share": 0.113,
+   "share": 0.112,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -542,25 +542,25 @@
    "total": 10
   },
   {
-   "handle": "jxnlco",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
-   "handle": "Ananth7e",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
    "handle": "ajambrosino",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
+   "handle": "jxnlco",
+   "replies": 2,
+   "named": 2,
+   "total": 4
+  },
+  {
    "handle": "theo",
+   "replies": 2,
+   "named": 2,
+   "total": 4
+  },
+  {
+   "handle": "Ananth7e",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -578,7 +578,7 @@
    "total": 3
   },
   {
-   "handle": "StefanoGPT",
+   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -590,25 +590,7 @@
    "total": 2
   },
   {
-   "handle": "yacineMTB",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BrenBuilds",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "BenjaminDEKR",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_aidan_clark_",
+   "handle": "mark_k",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -626,16 +608,52 @@
    "total": 2
   },
   {
-   "handle": "charliermarsh",
+   "handle": "BrenBuilds",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "mark_k",
+   "handle": "_aidan_clark_",
    "replies": 1,
    "named": 1,
    "total": 2
+  },
+  {
+   "handle": "BenjaminDEKR",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Raitox_tech",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "yacineMTB",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "blueemi99",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 0,
+   "total": 1
   },
   {
    "handle": "AdamHoltererer",
@@ -650,37 +668,19 @@
    "total": 1
   },
   {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 0,
+   "handle": "MyCrazyIdeal",
+   "replies": 0,
+   "named": 1,
    "total": 1
   },
   {
-   "handle": "blueemi99",
-   "replies": 1,
-   "named": 0,
+   "handle": "wesleytian",
+   "replies": 0,
+   "named": 1,
    "total": 1
   },
   {
    "handle": "romainhuet",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
-   "handle": "tnm",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
-   "handle": "OpenAI",
-   "replies": 0,
-   "named": 1,
-   "total": 1
-  },
-  {
-   "handle": "MyCrazyIdeal",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -714,11 +714,11 @@
    "eod": 4,
    "propagate": 0,
    "propagated": 1,
-   "usage": 7,
+   "usage": 6,
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 26,
+   "day": 25,
    "series": 1
   },
   {
@@ -731,11 +731,11 @@
    "eod": 0,
    "propagate": 0,
    "propagated": 2,
-   "usage": 10,
+   "usage": 11,
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 9,
+   "day": 10,
    "series": 0
   },
   {
