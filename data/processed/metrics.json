@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T08:02:35.394797+00:00",
- "generated_at_local": "2026-11-04 16:02",
+ "generated_at": "2026-11-04T14:37:16.755573+00:00",
+ "generated_at_local": "2026-11-04 22:37",
  "timezone": "UTC+8",
  "posts": 799,
  "replies": 575,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-11-04T07:59:03Z",
  "resets_tracked": 36,
- "p_24h": 0.2324,
- "p_48h": 0.3974,
- "modal_reset_at": "2026-11-05T06:02:35.394797+00:00",
+ "p_24h": 0.2278,
+ "p_48h": 0.4041,
+ "modal_reset_at": "2026-11-05T06:37:16.755573+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2246,
+  "brier": 0.2239,
   "brier_baseline": 0.2082,
-  "logloss": 0.6596,
+  "logloss": 0.6577,
   "logloss_baseline": 0.607,
-  "skill": -0.087,
+  "skill": -0.084,
   "base_rate": 0.2955
  },
  "top_terms": [
@@ -26,7 +26,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 1,
    "share": 0.014,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -61,8 +61,8 @@
    "term": "dot",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 27,
-   "lift": 0.05,
+   "count_28d_before": 26,
+   "lift": 0.09,
    "docs": 4,
    "share": 0.0093,
    "sample": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD",
@@ -98,7 +98,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.16,
+   "lift": 2.15,
    "docs": 1,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -110,7 +110,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.92,
+   "lift": 1.91,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -122,7 +122,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 5,
-   "lift": 1.53,
+   "lift": 1.52,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -134,7 +134,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 3,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -158,7 +158,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 0.76,
+   "lift": 0.75,
    "docs": 2,
    "share": 0.007,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -244,7 +244,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.16,
+   "lift": 2.15,
    "docs": 1,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -268,7 +268,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.92,
+   "lift": 1.91,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -280,7 +280,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 5,
-   "lift": 1.53,
+   "lift": 1.52,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -292,7 +292,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 1,
    "share": 0.014,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -304,7 +304,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 3,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -316,7 +316,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 21,
-   "share": 0.204,
+   "share": 0.206,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -338,7 +338,7 @@
   {
    "topic": "Reset / quota",
    "posts": 19,
-   "share": 0.184,
+   "share": 0.186,
    "examples": [
     {
      "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -360,7 +360,7 @@
   {
    "topic": "Models",
    "posts": 12,
-   "share": 0.117,
+   "share": 0.118,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -382,7 +382,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 11,
-   "share": 0.107,
+   "share": 0.108,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -404,7 +404,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.107,
+   "share": 0.108,
    "examples": [
     {
      "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -448,7 +448,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 2,
-   "share": 0.019,
+   "share": 0.02,
    "examples": [
     {
      "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
@@ -1099,7 +1099,7 @@
    "date": "2026-10-31",
    "posts": 4,
    "replies": 3,
-   "likes": 24019,
+   "likes": 24020,
    "engagement_replies": 3542,
    "reset": 0,
    "banked": 0
@@ -1117,8 +1117,8 @@
    "date": "2026-11-02",
    "posts": 12,
    "replies": 9,
-   "likes": 37216,
-   "engagement_replies": 5178,
+   "likes": 37422,
+   "engagement_replies": 5199,
    "reset": 0,
    "banked": 1
   },
@@ -1126,8 +1126,8 @@
    "date": "2026-11-03",
    "posts": 5,
    "replies": 3,
-   "likes": 14728,
-   "engagement_replies": 2050,
+   "likes": 15019,
+   "engagement_replies": 2077,
    "reset": 0,
    "banked": 0
   },
@@ -1135,8 +1135,8 @@
    "date": "2026-11-04",
    "posts": 8,
    "replies": 6,
-   "likes": 10609,
-   "engagement_replies": 1847,
+   "likes": 22359,
+   "engagement_replies": 3230,
    "reset": 0,
    "banked": 0
   }

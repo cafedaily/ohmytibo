@@ -78,7 +78,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.16,
+   "lift": 2.15,
    "docs": 1,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.92,
+   "lift": 1.91,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -114,7 +114,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 5,
-   "lift": 1.53,
+   "lift": 1.52,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -126,7 +126,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 1,
    "share": 0.014,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -138,7 +138,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 3,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -162,7 +162,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 0.76,
+   "lift": 0.75,
    "docs": 2,
    "share": 0.007,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -174,7 +174,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 14,
-   "lift": 0.49,
+   "lift": 0.48,
    "docs": 2,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -186,7 +186,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.41,
+   "lift": 0.4,
    "docs": 2,
    "share": 0.007,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
@@ -197,8 +197,8 @@
    "term": "dot",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 27,
-   "lift": 0.05,
+   "count_28d_before": 26,
+   "lift": 0.09,
    "docs": 4,
    "share": 0.0093,
    "sample": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD",
@@ -210,7 +210,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 27,
-   "lift": -0.31,
+   "lift": -0.32,
    "docs": 3,
    "share": 0.007,
    "sample": "Graduating from The Reset Company to The Token Company.",
@@ -224,7 +224,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 1,
    "share": 0.014,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -259,8 +259,8 @@
    "term": "dot",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 27,
-   "lift": 0.05,
+   "count_28d_before": 26,
+   "lift": 0.09,
    "docs": 4,
    "share": 0.0093,
    "sample": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD",
@@ -296,7 +296,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.16,
+   "lift": 2.15,
    "docs": 1,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -308,7 +308,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.92,
+   "lift": 1.91,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -320,7 +320,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 5,
-   "lift": 1.53,
+   "lift": 1.52,
    "docs": 2,
    "share": 0.007,
    "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
@@ -332,7 +332,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 3,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -356,7 +356,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 0.76,
+   "lift": 0.75,
    "docs": 2,
    "share": 0.007,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
@@ -368,7 +368,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 14,
-   "lift": 0.49,
+   "lift": 0.48,
    "docs": 2,
    "share": 0.007,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
@@ -380,7 +380,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 15,
-   "lift": 0.41,
+   "lift": 0.4,
    "docs": 2,
    "share": 0.007,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
@@ -392,7 +392,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 27,
-   "lift": -0.31,
+   "lift": -0.32,
    "docs": 3,
    "share": 0.007,
    "sample": "Graduating from The Reset Company to The Token Company.",
@@ -401,12 +401,12 @@
   }
  ],
  "tokens_recent": 429,
- "tokens_base": 3013,
+ "tokens_base": 2986,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 21,
-   "share": 0.204,
+   "share": 0.206,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -428,7 +428,7 @@
   {
    "topic": "Reset / quota",
    "posts": 19,
-   "share": 0.184,
+   "share": 0.186,
    "examples": [
     {
      "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -450,7 +450,7 @@
   {
    "topic": "Models",
    "posts": 12,
-   "share": 0.117,
+   "share": 0.118,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -472,7 +472,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 11,
-   "share": 0.107,
+   "share": 0.108,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -494,7 +494,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.107,
+   "share": 0.108,
    "examples": [
     {
      "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
@@ -538,7 +538,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 2,
-   "share": 0.019,
+   "share": 0.02,
    "examples": [
     {
      "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
@@ -567,13 +567,13 @@
    "total": 6
   },
   {
-   "handle": "jxnlco",
+   "handle": "Ananth7e",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "Ananth7e",
+   "handle": "jxnlco",
    "replies": 2,
    "named": 2,
    "total": 4
@@ -589,6 +589,42 @@
    "replies": 1,
    "named": 3,
    "total": 4
+  },
+  {
+   "handle": "hiarun02",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charliermarsh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "evadne",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "_aidan_clark_",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "zoedotai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
   },
   {
    "handle": "Raitox_tech",
@@ -609,25 +645,13 @@
    "total": 2
   },
   {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "janus_of_DC",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "zoedotai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "hiarun02",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -639,28 +663,10 @@
    "total": 2
   },
   {
-   "handle": "evadne",
+   "handle": "claudeai",
    "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rezoundous",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_aidan_clark_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
+   "named": 0,
+   "total": 1
   },
   {
    "handle": "blueemi99",
@@ -675,19 +681,13 @@
    "total": 1
   },
   {
-   "handle": "claudeai",
-   "replies": 1,
-   "named": 0,
-   "total": 1
-  },
-  {
-   "handle": "romainhuet",
+   "handle": "wesleytian",
    "replies": 0,
    "named": 1,
    "total": 1
   },
   {
-   "handle": "MyCrazyIdeal",
+   "handle": "romainhuet",
    "replies": 0,
    "named": 1,
    "total": 1
@@ -699,7 +699,7 @@
    "total": 1
   },
   {
-   "handle": "wesleytian",
+   "handle": "MyCrazyIdeal",
    "replies": 0,
    "named": 1,
    "total": 1
