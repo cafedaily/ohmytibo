@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T22:43:59.259235+00:00",
- "generated_at_local": "2026-11-06 06:43",
+ "generated_at": "2026-11-05T23:38:01.133683+00:00",
+ "generated_at_local": "2026-11-06 07:38",
  "timezone": "UTC+8",
  "posts": 829,
  "replies": 597,
@@ -10,7 +10,7 @@
  "resets_tracked": 36,
  "p_24h": 0.2312,
  "p_48h": 0.4582,
- "modal_reset_at": "2026-11-06T06:43:59.259235+00:00",
+ "modal_reset_at": "2026-11-06T06:38:01.133683+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.2254,
@@ -292,7 +292,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 23,
-   "share": 0.184,
+   "share": 0.185,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -314,7 +314,7 @@
   {
    "topic": "Reset / quota",
    "posts": 17,
-   "share": 0.136,
+   "share": 0.137,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -336,7 +336,7 @@
   {
    "topic": "Models",
    "posts": 16,
-   "share": 0.128,
+   "share": 0.129,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -358,7 +358,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 13,
-   "share": 0.104,
+   "share": 0.105,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -380,7 +380,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.088,
+   "share": 0.089,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -1120,8 +1120,8 @@
    "date": "2026-11-05",
    "posts": 21,
    "replies": 16,
-   "likes": 30879,
-   "engagement_replies": 2868,
+   "likes": 30973,
+   "engagement_replies": 2873,
    "reset": 0,
    "banked": 0
   },
@@ -1129,8 +1129,8 @@
    "date": "2026-11-06",
    "posts": 9,
    "replies": 6,
-   "likes": 6581,
-   "engagement_replies": 1047,
+   "likes": 7748,
+   "engagement_replies": 1180,
    "reset": 0,
    "banked": 0
   }

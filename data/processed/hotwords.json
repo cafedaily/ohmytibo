@@ -274,7 +274,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 23,
-   "share": 0.184,
+   "share": 0.185,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -296,7 +296,7 @@
   {
    "topic": "Reset / quota",
    "posts": 17,
-   "share": 0.136,
+   "share": 0.137,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -318,7 +318,7 @@
   {
    "topic": "Models",
    "posts": 16,
-   "share": 0.128,
+   "share": 0.129,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -340,7 +340,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 13,
-   "share": 0.104,
+   "share": 0.105,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -362,7 +362,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.088,
+   "share": 0.089,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -453,61 +453,7 @@
    "total": 3
   },
   {
-   "handle": "charliermarsh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "haydenfield",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ohayou792",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "_aidan_clark_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "dani_avila7",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "zoedotai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Ananth7e",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "fudgeposting",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "yacineMTB",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_samirism",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -519,31 +465,7 @@
    "total": 2
   },
   {
-   "handle": "helloitsaustin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jonoalford",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesMalsawm",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "kimmonismus",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "addyosmani",
+   "handle": "fudgeposting",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -555,19 +477,97 @@
    "total": 2
   },
   {
+   "handle": "JustinBleuel",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "rileybrown",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "hiarun02",
+   "handle": "jonoalford",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Ananth7e",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "haydenfield",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesMalsawm",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "edbayes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "dani_avila7",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ohayou792",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "addyosmani",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charliermarsh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "fly3nn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "helloitsaustin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "evadne",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
    "handle": "Raitox_tech",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "_samirism",
    "replies": 1,
    "named": 1,
    "total": 2
