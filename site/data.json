@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T17:22:44.420668+00:00",
- "generated_local": "2026-11-06 01:22",
+ "generated_at": "2026-11-05T17:24:20.093766+00:00",
+ "generated_local": "2026-11-06 01:24",
  "forecast": {
   "p_24h": 0.2017,
   "p_48h": 0.4067,
@@ -8,9 +8,9 @@
   "p_7d": 0.8785,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-07T06:22:44.420668+00:00",
-  "modal_reset_local": "2026-11-07 14:22",
-  "hours_since_last_reset": 202.79,
+  "modal_reset_at": "2026-11-07T06:24:20.093766+00:00",
+  "modal_reset_local": "2026-11-07 14:24",
+  "hours_since_last_reset": 202.81,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
@@ -734,7 +734,7 @@
    "date": "2026-11-03",
    "posts": 5,
    "replies": 3,
-   "likes": 15286,
+   "likes": 15289,
    "engagement_replies": 2092,
    "reset": 0,
    "banked": 0
@@ -743,8 +743,8 @@
    "date": "2026-11-04",
    "posts": 8,
    "replies": 6,
-   "likes": 29934,
-   "engagement_replies": 3551,
+   "likes": 29997,
+   "engagement_replies": 3555,
    "reset": 0,
    "banked": 0
   },
@@ -752,7 +752,7 @@
    "date": "2026-11-05",
    "posts": 21,
    "replies": 16,
-   "likes": 29084,
+   "likes": 29106,
    "engagement_replies": 2725,
    "reset": 0,
    "banked": 0
@@ -761,7 +761,7 @@
    "date": "2026-11-06",
    "posts": 1,
    "replies": 1,
-   "likes": 497,
+   "likes": 504,
    "engagement_replies": 68,
    "reset": 0,
    "banked": 0
@@ -1011,7 +1011,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 24.4
+    "age_hours": 24.5
    },
    {
     "id": "2117283355427495983",
@@ -1026,7 +1026,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 73.5
+    "age_hours": 73.6
    },
    {
     "id": "2117283124833055196",
@@ -1041,7 +1041,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 73.5
+    "age_hours": 73.6
    },
    {
     "id": "2116942192497533418",
@@ -1101,7 +1101,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 141.5
+    "age_hours": 141.6
    },
    {
     "id": "2116045727642366367",
@@ -1131,7 +1131,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 168.3
+    "age_hours": 168.4
    },
    {
     "id": "2115850175868727621",
@@ -1146,7 +1146,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 168.4
+    "age_hours": 168.5
    },
    {
     "id": "2115290318652444729",
@@ -1237,7 +1237,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 275.8
+    "age_hours": 275.9
    },
    {
     "id": "2114228044072403055",
@@ -1325,18 +1325,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-05T17:22:44+00:00",
+    "at": "2026-11-05T17:24:19+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-05T17:22:44+00:00"
+    "last_ok": "2026-11-05T17:24:19+00:00"
    },
    "feed": {
-    "at": "2026-11-05T17:22:44+00:00",
+    "at": "2026-11-05T17:24:19+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1344,18 +1344,18 @@
     "error": null,
     "total": 60,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-05T17:22:44+00:00"
+    "last_ok": "2026-11-05T17:24:19+00:00"
    },
    "pipeline": {
-    "at": "2026-11-05T17:22:42+00:00",
+    "at": "2026-11-05T17:23:24+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-05T17:22:42+00:00"
+    "last_ok": "2026-11-05T17:23:24+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-05T17:22:44+00:00",
+   "checked_at": "2026-11-05T17:24:20+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1407,14 +1407,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-02T10:59:18+00:00",
-    "mode": "full",
-    "seconds": 47.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-02T18:45:56+00:00",
     "mode": "fast",
@@ -1530,7 +1522,15 @@
    {
     "at": "2026-11-05T17:22:42+00:00",
     "mode": "fast",
-    "seconds": 2.4,
+    "seconds": 2.5,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-05T17:23:24+00:00",
+    "mode": "full",
+    "seconds": 56.1,
     "ok": true,
     "failed": [],
     "warnings": []
