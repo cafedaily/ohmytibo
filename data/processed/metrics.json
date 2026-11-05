@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-04T21:20:08.567049+00:00",
- "generated_at_local": "2026-11-05 05:20",
+ "generated_at": "2026-11-05T01:57:05.955655+00:00",
+ "generated_at_local": "2026-11-05 09:57",
  "timezone": "UTC+8",
- "posts": 802,
- "replies": 577,
- "days_covered": 75,
+ "posts": 810,
+ "replies": 583,
+ "days_covered": 76,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-04T16:57:02Z",
+ "last_post": "2026-11-05T01:05:02Z",
  "resets_tracked": 36,
- "p_24h": 0.2262,
- "p_48h": 0.4064,
- "modal_reset_at": "2026-11-05T06:20:08.567049+00:00",
+ "p_24h": 0.2201,
+ "p_48h": 0.4153,
+ "modal_reset_at": "2026-11-05T06:57:05.955655+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.226,
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.14,
+   "lift": 1.21,
    "docs": 1,
-   "share": 0.0137,
+   "share": 0.0143,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -40,19 +40,31 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0114,
+   "share": 0.0119,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 13,
+   "lift": 1.21,
+   "docs": 4,
+   "share": 0.0119,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
    "term": "banked",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.78,
+   "lift": 2.8,
    "docs": 4,
-   "share": 0.0091,
+   "share": 0.0095,
    "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
    "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
    "sample_ts": "2026-10-31T05:42:26Z"
@@ -61,82 +73,34 @@
    "term": "team",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 5,
-   "lift": 1.83,
+   "count_28d_before": 6,
+   "lift": 1.72,
    "docs": 3,
-   "share": 0.0091,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
-  },
-  {
-   "term": "dot",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 22,
-   "lift": 0.22,
-   "docs": 4,
-   "share": 0.0091,
-   "sample": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD",
-   "sample_url": "https://x.com/thsottiaux/status/2115622002581188681",
-   "sample_ts": "2026-10-29T01:49:26Z"
-  },
-  {
-   "term": "yet",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
-   "docs": 3,
-   "share": 0.0068,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
-  },
-  {
-   "term": "bring",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
-   "docs": 3,
-   "share": 0.0068,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
+   "share": 0.0095,
+   "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
+   "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
+   "sample_ts": "2026-11-03T00:26:03Z"
   },
   {
    "term": "limits",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.12,
+   "lift": 2.15,
    "docs": 1,
-   "share": 0.0068,
+   "share": 0.0072,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
-   "term": "together",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 3,
-   "lift": 1.87,
-   "docs": 2,
-   "share": 0.0068,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
-  },
-  {
    "term": "better",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 7,
-   "lift": 1.16,
+   "count_28d_before": 6,
+   "lift": 1.35,
    "docs": 3,
-   "share": 0.0068,
+   "share": 0.0072,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -146,9 +110,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.16,
+   "lift": 1.21,
    "docs": 3,
-   "share": 0.0068,
+   "share": 0.0072,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -158,12 +122,48 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 0.68,
+   "lift": 0.74,
    "docs": 2,
-   "share": 0.0068,
+   "share": 0.0072,
    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
    "sample_ts": "2026-10-29T03:36:28Z"
+  },
+  {
+   "term": "gpt",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 14,
+   "lift": 0.47,
+   "docs": 2,
+   "share": 0.0072,
+   "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
+   "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
+   "sample_ts": "2026-11-02T15:50:08Z"
+  },
+  {
+   "term": "dot",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 23,
+   "lift": -0.13,
+   "docs": 3,
+   "share": 0.0072,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
+  },
+  {
+   "term": "reset",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 27,
+   "lift": -0.33,
+   "docs": 3,
+   "share": 0.0072,
+   "sample": "Graduating from The Reset Company to The Token Company.",
+   "sample_url": "https://x.com/thsottiaux/status/2115851621137784832",
+   "sample_ts": "2026-10-29T17:01:51Z"
   }
  ],
  "surge_terms": [
@@ -174,43 +174,19 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0114,
+   "share": 0.0119,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
-  },
-  {
-   "term": "yet",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
-   "docs": 3,
-   "share": 0.0068,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
-  },
-  {
-   "term": "bring",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
-   "docs": 3,
-   "share": 0.0068,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
   },
   {
    "term": "banked",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.78,
+   "lift": 2.8,
    "docs": 4,
-   "share": 0.0091,
+   "share": 0.0095,
    "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
    "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
    "sample_ts": "2026-10-31T05:42:26Z"
@@ -222,7 +198,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 1,
-   "share": 0.0046,
+   "share": 0.0048,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -234,7 +210,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0046,
+   "share": 0.0048,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -244,9 +220,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.12,
+   "lift": 2.15,
    "docs": 1,
-   "share": 0.0068,
+   "share": 0.0072,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -256,45 +232,57 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.94,
+   "lift": 1.95,
    "docs": 1,
-   "share": 0.0046,
+   "share": 0.0048,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
   },
   {
-   "term": "together",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 3,
-   "lift": 1.87,
-   "docs": 2,
-   "share": 0.0068,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
-  },
-  {
    "term": "team",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 5,
-   "lift": 1.83,
+   "count_28d_before": 6,
+   "lift": 1.72,
    "docs": 3,
-   "share": 0.0091,
-   "sample": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year",
-   "sample_url": "https://x.com/thsottiaux/status/2115588390414581916",
-   "sample_ts": "2026-10-28T23:35:52Z"
+   "share": 0.0095,
+   "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
+   "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
+   "sample_ts": "2026-11-03T00:26:03Z"
   },
   {
    "term": "better",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 7,
-   "lift": 1.16,
+   "count_28d_before": 6,
+   "lift": 1.35,
    "docs": 3,
-   "share": 0.0068,
+   "share": 0.0072,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
+  },
+  {
+   "term": "usage",
+   "kind": "word",
+   "count_7d": 6,
+   "count_28d_before": 16,
+   "lift": 1.21,
+   "docs": 1,
+   "share": 0.0143,
+   "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
+   "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
+   "sample_ts": "2026-10-29T16:56:07Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 13,
+   "lift": 1.21,
+   "docs": 4,
+   "share": 0.0119,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -304,19 +292,31 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.16,
+   "lift": 1.21,
    "docs": 3,
-   "share": 0.0068,
+   "share": 0.0072,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
+  },
+  {
+   "term": "pro",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 11,
+   "lift": 0.74,
+   "docs": 2,
+   "share": 0.0072,
+   "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
+   "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
+   "sample_ts": "2026-10-29T03:36:28Z"
   }
  ],
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 22,
-   "share": 0.214,
+   "share": 0.202,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -337,14 +337,9 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 19,
-   "share": 0.184,
+   "posts": 18,
+   "share": 0.165,
    "examples": [
-    {
-     "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-     "url": "https://x.com/thsottiaux/status/2113029854417600834",
-     "ts": "2026-10-21T22:09:10Z"
-    },
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
      "url": "https://x.com/thsottiaux/status/2113162277688070445",
@@ -354,13 +349,18 @@
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
      "url": "https://x.com/thsottiaux/status/2113492187770175603",
      "ts": "2026-10-23T04:46:19Z"
+    },
+    {
+     "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixe",
+     "url": "https://x.com/thsottiaux/status/2113770862860222611",
+     "ts": "2026-10-23T23:13:40Z"
     }
    ]
   },
   {
    "topic": "Models",
-   "posts": 12,
-   "share": 0.117,
+   "posts": 13,
+   "share": 0.119,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -382,7 +382,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 11,
-   "share": 0.107,
+   "share": 0.101,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -404,13 +404,8 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.107,
+   "share": 0.101,
    "examples": [
-    {
-     "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-     "url": "https://x.com/thsottiaux/status/2113029854417600834",
-     "ts": "2026-10-21T22:09:10Z"
-    },
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
      "url": "https://x.com/thsottiaux/status/2113492187770175603",
@@ -420,13 +415,18 @@
      "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixe",
      "url": "https://x.com/thsottiaux/status/2113770862860222611",
      "ts": "2026-10-23T23:13:40Z"
+    },
+    {
+     "text": "Not a real improvement, put the reset in the bag",
+     "url": "https://x.com/thsottiaux/status/2114228044072403055",
+     "ts": "2026-10-25T05:30:20Z"
     }
    ]
   },
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.039,
+   "share": 0.037,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -448,7 +448,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 2,
-   "share": 0.019,
+   "share": 0.018,
    "examples": [
     {
      "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
@@ -1135,17 +1135,17 @@
    "date": "2026-11-04",
    "posts": 8,
    "replies": 6,
-   "likes": 27127,
-   "engagement_replies": 3445,
+   "likes": 28291,
+   "engagement_replies": 3479,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-05",
-   "posts": 3,
-   "replies": 2,
-   "likes": 5314,
-   "engagement_replies": 585,
+   "posts": 11,
+   "replies": 8,
+   "likes": 11792,
+   "engagement_replies": 1203,
    "reset": 0,
    "banked": 0
   }
