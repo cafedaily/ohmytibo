@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-05T17:24:20.093766+00:00",
- "generated_at_local": "2026-11-06 01:24",
+ "generated_at": "2026-11-05T22:43:59.259235+00:00",
+ "generated_at_local": "2026-11-06 06:43",
  "timezone": "UTC+8",
- "posts": 821,
- "replies": 592,
+ "posts": 829,
+ "replies": 597,
  "days_covered": 76,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-05T16:16:36Z",
+ "last_post": "2026-11-05T22:39:25Z",
  "resets_tracked": 36,
- "p_24h": 0.2017,
- "p_48h": 0.4067,
- "modal_reset_at": "2026-11-07T06:24:20.093766+00:00",
+ "p_24h": 0.2312,
+ "p_48h": 0.4582,
+ "modal_reset_at": "2026-11-06T06:43:59.259235+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2225,
+  "brier": 0.2254,
   "brier_baseline": 0.2082,
-  "logloss": 0.6498,
+  "logloss": 0.659,
   "logloss_baseline": 0.607,
-  "skill": -0.071,
+  "skill": -0.086,
   "base_rate": 0.2955
  },
  "top_terms": [
@@ -28,7 +28,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.014,
+   "share": 0.0121,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -38,9 +38,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.85,
+   "lift": 2.81,
    "docs": 4,
-   "share": 0.0112,
+   "share": 0.0097,
    "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
    "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
    "sample_ts": "2026-10-31T05:42:26Z"
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 6,
-   "lift": 1.86,
+   "lift": 1.73,
    "docs": 3,
-   "share": 0.0112,
+   "share": 0.0097,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
    "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
    "sample_ts": "2026-11-03T00:26:03Z"
@@ -62,9 +62,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 13,
-   "lift": 1.1,
+   "lift": 0.94,
    "docs": 3,
-   "share": 0.0112,
+   "share": 0.0097,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -76,7 +76,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
    "sample_url": "https://x.com/thsottiaux/status/2117035666332954818",
    "sample_ts": "2026-11-01T23:26:50Z"
@@ -88,31 +88,55 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
+  },
+  {
+   "term": "cyber",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 1,
+   "lift": 2.45,
+   "docs": 2,
+   "share": 0.0072,
+   "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
+   "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
+   "sample_ts": "2026-11-05T01:02:03Z"
   },
   {
    "term": "better",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.37,
+   "lift": 1.23,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Better announce 28 days of reset",
    "sample_url": "https://x.com/thsottiaux/status/2116256600436641887",
    "sample_ts": "2026-10-30T19:51:06Z"
+  },
+  {
+   "term": "model",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 7,
+   "lift": 1.23,
+   "docs": 3,
+   "share": 0.0072,
+   "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
+   "sample_url": "https://x.com/thsottiaux/status/2117283355427495983",
+   "sample_ts": "2026-11-02T15:51:03Z"
   },
   {
    "term": "gpt",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 14,
-   "lift": 0.66,
+   "lift": 0.49,
    "docs": 2,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -122,9 +146,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.13,
+   "lift": -0.05,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -138,7 +162,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.014,
+   "share": 0.0121,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -148,9 +172,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.85,
+   "lift": 2.81,
    "docs": 4,
-   "share": 0.0112,
+   "share": 0.0097,
    "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
    "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
    "sample_ts": "2026-10-31T05:42:26Z"
@@ -162,7 +186,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
    "sample_url": "https://x.com/thsottiaux/status/2117035666332954818",
    "sample_ts": "2026-11-01T23:26:50Z"
@@ -174,19 +198,31 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
+  },
+  {
+   "term": "cyber",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 1,
+   "lift": 2.45,
+   "docs": 2,
+   "share": 0.0072,
+   "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
+   "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
+   "sample_ts": "2026-11-05T01:02:03Z"
   },
   {
    "term": "team",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 6,
-   "lift": 1.86,
+   "lift": 1.73,
    "docs": 3,
-   "share": 0.0112,
+   "share": 0.0097,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
    "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
    "sample_ts": "2026-11-03T00:26:03Z"
@@ -196,21 +232,33 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.37,
+   "lift": 1.23,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Better announce 28 days of reset",
    "sample_url": "https://x.com/thsottiaux/status/2116256600436641887",
    "sample_ts": "2026-10-30T19:51:06Z"
+  },
+  {
+   "term": "model",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 7,
+   "lift": 1.23,
+   "docs": 3,
+   "share": 0.0072,
+   "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
+   "sample_url": "https://x.com/thsottiaux/status/2117283355427495983",
+   "sample_ts": "2026-11-02T15:51:03Z"
   },
   {
    "term": "dots",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 13,
-   "lift": 1.1,
+   "lift": 0.94,
    "docs": 3,
-   "share": 0.0112,
+   "share": 0.0097,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -220,9 +268,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 14,
-   "lift": 0.66,
+   "lift": 0.49,
    "docs": 2,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -232,9 +280,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 22,
-   "lift": 0.13,
+   "lift": -0.05,
    "docs": 3,
-   "share": 0.0084,
+   "share": 0.0072,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -243,8 +291,8 @@
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 21,
-   "share": 0.179,
+   "posts": 23,
+   "share": 0.184,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -266,7 +314,7 @@
   {
    "topic": "Reset / quota",
    "posts": 17,
-   "share": 0.145,
+   "share": 0.136,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -287,8 +335,8 @@
   },
   {
    "topic": "Models",
-   "posts": 13,
-   "share": 0.111,
+   "posts": 16,
+   "share": 0.128,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -309,8 +357,8 @@
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 12,
-   "share": 0.103,
+   "posts": 13,
+   "share": 0.104,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -332,7 +380,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.094,
+   "share": 0.088,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -354,7 +402,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 3,
-   "share": 0.026,
+   "share": 0.024,
    "examples": [
     {
      "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixe",
@@ -376,7 +424,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 2,
-   "share": 0.017,
+   "share": 0.016,
    "examples": [
     {
      "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
@@ -1063,8 +1111,8 @@
    "date": "2026-11-04",
    "posts": 8,
    "replies": 6,
-   "likes": 29997,
-   "engagement_replies": 3555,
+   "likes": 30032,
+   "engagement_replies": 3556,
    "reset": 0,
    "banked": 0
   },
@@ -1072,17 +1120,17 @@
    "date": "2026-11-05",
    "posts": 21,
    "replies": 16,
-   "likes": 29106,
-   "engagement_replies": 2725,
+   "likes": 30879,
+   "engagement_replies": 2868,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-06",
-   "posts": 1,
-   "replies": 1,
-   "likes": 504,
-   "engagement_replies": 68,
+   "posts": 9,
+   "replies": 6,
+   "likes": 6581,
+   "engagement_replies": 1047,
    "reset": 0,
    "banked": 0
   }
