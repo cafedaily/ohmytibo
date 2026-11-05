@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0119,
+   "share": 0.0123,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -18,9 +18,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.8,
+   "lift": 2.81,
    "docs": 4,
-   "share": 0.0095,
+   "share": 0.0099,
    "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
    "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
    "sample_ts": "2026-10-31T05:42:26Z"
@@ -32,7 +32,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 1,
-   "share": 0.0048,
+   "share": 0.0049,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -44,7 +44,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0048,
+   "share": 0.0049,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -54,9 +54,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.15,
+   "lift": 2.16,
    "docs": 1,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -66,9 +66,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.95,
+   "lift": 1.96,
    "docs": 1,
-   "share": 0.0048,
+   "share": 0.0049,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -78,9 +78,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 6,
-   "lift": 1.72,
+   "lift": 1.75,
    "docs": 3,
-   "share": 0.0095,
+   "share": 0.0099,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
    "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
    "sample_ts": "2026-11-03T00:26:03Z"
@@ -90,9 +90,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 6,
-   "lift": 1.35,
+   "lift": 1.38,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -102,9 +102,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.21,
+   "lift": 1.24,
    "docs": 1,
-   "share": 0.0143,
+   "share": 0.0148,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -114,9 +114,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 13,
-   "lift": 1.21,
+   "lift": 1.24,
    "docs": 4,
-   "share": 0.0119,
+   "share": 0.0123,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -126,33 +126,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.21,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
-  },
-  {
-   "term": "pro",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.74,
-   "docs": 2,
-   "share": 0.0072,
-   "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
-   "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
-   "sample_ts": "2026-10-29T03:36:28Z"
   },
   {
    "term": "gpt",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 14,
-   "lift": 0.47,
+   "lift": 0.51,
    "docs": 2,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -162,9 +150,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 23,
-   "lift": -0.13,
+   "lift": -0.09,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -174,9 +162,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 27,
-   "lift": -0.33,
+   "lift": -0.29,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Graduating from The Reset Company to The Token Company.",
    "sample_url": "https://x.com/thsottiaux/status/2115851621137784832",
    "sample_ts": "2026-10-29T17:01:51Z"
@@ -188,9 +176,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 16,
-   "lift": 1.21,
+   "lift": 1.24,
    "docs": 1,
-   "share": 0.0143,
+   "share": 0.0148,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -202,7 +190,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0119,
+   "share": 0.0123,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -212,9 +200,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 13,
-   "lift": 1.21,
+   "lift": 1.24,
    "docs": 4,
-   "share": 0.0119,
+   "share": 0.0123,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -224,9 +212,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.8,
+   "lift": 2.81,
    "docs": 4,
-   "share": 0.0095,
+   "share": 0.0099,
    "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
    "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
    "sample_ts": "2026-10-31T05:42:26Z"
@@ -236,9 +224,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 6,
-   "lift": 1.72,
+   "lift": 1.75,
    "docs": 3,
-   "share": 0.0095,
+   "share": 0.0099,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
    "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
    "sample_ts": "2026-11-03T00:26:03Z"
@@ -248,9 +236,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.15,
+   "lift": 2.16,
    "docs": 1,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -260,9 +248,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 6,
-   "lift": 1.35,
+   "lift": 1.38,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -272,33 +260,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.21,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
-  },
-  {
-   "term": "pro",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.74,
-   "docs": 2,
-   "share": 0.0072,
-   "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
-   "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
-   "sample_ts": "2026-10-29T03:36:28Z"
   },
   {
    "term": "gpt",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 14,
-   "lift": 0.47,
+   "lift": 0.51,
    "docs": 2,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -308,9 +284,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 23,
-   "lift": -0.13,
+   "lift": -0.09,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
    "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
    "sample_ts": "2026-10-29T16:56:07Z"
@@ -320,21 +296,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 27,
-   "lift": -0.33,
+   "lift": -0.29,
    "docs": 3,
-   "share": 0.0072,
+   "share": 0.0074,
    "sample": "Graduating from The Reset Company to The Token Company.",
    "sample_url": "https://x.com/thsottiaux/status/2115851621137784832",
    "sample_ts": "2026-10-29T17:01:51Z"
   }
  ],
- "tokens_recent": 419,
- "tokens_base": 2893,
+ "tokens_recent": 405,
+ "tokens_base": 2885,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 22,
-   "share": 0.202,
+   "share": 0.2,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -356,7 +332,7 @@
   {
    "topic": "Reset / quota",
    "posts": 18,
-   "share": 0.165,
+   "share": 0.164,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -378,7 +354,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.119,
+   "share": 0.118,
    "examples": [
     {
      "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache any",
@@ -400,7 +376,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 11,
-   "share": 0.101,
+   "share": 0.1,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -422,7 +398,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.101,
+   "share": 0.1,
    "examples": [
     {
      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on",
@@ -444,7 +420,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 4,
-   "share": 0.037,
+   "share": 0.036,
    "examples": [
     {
      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15",
@@ -507,85 +483,7 @@
    "total": 4
   },
   {
-   "handle": "alexandr_wang",
-   "replies": 1,
-   "named": 3,
-   "total": 4
-  },
-  {
-   "handle": "_samirism",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "haydenfield",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "StefanoGPT",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "edbayes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "janus_of_DC",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_aidan_clark_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "addyosmani",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Ananth7e",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "zoedotai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "evadne",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "hiarun02",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rezoundous",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "yacineMTB",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -597,13 +495,43 @@
    "total": 2
   },
   {
+   "handle": "zoedotai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "fly3nn",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "Raitox_tech",
+   "handle": "jonoalford",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "janus_of_DC",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "haydenfield",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Ananth7e",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "addyosmani",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -615,10 +543,46 @@
    "total": 2
   },
   {
-   "handle": "blueemi99",
+   "handle": "_aidan_clark_",
    "replies": 1,
-   "named": 0,
-   "total": 1
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "StefanoGPT",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "_samirism",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "edbayes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "yacineMTB",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "evadne",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Raitox_tech",
+   "replies": 1,
+   "named": 1,
+   "total": 2
   },
   {
    "handle": "TokenGremlin",
@@ -628,6 +592,18 @@
   },
   {
    "handle": "AnikaCodes",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "claudeai",
+   "replies": 1,
+   "named": 0,
+   "total": 1
+  },
+  {
+   "handle": "blueemi99",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -665,7 +641,7 @@
    "limit": 1,
    "limits": 2,
    "vote": 0,
-   "day": 19,
+   "day": 18,
    "series": 1
   },
   {
@@ -682,7 +658,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 16,
+   "day": 17,
    "series": 0
   },
   {
@@ -692,7 +668,7 @@
    "resets": 0,
    "reseted": 0,
    "banked": 1,
-   "eod": 1,
+   "eod": 0,
    "propagate": 0,
    "propagated": 1,
    "usage": 2,
@@ -709,7 +685,7 @@
    "resets": 1,
    "reseted": 0,
    "banked": 1,
-   "eod": 0,
+   "eod": 1,
    "propagate": 0,
    "propagated": 0,
    "usage": 0,

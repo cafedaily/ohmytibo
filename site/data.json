@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-05T01:57:05.955655+00:00",
- "generated_local": "2026-11-05 09:57",
+ "generated_at": "2026-11-05T06:43:22.917399+00:00",
+ "generated_local": "2026-11-05 14:43",
  "forecast": {
-  "p_24h": 0.2201,
-  "p_48h": 0.4153,
-  "p_72h": 0.5929,
-  "p_7d": 0.8734,
+  "p_24h": 0.1966,
+  "p_48h": 0.3974,
+  "p_72h": 0.5899,
+  "p_7d": 0.876,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-05T06:57:05.955655+00:00",
-  "modal_reset_local": "2026-11-05 14:57",
-  "hours_since_last_reset": 187.36,
+  "modal_reset_at": "2026-11-06T06:43:22.917399+00:00",
+  "modal_reset_local": "2026-11-06 14:43",
+  "hours_since_last_reset": 192.13,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.226,
+   "brier": 0.2239,
    "brier_baseline": 0.2082,
-   "logloss": 0.6609,
+   "logloss": 0.6577,
    "logloss_baseline": 0.607,
-   "skill": -0.089,
+   "skill": -0.084,
    "base_rate": 0.2955
   },
   "weekly": [
    {
     "date": "2026-11-05",
-    "p": 0.2118
+    "p": 0.1354
    },
    {
     "date": "2026-11-06",
-    "p": 0.1956
+    "p": 0.201
    },
    {
     "date": "2026-11-07",
-    "p": 0.1786
+    "p": 0.197
    },
    {
     "date": "2026-11-08",
-    "p": 0.1076
+    "p": 0.1213
    },
    {
     "date": "2026-11-09",
-    "p": 0.055
+    "p": 0.062
    },
    {
     "date": "2026-11-10",
-    "p": 0.0551
+    "p": 0.0621
    },
    {
     "date": "2026-11-11",
-    "p": 0.067
+    "p": 0.0755
    },
    {
     "date": "2026-11-12",
-    "p": 0.0468
+    "p": 0.0528
    },
    {
     "date": "2026-11-13",
-    "p": 0.0236
+    "p": 0.0265
    },
    {
     "date": "2026-11-14",
-    "p": 0.0147
+    "p": 0.0166
    },
    {
     "date": "2026-11-15",
-    "p": 0.0005
+    "p": 0.0046
    }
   ],
   "pending_promise": null
@@ -725,8 +725,8 @@
    "date": "2026-11-02",
    "posts": 12,
    "replies": 9,
-   "likes": 37480,
-   "engagement_replies": 5206,
+   "likes": 37495,
+   "engagement_replies": 5208,
    "reset": 0,
    "banked": 1
   },
@@ -734,8 +734,8 @@
    "date": "2026-11-03",
    "posts": 5,
    "replies": 3,
-   "likes": 15212,
-   "engagement_replies": 2091,
+   "likes": 15286,
+   "engagement_replies": 2092,
    "reset": 0,
    "banked": 0
   },
@@ -743,17 +743,17 @@
    "date": "2026-11-04",
    "posts": 8,
    "replies": 6,
-   "likes": 28291,
-   "engagement_replies": 3479,
+   "likes": 29358,
+   "engagement_replies": 3533,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-05",
-   "posts": 11,
-   "replies": 8,
-   "likes": 11792,
-   "engagement_replies": 1203,
+   "posts": 12,
+   "replies": 9,
+   "likes": 17323,
+   "engagement_replies": 1647,
    "reset": 0,
    "banked": 0
   }
@@ -765,9 +765,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 16,
-    "lift": 1.21,
+    "lift": 1.24,
     "docs": 1,
-    "share": 0.0143,
+    "share": 0.0148,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -779,7 +779,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0123,
     "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
     "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
     "sample_ts": "2026-11-01T16:49:24Z"
@@ -789,9 +789,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 13,
-    "lift": 1.21,
+    "lift": 1.24,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0123,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -801,9 +801,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 1,
-    "lift": 2.8,
+    "lift": 2.81,
     "docs": 4,
-    "share": 0.0095,
+    "share": 0.0099,
     "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
     "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
     "sample_ts": "2026-10-31T05:42:26Z"
@@ -813,9 +813,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 6,
-    "lift": 1.72,
+    "lift": 1.75,
     "docs": 3,
-    "share": 0.0095,
+    "share": 0.0099,
     "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
     "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
     "sample_ts": "2026-11-03T00:26:03Z"
@@ -825,9 +825,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.15,
+    "lift": 2.16,
     "docs": 1,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -837,9 +837,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 6,
-    "lift": 1.35,
+    "lift": 1.38,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -849,33 +849,21 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.21,
+    "lift": 1.24,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
-   },
-   {
-    "term": "pro",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 11,
-    "lift": 0.74,
-    "docs": 2,
-    "share": 0.0072,
-    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
-    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
-    "sample_ts": "2026-10-29T03:36:28Z"
    },
    {
     "term": "gpt",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 14,
-    "lift": 0.47,
+    "lift": 0.51,
     "docs": 2,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -885,9 +873,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 23,
-    "lift": -0.13,
+    "lift": -0.09,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -897,9 +885,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 27,
-    "lift": -0.33,
+    "lift": -0.29,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Graduating from The Reset Company to The Token Company.",
     "sample_url": "https://x.com/thsottiaux/status/2115851621137784832",
     "sample_ts": "2026-10-29T17:01:51Z"
@@ -913,7 +901,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0123,
     "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
     "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
     "sample_ts": "2026-11-01T16:49:24Z"
@@ -923,9 +911,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 1,
-    "lift": 2.8,
+    "lift": 2.81,
     "docs": 4,
-    "share": 0.0095,
+    "share": 0.0099,
     "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
     "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
     "sample_ts": "2026-10-31T05:42:26Z"
@@ -937,7 +925,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0048,
+    "share": 0.0049,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -949,7 +937,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0048,
+    "share": 0.0049,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -959,9 +947,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 2.15,
+    "lift": 2.16,
     "docs": 1,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -971,9 +959,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.95,
+    "lift": 1.96,
     "docs": 1,
-    "share": 0.0048,
+    "share": 0.0049,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -983,9 +971,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 6,
-    "lift": 1.72,
+    "lift": 1.75,
     "docs": 3,
-    "share": 0.0095,
+    "share": 0.0099,
     "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
     "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
     "sample_ts": "2026-11-03T00:26:03Z"
@@ -995,9 +983,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 6,
-    "lift": 1.35,
+    "lift": 1.38,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -1007,9 +995,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 16,
-    "lift": 1.21,
+    "lift": 1.24,
     "docs": 1,
-    "share": 0.0143,
+    "share": 0.0148,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -1019,9 +1007,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 13,
-    "lift": 1.21,
+    "lift": 1.24,
     "docs": 4,
-    "share": 0.0119,
+    "share": 0.0123,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -1031,33 +1019,21 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.21,
+    "lift": 1.24,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
-   },
-   {
-    "term": "pro",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 11,
-    "lift": 0.74,
-    "docs": 2,
-    "share": 0.0072,
-    "sample": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
-    "sample_url": "https://x.com/thsottiaux/status/2115648938149818370",
-    "sample_ts": "2026-10-29T03:36:28Z"
    },
    {
     "term": "gpt",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 14,
-    "lift": 0.47,
+    "lift": 0.51,
     "docs": 2,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -1067,9 +1043,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 23,
-    "lift": -0.13,
+    "lift": -0.09,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for P",
     "sample_url": "https://x.com/thsottiaux/status/2115850175868727621",
     "sample_ts": "2026-10-29T16:56:07Z"
@@ -1079,9 +1055,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 27,
-    "lift": -0.33,
+    "lift": -0.29,
     "docs": 3,
-    "share": 0.0072,
+    "share": 0.0074,
     "sample": "Graduating from The Reset Company to The Token Company.",
     "sample_url": "https://x.com/thsottiaux/status/2115851621137784832",
     "sample_ts": "2026-10-29T17:01:51Z"
@@ -1110,7 +1086,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 9.0
+    "age_hours": 13.8
    },
    {
     "id": "2117283355427495983",
@@ -1125,7 +1101,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 58.1
+    "age_hours": 62.9
    },
    {
     "id": "2117283124833055196",
@@ -1140,7 +1116,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 58.1
+    "age_hours": 62.9
    },
    {
     "id": "2116942192497533418",
@@ -1155,7 +1131,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 80.7
+    "age_hours": 85.5
    },
    {
     "id": "2116692529970311254",
@@ -1170,7 +1146,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 97.2
+    "age_hours": 102.0
    },
    {
     "id": "2116405414921384099",
@@ -1185,7 +1161,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 116.2
+    "age_hours": 121.0
    },
    {
     "id": "2116256600436641887",
@@ -1200,7 +1176,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 126.1
+    "age_hours": 130.9
    },
    {
     "id": "2116045727642366367",
@@ -1215,7 +1191,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 140.1
+    "age_hours": 144.8
    },
    {
     "id": "2115851621137784832",
@@ -1230,7 +1206,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 152.9
+    "age_hours": 157.7
    },
    {
     "id": "2115850175868727621",
@@ -1245,7 +1221,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 153.0
+    "age_hours": 157.8
    },
    {
     "id": "2115290318652444729",
@@ -1260,7 +1236,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 190.1
+    "age_hours": 194.9
    },
    {
     "id": "2115273064481218829",
@@ -1276,7 +1252,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 191.2
+    "age_hours": 196.0
    },
    {
     "id": "2115272201922572627",
@@ -1291,7 +1267,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 191.3
+    "age_hours": 196.1
    },
    {
     "id": "2114800277677092936",
@@ -1306,7 +1282,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 222.5
+    "age_hours": 227.3
    },
    {
     "id": "2114599388454481930",
@@ -1321,7 +1297,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 235.9
+    "age_hours": 240.6
    },
    {
     "id": "2114228445043691592",
@@ -1336,7 +1312,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 260.4
+    "age_hours": 265.2
    },
    {
     "id": "2114228044072403055",
@@ -1351,7 +1327,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 260.4
+    "age_hours": 265.2
    },
    {
     "id": "2114200152701575656",
@@ -1366,7 +1342,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 262.3
+    "age_hours": 267.1
    },
    {
     "id": "2114037527598576003",
@@ -1381,7 +1357,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 273.1
+    "age_hours": 277.8
    },
    {
     "id": "2113770862860222611",
@@ -1396,7 +1372,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 290.7
+    "age_hours": 295.5
    },
    {
     "id": "2113492187770175603",
@@ -1412,7 +1388,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 309.2
+    "age_hours": 314.0
    },
    {
     "id": "2113162413008884099",
@@ -1428,7 +1404,7 @@
     ],
     "forward": true,
     "after_last_reset": false,
-    "age_hours": 331.0
+    "age_hours": 335.8
    }
   ]
  },
@@ -1440,18 +1416,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-05T01:57:05+00:00",
+    "at": "2026-11-05T06:43:22+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-05T01:57:05+00:00"
+    "last_ok": "2026-11-05T06:43:22+00:00"
    },
    "feed": {
-    "at": "2026-11-05T01:57:05+00:00",
+    "at": "2026-11-05T06:43:22+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1459,18 +1435,18 @@
     "error": null,
     "total": 60,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-05T01:57:05+00:00"
+    "last_ok": "2026-11-05T06:43:22+00:00"
    },
    "pipeline": {
-    "at": "2026-11-05T01:57:03+00:00",
+    "at": "2026-11-05T06:42:26+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-05T01:57:03+00:00"
+    "last_ok": "2026-11-05T06:42:26+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-05T01:57:06+00:00",
+   "checked_at": "2026-11-05T06:43:23+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1522,14 +1498,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-01T22:42:57+00:00",
-    "mode": "fast",
-    "seconds": 2.0,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-02T00:42:44+00:00",
     "mode": "full",
@@ -1646,6 +1614,14 @@
     "at": "2026-11-05T01:57:03+00:00",
     "mode": "fast",
     "seconds": 2.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-05T06:42:26+00:00",
+    "mode": "full",
+    "seconds": 56.6,
     "ok": true,
     "failed": [],
     "warnings": []
