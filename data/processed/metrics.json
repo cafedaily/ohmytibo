@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-07T01:57:24.050131+00:00",
- "generated_at_local": "2026-11-07 09:57",
+ "generated_at": "2026-11-07T05:56:06.053668+00:00",
+ "generated_at_local": "2026-11-07 13:56",
  "timezone": "UTC+8",
- "posts": 840,
- "replies": 606,
+ "posts": 847,
+ "replies": 612,
  "days_covered": 78,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-07T01:12:08Z",
+ "last_post": "2026-11-07T05:50:42Z",
  "resets_tracked": 36,
- "p_24h": 0.2781,
- "p_48h": 0.4581,
- "modal_reset_at": "2026-11-07T06:57:24.050131+00:00",
+ "p_24h": 0.2948,
+ "p_48h": 0.4585,
+ "modal_reset_at": "2026-11-07T06:56:06.053668+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2249,
+  "brier": 0.2197,
   "brier_baseline": 0.2082,
-  "logloss": 0.6576,
+  "logloss": 0.6429,
   "logloss_baseline": 0.607,
-  "skill": -0.083,
+  "skill": -0.059,
   "base_rate": 0.2955
  },
  "top_terms": [
@@ -28,7 +28,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0102,
+   "share": 0.0101,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -37,32 +37,32 @@
    "term": "dots",
    "kind": "word",
    "count_7d": 5,
-   "count_28d_before": 13,
-   "lift": 0.99,
+   "count_28d_before": 11,
+   "lift": 1.14,
    "docs": 4,
-   "share": 0.0102,
+   "share": 0.0101,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
   },
   {
-   "term": "banked",
+   "term": "basement",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 1,
-   "lift": 2.74,
+   "count_28d_before": 0,
+   "lift": 3.17,
    "docs": 4,
    "share": 0.0081,
-   "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
-   "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
-   "sample_ts": "2026-10-31T05:42:26Z"
+   "sample": "I was moved to the basement yesterday",
+   "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
+   "sample_ts": "2026-11-04T16:57:02Z"
   },
   {
    "term": "cyber",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.74,
+   "lift": 2.72,
    "docs": 3,
    "share": 0.0081,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -74,7 +74,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 5,
-   "lift": 1.71,
+   "lift": 1.68,
    "docs": 3,
    "share": 0.0081,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
@@ -88,7 +88,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
    "sample_url": "https://x.com/thsottiaux/status/2117035666332954818",
    "sample_ts": "2026-11-01T23:26:50Z"
@@ -100,7 +100,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -112,31 +112,31 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
   },
   {
-   "term": "basement",
+   "term": "banked",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
+   "count_28d_before": 2,
+   "lift": 2.02,
    "docs": 3,
-   "share": 0.0061,
-   "sample": "I was moved to the basement yesterday",
-   "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
-   "sample_ts": "2026-11-04T16:57:02Z"
+   "share": 0.006,
+   "sample": "Banked 1/2",
+   "sample_url": "https://x.com/thsottiaux/status/2116692529970311254",
+   "sample_ts": "2026-11-01T00:43:20Z"
   },
   {
    "term": "future",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 4,
-   "lift": 1.54,
+   "count_28d_before": 3,
+   "lift": 1.75,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -146,9 +146,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.02,
+   "lift": 0.99,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
    "sample_url": "https://x.com/thsottiaux/status/2117283355427495983",
    "sample_ts": "2026-11-02T15:51:03Z"
@@ -158,9 +158,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 13,
-   "lift": 0.33,
+   "lift": 0.3,
    "docs": 2,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -174,10 +174,22 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0102,
+   "share": 0.0101,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
+  },
+  {
+   "term": "basement",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 0,
+   "lift": 3.17,
+   "docs": 4,
+   "share": 0.0081,
+   "sample": "I was moved to the basement yesterday",
+   "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
+   "sample_ts": "2026-11-04T16:57:02Z"
   },
   {
    "term": "months",
@@ -186,7 +198,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
    "sample_url": "https://x.com/thsottiaux/status/2117035666332954818",
    "sample_ts": "2026-11-01T23:26:50Z"
@@ -198,7 +210,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -210,41 +222,17 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
-  },
-  {
-   "term": "basement",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
-   "docs": 3,
-   "share": 0.0061,
-   "sample": "I was moved to the basement yesterday",
-   "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
-   "sample_ts": "2026-11-04T16:57:02Z"
-  },
-  {
-   "term": "banked",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 1,
-   "lift": 2.74,
-   "docs": 4,
-   "share": 0.0081,
-   "sample": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t",
-   "sample_url": "https://x.com/thsottiaux/status/2116405414921384099",
-   "sample_ts": "2026-10-31T05:42:26Z"
   },
   {
    "term": "cyber",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 1,
-   "lift": 2.74,
+   "lift": 2.72,
    "docs": 3,
    "share": 0.0081,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -252,11 +240,35 @@
    "sample_ts": "2026-11-05T01:02:03Z"
   },
   {
+   "term": "banked",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 2,
+   "lift": 2.02,
+   "docs": 3,
+   "share": 0.006,
+   "sample": "Banked 1/2",
+   "sample_url": "https://x.com/thsottiaux/status/2116692529970311254",
+   "sample_ts": "2026-11-01T00:43:20Z"
+  },
+  {
+   "term": "future",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 3,
+   "lift": 1.75,
+   "docs": 3,
+   "share": 0.006,
+   "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
+   "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
+   "sample_ts": "2026-11-02T15:50:08Z"
+  },
+  {
    "term": "team",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 5,
-   "lift": 1.71,
+   "lift": 1.68,
    "docs": 3,
    "share": 0.0081,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
@@ -264,13 +276,13 @@
    "sample_ts": "2026-11-03T00:26:03Z"
   },
   {
-   "term": "future",
+   "term": "dots",
    "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 4,
-   "lift": 1.54,
-   "docs": 3,
-   "share": 0.0061,
+   "count_7d": 5,
+   "count_28d_before": 11,
+   "lift": 1.14,
+   "docs": 4,
+   "share": 0.0101,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -280,33 +292,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.02,
+   "lift": 0.99,
    "docs": 3,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
    "sample_url": "https://x.com/thsottiaux/status/2117283355427495983",
    "sample_ts": "2026-11-02T15:51:03Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 13,
-   "lift": 0.99,
-   "docs": 4,
-   "share": 0.0102,
-   "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
-   "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
-   "sample_ts": "2026-11-02T15:50:08Z"
   },
   {
    "term": "gpt",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 13,
-   "lift": 0.33,
+   "lift": 0.3,
    "docs": 2,
-   "share": 0.0061,
+   "share": 0.006,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -316,13 +316,8 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 20,
-   "share": 0.154,
+   "share": 0.147,
    "examples": [
-    {
-     "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. D",
-     "url": "https://x.com/thsottiaux/status/2113838156193894447",
-     "ts": "2026-10-24T03:41:04Z"
-    },
     {
      "text": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
      "url": "https://x.com/thsottiaux/status/2114030784625647855",
@@ -332,13 +327,18 @@
      "text": "One day",
      "url": "https://x.com/thsottiaux/status/2114037527598576003",
      "ts": "2026-10-24T16:53:18Z"
+    },
+    {
+     "text": "Day 20/ Rest and reset",
+     "url": "https://x.com/thsottiaux/status/2114200152701575656",
+     "ts": "2026-10-25T03:39:31Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
    "posts": 15,
-   "share": 0.115,
+   "share": 0.11,
    "examples": [
     {
      "text": "Day 20/ Rest and reset",
@@ -360,7 +360,7 @@
   {
    "topic": "Models",
    "posts": 14,
-   "share": 0.108,
+   "share": 0.103,
    "examples": [
     {
      "text": "Reminder you can customize the appearance of chatgpt on web and make it soothing\n\nhttps://t.co/an6R8iY5Ix https://t.co/iysHpdDLml",
@@ -381,8 +381,8 @@
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 10,
-   "share": 0.077,
+   "posts": 11,
+   "share": 0.081,
    "examples": [
     {
      "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
@@ -403,8 +403,8 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 10,
-   "share": 0.077,
+   "posts": 11,
+   "share": 0.081,
    "examples": [
     {
      "text": "Not a real improvement, put the reset in the bag",
@@ -1139,7 +1139,7 @@
    "date": "2026-11-05",
    "posts": 21,
    "replies": 16,
-   "likes": 32410,
+   "likes": 32415,
    "engagement_replies": 2930,
    "reset": 0,
    "banked": 0
@@ -1148,17 +1148,17 @@
    "date": "2026-11-06",
    "posts": 16,
    "replies": 12,
-   "likes": 32193,
-   "engagement_replies": 2931,
+   "likes": 33142,
+   "engagement_replies": 2971,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-07",
-   "posts": 4,
-   "replies": 3,
-   "likes": 3452,
-   "engagement_replies": 1120,
+   "posts": 11,
+   "replies": 9,
+   "likes": 8461,
+   "engagement_replies": 2366,
    "reset": 0,
    "banked": 0
   }
