@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0098,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -20,7 +20,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 4,
-   "share": 0.0079,
+   "share": 0.0078,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -30,9 +30,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 3.01,
+   "lift": 3.0,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0098,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
    "sample_ts": "2026-11-05T01:02:03Z"
@@ -78,7 +78,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.01,
+   "lift": 2.0,
    "docs": 3,
    "share": 0.0059,
    "sample": "Banked 1/2",
@@ -90,7 +90,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.73,
+   "lift": 1.72,
    "docs": 3,
    "share": 0.0059,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
@@ -102,9 +102,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 5,
-   "lift": 1.66,
+   "lift": 1.65,
    "docs": 3,
-   "share": 0.0079,
+   "share": 0.0078,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
    "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
    "sample_ts": "2026-11-03T00:26:03Z"
@@ -114,9 +114,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 11,
-   "lift": 1.12,
+   "lift": 1.1,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0098,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -126,7 +126,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 0.96,
+   "lift": 0.95,
    "docs": 3,
    "share": 0.0059,
    "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
@@ -138,7 +138,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 13,
-   "lift": 0.27,
+   "lift": 0.26,
    "docs": 2,
    "share": 0.0059,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
@@ -150,7 +150,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 17,
-   "lift": -0.06,
+   "lift": -0.07,
    "docs": 3,
    "share": 0.0059,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
@@ -166,7 +166,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0098,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
    "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
    "sample_ts": "2026-11-01T16:49:24Z"
@@ -176,9 +176,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 3.01,
+   "lift": 3.0,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0098,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
    "sample_ts": "2026-11-05T01:02:03Z"
@@ -188,9 +188,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 11,
-   "lift": 1.12,
+   "lift": 1.1,
    "docs": 4,
-   "share": 0.0099,
+   "share": 0.0098,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
    "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
    "sample_ts": "2026-11-02T15:50:08Z"
@@ -202,7 +202,7 @@
    "count_28d_before": 0,
    "lift": 3.17,
    "docs": 4,
-   "share": 0.0079,
+   "share": 0.0078,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -212,9 +212,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 5,
-   "lift": 1.66,
+   "lift": 1.65,
    "docs": 3,
-   "share": 0.0079,
+   "share": 0.0078,
    "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
    "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
    "sample_ts": "2026-11-03T00:26:03Z"
@@ -260,7 +260,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 2.01,
+   "lift": 2.0,
    "docs": 3,
    "share": 0.0059,
    "sample": "Banked 1/2",
@@ -272,7 +272,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.73,
+   "lift": 1.72,
    "docs": 3,
    "share": 0.0059,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
@@ -284,7 +284,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 0.96,
+   "lift": 0.95,
    "docs": 3,
    "share": 0.0059,
    "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
@@ -296,7 +296,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 13,
-   "lift": 0.27,
+   "lift": 0.26,
    "docs": 2,
    "share": 0.0059,
    "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
@@ -308,7 +308,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 17,
-   "lift": -0.06,
+   "lift": -0.07,
    "docs": 3,
    "share": 0.0059,
    "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
@@ -316,13 +316,13 @@
    "sample_ts": "2026-11-01T16:49:24Z"
   }
  ],
- "tokens_recent": 506,
- "tokens_base": 2736,
+ "tokens_recent": 510,
+ "tokens_base": 2727,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 18,
-   "share": 0.13,
+   "share": 0.131,
    "examples": [
     {
      "text": "Day 20/ Rest and reset",
@@ -366,7 +366,7 @@
   {
    "topic": "Models",
    "posts": 14,
-   "share": 0.101,
+   "share": 0.102,
    "examples": [
     {
      "text": "Reminder you can customize the appearance of chatgpt on web and make it soothing\n\nhttps://t.co/an6R8iY5Ix https://t.co/iysHpdDLml",
@@ -430,18 +430,6 @@
    ]
   },
   {
-   "topic": "Growth / milestones",
-   "posts": 1,
-   "share": 0.007,
-   "examples": [
-    {
-     "text": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
-     "url": "https://x.com/thsottiaux/status/2114125293124542632",
-     "ts": "2026-10-24T22:42:03Z"
-    }
-   ]
-  },
-  {
    "topic": "Reliability / incidents",
    "posts": 1,
    "share": 0.007,
@@ -452,6 +440,12 @@
      "ts": "2026-11-01T16:51:36Z"
     }
    ]
+  },
+  {
+   "topic": "Growth / milestones",
+   "posts": 0,
+   "share": 0.0,
+   "examples": []
   }
  ],
  "mentions": [
@@ -492,19 +486,7 @@
    "total": 2
   },
   {
-   "handle": "andrewcshin7",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkelleyrtp",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ohayou792",
+   "handle": "AdamHoltererer",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -516,61 +498,7 @@
    "total": 2
   },
   {
-   "handle": "yacineMTB",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "kimmonismus",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ThePrimeagen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "haydenfield",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesMalsawm",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "helloitsaustin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "maxleiter",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ritu_twts",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jonoalford",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_samirism",
+   "handle": "Raitox_tech",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -582,25 +510,91 @@
    "total": 2
   },
   {
-   "handle": "_aidan_clark_",
+   "handle": "_samirism",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "dani_avila7",
+   "handle": "Sergey_Rura",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "rezoundous",
+   "handle": "edbayes",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "Raitox_tech",
+   "handle": "rileybrown",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "amix3k",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "kimmonismus",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JustinBleuel",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ritu_twts",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "zoedotai",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "addyosmani",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesMalsawm",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "fudgeposting",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "apples_jimmy",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ThePrimeagen",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "andrewcshin7",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -627,42 +621,42 @@
   {
    "week": 1,
    "label": "7天前",
-   "reset": 12,
+   "reset": 10,
    "resets": 2,
    "reseted": 0,
    "banked": 0,
-   "eod": 3,
+   "eod": 2,
    "propagate": 0,
    "propagated": 1,
    "usage": 6,
    "limit": 1,
    "limits": 2,
    "vote": 0,
-   "day": 18,
+   "day": 17,
    "series": 1
   },
   {
    "week": 2,
    "label": "14天前",
-   "reset": 8,
-   "resets": 2,
+   "reset": 10,
+   "resets": 1,
    "reseted": 0,
    "banked": 1,
-   "eod": 1,
+   "eod": 2,
    "propagate": 0,
    "propagated": 1,
    "usage": 12,
    "limit": 1,
    "limits": 0,
    "vote": 3,
-   "day": 21,
+   "day": 22,
    "series": 0
   },
   {
    "week": 3,
    "label": "21天前",
    "reset": 3,
-   "resets": 1,
+   "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 0,

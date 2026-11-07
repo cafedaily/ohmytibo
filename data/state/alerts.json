@@ -291,11 +291,11 @@
   "banked:r-2117022101404096435"
  ],
  "summary": {
-  "checked_at": "2026-11-07T19:25:38+00:00",
+  "checked_at": "2026-11-07T22:51:45+00:00",
   "channels": [],
   "configured": false,
   "pending": 0,
-  "undelivered_7d": 2,
+  "undelivered_7d": 1,
   "last_sent": null,
   "recent": [
    {
