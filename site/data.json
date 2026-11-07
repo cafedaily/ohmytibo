@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-07T08:30:43.336666+00:00",
- "generated_local": "2026-11-07 16:30",
+ "generated_at": "2026-11-07T12:57:57.705513+00:00",
+ "generated_local": "2026-11-07 20:57",
  "forecast": {
-  "p_24h": 0.2644,
-  "p_48h": 0.4186,
-  "p_72h": 0.5081,
-  "p_7d": 0.8892,
+  "p_24h": 0.2503,
+  "p_48h": 0.3968,
+  "p_72h": 0.5055,
+  "p_7d": 0.8887,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-08T06:30:43.336666+00:00",
-  "modal_reset_local": "2026-11-08 14:30",
-  "hours_since_last_reset": 241.92,
+  "modal_reset_at": "2026-11-08T06:57:57.705513+00:00",
+  "modal_reset_local": "2026-11-08 14:57",
+  "hours_since_last_reset": 246.37,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
@@ -27,47 +27,47 @@
   "weekly": [
    {
     "date": "2026-11-07",
-    "p": 0.1239
+    "p": 0.116
    },
    {
     "date": "2026-11-08",
-    "p": 0.2114
+    "p": 0.2019
    },
    {
     "date": "2026-11-09",
-    "p": 0.1237
+    "p": 0.118
    },
    {
     "date": "2026-11-10",
-    "p": 0.1064
+    "p": 0.1236
    },
    {
     "date": "2026-11-11",
-    "p": 0.1349
+    "p": 0.1503
    },
    {
     "date": "2026-11-12",
-    "p": 0.1107
+    "p": 0.1051
    },
    {
     "date": "2026-11-13",
-    "p": 0.0585
+    "p": 0.0529
    },
    {
     "date": "2026-11-14",
-    "p": 0.0326
+    "p": 0.0331
    },
    {
     "date": "2026-11-15",
-    "p": 0.0245
+    "p": 0.0248
    },
    {
     "date": "2026-11-16",
-    "p": 0.0183
+    "p": 0.0186
    },
    {
     "date": "2026-11-17",
-    "p": 0.0083
+    "p": 0.0088
    }
   ],
   "pending_promise": null
@@ -761,8 +761,8 @@
    "date": "2026-11-06",
    "posts": 16,
    "replies": 12,
-   "likes": 33448,
-   "engagement_replies": 2983,
+   "likes": 33806,
+   "engagement_replies": 2997,
    "reset": 0,
    "banked": 0
   },
@@ -770,8 +770,8 @@
    "date": "2026-11-07",
    "posts": 16,
    "replies": 13,
-   "likes": 15210,
-   "engagement_replies": 3446,
+   "likes": 20350,
+   "engagement_replies": 3999,
    "reset": 0,
    "banked": 0
   }
@@ -1116,7 +1116,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 3.5
+    "age_hours": 7.9
    },
    {
     "id": "2118024737070957009",
@@ -1131,7 +1131,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 63.6
+    "age_hours": 68.0
    },
    {
     "id": "2117283355427495983",
@@ -1146,7 +1146,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 112.7
+    "age_hours": 117.1
    },
    {
     "id": "2117283124833055196",
@@ -1161,7 +1161,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 112.7
+    "age_hours": 117.1
    },
    {
     "id": "2116942192497533418",
@@ -1176,7 +1176,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 135.3
+    "age_hours": 139.7
    },
    {
     "id": "2116692529970311254",
@@ -1191,7 +1191,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 151.8
+    "age_hours": 156.2
    },
    {
     "id": "2116405414921384099",
@@ -1206,7 +1206,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 170.8
+    "age_hours": 175.3
    },
    {
     "id": "2116256600436641887",
@@ -1221,7 +1221,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 180.7
+    "age_hours": 185.1
    },
    {
     "id": "2116045727642366367",
@@ -1236,7 +1236,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 194.6
+    "age_hours": 199.1
    },
    {
     "id": "2115851621137784832",
@@ -1251,7 +1251,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 207.5
+    "age_hours": 211.9
    },
    {
     "id": "2115850175868727621",
@@ -1266,7 +1266,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 207.6
+    "age_hours": 212.0
    },
    {
     "id": "2115290318652444729",
@@ -1281,7 +1281,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 244.7
+    "age_hours": 249.1
    },
    {
     "id": "2115273064481218829",
@@ -1297,7 +1297,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 245.8
+    "age_hours": 250.3
    },
    {
     "id": "2115272201922572627",
@@ -1312,7 +1312,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 245.9
+    "age_hours": 250.3
    },
    {
     "id": "2114800277677092936",
@@ -1327,7 +1327,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 277.1
+    "age_hours": 281.6
    },
    {
     "id": "2114599388454481930",
@@ -1342,7 +1342,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 290.4
+    "age_hours": 294.9
    },
    {
     "id": "2114228445043691592",
@@ -1357,7 +1357,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 315.0
+    "age_hours": 319.4
    },
    {
     "id": "2114228044072403055",
@@ -1372,7 +1372,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 315.0
+    "age_hours": 319.5
    },
    {
     "id": "2114200152701575656",
@@ -1387,7 +1387,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 316.9
+    "age_hours": 321.3
    },
    {
     "id": "2114037527598576003",
@@ -1402,7 +1402,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 327.6
+    "age_hours": 332.1
    }
   ]
  },
@@ -1414,18 +1414,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-07T08:30:42+00:00",
+    "at": "2026-11-07T12:57:57+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-07T08:30:42+00:00"
+    "last_ok": "2026-11-07T12:57:57+00:00"
    },
    "feed": {
-    "at": "2026-11-07T08:30:43+00:00",
+    "at": "2026-11-07T12:57:57+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1433,22 +1433,22 @@
     "error": null,
     "total": 60,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-07T08:30:43+00:00"
+    "last_ok": "2026-11-07T12:57:57+00:00"
    },
    "pipeline": {
-    "at": "2026-11-07T08:30:40+00:00",
+    "at": "2026-11-07T12:57:00+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-07T08:30:40+00:00"
+    "last_ok": "2026-11-07T12:57:00+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-07T08:30:43+00:00",
+   "checked_at": "2026-11-07T12:57:57+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
-   "undelivered_7d": 4,
+   "undelivered_7d": 2,
    "last_sent": null,
    "recent": [
     {
@@ -1496,14 +1496,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-04T14:36:22+00:00",
-    "mode": "full",
-    "seconds": 54.2,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-04T21:19:13+00:00",
     "mode": "full",
@@ -1619,7 +1611,15 @@
    {
     "at": "2026-11-07T08:30:40+00:00",
     "mode": "fast",
-    "seconds": 2.4,
+    "seconds": 2.5,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-07T12:57:00+00:00",
+    "mode": "full",
+    "seconds": 57.2,
     "ok": true,
     "failed": [],
     "warnings": []
