@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-08T00:33:56.709257+00:00",
- "generated_local": "2026-11-08 08:33",
+ "generated_at": "2026-11-08T01:55:39.328825+00:00",
+ "generated_local": "2026-11-08 09:55",
  "forecast": {
-  "p_24h": 0.2413,
-  "p_48h": 0.3825,
-  "p_72h": 0.5039,
-  "p_7d": 0.8883,
+  "p_24h": 0.226,
+  "p_48h": 0.358,
+  "p_72h": 0.5013,
+  "p_7d": 0.8877,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-08T06:33:56.709257+00:00",
-  "modal_reset_local": "2026-11-08 14:33",
-  "hours_since_last_reset": 257.97,
+  "modal_reset_at": "2026-11-08T06:55:39.328825+00:00",
+  "modal_reset_local": "2026-11-08 14:55",
+  "hours_since_last_reset": 259.33,
   "reset_count": 36,
   "mean_gap_days": 3.47,
   "median_gap_days": 2.17,
@@ -27,43 +27,47 @@
   "weekly": [
    {
     "date": "2026-11-08",
-    "p": 0.2413
+    "p": 0.2181
    },
    {
     "date": "2026-11-09",
-    "p": 0.1412
+    "p": 0.1353
    },
    {
     "date": "2026-11-10",
-    "p": 0.1215
+    "p": 0.1417
    },
    {
     "date": "2026-11-11",
-    "p": 0.154
+    "p": 0.1723
    },
    {
     "date": "2026-11-12",
-    "p": 0.1264
+    "p": 0.1205
    },
    {
     "date": "2026-11-13",
-    "p": 0.0667
+    "p": 0.0606
    },
    {
     "date": "2026-11-14",
-    "p": 0.0372
+    "p": 0.0379
    },
    {
     "date": "2026-11-15",
-    "p": 0.0279
+    "p": 0.0284
    },
    {
     "date": "2026-11-16",
-    "p": 0.0209
+    "p": 0.0213
    },
    {
     "date": "2026-11-17",
-    "p": 0.0157
+    "p": 0.016
+   },
+   {
+    "date": "2026-11-18",
+    "p": 0.0006
    }
   ],
   "pending_promise": null
@@ -766,17 +770,17 @@
    "date": "2026-11-07",
    "posts": 16,
    "replies": 13,
-   "likes": 25414,
-   "engagement_replies": 4520,
+   "likes": 25683,
+   "engagement_replies": 4561,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-08",
-   "posts": 5,
-   "replies": 5,
-   "likes": 2146,
-   "engagement_replies": 347,
+   "posts": 6,
+   "replies": 6,
+   "likes": 3059,
+   "engagement_replies": 491,
    "reset": 0,
    "banked": 0
   }
@@ -790,7 +794,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 4,
-    "share": 0.0097,
+    "share": 0.0096,
     "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
     "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
     "sample_ts": "2026-11-01T16:49:24Z"
@@ -800,9 +804,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 3.0,
+    "lift": 2.98,
     "docs": 4,
-    "share": 0.0097,
+    "share": 0.0096,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
     "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
     "sample_ts": "2026-11-05T01:02:03Z"
@@ -811,10 +815,10 @@
     "term": "dots",
     "kind": "word",
     "count_7d": 5,
-    "count_28d_before": 11,
-    "lift": 1.09,
+    "count_28d_before": 10,
+    "lift": 1.17,
     "docs": 4,
-    "share": 0.0097,
+    "share": 0.0096,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -826,7 +830,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 4,
-    "share": 0.0078,
+    "share": 0.0077,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -836,9 +840,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 5,
-    "lift": 1.64,
+    "lift": 1.61,
     "docs": 3,
-    "share": 0.0078,
+    "share": 0.0077,
     "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
     "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
     "sample_ts": "2026-11-03T00:26:03Z"
@@ -850,7 +854,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
     "sample_url": "https://x.com/thsottiaux/status/2117035666332954818",
     "sample_ts": "2026-11-01T23:26:50Z"
@@ -862,7 +866,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -874,31 +878,19 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
     "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
     "sample_ts": "2026-11-04T16:54:47Z"
-   },
-   {
-    "term": "banked",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 2,
-    "lift": 1.99,
-    "docs": 3,
-    "share": 0.0058,
-    "sample": "Banked 1/2",
-    "sample_url": "https://x.com/thsottiaux/status/2116692529970311254",
-    "sample_ts": "2026-11-01T00:43:20Z"
    },
    {
     "term": "future",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.71,
+    "lift": 1.69,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -908,9 +900,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 0.94,
+    "lift": 0.91,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
     "sample_url": "https://x.com/thsottiaux/status/2117283355427495983",
     "sample_ts": "2026-11-02T15:51:03Z"
@@ -920,9 +912,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 13,
-    "lift": 0.24,
+    "lift": 0.2,
     "docs": 2,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -931,10 +923,10 @@
     "term": "dot",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 17,
-    "lift": -0.09,
+    "count_28d_before": 16,
+    "lift": -0.05,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
     "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
     "sample_ts": "2026-11-01T16:49:24Z"
@@ -948,7 +940,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 4,
-    "share": 0.0097,
+    "share": 0.0096,
     "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
     "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
     "sample_ts": "2026-11-01T16:49:24Z"
@@ -960,7 +952,7 @@
     "count_28d_before": 0,
     "lift": 3.17,
     "docs": 4,
-    "share": 0.0078,
+    "share": 0.0077,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -970,9 +962,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 3.0,
+    "lift": 2.98,
     "docs": 4,
-    "share": 0.0097,
+    "share": 0.0096,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
     "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
     "sample_ts": "2026-11-05T01:02:03Z"
@@ -984,7 +976,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
     "sample_url": "https://x.com/thsottiaux/status/2117035666332954818",
     "sample_ts": "2026-11-01T23:26:50Z"
@@ -996,7 +988,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -1008,31 +1000,19 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
     "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
     "sample_ts": "2026-11-04T16:54:47Z"
-   },
-   {
-    "term": "banked",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 2,
-    "lift": 1.99,
-    "docs": 3,
-    "share": 0.0058,
-    "sample": "Banked 1/2",
-    "sample_url": "https://x.com/thsottiaux/status/2116692529970311254",
-    "sample_ts": "2026-11-01T00:43:20Z"
    },
    {
     "term": "future",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.71,
+    "lift": 1.69,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -1042,9 +1022,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 5,
-    "lift": 1.64,
+    "lift": 1.61,
     "docs": 3,
-    "share": 0.0078,
+    "share": 0.0077,
     "sample": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
     "sample_url": "https://x.com/thsottiaux/status/2117412956950638872",
     "sample_ts": "2026-11-03T00:26:03Z"
@@ -1053,10 +1033,10 @@
     "term": "dots",
     "kind": "word",
     "count_7d": 5,
-    "count_28d_before": 11,
-    "lift": 1.09,
+    "count_28d_before": 10,
+    "lift": 1.17,
     "docs": 4,
-    "share": 0.0097,
+    "share": 0.0096,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -1066,9 +1046,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 0.94,
+    "lift": 0.91,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
     "sample_url": "https://x.com/thsottiaux/status/2117283355427495983",
     "sample_ts": "2026-11-02T15:51:03Z"
@@ -1078,9 +1058,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 13,
-    "lift": 0.24,
+    "lift": 0.2,
     "docs": 2,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Ter",
     "sample_url": "https://x.com/thsottiaux/status/2117283124833055196",
     "sample_ts": "2026-11-02T15:50:08Z"
@@ -1089,10 +1069,10 @@
     "term": "dot",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 17,
-    "lift": -0.09,
+    "count_28d_before": 16,
+    "lift": -0.05,
     "docs": 3,
-    "share": 0.0058,
+    "share": 0.0057,
     "sample": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
     "sample_url": "https://x.com/thsottiaux/status/2116935650511585696",
     "sample_ts": "2026-11-01T16:49:24Z"
@@ -1101,13 +1081,28 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 2,
-  "count_72h": 2,
+  "count_24h": 3,
+  "count_72h": 3,
   "count_7d": 7,
-  "since_last_reset": 12,
+  "since_last_reset": 13,
   "baseline_per_day": 2.46,
-  "level": "quiet",
+  "level": "elevated",
   "items": [
+   {
+    "id": "2119232059537514598",
+    "ts": "2026-11-08T00:54:31+00:00",
+    "ts_local": "2026-11-08 08:54",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "We doubled the usage on Pro plans and Business 100",
+    "url": "https://x.com/thsottiaux/status/2119232059537514598",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": true,
+    "age_hours": 1.0
+   },
    {
     "id": "2119113859747426370",
     "ts": "2026-11-07T17:04:50+00:00",
@@ -1121,7 +1116,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 7.5
+    "age_hours": 8.8
    },
    {
     "id": "2118931941907165401",
@@ -1136,7 +1131,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 19.5
+    "age_hours": 20.9
    },
    {
     "id": "2118024737070957009",
@@ -1151,7 +1146,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 79.6
+    "age_hours": 81.0
    },
    {
     "id": "2117283355427495983",
@@ -1166,7 +1161,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 128.7
+    "age_hours": 130.1
    },
    {
     "id": "2117283124833055196",
@@ -1181,7 +1176,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 128.7
+    "age_hours": 130.1
    },
    {
     "id": "2116942192497533418",
@@ -1196,7 +1191,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 151.3
+    "age_hours": 152.7
    },
    {
     "id": "2116692529970311254",
@@ -1211,7 +1206,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 167.8
+    "age_hours": 169.2
    },
    {
     "id": "2116405414921384099",
@@ -1226,7 +1221,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 186.9
+    "age_hours": 188.2
    },
    {
     "id": "2116256600436641887",
@@ -1241,7 +1236,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 196.7
+    "age_hours": 198.1
    },
    {
     "id": "2116045727642366367",
@@ -1256,7 +1251,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 210.7
+    "age_hours": 212.0
    },
    {
     "id": "2115851621137784832",
@@ -1271,7 +1266,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 223.5
+    "age_hours": 224.9
    },
    {
     "id": "2115850175868727621",
@@ -1286,7 +1281,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 223.6
+    "age_hours": 225.0
    },
    {
     "id": "2115290318652444729",
@@ -1301,7 +1296,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 260.7
+    "age_hours": 262.1
    },
    {
     "id": "2115273064481218829",
@@ -1317,7 +1312,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 261.9
+    "age_hours": 263.2
    },
    {
     "id": "2115272201922572627",
@@ -1332,7 +1327,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 261.9
+    "age_hours": 263.3
    },
    {
     "id": "2114800277677092936",
@@ -1347,7 +1342,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 293.2
+    "age_hours": 294.5
    },
    {
     "id": "2114599388454481930",
@@ -1362,7 +1357,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 306.5
+    "age_hours": 307.8
    },
    {
     "id": "2114228445043691592",
@@ -1377,7 +1372,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 331.0
+    "age_hours": 332.4
    },
    {
     "id": "2114228044072403055",
@@ -1392,7 +1387,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 331.1
+    "age_hours": 332.4
    },
    {
     "id": "2114200152701575656",
@@ -1407,7 +1402,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 332.9
+    "age_hours": 334.3
    }
   ]
  },
@@ -1419,18 +1414,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-08T00:33:56+00:00",
+    "at": "2026-11-08T01:55:38+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-08T00:33:56+00:00"
+    "last_ok": "2026-11-08T01:55:38+00:00"
    },
    "feed": {
-    "at": "2026-11-08T00:33:56+00:00",
+    "at": "2026-11-08T01:55:39+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1438,18 +1433,18 @@
     "error": null,
     "total": 60,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-08T00:33:56+00:00"
+    "last_ok": "2026-11-08T01:55:39+00:00"
    },
    "pipeline": {
-    "at": "2026-11-08T00:33:01+00:00",
+    "at": "2026-11-08T01:55:36+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-08T00:33:01+00:00"
+    "last_ok": "2026-11-08T01:55:36+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-08T00:33:56+00:00",
+   "checked_at": "2026-11-08T01:55:39+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1501,14 +1496,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-05T17:22:42+00:00",
-    "mode": "fast",
-    "seconds": 2.5,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-05T17:23:24+00:00",
     "mode": "full",
@@ -1625,6 +1612,14 @@
     "at": "2026-11-08T00:33:01+00:00",
     "mode": "full",
     "seconds": 55.6,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-08T01:55:36+00:00",
+    "mode": "fast",
+    "seconds": 2.5,
     "ok": true,
     "failed": [],
     "warnings": []
