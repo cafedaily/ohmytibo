@@ -292,11 +292,11 @@
   "reset:2070653282440405046"
  ],
  "summary": {
-  "checked_at": "2026-11-08T22:02:08+00:00",
+  "checked_at": "2026-11-09T02:54:07+00:00",
   "channels": [],
   "configured": false,
   "pending": 0,
-  "undelivered_7d": 1,
+  "undelivered_7d": 0,
   "last_sent": null,
   "recent": [
    {
