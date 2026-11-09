@@ -1,5 +1,18 @@
 [
  {
+  "id": "2067399435009622521",
+  "ts": "2026-06-18T00:10:10Z",
+  "date": "2026-06-18",
+  "hour_utc": 0,
+  "minute_utc": 10,
+  "kind": "reset",
+  "title": "\"Sneaky double reset\": full reset applied plus an extra reset deposited into the reset bank.",
+  "source": "x",
+  "url": "https://x.com/thsottiaux/status/2067399435009622521",
+  "mirror_url": "https://tiboreset.com/r/2067399435009622521",
+  "first_seen": "2026-11-09T06:22:20+00:00"
+ },
+ {
   "id": "2070653282440405046",
   "ts": "2026-06-26T23:39:48Z",
   "date": "2026-06-26",
