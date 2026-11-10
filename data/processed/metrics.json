@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T11:41:00.631582+00:00",
- "generated_at_local": "2026-11-10 19:41",
+ "generated_at": "2026-11-10T14:50:55.548419+00:00",
+ "generated_at_local": "2026-11-10 22:50",
  "timezone": "UTC+8",
  "posts": 873,
  "replies": 634,
@@ -10,7 +10,7 @@
  "resets_tracked": 38,
  "p_24h": 0.2363,
  "p_48h": 0.5017,
- "modal_reset_at": "2026-11-12T06:41:00.631582+00:00",
+ "modal_reset_at": "2026-11-12T06:50:55.548419+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.2233,
@@ -1021,7 +1021,7 @@
    "date": "2026-11-07",
    "posts": 16,
    "replies": 13,
-   "likes": 26943,
+   "likes": 26953,
    "engagement_replies": 4735,
    "reset": 0,
    "banked": 0
@@ -1030,8 +1030,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 32446,
-   "engagement_replies": 7768,
+   "likes": 32670,
+   "engagement_replies": 7862,
    "reset": 0,
    "banked": 0
   },
@@ -1039,7 +1039,7 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 766,
+   "likes": 773,
    "engagement_replies": 53,
    "reset": 0,
    "banked": 0
@@ -1048,8 +1048,8 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 3235,
-   "engagement_replies": 1230,
+   "likes": 3989,
+   "engagement_replies": 1423,
    "reset": 0,
    "banked": 0
   }
