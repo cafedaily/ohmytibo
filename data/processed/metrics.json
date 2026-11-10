@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T14:50:55.548419+00:00",
- "generated_at_local": "2026-11-10 22:50",
+ "generated_at": "2026-11-10T21:18:25.231348+00:00",
+ "generated_at_local": "2026-11-11 05:18",
  "timezone": "UTC+8",
  "posts": 873,
  "replies": 634,
@@ -8,17 +8,17 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-11-10T05:09:39Z",
  "resets_tracked": 38,
- "p_24h": 0.2363,
- "p_48h": 0.5017,
- "modal_reset_at": "2026-11-12T06:50:55.548419+00:00",
+ "p_24h": 0.2505,
+ "p_48h": 0.5113,
+ "modal_reset_at": "2026-11-12T06:18:25.231348+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2233,
-  "brier_baseline": 0.2082,
-  "logloss": 0.6585,
-  "logloss_baseline": 0.607,
-  "skill": -0.085,
-  "base_rate": 0.2955
+  "brier": 0.2066,
+  "brier_baseline": 0.1983,
+  "logloss": 0.6125,
+  "logloss_baseline": 0.586,
+  "skill": -0.045,
+  "base_rate": 0.2727
  },
  "top_terms": [
   {
@@ -26,7 +26,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.24,
+   "lift": 1.16,
    "docs": 3,
    "share": 0.0128,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -50,7 +50,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.96,
+   "lift": 2.93,
    "docs": 4,
    "share": 0.0107,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -62,7 +62,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 11,
-   "lift": 0.71,
+   "lift": 0.63,
    "docs": 4,
    "share": 0.0085,
    "sample": "@_samirism Dots just got a massive set of improvements",
@@ -86,7 +86,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.71,
+   "lift": 0.63,
    "docs": 3,
    "share": 0.0064,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -112,7 +112,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.96,
+   "lift": 2.93,
    "docs": 4,
    "share": 0.0107,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -136,7 +136,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.83,
+   "lift": 1.8,
    "docs": 2,
    "share": 0.0043,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -148,7 +148,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.83,
+   "lift": 1.8,
    "docs": 1,
    "share": 0.0043,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
@@ -160,7 +160,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.24,
+   "lift": 1.16,
    "docs": 3,
    "share": 0.0128,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -172,7 +172,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 11,
-   "lift": 0.71,
+   "lift": 0.63,
    "docs": 4,
    "share": 0.0085,
    "sample": "@_samirism Dots just got a massive set of improvements",
@@ -184,7 +184,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.71,
+   "lift": 0.63,
    "docs": 3,
    "share": 0.0064,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -196,7 +196,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 15,
-   "share": 0.111,
+   "share": 0.112,
    "examples": [
     {
      "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -218,7 +218,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.096,
+   "share": 0.097,
    "examples": [
     {
      "text": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
@@ -240,7 +240,7 @@
   {
    "topic": "Reset / quota",
    "posts": 12,
-   "share": 0.089,
+   "share": 0.09,
    "examples": [
     {
      "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -262,7 +262,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 12,
-   "share": 0.089,
+   "share": 0.09,
    "examples": [
     {
      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
@@ -284,7 +284,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 8,
-   "share": 0.059,
+   "share": 0.06,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -1021,7 +1021,7 @@
    "date": "2026-11-07",
    "posts": 16,
    "replies": 13,
-   "likes": 26953,
+   "likes": 26956,
    "engagement_replies": 4735,
    "reset": 0,
    "banked": 0
@@ -1030,8 +1030,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 32670,
-   "engagement_replies": 7862,
+   "likes": 32762,
+   "engagement_replies": 7888,
    "reset": 0,
    "banked": 0
   },
@@ -1039,7 +1039,7 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 773,
+   "likes": 786,
    "engagement_replies": 53,
    "reset": 0,
    "banked": 0
@@ -1048,8 +1048,8 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 3989,
-   "engagement_replies": 1423,
+   "likes": 4951,
+   "engagement_replies": 1620,
    "reset": 0,
    "banked": 0
   }

@@ -1,65 +1,65 @@
 {
- "generated_at": "2026-11-10T14:50:55.548419+00:00",
- "generated_local": "2026-11-10 22:50",
+ "generated_at": "2026-11-10T21:18:25.231348+00:00",
+ "generated_local": "2026-11-11 05:18",
  "forecast": {
-  "p_24h": 0.2363,
-  "p_48h": 0.5017,
-  "p_72h": 0.6644,
-  "p_7d": 0.8938,
+  "p_24h": 0.2505,
+  "p_48h": 0.5113,
+  "p_72h": 0.6666,
+  "p_7d": 0.8945,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-12T06:50:55.548419+00:00",
-  "modal_reset_local": "2026-11-12 14:50",
-  "hours_since_last_reset": 320.25,
+  "modal_reset_at": "2026-11-12T06:18:25.231348+00:00",
+  "modal_reset_local": "2026-11-12 14:18",
+  "hours_since_last_reset": 326.71,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2233,
-   "brier_baseline": 0.2082,
-   "logloss": 0.6585,
-   "logloss_baseline": 0.607,
-   "skill": -0.085,
-   "base_rate": 0.2955
+   "brier": 0.2066,
+   "brier_baseline": 0.1983,
+   "logloss": 0.6125,
+   "logloss_baseline": 0.586,
+   "skill": -0.045,
+   "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-10",
-    "p": 0.0835
+    "p": 0.0183
    },
    {
     "date": "2026-11-11",
-    "p": 0.2733
+    "p": 0.259
    },
    {
     "date": "2026-11-12",
-    "p": 0.2248
+    "p": 0.2518
    },
    {
     "date": "2026-11-13",
-    "p": 0.1196
+    "p": 0.1456
    },
    {
     "date": "2026-11-14",
-    "p": 0.0747
+    "p": 0.0813
    },
    {
     "date": "2026-11-15",
-    "p": 0.056
+    "p": 0.061
    },
    {
     "date": "2026-11-16",
-    "p": 0.042
+    "p": 0.0457
    },
    {
     "date": "2026-11-17",
-    "p": 0.0315
+    "p": 0.0343
    },
    {
     "date": "2026-11-18",
-    "p": 0.0099
+    "p": 0.0163
    },
    {
     "date": "2026-11-19",
@@ -67,7 +67,7 @@
    },
    {
     "date": "2026-11-20",
-    "p": 0.001
+    "p": 0.0016
    }
   ],
   "pending_promise": null
@@ -770,7 +770,7 @@
    "date": "2026-11-07",
    "posts": 16,
    "replies": 13,
-   "likes": 26953,
+   "likes": 26956,
    "engagement_replies": 4735,
    "reset": 0,
    "banked": 0
@@ -779,8 +779,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 32670,
-   "engagement_replies": 7862,
+   "likes": 32762,
+   "engagement_replies": 7888,
    "reset": 0,
    "banked": 0
   },
@@ -788,7 +788,7 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 773,
+   "likes": 786,
    "engagement_replies": 53,
    "reset": 0,
    "banked": 0
@@ -797,8 +797,8 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 3989,
-   "engagement_replies": 1423,
+   "likes": 4951,
+   "engagement_replies": 1620,
    "reset": 0,
    "banked": 0
   }
@@ -810,7 +810,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.24,
+    "lift": 1.16,
     "docs": 3,
     "share": 0.0128,
     "sample": "We doubled the usage on Pro plans and Business 100",
@@ -834,7 +834,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.96,
+    "lift": 2.93,
     "docs": 4,
     "share": 0.0107,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -846,7 +846,7 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 11,
-    "lift": 0.71,
+    "lift": 0.63,
     "docs": 4,
     "share": 0.0085,
     "sample": "@_samirism Dots just got a massive set of improvements",
@@ -870,7 +870,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.71,
+    "lift": 0.63,
     "docs": 3,
     "share": 0.0064,
     "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -896,7 +896,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.96,
+    "lift": 2.93,
     "docs": 4,
     "share": 0.0107,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -920,7 +920,7 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.83,
+    "lift": 1.8,
     "docs": 2,
     "share": 0.0043,
     "sample": "We doubled the usage on Pro plans and Business 100",
@@ -932,7 +932,7 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.83,
+    "lift": 1.8,
     "docs": 1,
     "share": 0.0043,
     "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
@@ -944,7 +944,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.24,
+    "lift": 1.16,
     "docs": 3,
     "share": 0.0128,
     "sample": "We doubled the usage on Pro plans and Business 100",
@@ -956,7 +956,7 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 11,
-    "lift": 0.71,
+    "lift": 0.63,
     "docs": 4,
     "share": 0.0085,
     "sample": "@_samirism Dots just got a massive set of improvements",
@@ -968,7 +968,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.71,
+    "lift": 0.63,
     "docs": 3,
     "share": 0.0064,
     "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -980,10 +980,10 @@
  "signals": {
   "window_days": 14,
   "count_24h": 0,
-  "count_72h": 4,
+  "count_72h": 3,
   "count_7d": 6,
   "since_last_reset": 15,
-  "baseline_per_day": 2.54,
+  "baseline_per_day": 2.36,
   "level": "quiet",
   "items": [
    {
@@ -999,7 +999,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 56.9
+    "age_hours": 63.3
    },
    {
     "id": "2119296267545419987",
@@ -1014,7 +1014,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 57.7
+    "age_hours": 64.1
    },
    {
     "id": "2119232059537514598",
@@ -1029,7 +1029,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 61.9
+    "age_hours": 68.4
    },
    {
     "id": "2119113859747426370",
@@ -1044,7 +1044,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 69.8
+    "age_hours": 76.2
    },
    {
     "id": "2118931941907165401",
@@ -1059,7 +1059,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 81.8
+    "age_hours": 88.3
    },
    {
     "id": "2118024737070957009",
@@ -1074,7 +1074,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 141.9
+    "age_hours": 148.4
    },
    {
     "id": "2117283355427495983",
@@ -1089,7 +1089,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 191.0
+    "age_hours": 197.5
    },
    {
     "id": "2117283124833055196",
@@ -1104,7 +1104,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 191.0
+    "age_hours": 197.5
    },
    {
     "id": "2116942192497533418",
@@ -1119,7 +1119,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 213.6
+    "age_hours": 220.1
    },
    {
     "id": "2116692529970311254",
@@ -1134,7 +1134,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 230.1
+    "age_hours": 236.6
    },
    {
     "id": "2116405414921384099",
@@ -1149,7 +1149,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 249.1
+    "age_hours": 255.6
    },
    {
     "id": "2116256600436641887",
@@ -1164,7 +1164,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 259.0
+    "age_hours": 265.5
    },
    {
     "id": "2116045727642366367",
@@ -1179,7 +1179,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 273.0
+    "age_hours": 279.4
    },
    {
     "id": "2115851621137784832",
@@ -1194,7 +1194,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 285.8
+    "age_hours": 292.3
    },
    {
     "id": "2115850175868727621",
@@ -1209,7 +1209,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 285.9
+    "age_hours": 292.4
    },
    {
     "id": "2115290318652444729",
@@ -1224,7 +1224,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 323.0
+    "age_hours": 329.4
    },
    {
     "id": "2115273064481218829",
@@ -1240,7 +1240,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 324.1
+    "age_hours": 330.6
    },
    {
     "id": "2115272201922572627",
@@ -1255,7 +1255,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 324.2
+    "age_hours": 330.6
    }
   ]
  },
@@ -1267,7 +1267,7 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-10T14:50:55+00:00",
+    "at": "2026-11-10T21:18:24+00:00",
     "ok": true,
     "fetched": 61,
     "cached": 0,
@@ -1275,10 +1275,10 @@
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T14:50:55+00:00"
+    "last_ok": "2026-11-10T21:18:24+00:00"
    },
    "feed": {
-    "at": "2026-11-10T14:50:55+00:00",
+    "at": "2026-11-10T21:18:24+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1286,18 +1286,18 @@
     "error": null,
     "total": 62,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T14:50:55+00:00"
+    "last_ok": "2026-11-10T21:18:24+00:00"
    },
    "pipeline": {
-    "at": "2026-11-10T14:49:57+00:00",
+    "at": "2026-11-10T21:17:25+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T14:49:57+00:00"
+    "last_ok": "2026-11-10T21:17:25+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-10T14:50:55+00:00",
+   "checked_at": "2026-11-10T21:18:25+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1349,14 +1349,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-07T12:57:00+00:00",
-    "mode": "full",
-    "seconds": 57.2,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-07T19:22:40+00:00",
     "mode": "fast",
@@ -1473,6 +1465,14 @@
     "at": "2026-11-10T14:49:57+00:00",
     "mode": "full",
     "seconds": 58.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-10T21:17:25+00:00",
+    "mode": "full",
+    "seconds": 59.8,
     "ok": true,
     "failed": [],
     "warnings": []
