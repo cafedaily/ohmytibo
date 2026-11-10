@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 5,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -18,9 +18,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 3.0,
+   "lift": 2.96,
    "docs": 4,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
    "sample_ts": "2026-11-05T01:02:03Z"
@@ -32,7 +32,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
@@ -42,9 +42,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.87,
+   "lift": 1.83,
    "docs": 2,
-   "share": 0.0044,
+   "share": 0.0043,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -54,9 +54,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.87,
+   "lift": 1.83,
    "docs": 1,
-   "share": 0.0044,
+   "share": 0.0043,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -66,36 +66,36 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.35,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0131,
+   "share": 0.0128,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 11,
+   "lift": 0.71,
+   "docs": 4,
+   "share": 0.0085,
+   "sample": "@_samirism Dots just got a massive set of improvements",
+   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
+   "sample_ts": "2026-11-05T00:31:21Z"
   },
   {
    "term": "model",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.81,
+   "lift": 0.71,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
    "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
    "sample_ts": "2026-11-04T06:23:05Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.46,
-   "docs": 3,
-   "share": 0.0066,
-   "sample": "@_samirism Dots just got a massive set of improvements",
-   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-   "sample_ts": "2026-11-05T00:31:21Z"
   }
  ],
  "top": [
@@ -104,9 +104,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.35,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0131,
+   "share": 0.0128,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -118,7 +118,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 5,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -128,12 +128,24 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 3.0,
+   "lift": 2.96,
    "docs": 4,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
    "sample_ts": "2026-11-05T01:02:03Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 11,
+   "lift": 0.71,
+   "docs": 4,
+   "share": 0.0085,
+   "sample": "@_samirism Dots just got a massive set of improvements",
+   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
+   "sample_ts": "2026-11-05T00:31:21Z"
   },
   {
    "term": "welcome",
@@ -142,7 +154,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
@@ -152,33 +164,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.81,
+   "lift": 0.71,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
    "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
    "sample_ts": "2026-11-04T06:23:05Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.46,
-   "docs": 3,
-   "share": 0.0066,
-   "sample": "@_samirism Dots just got a massive set of improvements",
-   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-   "sample_ts": "2026-11-05T00:31:21Z"
   }
  ],
- "tokens_recent": 457,
- "tokens_base": 2454,
+ "tokens_recent": 469,
+ "tokens_base": 2287,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 15,
-   "share": 0.113,
+   "share": 0.111,
    "examples": [
     {
      "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -200,7 +200,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.098,
+   "share": 0.096,
    "examples": [
     {
      "text": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
@@ -222,7 +222,7 @@
   {
    "topic": "Reset / quota",
    "posts": 12,
-   "share": 0.09,
+   "share": 0.089,
    "examples": [
     {
      "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -243,8 +243,8 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 11,
-   "share": 0.083,
+   "posts": 12,
+   "share": 0.089,
    "examples": [
     {
      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
@@ -266,7 +266,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 8,
-   "share": 0.06,
+   "share": 0.059,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -288,7 +288,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 1,
-   "share": 0.008,
+   "share": 0.007,
    "examples": [
     {
      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
@@ -312,16 +312,16 @@
    "total": 9
   },
   {
-   "handle": "JamesMalsawm",
+   "handle": "ajambrosino",
    "replies": 4,
    "named": 4,
    "total": 8
   },
   {
-   "handle": "ajambrosino",
-   "replies": 3,
-   "named": 3,
-   "total": 6
+   "handle": "JamesMalsawm",
+   "replies": 4,
+   "named": 4,
+   "total": 8
   },
   {
    "handle": "thdxr",
@@ -336,85 +336,13 @@
    "total": 4
   },
   {
-   "handle": "zoedotai",
+   "handle": "andrewcshin7",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "amix3k",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Raitox_tech",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "MillionInt",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "maxleiter",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "_aidan_clark_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "AdamHoltererer",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "techleadhd",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "addyosmani",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "haydenfield",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "hiarun02",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "fudgeposting",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "dani_avila7",
+   "handle": "fly3nn",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -426,7 +354,73 @@
    "total": 2
   },
   {
-   "handle": "helloitsaustin",
+   "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "haydenfield",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "thorstenball",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rileybrown",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Layton_Gott",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "fudgeposting",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "evadne",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "addyosmani",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "hiarun02",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "kimmonismus",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "hakmgpt",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ritu_twts",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -438,19 +432,25 @@
    "total": 2
   },
   {
-   "handle": "jxnlco",
+   "handle": "jonoalford",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "_samirism",
+   "handle": "ohayou792",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "Sergey_Rura",
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "MillionInt",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -477,14 +477,14 @@
   {
    "week": 1,
    "label": "7天前",
-   "reset": 10,
+   "reset": 9,
    "resets": 2,
    "reseted": 0,
    "banked": 0,
    "eod": 1,
    "propagate": 0,
    "propagated": 1,
-   "usage": 6,
+   "usage": 5,
    "limit": 1,
    "limits": 1,
    "vote": 0,
@@ -494,7 +494,7 @@
   {
    "week": 2,
    "label": "14天前",
-   "reset": 13,
+   "reset": 14,
    "resets": 2,
    "reseted": 0,
    "banked": 1,
@@ -502,7 +502,7 @@
    "propagate": 0,
    "propagated": 2,
    "usage": 13,
-   "limit": 1,
+   "limit": 0,
    "limits": 1,
    "vote": 3,
    "day": 25,
@@ -518,8 +518,8 @@
    "eod": 0,
    "propagate": 0,
    "propagated": 1,
-   "usage": 2,
-   "limit": 0,
+   "usage": 3,
+   "limit": 1,
    "limits": 1,
    "vote": 0,
    "day": 2,

@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-10T03:34:08.869509+00:00",
- "generated_local": "2026-11-10 11:34",
+ "generated_at": "2026-11-10T11:41:00.631582+00:00",
+ "generated_local": "2026-11-10 19:41",
  "forecast": {
-  "p_24h": 0.1818,
-  "p_48h": 0.4426,
-  "p_72h": 0.6464,
-  "p_7d": 0.8951,
+  "p_24h": 0.2363,
+  "p_48h": 0.5017,
+  "p_72h": 0.6644,
+  "p_7d": 0.8938,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-11T06:34:08.869509+00:00",
-  "modal_reset_local": "2026-11-11 14:34",
-  "hours_since_last_reset": 308.98,
+  "modal_reset_at": "2026-11-12T06:41:00.631582+00:00",
+  "modal_reset_local": "2026-11-12 14:41",
+  "hours_since_last_reset": 317.09,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2259,
+   "brier": 0.2233,
    "brier_baseline": 0.2082,
-   "logloss": 0.6628,
+   "logloss": 0.6585,
    "logloss_baseline": 0.607,
-   "skill": -0.092,
+   "skill": -0.085,
    "base_rate": 0.2955
   },
   "weekly": [
    {
     "date": "2026-11-10",
-    "p": 0.1549
+    "p": 0.0835
    },
    {
     "date": "2026-11-11",
-    "p": 0.253
+    "p": 0.2733
    },
    {
     "date": "2026-11-12",
-    "p": 0.2188
+    "p": 0.2248
    },
    {
     "date": "2026-11-13",
-    "p": 0.1155
+    "p": 0.1196
    },
    {
     "date": "2026-11-14",
-    "p": 0.0645
+    "p": 0.0747
    },
    {
     "date": "2026-11-15",
-    "p": 0.0484
+    "p": 0.056
    },
    {
     "date": "2026-11-16",
-    "p": 0.0363
+    "p": 0.042
    },
    {
     "date": "2026-11-17",
-    "p": 0.0272
+    "p": 0.0315
    },
    {
     "date": "2026-11-18",
-    "p": 0.0129
+    "p": 0.0099
    },
    {
     "date": "2026-11-19",
-    "p": 0.0014
+    "p": 0.0017
    },
    {
     "date": "2026-11-20",
-    "p": 0.0002
+    "p": 0.001
    }
   ],
   "pending_promise": null
@@ -788,8 +788,17 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 741,
-   "engagement_replies": 52,
+   "likes": 766,
+   "engagement_replies": 53,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-10",
+   "posts": 2,
+   "replies": 1,
+   "likes": 3235,
+   "engagement_replies": 1230,
    "reset": 0,
    "banked": 0
   }
@@ -801,9 +810,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.35,
+    "lift": 1.24,
     "docs": 3,
-    "share": 0.0131,
+    "share": 0.0128,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -815,7 +824,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 5,
-    "share": 0.0109,
+    "share": 0.0107,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -825,12 +834,24 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 3.0,
+    "lift": 2.96,
     "docs": 4,
-    "share": 0.0109,
+    "share": 0.0107,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
     "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
     "sample_ts": "2026-11-05T01:02:03Z"
+   },
+   {
+    "term": "dots",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 11,
+    "lift": 0.71,
+    "docs": 4,
+    "share": 0.0085,
+    "sample": "@_samirism Dots just got a massive set of improvements",
+    "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
+    "sample_ts": "2026-11-05T00:31:21Z"
    },
    {
     "term": "welcome",
@@ -839,7 +860,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0064,
     "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
     "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
     "sample_ts": "2026-11-04T16:54:47Z"
@@ -849,24 +870,12 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.81,
+    "lift": 0.71,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0064,
     "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
     "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
     "sample_ts": "2026-11-04T06:23:05Z"
-   },
-   {
-    "term": "dots",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 11,
-    "lift": 0.46,
-    "docs": 3,
-    "share": 0.0066,
-    "sample": "@_samirism Dots just got a massive set of improvements",
-    "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-    "sample_ts": "2026-11-05T00:31:21Z"
    }
   ],
   "surge": [
@@ -877,7 +886,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 5,
-    "share": 0.0109,
+    "share": 0.0107,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -887,9 +896,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 3.0,
+    "lift": 2.96,
     "docs": 4,
-    "share": 0.0109,
+    "share": 0.0107,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
     "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
     "sample_ts": "2026-11-05T01:02:03Z"
@@ -901,7 +910,7 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0064,
     "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
     "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
     "sample_ts": "2026-11-04T16:54:47Z"
@@ -911,9 +920,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.87,
+    "lift": 1.83,
     "docs": 2,
-    "share": 0.0044,
+    "share": 0.0043,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -923,9 +932,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.87,
+    "lift": 1.83,
     "docs": 1,
-    "share": 0.0044,
+    "share": 0.0043,
     "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
     "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
     "sample_ts": "2026-11-08T05:09:39Z"
@@ -935,46 +944,46 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.35,
+    "lift": 1.24,
     "docs": 3,
-    "share": 0.0131,
+    "share": 0.0128,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
+   },
+   {
+    "term": "dots",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 11,
+    "lift": 0.71,
+    "docs": 4,
+    "share": 0.0085,
+    "sample": "@_samirism Dots just got a massive set of improvements",
+    "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
+    "sample_ts": "2026-11-05T00:31:21Z"
    },
    {
     "term": "model",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.81,
+    "lift": 0.71,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0064,
     "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
     "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
     "sample_ts": "2026-11-04T06:23:05Z"
-   },
-   {
-    "term": "dots",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 11,
-    "lift": 0.46,
-    "docs": 3,
-    "share": 0.0066,
-    "sample": "@_samirism Dots just got a massive set of improvements",
-    "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-    "sample_ts": "2026-11-05T00:31:21Z"
    }
   ]
  },
  "signals": {
   "window_days": 14,
   "count_24h": 0,
-  "count_72h": 5,
+  "count_72h": 4,
   "count_7d": 6,
   "since_last_reset": 15,
-  "baseline_per_day": 2.61,
+  "baseline_per_day": 2.54,
   "level": "quiet",
   "items": [
    {
@@ -990,7 +999,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 45.6
+    "age_hours": 53.7
    },
    {
     "id": "2119296267545419987",
@@ -1005,7 +1014,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 46.4
+    "age_hours": 54.5
    },
    {
     "id": "2119232059537514598",
@@ -1020,7 +1029,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 50.7
+    "age_hours": 58.8
    },
    {
     "id": "2119113859747426370",
@@ -1035,7 +1044,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 58.5
+    "age_hours": 66.6
    },
    {
     "id": "2118931941907165401",
@@ -1050,7 +1059,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 70.5
+    "age_hours": 78.7
    },
    {
     "id": "2118024737070957009",
@@ -1065,7 +1074,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 130.6
+    "age_hours": 138.7
    },
    {
     "id": "2117283355427495983",
@@ -1080,7 +1089,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 179.7
+    "age_hours": 187.8
    },
    {
     "id": "2117283124833055196",
@@ -1095,7 +1104,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 179.7
+    "age_hours": 187.8
    },
    {
     "id": "2116942192497533418",
@@ -1110,7 +1119,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 202.3
+    "age_hours": 210.4
    },
    {
     "id": "2116692529970311254",
@@ -1125,7 +1134,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 218.8
+    "age_hours": 227.0
    },
    {
     "id": "2116405414921384099",
@@ -1140,7 +1149,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 237.9
+    "age_hours": 246.0
    },
    {
     "id": "2116256600436641887",
@@ -1155,7 +1164,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 247.7
+    "age_hours": 255.8
    },
    {
     "id": "2116045727642366367",
@@ -1170,7 +1179,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 261.7
+    "age_hours": 269.8
    },
    {
     "id": "2115851621137784832",
@@ -1185,7 +1194,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 274.5
+    "age_hours": 282.7
    },
    {
     "id": "2115850175868727621",
@@ -1200,7 +1209,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 274.6
+    "age_hours": 282.7
    },
    {
     "id": "2115290318652444729",
@@ -1215,7 +1224,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 311.7
+    "age_hours": 319.8
    },
    {
     "id": "2115273064481218829",
@@ -1231,7 +1240,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 312.9
+    "age_hours": 321.0
    },
    {
     "id": "2115272201922572627",
@@ -1246,7 +1255,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 312.9
+    "age_hours": 321.0
    }
   ]
  },
@@ -1258,18 +1267,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-10T03:34:08+00:00",
+    "at": "2026-11-10T11:41:00+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T03:34:08+00:00"
+    "last_ok": "2026-11-10T11:41:00+00:00"
    },
    "feed": {
-    "at": "2026-11-10T03:34:08+00:00",
+    "at": "2026-11-10T11:41:00+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1277,18 +1286,18 @@
     "error": null,
     "total": 62,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T03:34:08+00:00"
+    "last_ok": "2026-11-10T11:41:00+00:00"
    },
    "pipeline": {
-    "at": "2026-11-10T03:33:11+00:00",
+    "at": "2026-11-10T11:40:58+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T03:33:11+00:00"
+    "last_ok": "2026-11-10T11:40:58+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-10T03:34:08+00:00",
+   "checked_at": "2026-11-10T11:41:00+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1340,14 +1349,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-07T05:55:18+00:00",
-    "mode": "full",
-    "seconds": 48.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-07T08:30:40+00:00",
     "mode": "fast",
@@ -1463,7 +1464,15 @@
    {
     "at": "2026-11-10T03:33:11+00:00",
     "mode": "full",
-    "seconds": 57.7,
+    "seconds": 57.8,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-10T11:40:58+00:00",
+    "mode": "fast",
+    "seconds": 2.4,
     "ok": true,
     "failed": [],
     "warnings": []

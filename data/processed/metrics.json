@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-10T03:34:08.869509+00:00",
- "generated_at_local": "2026-11-10 11:34",
+ "generated_at": "2026-11-10T11:41:00.631582+00:00",
+ "generated_at_local": "2026-11-10 19:41",
  "timezone": "UTC+8",
- "posts": 871,
- "replies": 633,
- "days_covered": 80,
+ "posts": 873,
+ "replies": 634,
+ "days_covered": 81,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-09T02:03:46Z",
+ "last_post": "2026-11-10T05:09:39Z",
  "resets_tracked": 38,
- "p_24h": 0.1818,
- "p_48h": 0.4426,
- "modal_reset_at": "2026-11-11T06:34:08.869509+00:00",
+ "p_24h": 0.2363,
+ "p_48h": 0.5017,
+ "modal_reset_at": "2026-11-12T06:41:00.631582+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2259,
+  "brier": 0.2233,
   "brier_baseline": 0.2082,
-  "logloss": 0.6628,
+  "logloss": 0.6585,
   "logloss_baseline": 0.607,
-  "skill": -0.092,
+  "skill": -0.085,
   "base_rate": 0.2955
  },
  "top_terms": [
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.35,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0131,
+   "share": 0.0128,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -40,7 +40,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 5,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -50,12 +50,24 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 3.0,
+   "lift": 2.96,
    "docs": 4,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
    "sample_ts": "2026-11-05T01:02:03Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 11,
+   "lift": 0.71,
+   "docs": 4,
+   "share": 0.0085,
+   "sample": "@_samirism Dots just got a massive set of improvements",
+   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
+   "sample_ts": "2026-11-05T00:31:21Z"
   },
   {
    "term": "welcome",
@@ -64,7 +76,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
@@ -74,24 +86,12 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.81,
+   "lift": 0.71,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
    "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
    "sample_ts": "2026-11-04T06:23:05Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.46,
-   "docs": 3,
-   "share": 0.0066,
-   "sample": "@_samirism Dots just got a massive set of improvements",
-   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-   "sample_ts": "2026-11-05T00:31:21Z"
   }
  ],
  "surge_terms": [
@@ -102,7 +102,7 @@
    "count_28d_before": 0,
    "lift": 3.46,
    "docs": 5,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -112,9 +112,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 3.0,
+   "lift": 2.96,
    "docs": 4,
-   "share": 0.0109,
+   "share": 0.0107,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
    "sample_ts": "2026-11-05T01:02:03Z"
@@ -126,7 +126,7 @@
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
    "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
    "sample_ts": "2026-11-04T16:54:47Z"
@@ -136,9 +136,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.87,
+   "lift": 1.83,
    "docs": 2,
-   "share": 0.0044,
+   "share": 0.0043,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -148,9 +148,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.87,
+   "lift": 1.83,
    "docs": 1,
-   "share": 0.0044,
+   "share": 0.0043,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -160,43 +160,43 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.35,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0131,
+   "share": 0.0128,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 11,
+   "lift": 0.71,
+   "docs": 4,
+   "share": 0.0085,
+   "sample": "@_samirism Dots just got a massive set of improvements",
+   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
+   "sample_ts": "2026-11-05T00:31:21Z"
   },
   {
    "term": "model",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.81,
+   "lift": 0.71,
    "docs": 3,
-   "share": 0.0066,
+   "share": 0.0064,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
    "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
    "sample_ts": "2026-11-04T06:23:05Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.46,
-   "docs": 3,
-   "share": 0.0066,
-   "sample": "@_samirism Dots just got a massive set of improvements",
-   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-   "sample_ts": "2026-11-05T00:31:21Z"
   }
  ],
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 15,
-   "share": 0.113,
+   "share": 0.111,
    "examples": [
     {
      "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -218,7 +218,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.098,
+   "share": 0.096,
    "examples": [
     {
      "text": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
@@ -240,7 +240,7 @@
   {
    "topic": "Reset / quota",
    "posts": 12,
-   "share": 0.09,
+   "share": 0.089,
    "examples": [
     {
      "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
@@ -261,8 +261,8 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 11,
-   "share": 0.083,
+   "posts": 12,
+   "share": 0.089,
    "examples": [
     {
      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
@@ -284,7 +284,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 8,
-   "share": 0.06,
+   "share": 0.059,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -306,7 +306,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 1,
-   "share": 0.008,
+   "share": 0.007,
    "examples": [
     {
      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
@@ -1039,8 +1039,17 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 741,
-   "engagement_replies": 52,
+   "likes": 766,
+   "engagement_replies": 53,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-10",
+   "posts": 2,
+   "replies": 1,
+   "likes": 3235,
+   "engagement_replies": 1230,
    "reset": 0,
    "banked": 0
   }
