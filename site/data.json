@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-10T23:46:59.171189+00:00",
- "generated_local": "2026-11-11 07:46",
+ "generated_at": "2026-11-11T03:09:57.353034+00:00",
+ "generated_local": "2026-11-11 11:09",
  "forecast": {
-  "p_24h": 0.293,
-  "p_48h": 0.54,
-  "p_72h": 0.6732,
-  "p_7d": 0.8966,
+  "p_24h": 0.2828,
+  "p_48h": 0.5332,
+  "p_72h": 0.6716,
+  "p_7d": 0.8961,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-11T06:46:59.171189+00:00",
-  "modal_reset_local": "2026-11-11 14:46",
-  "hours_since_last_reset": 329.19,
+  "modal_reset_at": "2026-11-11T06:09:57.353034+00:00",
+  "modal_reset_local": "2026-11-11 14:09",
+  "hours_since_last_reset": 332.57,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
@@ -26,40 +26,36 @@
   },
   "weekly": [
    {
-    "date": "2026-11-10",
-    "p": 0.0077
-   },
-   {
     "date": "2026-11-11",
-    "p": 0.2959
+    "p": 0.2437
    },
    {
     "date": "2026-11-12",
-    "p": 0.2435
+    "p": 0.2635
    },
    {
     "date": "2026-11-13",
-    "p": 0.1295
+    "p": 0.1524
    },
    {
     "date": "2026-11-14",
-    "p": 0.0809
+    "p": 0.0851
    },
    {
     "date": "2026-11-15",
-    "p": 0.0606
+    "p": 0.0638
    },
    {
     "date": "2026-11-16",
-    "p": 0.0455
+    "p": 0.0479
    },
    {
     "date": "2026-11-17",
-    "p": 0.0341
+    "p": 0.0359
    },
    {
     "date": "2026-11-18",
-    "p": 0.0107
+    "p": 0.017
    },
    {
     "date": "2026-11-19",
@@ -67,7 +63,11 @@
    },
    {
     "date": "2026-11-20",
-    "p": 0.0017
+    "p": 0.0018
+   },
+   {
+    "date": "2026-11-21",
+    "p": 0.0002
    }
   ],
   "pending_promise": null
@@ -797,17 +797,17 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5084,
-   "engagement_replies": 1634,
+   "likes": 5219,
+   "engagement_replies": 1659,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-11",
-   "posts": 3,
-   "replies": 1,
-   "likes": 4227,
-   "engagement_replies": 806,
+   "posts": 4,
+   "replies": 2,
+   "likes": 7889,
+   "engagement_replies": 1265,
    "reset": 0,
    "banked": 0
   }
@@ -819,9 +819,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.17,
+    "lift": 1.11,
     "docs": 3,
-    "share": 0.0132,
+    "share": 0.0126,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -833,7 +833,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 5,
-    "share": 0.011,
+    "share": 0.0105,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -843,9 +843,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.94,
+    "lift": 2.92,
     "docs": 4,
-    "share": 0.011,
+    "share": 0.0105,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
     "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
     "sample_ts": "2026-11-05T01:02:03Z"
@@ -855,9 +855,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 11,
-    "lift": 0.64,
+    "lift": 0.58,
     "docs": 4,
-    "share": 0.0088,
+    "share": 0.0084,
     "sample": "@_samirism Dots just got a massive set of improvements",
     "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
     "sample_ts": "2026-11-05T00:31:21Z"
@@ -869,19 +869,31 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0063,
     "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
     "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
     "sample_ts": "2026-11-04T16:54:47Z"
+   },
+   {
+    "term": "months",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.26,
+    "docs": 3,
+    "share": 0.0063,
+    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
+    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
+    "sample_ts": "2026-11-05T01:02:03Z"
    },
    {
     "term": "congrats",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 1.91,
+    "lift": 1.87,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0063,
     "sample": "@theo @thdxr Congrats I guess",
     "sample_url": "https://x.com/thsottiaux/status/2118255144836161582",
     "sample_ts": "2026-11-05T08:12:36Z"
@@ -891,9 +903,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.65,
+    "lift": 0.59,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0063,
     "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
     "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
     "sample_ts": "2026-11-04T06:23:05Z"
@@ -907,7 +919,7 @@
     "count_28d_before": 0,
     "lift": 3.46,
     "docs": 5,
-    "share": 0.011,
+    "share": 0.0105,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -917,9 +929,9 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.94,
+    "lift": 2.92,
     "docs": 4,
-    "share": 0.011,
+    "share": 0.0105,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
     "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
     "sample_ts": "2026-11-05T01:02:03Z"
@@ -931,19 +943,31 @@
     "count_28d_before": 0,
     "lift": 2.81,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0063,
     "sample": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything https://t.co/fWqSKZMspE",
     "sample_url": "https://x.com/thsottiaux/status/2118024169762029594",
     "sample_ts": "2026-11-04T16:54:47Z"
+   },
+   {
+    "term": "months",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.26,
+    "docs": 3,
+    "share": 0.0063,
+    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
+    "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
+    "sample_ts": "2026-11-05T01:02:03Z"
    },
    {
     "term": "congrats",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 1.91,
+    "lift": 1.87,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0063,
     "sample": "@theo @thdxr Congrats I guess",
     "sample_url": "https://x.com/thsottiaux/status/2118255144836161582",
     "sample_ts": "2026-11-05T08:12:36Z"
@@ -953,9 +977,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.8,
+    "lift": 1.78,
     "docs": 2,
-    "share": 0.0044,
+    "share": 0.0042,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -965,9 +989,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.8,
+    "lift": 1.78,
     "docs": 1,
-    "share": 0.0044,
+    "share": 0.0042,
     "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
     "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
     "sample_ts": "2026-11-08T05:09:39Z"
@@ -977,9 +1001,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.17,
+    "lift": 1.11,
     "docs": 3,
-    "share": 0.0132,
+    "share": 0.0126,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -989,9 +1013,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.65,
+    "lift": 0.59,
     "docs": 3,
-    "share": 0.0066,
+    "share": 0.0063,
     "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
     "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
     "sample_ts": "2026-11-04T06:23:05Z"
@@ -1001,9 +1025,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 11,
-    "lift": 0.64,
+    "lift": 0.58,
     "docs": 4,
-    "share": 0.0088,
+    "share": 0.0084,
     "sample": "@_samirism Dots just got a massive set of improvements",
     "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
     "sample_ts": "2026-11-05T00:31:21Z"
@@ -1013,7 +1037,7 @@
  "signals": {
   "window_days": 14,
   "count_24h": 0,
-  "count_72h": 3,
+  "count_72h": 2,
   "count_7d": 6,
   "since_last_reset": 15,
   "baseline_per_day": 2.36,
@@ -1032,7 +1056,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 65.8
+    "age_hours": 69.2
    },
    {
     "id": "2119296267545419987",
@@ -1047,7 +1071,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 66.6
+    "age_hours": 70.0
    },
    {
     "id": "2119232059537514598",
@@ -1062,7 +1086,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 70.9
+    "age_hours": 74.3
    },
    {
     "id": "2119113859747426370",
@@ -1077,7 +1101,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 78.7
+    "age_hours": 82.1
    },
    {
     "id": "2118931941907165401",
@@ -1092,7 +1116,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 90.8
+    "age_hours": 94.1
    },
    {
     "id": "2118024737070957009",
@@ -1107,7 +1131,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 150.8
+    "age_hours": 154.2
    },
    {
     "id": "2117283355427495983",
@@ -1122,7 +1146,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 199.9
+    "age_hours": 203.3
    },
    {
     "id": "2117283124833055196",
@@ -1137,7 +1161,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 199.9
+    "age_hours": 203.3
    },
    {
     "id": "2116942192497533418",
@@ -1152,7 +1176,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 222.5
+    "age_hours": 225.9
    },
    {
     "id": "2116692529970311254",
@@ -1167,7 +1191,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 239.1
+    "age_hours": 242.4
    },
    {
     "id": "2116405414921384099",
@@ -1182,7 +1206,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 258.1
+    "age_hours": 261.5
    },
    {
     "id": "2116256600436641887",
@@ -1197,7 +1221,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 267.9
+    "age_hours": 271.3
    },
    {
     "id": "2116045727642366367",
@@ -1212,7 +1236,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 281.9
+    "age_hours": 285.3
    },
    {
     "id": "2115851621137784832",
@@ -1227,7 +1251,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 294.8
+    "age_hours": 298.1
    },
    {
     "id": "2115850175868727621",
@@ -1242,7 +1266,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 294.8
+    "age_hours": 298.2
    },
    {
     "id": "2115290318652444729",
@@ -1257,38 +1281,7 @@
     ],
     "forward": false,
     "after_last_reset": false,
-    "age_hours": 331.9
-   },
-   {
-    "id": "2115273064481218829",
-    "ts": "2026-10-28T02:42:53+00:00",
-    "ts_local": "2026-10-28 10:42",
-    "kind": "related",
-    "label": "相关",
-    "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
-    "url": "https://x.com/thsottiaux/status/2115273064481218829",
-    "sources": [
-     "feed",
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": false,
-    "age_hours": 333.1
-   },
-   {
-    "id": "2115272201922572627",
-    "ts": "2026-10-28T02:39:27+00:00",
-    "ts_local": "2026-10-28 10:39",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "What's going on",
-    "url": "https://x.com/thsottiaux/status/2115272201922572627",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": false,
-    "age_hours": 333.1
+    "age_hours": 335.3
    }
   ]
  },
@@ -1300,18 +1293,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-10T23:46:58+00:00",
+    "at": "2026-11-11T03:09:56+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 1,
     "cached": 0,
-    "empty": 0,
+    "empty": 1,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T23:46:58+00:00"
+    "last_ok": "2026-11-11T03:09:56+00:00"
    },
    "feed": {
-    "at": "2026-11-10T23:46:59+00:00",
+    "at": "2026-11-11T03:09:57+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1319,18 +1312,18 @@
     "error": null,
     "total": 62,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T23:46:59+00:00"
+    "last_ok": "2026-11-11T03:09:57+00:00"
    },
    "pipeline": {
-    "at": "2026-11-10T23:46:56+00:00",
+    "at": "2026-11-11T03:09:55+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-10T23:46:56+00:00"
+    "last_ok": "2026-11-11T03:09:55+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-10T23:46:59+00:00",
+   "checked_at": "2026-11-11T03:09:57+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1382,14 +1375,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-07T19:24:43+00:00",
-    "mode": "full",
-    "seconds": 54.2,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-07T22:51:43+00:00",
     "mode": "fast",
@@ -1505,7 +1490,15 @@
    {
     "at": "2026-11-10T23:46:56+00:00",
     "mode": "fast",
-    "seconds": 2.4,
+    "seconds": 2.5,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-11T03:09:55+00:00",
+    "mode": "fast",
+    "seconds": 2.5,
     "ok": true,
     "failed": [],
     "warnings": []
