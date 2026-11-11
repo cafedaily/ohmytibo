@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-11T06:11:52.466391+00:00",
- "generated_local": "2026-11-11 14:11",
+ "generated_at": "2026-11-11T10:54:50.134840+00:00",
+ "generated_local": "2026-11-11 18:54",
  "forecast": {
-  "p_24h": 0.3141,
-  "p_48h": 0.5543,
-  "p_72h": 0.6766,
-  "p_7d": 0.8977,
+  "p_24h": 0.2953,
+  "p_48h": 0.503,
+  "p_72h": 0.6272,
+  "p_7d": 0.8736,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-11T06:11:52.466391+00:00",
-  "modal_reset_local": "2026-11-11 14:11",
-  "hours_since_last_reset": 335.6,
+  "modal_reset_at": "2026-11-12T06:54:50.134840+00:00",
+  "modal_reset_local": "2026-11-12 14:54",
+  "hours_since_last_reset": 340.32,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2064,
+   "brier": 0.208,
    "brier_baseline": 0.1983,
-   "logloss": 0.618,
+   "logloss": 0.6212,
    "logloss_baseline": 0.586,
-   "skill": -0.055,
+   "skill": -0.06,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-11",
-    "p": 0.2081
+    "p": 0.1295
    },
    {
     "date": "2026-11-12",
-    "p": 0.2759
+    "p": 0.2638
    },
    {
     "date": "2026-11-13",
-    "p": 0.1596
+    "p": 0.1642
    },
    {
     "date": "2026-11-14",
-    "p": 0.0891
+    "p": 0.1106
    },
    {
     "date": "2026-11-15",
-    "p": 0.0668
+    "p": 0.083
    },
    {
     "date": "2026-11-16",
-    "p": 0.0501
+    "p": 0.0622
    },
    {
     "date": "2026-11-17",
-    "p": 0.0376
+    "p": 0.0467
    },
    {
     "date": "2026-11-18",
-    "p": 0.0178
+    "p": 0.0147
    },
    {
     "date": "2026-11-19",
-    "p": 0.0019
+    "p": 0.0025
    },
    {
     "date": "2026-11-20",
-    "p": 0.0019
+    "p": 0.0025
    },
    {
     "date": "2026-11-21",
-    "p": 0.0006
+    "p": 0.0014
    }
   ],
   "pending_promise": null
@@ -797,17 +797,17 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5313,
-   "engagement_replies": 1671,
+   "likes": 5407,
+   "engagement_replies": 1680,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-11",
-   "posts": 4,
-   "replies": 2,
-   "likes": 9650,
-   "engagement_replies": 1473,
+   "posts": 7,
+   "replies": 4,
+   "likes": 26224,
+   "engagement_replies": 3958,
    "reset": 0,
    "banked": 0
   }
@@ -815,11 +815,23 @@
  "hot": {
   "top": [
    {
+    "term": "basement",
+    "kind": "word",
+    "count_7d": 6,
+    "count_28d_before": 0,
+    "lift": 3.7,
+    "docs": 6,
+    "share": 0.0126,
+    "sample": "I was moved to the basement yesterday",
+    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
+    "sample_ts": "2026-11-04T16:57:02Z"
+   },
+   {
     "term": "pro",
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.07,
+    "lift": 1.08,
     "docs": 3,
     "share": 0.0126,
     "sample": "We doubled the usage on Pro plans and Business 100",
@@ -827,23 +839,11 @@
     "sample_ts": "2026-11-08T00:54:31Z"
    },
    {
-    "term": "basement",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 0,
-    "lift": 3.46,
-    "docs": 5,
-    "share": 0.0105,
-    "sample": "I was moved to the basement yesterday",
-    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
-    "sample_ts": "2026-11-04T16:57:02Z"
-   },
-   {
     "term": "cyber",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.9,
+    "lift": 2.91,
     "docs": 4,
     "share": 0.0105,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -855,7 +855,7 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 11,
-    "lift": 0.54,
+    "lift": 0.55,
     "docs": 4,
     "share": 0.0084,
     "sample": "@_samirism Dots just got a massive set of improvements",
@@ -897,29 +897,17 @@
     "sample": "@theo @thdxr Congrats I guess",
     "sample_url": "https://x.com/thsottiaux/status/2118255144836161582",
     "sample_ts": "2026-11-05T08:12:36Z"
-   },
-   {
-    "term": "model",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 8,
-    "lift": 0.55,
-    "docs": 3,
-    "share": 0.0063,
-    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
-    "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
-    "sample_ts": "2026-11-04T06:23:05Z"
    }
   ],
   "surge": [
    {
     "term": "basement",
     "kind": "word",
-    "count_7d": 5,
+    "count_7d": 6,
     "count_28d_before": 0,
-    "lift": 3.46,
-    "docs": 5,
-    "share": 0.0105,
+    "lift": 3.7,
+    "docs": 6,
+    "share": 0.0126,
     "sample": "I was moved to the basement yesterday",
     "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
     "sample_ts": "2026-11-04T16:57:02Z"
@@ -929,7 +917,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.9,
+    "lift": 2.91,
     "docs": 4,
     "share": 0.0105,
     "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -977,7 +965,7 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.76,
+    "lift": 1.77,
     "docs": 2,
     "share": 0.0042,
     "sample": "We doubled the usage on Pro plans and Business 100",
@@ -989,7 +977,7 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.76,
+    "lift": 1.77,
     "docs": 1,
     "share": 0.0042,
     "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
@@ -1001,7 +989,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.07,
+    "lift": 1.08,
     "docs": 3,
     "share": 0.0126,
     "sample": "We doubled the usage on Pro plans and Business 100",
@@ -1009,23 +997,11 @@
     "sample_ts": "2026-11-08T00:54:31Z"
    },
    {
-    "term": "model",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 8,
-    "lift": 0.55,
-    "docs": 3,
-    "share": 0.0063,
-    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
-    "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
-    "sample_ts": "2026-11-04T06:23:05Z"
-   },
-   {
     "term": "dots",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 11,
-    "lift": 0.54,
+    "lift": 0.55,
     "docs": 4,
     "share": 0.0084,
     "sample": "@_samirism Dots just got a massive set of improvements",
@@ -1036,13 +1012,43 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 0,
-  "count_72h": 0,
-  "count_7d": 6,
-  "since_last_reset": 15,
+  "count_24h": 2,
+  "count_72h": 2,
+  "count_7d": 8,
+  "since_last_reset": 17,
   "baseline_per_day": 2.39,
   "level": "quiet",
   "items": [
+   {
+    "id": "2120410480204525936",
+    "ts": "2026-11-11T06:57:08+00:00",
+    "ts_local": "2026-11-11 14:57",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+    "url": "https://x.com/thsottiaux/status/2120410480204525936",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": true,
+    "age_hours": 4.0
+   },
+   {
+    "id": "2120410006273380750",
+    "ts": "2026-11-11T06:55:15+00:00",
+    "ts_local": "2026-11-11 14:55",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+    "url": "https://x.com/thsottiaux/status/2120410006273380750",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": true,
+    "age_hours": 4.0
+   },
    {
     "id": "2119308687676432672",
     "ts": "2026-11-08T05:59:00+00:00",
@@ -1056,7 +1062,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 72.2
+    "age_hours": 76.9
    },
    {
     "id": "2119296267545419987",
@@ -1071,7 +1077,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 73.0
+    "age_hours": 77.8
    },
    {
     "id": "2119232059537514598",
@@ -1086,7 +1092,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 77.3
+    "age_hours": 82.0
    },
    {
     "id": "2119113859747426370",
@@ -1101,7 +1107,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 85.1
+    "age_hours": 89.8
    },
    {
     "id": "2118931941907165401",
@@ -1116,7 +1122,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 97.2
+    "age_hours": 101.9
    },
    {
     "id": "2118024737070957009",
@@ -1131,7 +1137,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 157.2
+    "age_hours": 162.0
    },
    {
     "id": "2117283355427495983",
@@ -1146,7 +1152,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 206.3
+    "age_hours": 211.1
    },
    {
     "id": "2117283124833055196",
@@ -1161,7 +1167,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 206.4
+    "age_hours": 211.1
    },
    {
     "id": "2116942192497533418",
@@ -1176,7 +1182,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 228.9
+    "age_hours": 233.7
    },
    {
     "id": "2116692529970311254",
@@ -1191,7 +1197,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 245.5
+    "age_hours": 250.2
    },
    {
     "id": "2116405414921384099",
@@ -1206,7 +1212,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 264.5
+    "age_hours": 269.2
    },
    {
     "id": "2116256600436641887",
@@ -1221,7 +1227,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 274.3
+    "age_hours": 279.1
    },
    {
     "id": "2116045727642366367",
@@ -1236,7 +1242,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 288.3
+    "age_hours": 293.0
    },
    {
     "id": "2115851621137784832",
@@ -1251,7 +1257,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 301.2
+    "age_hours": 305.9
    },
    {
     "id": "2115850175868727621",
@@ -1266,7 +1272,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 301.3
+    "age_hours": 306.0
    }
   ]
  },
@@ -1278,18 +1284,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-11T06:11:52+00:00",
+    "at": "2026-11-11T10:54:49+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-11T06:11:52+00:00"
+    "last_ok": "2026-11-11T10:54:49+00:00"
    },
    "feed": {
-    "at": "2026-11-11T06:11:52+00:00",
+    "at": "2026-11-11T10:54:49+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1297,18 +1303,18 @@
     "error": null,
     "total": 62,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-11T06:11:52+00:00"
+    "last_ok": "2026-11-11T10:54:49+00:00"
    },
    "pipeline": {
-    "at": "2026-11-11T06:11:03+00:00",
+    "at": "2026-11-11T10:54:47+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-11T06:11:03+00:00"
+    "last_ok": "2026-11-11T10:54:47+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-11T06:11:52+00:00",
+   "checked_at": "2026-11-11T10:54:50+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1360,14 +1366,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-08T00:33:01+00:00",
-    "mode": "full",
-    "seconds": 55.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-08T01:55:36+00:00",
     "mode": "fast",
@@ -1483,7 +1481,15 @@
    {
     "at": "2026-11-11T06:11:03+00:00",
     "mode": "full",
-    "seconds": 49.2,
+    "seconds": 49.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-11T10:54:47+00:00",
+    "mode": "fast",
+    "seconds": 2.4,
     "ok": true,
     "failed": [],
     "warnings": []

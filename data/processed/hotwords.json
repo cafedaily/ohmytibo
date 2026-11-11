@@ -4,11 +4,11 @@
   {
    "term": "basement",
    "kind": "word",
-   "count_7d": 5,
+   "count_7d": 6,
    "count_28d_before": 0,
-   "lift": 3.46,
-   "docs": 5,
-   "share": 0.0105,
+   "lift": 3.7,
+   "docs": 6,
+   "share": 0.0126,
    "sample": "I was moved to the basement yesterday",
    "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
    "sample_ts": "2026-11-04T16:57:02Z"
@@ -18,7 +18,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.9,
+   "lift": 2.91,
    "docs": 4,
    "share": 0.0105,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -66,7 +66,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.76,
+   "lift": 1.77,
    "docs": 2,
    "share": 0.0042,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -78,7 +78,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.76,
+   "lift": 1.77,
    "docs": 1,
    "share": 0.0042,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
@@ -90,7 +90,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.07,
+   "lift": 1.08,
    "docs": 3,
    "share": 0.0126,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -98,23 +98,11 @@
    "sample_ts": "2026-11-08T00:54:31Z"
   },
   {
-   "term": "model",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 8,
-   "lift": 0.55,
-   "docs": 3,
-   "share": 0.0063,
-   "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
-   "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
-   "sample_ts": "2026-11-04T06:23:05Z"
-  },
-  {
    "term": "dots",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 11,
-   "lift": 0.54,
+   "lift": 0.55,
    "docs": 4,
    "share": 0.0084,
    "sample": "@_samirism Dots just got a massive set of improvements",
@@ -124,11 +112,23 @@
  ],
  "top": [
   {
+   "term": "basement",
+   "kind": "word",
+   "count_7d": 6,
+   "count_28d_before": 0,
+   "lift": 3.7,
+   "docs": 6,
+   "share": 0.0126,
+   "sample": "I was moved to the basement yesterday",
+   "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
+   "sample_ts": "2026-11-04T16:57:02Z"
+  },
+  {
    "term": "pro",
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.07,
+   "lift": 1.08,
    "docs": 3,
    "share": 0.0126,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -136,23 +136,11 @@
    "sample_ts": "2026-11-08T00:54:31Z"
   },
   {
-   "term": "basement",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 0,
-   "lift": 3.46,
-   "docs": 5,
-   "share": 0.0105,
-   "sample": "I was moved to the basement yesterday",
-   "sample_url": "https://x.com/thsottiaux/status/2118024737070957009",
-   "sample_ts": "2026-11-04T16:57:02Z"
-  },
-  {
    "term": "cyber",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.9,
+   "lift": 2.91,
    "docs": 4,
    "share": 0.0105,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -164,7 +152,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 11,
-   "lift": 0.54,
+   "lift": 0.55,
    "docs": 4,
    "share": 0.0084,
    "sample": "@_samirism Dots just got a massive set of improvements",
@@ -206,27 +194,15 @@
    "sample": "@theo @thdxr Congrats I guess",
    "sample_url": "https://x.com/thsottiaux/status/2118255144836161582",
    "sample_ts": "2026-11-05T08:12:36Z"
-  },
-  {
-   "term": "model",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 8,
-   "lift": 0.55,
-   "docs": 3,
-   "share": 0.0063,
-   "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
-   "sample_url": "https://x.com/thsottiaux/status/2117865198040355067",
-   "sample_ts": "2026-11-04T06:23:05Z"
   }
  ],
- "tokens_recent": 476,
- "tokens_base": 2020,
+ "tokens_recent": 477,
+ "tokens_base": 2038,
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 14,
-   "share": 0.108,
+   "posts": 15,
+   "share": 0.115,
    "examples": [
     {
      "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative w",
@@ -246,53 +222,9 @@
    ]
   },
   {
-   "topic": "Models",
-   "posts": 13,
-   "share": 0.1,
-   "examples": [
-    {
-     "text": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
-     "url": "https://x.com/thsottiaux/status/2115329600897319076",
-     "ts": "2026-10-28T06:27:32Z"
-    },
-    {
-     "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
-     "url": "https://x.com/thsottiaux/status/2115850175868727621",
-     "ts": "2026-10-29T16:56:07Z"
-    },
-    {
-     "text": "@StefanoGPT Yes",
-     "url": "https://x.com/thsottiaux/status/2115851811576053881",
-     "ts": "2026-10-29T17:02:37Z"
-    }
-   ]
-  },
-  {
-   "topic": "Plans / pricing",
-   "posts": 13,
-   "share": 0.1,
-   "examples": [
-    {
-     "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
-     "url": "https://x.com/thsottiaux/status/2115588390414581916",
-     "ts": "2026-10-28T23:35:52Z"
-    },
-    {
-     "text": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
-     "url": "https://x.com/thsottiaux/status/2115648938149818370",
-     "ts": "2026-10-29T03:36:28Z"
-    },
-    {
-     "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
-     "url": "https://x.com/thsottiaux/status/2115850175868727621",
-     "ts": "2026-10-29T16:56:07Z"
-    }
-   ]
-  },
-  {
    "topic": "Reset / quota",
-   "posts": 11,
-   "share": 0.085,
+   "posts": 13,
+   "share": 0.099,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -312,9 +244,53 @@
    ]
   },
   {
+   "topic": "Plans / pricing",
+   "posts": 13,
+   "share": 0.099,
+   "examples": [
+    {
+     "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
+     "url": "https://x.com/thsottiaux/status/2115588390414581916",
+     "ts": "2026-10-28T23:35:52Z"
+    },
+    {
+     "text": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
+     "url": "https://x.com/thsottiaux/status/2115648938149818370",
+     "ts": "2026-10-29T03:36:28Z"
+    },
+    {
+     "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
+     "url": "https://x.com/thsottiaux/status/2115850175868727621",
+     "ts": "2026-10-29T16:56:07Z"
+    }
+   ]
+  },
+  {
+   "topic": "Models",
+   "posts": 12,
+   "share": 0.092,
+   "examples": [
+    {
+     "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
+     "url": "https://x.com/thsottiaux/status/2115850175868727621",
+     "ts": "2026-10-29T16:56:07Z"
+    },
+    {
+     "text": "@StefanoGPT Yes",
+     "url": "https://x.com/thsottiaux/status/2115851811576053881",
+     "ts": "2026-10-29T17:02:37Z"
+    },
+    {
+     "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
+     "url": "https://x.com/thsottiaux/status/2117283124833055196",
+     "ts": "2026-11-02T15:50:08Z"
+    }
+   ]
+  },
+  {
    "topic": "Codex / dev tooling",
-   "posts": 8,
-   "share": 0.062,
+   "posts": 9,
+   "share": 0.069,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -360,16 +336,16 @@
    "total": 9
   },
   {
-   "handle": "ajambrosino",
-   "replies": 4,
-   "named": 5,
-   "total": 9
-  },
-  {
    "handle": "JamesMalsawm",
    "replies": 4,
    "named": 4,
    "total": 8
+  },
+  {
+   "handle": "ajambrosino",
+   "replies": 3,
+   "named": 4,
+   "total": 7
   },
   {
    "handle": "thdxr",
@@ -384,79 +360,7 @@
    "total": 4
   },
   {
-   "handle": "apples_jimmy",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jonoalford",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ThePrimeagen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "haydenfield",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "fudgeposting",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Layton_Gott",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "embw_l0x",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "AdamHoltererer",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JustinBleuel",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "thorstenball",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "TsoiNotes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ritu_twts",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jkelleyrtp",
+   "handle": "_samirism",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -468,7 +372,37 @@
    "total": 2
   },
   {
-   "handle": "kimmonismus",
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jonoalford",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "fudgeposting",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "apples_jimmy",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rileybrown",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "thorstenball",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -480,25 +414,67 @@
    "total": 2
   },
   {
+   "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "garrytan",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "techleadhd",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "helloitsaustin",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "jxnlco",
+   "handle": "iso_morph",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "_samirism",
+   "handle": "TJwithAI",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "amix3k",
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "TsoiNotes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "fly3nn",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "andrewcshin7",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -508,10 +484,10 @@
   {
    "week": 0,
    "label": "最近7天",
-   "reset": 3,
-   "resets": 2,
+   "reset": 4,
+   "resets": 3,
    "reseted": 0,
-   "banked": 4,
+   "banked": 5,
    "eod": 0,
    "propagate": 0,
    "propagated": 0,
