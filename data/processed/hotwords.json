@@ -18,7 +18,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.92,
+   "lift": 2.9,
    "docs": 4,
    "share": 0.0105,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -42,7 +42,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.26,
+   "lift": 2.25,
    "docs": 3,
    "share": 0.0063,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -54,7 +54,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 1.87,
+   "lift": 1.85,
    "docs": 3,
    "share": 0.0063,
    "sample": "@theo @thdxr Congrats I guess",
@@ -66,7 +66,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.78,
+   "lift": 1.76,
    "docs": 2,
    "share": 0.0042,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -78,7 +78,7 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.78,
+   "lift": 1.76,
    "docs": 1,
    "share": 0.0042,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
@@ -90,7 +90,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.11,
+   "lift": 1.07,
    "docs": 3,
    "share": 0.0126,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.59,
+   "lift": 0.55,
    "docs": 3,
    "share": 0.0063,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -114,7 +114,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 11,
-   "lift": 0.58,
+   "lift": 0.54,
    "docs": 4,
    "share": 0.0084,
    "sample": "@_samirism Dots just got a massive set of improvements",
@@ -128,7 +128,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.11,
+   "lift": 1.07,
    "docs": 3,
    "share": 0.0126,
    "sample": "We doubled the usage on Pro plans and Business 100",
@@ -152,7 +152,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.92,
+   "lift": 2.9,
    "docs": 4,
    "share": 0.0105,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -164,7 +164,7 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 11,
-   "lift": 0.58,
+   "lift": 0.54,
    "docs": 4,
    "share": 0.0084,
    "sample": "@_samirism Dots just got a massive set of improvements",
@@ -188,7 +188,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.26,
+   "lift": 2.25,
    "docs": 3,
    "share": 0.0063,
    "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
@@ -200,7 +200,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 1.87,
+   "lift": 1.85,
    "docs": 3,
    "share": 0.0063,
    "sample": "@theo @thdxr Congrats I guess",
@@ -212,7 +212,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.59,
+   "lift": 0.55,
    "docs": 3,
    "share": 0.0063,
    "sample": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -221,12 +221,12 @@
   }
  ],
  "tokens_recent": 476,
- "tokens_base": 2078,
+ "tokens_base": 2020,
  "topics": [
   {
    "topic": "Ship-or-reset series",
    "posts": 14,
-   "share": 0.104,
+   "share": 0.108,
    "examples": [
     {
      "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative w",
@@ -248,7 +248,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.096,
+   "share": 0.1,
    "examples": [
     {
      "text": "@BenjaminDEKR Pretty crazy but we have this thing called GPT and it just does stuff when you ask",
@@ -270,7 +270,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.096,
+   "share": 0.1,
    "examples": [
     {
      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
@@ -292,7 +292,7 @@
   {
    "topic": "Reset / quota",
    "posts": 11,
-   "share": 0.081,
+   "share": 0.085,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -314,7 +314,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 8,
-   "share": 0.059,
+   "share": 0.062,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -336,7 +336,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 1,
-   "share": 0.007,
+   "share": 0.008,
    "examples": [
     {
      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
@@ -354,13 +354,13 @@
  ],
  "mentions": [
   {
-   "handle": "ajambrosino",
+   "handle": "theo",
    "replies": 4,
    "named": 5,
    "total": 9
   },
   {
-   "handle": "theo",
+   "handle": "ajambrosino",
    "replies": 4,
    "named": 5,
    "total": 9
@@ -384,91 +384,19 @@
    "total": 4
   },
   {
-   "handle": "TsoiNotes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "hiarun02",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Layton_Gott",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "techleadhd",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "MillionInt",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rileybrown",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "alexmichael",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "edbayes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "fudgeposting",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "dani_avila7",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "embw_l0x",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "apples_jimmy",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "garrytan",
+   "handle": "jonoalford",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "thorstenball",
+   "handle": "ThePrimeagen",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -480,25 +408,97 @@
    "total": 2
   },
   {
+   "handle": "fudgeposting",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Layton_Gott",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JustinBleuel",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "thorstenball",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "TsoiNotes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "ritu_twts",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "addyosmani",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "zoedotai",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "jkelleyrtp",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "hakmgpt",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "kimmonismus",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "inferencetoken",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "helloitsaustin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "_samirism",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "amix3k",
    "replies": 1,
    "named": 1,
    "total": 2
