@@ -817,5 +817,18 @@
   "url": "https://x.com/thsottiaux/status/2120999993079451919",
   "mirror_url": "https://tiboreset.com/r/2120999993079451919",
   "first_seen": "2026-11-12T22:20:54+00:00"
+ },
+ {
+  "id": "r-2121007235465577607",
+  "ts": "2026-11-12T22:28:26Z",
+  "date": "2026-11-12",
+  "hour_utc": 22,
+  "minute_utc": 28,
+  "kind": "note",
+  "title": "The banked reset Tibo announced landed on our monitoring accounts.",
+  "source": "mirror",
+  "url": "https://tiboreset.com/r/2121007235465577607",
+  "mirror_url": "https://tiboreset.com/r/2121007235465577607",
+  "first_seen": "2026-11-12T23:37:15+00:00"
  }
 ]

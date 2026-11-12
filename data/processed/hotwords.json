@@ -6,9 +6,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.41,
+   "lift": 2.46,
    "docs": 4,
-   "share": 0.0114,
+   "share": 0.0122,
    "sample": "@Layton_Gott Basement is full of wonders",
    "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
    "sample_ts": "2026-11-06T04:53:36Z"
@@ -18,9 +18,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.9,
+   "lift": 1.92,
    "docs": 2,
-   "share": 0.0057,
+   "share": 0.0061,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -30,9 +30,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.9,
+   "lift": 1.92,
    "docs": 1,
-   "share": 0.0057,
+   "share": 0.0061,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -42,9 +42,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.9,
+   "lift": 1.92,
    "docs": 2,
-   "share": 0.0057,
+   "share": 0.0061,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -54,9 +54,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.44,
+   "lift": 1.52,
    "docs": 3,
-   "share": 0.0171,
+   "share": 0.0182,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -66,9 +66,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 0.45,
+   "lift": 0.53,
    "docs": 3,
-   "share": 0.0086,
+   "share": 0.0091,
    "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
    "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
    "sample_ts": "2026-11-07T01:12:08Z"
@@ -80,9 +80,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.44,
+   "lift": 1.52,
    "docs": 3,
-   "share": 0.0171,
+   "share": 0.0182,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -92,9 +92,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.41,
+   "lift": 2.46,
    "docs": 4,
-   "share": 0.0114,
+   "share": 0.0122,
    "sample": "@Layton_Gott Basement is full of wonders",
    "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
    "sample_ts": "2026-11-06T04:53:36Z"
@@ -104,16 +104,16 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 0.45,
+   "lift": 0.53,
    "docs": 3,
-   "share": 0.0086,
+   "share": 0.0091,
    "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
    "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
    "sample_ts": "2026-11-07T01:12:08Z"
   }
  ],
- "tokens_recent": 350,
- "tokens_base": 2036,
+ "tokens_recent": 329,
+ "tokens_base": 2057,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -270,67 +270,7 @@
    "total": 4
   },
   {
-   "handle": "inferencetoken",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Layton_Gott",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "thdxr",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "hakmgpt",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "maxleiter",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JustinBleuel",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ThePrimeagen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "rezoundous",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -342,19 +282,19 @@
    "total": 2
   },
   {
-   "handle": "ritu_twts",
+   "handle": "Sergey_Rura",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "garrytan",
+   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "techleadhd",
+   "handle": "TJwithAI",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -366,13 +306,31 @@
    "total": 2
   },
   {
-   "handle": "andrewcshin7",
+   "handle": "embw_l0x",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "AdamHoltererer",
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "hakmgpt",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "MillionInt",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "TsoiNotes",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -384,13 +342,55 @@
    "total": 2
   },
   {
-   "handle": "embw_l0x",
+   "handle": "thdxr",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "TJwithAI",
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "techleadhd",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ritu_twts",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Layton_Gott",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "inferencetoken",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "garrytan",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "andrewcshin7",
    "replies": 1,
    "named": 1,
    "total": 2
