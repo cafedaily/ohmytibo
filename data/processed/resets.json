@@ -804,5 +804,18 @@
   "url": "https://tiboreset.com/r/2117022101404096435",
   "mirror_url": "https://tiboreset.com/r/2117022101404096435",
   "first_seen": "2026-11-01T22:42:59+00:00"
+ },
+ {
+  "id": "2120999993079451919",
+  "ts": "2026-11-12T21:59:39Z",
+  "date": "2026-11-12",
+  "hour_utc": 21,
+  "minute_utc": 59,
+  "kind": "banked",
+  "title": "We shipped some good updates to dots today and the banked reset has been activated and should land in…",
+  "source": "x",
+  "url": "https://x.com/thsottiaux/status/2120999993079451919",
+  "mirror_url": "https://tiboreset.com/r/2120999993079451919",
+  "first_seen": "2026-11-12T22:20:54+00:00"
  }
 ]

@@ -4,35 +4,23 @@
   {
    "term": "basement",
    "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 1,
-   "lift": 3.01,
-   "docs": 5,
-   "share": 0.0136,
-   "sample": "@kimmonismus Don't know, I live in the basement now",
-   "sample_url": "https://x.com/thsottiaux/status/2118443570298568886",
-   "sample_ts": "2026-11-05T20:41:20Z"
-  },
-  {
-   "term": "cyber",
-   "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.38,
-   "docs": 3,
-   "share": 0.0108,
-   "sample": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. https://t.co/0QsViK8mMI",
-   "sample_url": "https://x.com/thsottiaux/status/2118402103907655903",
-   "sample_ts": "2026-11-05T17:56:34Z"
+   "lift": 2.41,
+   "docs": 4,
+   "share": 0.0114,
+   "sample": "@Layton_Gott Basement is full of wonders",
+   "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
+   "sample_ts": "2026-11-06T04:53:36Z"
   },
   {
    "term": "pro plans",
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.88,
+   "lift": 1.9,
    "docs": 2,
-   "share": 0.0054,
+   "share": 0.0057,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -42,24 +30,48 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.88,
+   "lift": 1.9,
    "docs": 1,
-   "share": 0.0054,
+   "share": 0.0057,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
+  },
+  {
+   "term": "banked reset",
+   "kind": "phrase",
+   "count_7d": 2,
+   "count_28d_before": 1,
+   "lift": 1.9,
+   "docs": 2,
+   "share": 0.0057,
+   "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+   "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
+   "sample_ts": "2026-11-11T06:57:08Z"
   },
   {
    "term": "pro",
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.38,
+   "lift": 1.44,
    "docs": 3,
-   "share": 0.0163,
+   "share": 0.0171,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 12,
+   "lift": 0.45,
+   "docs": 3,
+   "share": 0.0086,
+   "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
+   "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
+   "sample_ts": "2026-11-07T01:12:08Z"
   }
  ],
  "top": [
@@ -68,9 +80,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.38,
+   "lift": 1.44,
    "docs": 3,
-   "share": 0.0163,
+   "share": 0.0171,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -78,35 +90,35 @@
   {
    "term": "basement",
    "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 1,
-   "lift": 3.01,
-   "docs": 5,
-   "share": 0.0136,
-   "sample": "@kimmonismus Don't know, I live in the basement now",
-   "sample_url": "https://x.com/thsottiaux/status/2118443570298568886",
-   "sample_ts": "2026-11-05T20:41:20Z"
-  },
-  {
-   "term": "cyber",
-   "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.38,
+   "lift": 2.41,
+   "docs": 4,
+   "share": 0.0114,
+   "sample": "@Layton_Gott Basement is full of wonders",
+   "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
+   "sample_ts": "2026-11-06T04:53:36Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 12,
+   "lift": 0.45,
    "docs": 3,
-   "share": 0.0108,
-   "sample": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. https://t.co/0QsViK8mMI",
-   "sample_url": "https://x.com/thsottiaux/status/2118402103907655903",
-   "sample_ts": "2026-11-05T17:56:34Z"
+   "share": 0.0086,
+   "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
+   "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
+   "sample_ts": "2026-11-07T01:12:08Z"
   }
  ],
- "tokens_recent": 369,
- "tokens_base": 2039,
+ "tokens_recent": 350,
+ "tokens_base": 2036,
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 13,
-   "share": 0.108,
+   "posts": 14,
+   "share": 0.117,
    "examples": [
     {
      "text": "@ajambrosino No hype, just shipping",
@@ -127,8 +139,8 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 11,
-   "share": 0.092,
+   "posts": 12,
+   "share": 0.1,
    "examples": [
     {
      "text": "Better announce 28 days of reset",
@@ -234,16 +246,16 @@
  ],
  "mentions": [
   {
-   "handle": "ajambrosino",
-   "replies": 3,
-   "named": 4,
-   "total": 7
-  },
-  {
    "handle": "JamesMalsawm",
    "replies": 3,
    "named": 3,
    "total": 6
+  },
+  {
+   "handle": "ajambrosino",
+   "replies": 2,
+   "named": 3,
+   "total": 5
   },
   {
    "handle": "theo",
@@ -258,13 +270,19 @@
    "total": 4
   },
   {
-   "handle": "rezoundous",
+   "handle": "inferencetoken",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "Sergey_Rura",
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Layton_Gott",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -282,85 +300,13 @@
    "total": 2
   },
   {
-   "handle": "garrytan",
+   "handle": "maxleiter",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "alexmichael",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "iso_morph",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "techleadhd",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "thorstenball",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ritu_twts",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "MillionInt",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "kimmonismus",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "andrewcshin7",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "TJwithAI",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Layton_Gott",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ThePrimeagen",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "inferencetoken",
+   "handle": "JustinBleuel",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -372,7 +318,67 @@
    "total": 2
   },
   {
+   "handle": "ThePrimeagen",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "alexmichael",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ritu_twts",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "garrytan",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "techleadhd",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "iso_morph",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "andrewcshin7",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "apples_jimmy",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -382,16 +388,22 @@
    "replies": 1,
    "named": 1,
    "total": 2
+  },
+  {
+   "handle": "TJwithAI",
+   "replies": 1,
+   "named": 1,
+   "total": 2
   }
  ],
  "reset_lexicon": [
   {
    "week": 0,
    "label": "最近7天",
-   "reset": 3,
+   "reset": 4,
    "resets": 3,
    "reseted": 0,
-   "banked": 5,
+   "banked": 6,
    "eod": 0,
    "propagate": 0,
    "propagated": 0,
