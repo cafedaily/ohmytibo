@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T21:56:16.568926+00:00",
- "generated_at_local": "2026-11-12 05:56",
+ "generated_at": "2026-11-12T07:07:52.875232+00:00",
+ "generated_at_local": "2026-11-12 15:07",
  "timezone": "UTC+8",
  "posts": 881,
  "replies": 639,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-11-11T20:55:36Z",
  "resets_tracked": 38,
- "p_24h": 0.3015,
- "p_48h": 0.4941,
- "modal_reset_at": "2026-11-12T06:56:16.568926+00:00",
+ "p_24h": 0.25,
+ "p_48h": 0.4122,
+ "modal_reset_at": "2026-11-13T06:07:52.875232+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2108,
+  "brier": 0.2083,
   "brier_baseline": 0.1983,
-  "logloss": 0.6262,
+  "logloss": 0.6222,
   "logloss_baseline": 0.586,
-  "skill": -0.069,
+  "skill": -0.062,
   "base_rate": 0.2727
  },
  "top_terms": [
@@ -26,69 +26,45 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.09,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0129,
+   "share": 0.0146,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
-  },
-  {
-   "term": "cyber",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 1,
-   "lift": 2.91,
-   "docs": 4,
-   "share": 0.0108,
-   "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
-   "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
-   "sample_ts": "2026-11-05T01:02:03Z"
   },
   {
    "term": "basement",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.91,
+   "lift": 2.96,
    "docs": 5,
-   "share": 0.0108,
+   "share": 0.0122,
    "sample": "@kimmonismus Don't know, I live in the basement now",
    "sample_url": "https://x.com/thsottiaux/status/2118443570298568886",
    "sample_ts": "2026-11-05T20:41:20Z"
   },
   {
-   "term": "dots",
+   "term": "cyber",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 11,
-   "lift": 0.56,
-   "docs": 4,
-   "share": 0.0086,
-   "sample": "@_samirism Dots just got a massive set of improvements",
-   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-   "sample_ts": "2026-11-05T00:31:21Z"
-  },
-  {
-   "term": "months",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 1,
-   "lift": 2.26,
+   "count_28d_before": 2,
+   "lift": 2.31,
    "docs": 3,
-   "share": 0.0065,
-   "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
-   "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
-   "sample_ts": "2026-11-05T01:02:03Z"
+   "share": 0.0098,
+   "sample": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. https://t.co/0QsViK8mMI",
+   "sample_url": "https://x.com/thsottiaux/status/2118402103907655903",
+   "sample_ts": "2026-11-05T17:56:34Z"
   },
   {
    "term": "congrats",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 1.86,
+   "lift": 1.94,
    "docs": 3,
-   "share": 0.0065,
+   "share": 0.0073,
    "sample": "@theo @thdxr Congrats I guess",
    "sample_url": "https://x.com/thsottiaux/status/2118255144836161582",
    "sample_ts": "2026-11-05T08:12:36Z"
@@ -96,49 +72,37 @@
  ],
  "surge_terms": [
   {
-   "term": "cyber",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 1,
-   "lift": 2.91,
-   "docs": 4,
-   "share": 0.0108,
-   "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
-   "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
-   "sample_ts": "2026-11-05T01:02:03Z"
-  },
-  {
    "term": "basement",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 1,
-   "lift": 2.91,
+   "lift": 2.96,
    "docs": 5,
-   "share": 0.0108,
+   "share": 0.0122,
    "sample": "@kimmonismus Don't know, I live in the basement now",
    "sample_url": "https://x.com/thsottiaux/status/2118443570298568886",
    "sample_ts": "2026-11-05T20:41:20Z"
   },
   {
-   "term": "months",
+   "term": "cyber",
    "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 1,
-   "lift": 2.26,
+   "count_7d": 4,
+   "count_28d_before": 2,
+   "lift": 2.31,
    "docs": 3,
-   "share": 0.0065,
-   "sample": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
-   "sample_url": "https://x.com/thsottiaux/status/2118146794362405231",
-   "sample_ts": "2026-11-05T01:02:03Z"
+   "share": 0.0098,
+   "sample": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. https://t.co/0QsViK8mMI",
+   "sample_url": "https://x.com/thsottiaux/status/2118402103907655903",
+   "sample_ts": "2026-11-05T17:56:34Z"
   },
   {
    "term": "congrats",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 1.86,
+   "lift": 1.94,
    "docs": 3,
-   "share": 0.0065,
+   "share": 0.0073,
    "sample": "@theo @thdxr Congrats I guess",
    "sample_url": "https://x.com/thsottiaux/status/2118255144836161582",
    "sample_ts": "2026-11-05T08:12:36Z"
@@ -148,9 +112,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.77,
+   "lift": 1.83,
    "docs": 2,
-   "share": 0.0043,
+   "share": 0.0049,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -160,9 +124,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.77,
+   "lift": 1.83,
    "docs": 1,
-   "share": 0.0043,
+   "share": 0.0049,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -172,37 +136,20 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.09,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0129,
+   "share": 0.0146,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 11,
-   "lift": 0.56,
-   "docs": 4,
-   "share": 0.0086,
-   "sample": "@_samirism Dots just got a massive set of improvements",
-   "sample_url": "https://x.com/thsottiaux/status/2118139067636568305",
-   "sample_ts": "2026-11-05T00:31:21Z"
   }
  ],
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 15,
-   "share": 0.115,
+   "posts": 14,
+   "share": 0.112,
    "examples": [
-    {
-     "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative w",
-     "url": "https://x.com/thsottiaux/status/2115622002581188681",
-     "ts": "2026-10-29T01:49:26Z"
-    },
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
      "url": "https://x.com/thsottiaux/status/2115850175868727621",
@@ -212,13 +159,18 @@
      "text": "@ajambrosino No hype, just shipping",
      "url": "https://x.com/thsottiaux/status/2116072117540417651",
      "ts": "2026-10-30T07:38:02Z"
+    },
+    {
+     "text": "Better announce 28 days of reset",
+     "url": "https://x.com/thsottiaux/status/2116256600436641887",
+     "ts": "2026-10-30T19:51:06Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
    "posts": 13,
-   "share": 0.1,
+   "share": 0.104,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -238,31 +190,9 @@
    ]
   },
   {
-   "topic": "Plans / pricing",
-   "posts": 13,
-   "share": 0.1,
-   "examples": [
-    {
-     "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capab",
-     "url": "https://x.com/thsottiaux/status/2115588390414581916",
-     "ts": "2026-10-28T23:35:52Z"
-    },
-    {
-     "text": "@alexandr_wang @alexandr_wang  DM me for a free trial of Pro",
-     "url": "https://x.com/thsottiaux/status/2115648938149818370",
-     "ts": "2026-10-29T03:36:28Z"
-    },
-    {
-     "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
-     "url": "https://x.com/thsottiaux/status/2115850175868727621",
-     "ts": "2026-10-29T16:56:07Z"
-    }
-   ]
-  },
-  {
    "topic": "Models",
    "posts": 12,
-   "share": 0.092,
+   "share": 0.096,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -282,9 +212,31 @@
    ]
   },
   {
+   "topic": "Plans / pricing",
+   "posts": 11,
+   "share": 0.088,
+   "examples": [
+    {
+     "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
+     "url": "https://x.com/thsottiaux/status/2115850175868727621",
+     "ts": "2026-10-29T16:56:07Z"
+    },
+    {
+     "text": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
+     "url": "https://x.com/thsottiaux/status/2117035666332954818",
+     "ts": "2026-11-01T23:26:50Z"
+    },
+    {
+     "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
+     "url": "https://x.com/thsottiaux/status/2117412956950638872",
+     "ts": "2026-11-03T00:26:03Z"
+    }
+   ]
+  },
+  {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.069,
+   "share": 0.072,
    "examples": [
     {
      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback ",
@@ -1030,8 +982,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 32962,
-   "engagement_replies": 7955,
+   "likes": 32997,
+   "engagement_replies": 7966,
    "reset": 0,
    "banked": 0
   },
@@ -1039,7 +991,7 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 1080,
+   "likes": 1081,
    "engagement_replies": 78,
    "reset": 0,
    "banked": 0
@@ -1048,8 +1000,8 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5567,
-   "engagement_replies": 1697,
+   "likes": 5600,
+   "engagement_replies": 1703,
    "reset": 0,
    "banked": 0
   },
@@ -1057,8 +1009,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 39046,
-   "engagement_replies": 5184,
+   "likes": 42492,
+   "engagement_replies": 5721,
    "reset": 0,
    "banked": 0
   },
@@ -1066,8 +1018,8 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 232,
-   "engagement_replies": 39,
+   "likes": 419,
+   "engagement_replies": 56,
    "reset": 0,
    "banked": 0
   }
