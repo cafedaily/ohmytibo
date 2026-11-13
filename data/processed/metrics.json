@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-12T23:37:15.310806+00:00",
- "generated_at_local": "2026-11-13 07:37",
+ "generated_at": "2026-11-13T02:43:09.853932+00:00",
+ "generated_at_local": "2026-11-13 10:43",
  "timezone": "UTC+8",
- "posts": 882,
+ "posts": 884,
  "replies": 639,
- "days_covered": 83,
+ "days_covered": 84,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-12T21:59:39Z",
+ "last_post": "2026-11-13T02:09:55Z",
  "resets_tracked": 38,
- "p_24h": 0.3093,
+ "p_24h": 0.303,
  "p_48h": 0.5309,
- "modal_reset_at": "2026-11-13T06:37:15.310806+00:00",
+ "modal_reset_at": "2026-11-13T06:43:09.853932+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.2104,
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.52,
+   "lift": 1.43,
    "docs": 3,
-   "share": 0.0182,
+   "share": 0.0168,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -38,9 +38,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.46,
+   "lift": 2.41,
    "docs": 4,
-   "share": 0.0122,
+   "share": 0.0112,
    "sample": "@Layton_Gott Basement is full of wonders",
    "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
    "sample_ts": "2026-11-06T04:53:36Z"
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 0.53,
+   "lift": 0.44,
    "docs": 3,
-   "share": 0.0091,
+   "share": 0.0084,
    "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
    "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
    "sample_ts": "2026-11-07T01:12:08Z"
@@ -64,9 +64,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 2.46,
+   "lift": 2.41,
    "docs": 4,
-   "share": 0.0122,
+   "share": 0.0112,
    "sample": "@Layton_Gott Basement is full of wonders",
    "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
    "sample_ts": "2026-11-06T04:53:36Z"
@@ -76,9 +76,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.92,
+   "lift": 1.89,
    "docs": 2,
-   "share": 0.0061,
+   "share": 0.0056,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -88,9 +88,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.92,
+   "lift": 1.89,
    "docs": 1,
-   "share": 0.0061,
+   "share": 0.0056,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -100,9 +100,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.92,
+   "lift": 1.89,
    "docs": 2,
-   "share": 0.0061,
+   "share": 0.0056,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -112,9 +112,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.52,
+   "lift": 1.43,
    "docs": 3,
-   "share": 0.0182,
+   "share": 0.0168,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -124,9 +124,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 0.53,
+   "lift": 0.44,
    "docs": 3,
-   "share": 0.0091,
+   "share": 0.0084,
    "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
    "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
    "sample_ts": "2026-11-07T01:12:08Z"
@@ -135,8 +135,8 @@
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 14,
-   "share": 0.117,
+   "posts": 15,
+   "share": 0.124,
    "examples": [
     {
      "text": "@ajambrosino No hype, just shipping",
@@ -158,7 +158,7 @@
   {
    "topic": "Reset / quota",
    "posts": 12,
-   "share": 0.1,
+   "share": 0.099,
    "examples": [
     {
      "text": "Better announce 28 days of reset",
@@ -179,8 +179,8 @@
   },
   {
    "topic": "Models",
-   "posts": 10,
-   "share": 0.083,
+   "posts": 11,
+   "share": 0.091,
    "examples": [
     {
      "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
@@ -201,8 +201,8 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 10,
-   "share": 0.083,
+   "posts": 11,
+   "share": 0.091,
    "examples": [
     {
      "text": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
@@ -223,8 +223,8 @@
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 8,
-   "share": 0.067,
+   "posts": 9,
+   "share": 0.074,
    "examples": [
     {
      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked…",
@@ -245,13 +245,18 @@
   },
   {
    "topic": "Reliability / incidents",
-   "posts": 1,
-   "share": 0.008,
+   "posts": 2,
+   "share": 0.017,
    "examples": [
     {
      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
      "url": "https://x.com/thsottiaux/status/2116936205623611781",
      "ts": "2026-11-01T16:51:36Z"
+    },
+    {
+     "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
+     "url": "https://x.com/thsottiaux/status/2121036562058400200",
+     "ts": "2026-11-13T00:24:58Z"
     }
    ]
   },
@@ -1013,10 +1018,10 @@
   },
   {
    "date": "2026-11-13",
-   "posts": 1,
+   "posts": 3,
    "replies": 0,
-   "likes": 3375,
-   "engagement_replies": 1052,
+   "likes": 8276,
+   "engagement_replies": 4783,
    "reset": 0,
    "banked": 1
   }
