@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-13T02:43:09.853932+00:00",
- "generated_local": "2026-11-13 10:43",
+ "generated_at": "2026-11-13T06:41:46.788631+00:00",
+ "generated_local": "2026-11-13 14:41",
  "forecast": {
-  "p_24h": 0.303,
-  "p_48h": 0.5309,
-  "p_72h": 0.6892,
-  "p_7d": 0.8821,
+  "p_24h": 0.2298,
+  "p_48h": 0.4546,
+  "p_72h": 0.6387,
+  "p_7d": 0.8499,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-13T06:43:09.853932+00:00",
-  "modal_reset_local": "2026-11-13 14:43",
-  "hours_since_last_reset": 380.13,
+  "modal_reset_at": "2026-11-13T06:41:46.788631+00:00",
+  "modal_reset_local": "2026-11-13 14:41",
+  "hours_since_last_reset": 384.1,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2104,
+   "brier": 0.2091,
    "brier_baseline": 0.1983,
-   "logloss": 0.6252,
+   "logloss": 0.6242,
    "logloss_baseline": 0.586,
-   "skill": -0.067,
+   "skill": -0.065,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-13",
-    "p": 0.2785
+    "p": 0.1587
    },
    {
     "date": "2026-11-14",
-    "p": 0.2326
+    "p": 0.2284
    },
    {
     "date": "2026-11-15",
-    "p": 0.165
+    "p": 0.1976
    },
    {
     "date": "2026-11-16",
-    "p": 0.1093
+    "p": 0.1402
    },
    {
     "date": "2026-11-17",
-    "p": 0.0724
+    "p": 0.0929
    },
    {
     "date": "2026-11-18",
-    "p": 0.0207
+    "p": 0.0265
    },
    {
     "date": "2026-11-19",
-    "p": 0.0033
+    "p": 0.0042
    },
    {
     "date": "2026-11-20",
-    "p": 0.0032
+    "p": 0.0041
    },
    {
     "date": "2026-11-21",
-    "p": 0.0031
+    "p": 0.004
    },
    {
     "date": "2026-11-22",
-    "p": 0.003
+    "p": 0.0039
    },
    {
     "date": "2026-11-23",
-    "p": 0.0003
+    "p": 0.0013
    }
   ],
   "pending_promise": {
@@ -783,8 +783,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 33060,
-   "engagement_replies": 7976,
+   "likes": 33080,
+   "engagement_replies": 7980,
    "reset": 0,
    "banked": 0
   },
@@ -792,7 +792,7 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 1083,
+   "likes": 1084,
    "engagement_replies": 78,
    "reset": 0,
    "banked": 0
@@ -801,8 +801,8 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5622,
-   "engagement_replies": 1704,
+   "likes": 5627,
+   "engagement_replies": 1705,
    "reset": 0,
    "banked": 0
   },
@@ -810,8 +810,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45274,
-   "engagement_replies": 6670,
+   "likes": 45514,
+   "engagement_replies": 6701,
    "reset": 0,
    "banked": 0
   },
@@ -819,8 +819,8 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 521,
-   "engagement_replies": 75,
+   "likes": 533,
+   "engagement_replies": 77,
    "reset": 0,
    "banked": 0
   },
@@ -828,8 +828,8 @@
    "date": "2026-11-13",
    "posts": 3,
    "replies": 0,
-   "likes": 8276,
-   "engagement_replies": 4783,
+   "likes": 13717,
+   "engagement_replies": 10071,
    "reset": 0,
    "banked": 1
   }
@@ -841,9 +841,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.43,
+    "lift": 1.7,
     "docs": 3,
-    "share": 0.0168,
+    "share": 0.0208,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -851,23 +851,23 @@
    {
     "term": "basement",
     "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 2,
-    "lift": 2.41,
-    "docs": 4,
-    "share": 0.0112,
-    "sample": "@Layton_Gott Basement is full of wonders",
-    "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
-    "sample_ts": "2026-11-06T04:53:36Z"
+    "count_7d": 3,
+    "count_28d_before": 3,
+    "lift": 1.94,
+    "docs": 3,
+    "share": 0.0104,
+    "sample": "Get me out of the basement\n\nhttps://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
+    "sample_url": "https://x.com/thsottiaux/status/2118938956301779171",
+    "sample_ts": "2026-11-07T05:29:49Z"
    },
    {
     "term": "dots",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 12,
-    "lift": 0.44,
+    "lift": 0.71,
     "docs": 3,
-    "share": 0.0084,
+    "share": 0.0104,
     "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
     "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
     "sample_ts": "2026-11-07T01:12:08Z"
@@ -875,25 +875,13 @@
   ],
   "surge": [
    {
-    "term": "basement",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 2,
-    "lift": 2.41,
-    "docs": 4,
-    "share": 0.0112,
-    "sample": "@Layton_Gott Basement is full of wonders",
-    "sample_url": "https://x.com/thsottiaux/status/2118567451596300778",
-    "sample_ts": "2026-11-06T04:53:36Z"
-   },
-   {
     "term": "pro plans",
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.89,
+    "lift": 1.97,
     "docs": 2,
-    "share": 0.0056,
+    "share": 0.0069,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -903,9 +891,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.89,
+    "lift": 1.97,
     "docs": 1,
-    "share": 0.0056,
+    "share": 0.0069,
     "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
     "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
     "sample_ts": "2026-11-08T05:09:39Z"
@@ -915,21 +903,33 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 1.89,
+    "lift": 1.97,
     "docs": 2,
-    "share": 0.0056,
+    "share": 0.0069,
     "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
     "sample_ts": "2026-11-11T06:57:08Z"
+   },
+   {
+    "term": "basement",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 3,
+    "lift": 1.94,
+    "docs": 3,
+    "share": 0.0104,
+    "sample": "Get me out of the basement\n\nhttps://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
+    "sample_url": "https://x.com/thsottiaux/status/2118938956301779171",
+    "sample_ts": "2026-11-07T05:29:49Z"
    },
    {
     "term": "pro",
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 1.43,
+    "lift": 1.7,
     "docs": 3,
-    "share": 0.0168,
+    "share": 0.0208,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -939,9 +939,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 12,
-    "lift": 0.44,
+    "lift": 0.71,
     "docs": 3,
-    "share": 0.0084,
+    "share": 0.0104,
     "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
     "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
     "sample_ts": "2026-11-07T01:12:08Z"
@@ -953,8 +953,8 @@
   "count_24h": 1,
   "count_72h": 3,
   "count_7d": 8,
-  "since_last_reset": 16,
-  "baseline_per_day": 2.36,
+  "since_last_reset": 15,
+  "baseline_per_day": 2.32,
   "level": "quiet",
   "items": [
    {
@@ -970,7 +970,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 4.2
+    "age_hours": 8.2
    },
    {
     "id": "2120410480204525936",
@@ -985,7 +985,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 43.8
+    "age_hours": 47.7
    },
    {
     "id": "2120410006273380750",
@@ -1000,7 +1000,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 43.8
+    "age_hours": 47.8
    },
    {
     "id": "2119308687676432672",
@@ -1015,7 +1015,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 116.7
+    "age_hours": 120.7
    },
    {
     "id": "2119296267545419987",
@@ -1030,7 +1030,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 117.6
+    "age_hours": 121.5
    },
    {
     "id": "2119232059537514598",
@@ -1045,7 +1045,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 121.8
+    "age_hours": 125.8
    },
    {
     "id": "2119113859747426370",
@@ -1060,7 +1060,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 129.6
+    "age_hours": 133.6
    },
    {
     "id": "2118931941907165401",
@@ -1075,7 +1075,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 141.7
+    "age_hours": 145.7
    },
    {
     "id": "2118024737070957009",
@@ -1090,7 +1090,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 201.8
+    "age_hours": 205.7
    },
    {
     "id": "2117283355427495983",
@@ -1105,7 +1105,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 250.9
+    "age_hours": 254.8
    },
    {
     "id": "2117283124833055196",
@@ -1120,7 +1120,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 250.9
+    "age_hours": 254.9
    },
    {
     "id": "2116942192497533418",
@@ -1135,7 +1135,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 273.5
+    "age_hours": 277.4
    },
    {
     "id": "2116692529970311254",
@@ -1150,7 +1150,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 290.0
+    "age_hours": 294.0
    },
    {
     "id": "2116405414921384099",
@@ -1165,7 +1165,7 @@
     ],
     "forward": true,
     "after_last_reset": true,
-    "age_hours": 309.0
+    "age_hours": 313.0
    },
    {
     "id": "2116256600436641887",
@@ -1180,22 +1180,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 318.9
-   },
-   {
-    "id": "2116045727642366367",
-    "ts": "2026-10-30T05:53:10+00:00",
-    "ts_local": "2026-10-30 13:53",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "Good list",
-    "url": "https://x.com/thsottiaux/status/2116045727642366367",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": true,
-    "age_hours": 332.8
+    "age_hours": 322.8
    }
   ]
  },
@@ -1207,18 +1192,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-13T02:43:09+00:00",
+    "at": "2026-11-13T06:41:46+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 61,
     "cached": 0,
     "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-13T02:43:09+00:00"
+    "last_ok": "2026-11-13T06:41:46+00:00"
    },
    "feed": {
-    "at": "2026-11-13T02:43:09+00:00",
+    "at": "2026-11-13T06:41:46+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1226,18 +1211,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-13T02:43:09+00:00"
+    "last_ok": "2026-11-13T06:41:46+00:00"
    },
    "pipeline": {
-    "at": "2026-11-13T02:43:07+00:00",
+    "at": "2026-11-13T06:40:55+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-13T02:43:07+00:00"
+    "last_ok": "2026-11-13T06:40:55+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-13T02:43:09+00:00",
+   "checked_at": "2026-11-13T06:41:46+00:00",
    "channels": [],
    "configured": false,
    "pending": 2,
@@ -1289,14 +1274,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-09T19:46:27+00:00",
-    "mode": "full",
-    "seconds": 58.3,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-10T03:33:11+00:00",
     "mode": "full",
@@ -1413,6 +1390,14 @@
     "at": "2026-11-13T02:43:07+00:00",
     "mode": "fast",
     "seconds": 2.6,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-13T06:40:55+00:00",
+    "mode": "full",
+    "seconds": 51.8,
     "ok": true,
     "failed": [],
     "warnings": []
