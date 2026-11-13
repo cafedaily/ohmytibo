@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T10:02:06.208011+00:00",
- "generated_at_local": "2026-11-13 18:02",
+ "generated_at": "2026-11-13T17:12:18.750433+00:00",
+ "generated_at_local": "2026-11-14 01:12",
  "timezone": "UTC+8",
  "posts": 887,
  "replies": 642,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-11-13T06:54:27Z",
  "resets_tracked": 38,
- "p_24h": 0.2316,
- "p_48h": 0.4569,
- "modal_reset_at": "2026-11-14T06:02:06.208011+00:00",
+ "p_24h": 0.2357,
+ "p_48h": 0.462,
+ "modal_reset_at": "2026-11-14T06:12:18.750433+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2091,
+  "brier": 0.2084,
   "brier_baseline": 0.1983,
-  "logloss": 0.6242,
+  "logloss": 0.6179,
   "logloss_baseline": 0.586,
-  "skill": -0.065,
+  "skill": -0.055,
   "base_rate": 0.2727
  },
  "top_terms": [
@@ -975,8 +975,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 33080,
-   "engagement_replies": 7980,
+   "likes": 33097,
+   "engagement_replies": 7982,
    "reset": 0,
    "banked": 0
   },
@@ -984,7 +984,7 @@
    "date": "2026-11-09",
    "posts": 3,
    "replies": 3,
-   "likes": 1084,
+   "likes": 1085,
    "engagement_replies": 78,
    "reset": 0,
    "banked": 0
@@ -993,8 +993,8 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5627,
-   "engagement_replies": 1705,
+   "likes": 5635,
+   "engagement_replies": 1709,
    "reset": 0,
    "banked": 0
   },
@@ -1002,8 +1002,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45514,
-   "engagement_replies": 6701,
+   "likes": 45640,
+   "engagement_replies": 6719,
    "reset": 0,
    "banked": 0
   },
@@ -1011,7 +1011,7 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 533,
+   "likes": 545,
    "engagement_replies": 77,
    "reset": 0,
    "banked": 0
@@ -1020,8 +1020,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 16935,
-   "engagement_replies": 12093,
+   "likes": 20072,
+   "engagement_replies": 14001,
    "reset": 0,
    "banked": 1
   }
