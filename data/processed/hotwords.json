@@ -6,9 +6,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.97,
+   "lift": 1.96,
    "docs": 2,
-   "share": 0.0069,
+   "share": 0.0067,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -18,9 +18,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.97,
+   "lift": 1.96,
    "docs": 1,
-   "share": 0.0069,
+   "share": 0.0067,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -30,9 +30,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.97,
+   "lift": 1.96,
    "docs": 2,
-   "share": 0.0069,
+   "share": 0.0067,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -42,9 +42,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.94,
+   "lift": 1.92,
    "docs": 3,
-   "share": 0.0104,
+   "share": 0.0101,
    "sample": "Get me out of the basement\n\nhttps://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
    "sample_url": "https://x.com/thsottiaux/status/2118938956301779171",
    "sample_ts": "2026-11-07T05:29:49Z"
@@ -54,9 +54,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.7,
+   "lift": 1.66,
    "docs": 3,
-   "share": 0.0208,
+   "share": 0.0202,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -66,9 +66,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 0.71,
+   "lift": 0.67,
    "docs": 3,
-   "share": 0.0104,
+   "share": 0.0101,
    "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
    "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
    "sample_ts": "2026-11-07T01:12:08Z"
@@ -80,9 +80,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 11,
-   "lift": 1.7,
+   "lift": 1.66,
    "docs": 3,
-   "share": 0.0208,
+   "share": 0.0202,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -92,9 +92,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 3,
-   "lift": 1.94,
+   "lift": 1.92,
    "docs": 3,
-   "share": 0.0104,
+   "share": 0.0101,
    "sample": "Get me out of the basement\n\nhttps://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
    "sample_url": "https://x.com/thsottiaux/status/2118938956301779171",
    "sample_ts": "2026-11-07T05:29:49Z"
@@ -104,27 +104,22 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 12,
-   "lift": 0.71,
+   "lift": 0.67,
    "docs": 3,
-   "share": 0.0104,
+   "share": 0.0101,
    "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
    "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
    "sample_ts": "2026-11-07T01:12:08Z"
   }
  ],
- "tokens_recent": 288,
+ "tokens_recent": 297,
  "tokens_base": 2105,
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 15,
-   "share": 0.127,
+   "posts": 14,
+   "share": 0.117,
    "examples": [
-    {
-     "text": "@ajambrosino No hype, just shipping",
-     "url": "https://x.com/thsottiaux/status/2116072117540417651",
-     "ts": "2026-10-30T07:38:02Z"
-    },
     {
      "text": "Better announce 28 days of reset",
      "url": "https://x.com/thsottiaux/status/2116256600436641887",
@@ -134,13 +129,18 @@
      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked…",
      "url": "https://x.com/thsottiaux/status/2116405414921384099",
      "ts": "2026-10-31T05:42:26Z"
+    },
+    {
+     "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
+     "url": "https://x.com/thsottiaux/status/2116935821534380166",
+     "ts": "2026-11-01T16:50:05Z"
     }
    ]
   },
   {
    "topic": "Reset / quota",
    "posts": 12,
-   "share": 0.102,
+   "share": 0.1,
    "examples": [
     {
      "text": "Better announce 28 days of reset",
@@ -162,7 +162,7 @@
   {
    "topic": "Models",
    "posts": 11,
-   "share": 0.093,
+   "share": 0.092,
    "examples": [
     {
      "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
@@ -184,7 +184,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.093,
+   "share": 0.092,
    "examples": [
     {
      "text": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
@@ -206,7 +206,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.076,
+   "share": 0.075,
    "examples": [
     {
      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked…",
@@ -257,6 +257,18 @@
    "total": 6
   },
   {
+   "handle": "ajambrosino",
+   "replies": 2,
+   "named": 3,
+   "total": 5
+  },
+  {
+   "handle": "argofowl",
+   "replies": 2,
+   "named": 2,
+   "total": 4
+  },
+  {
    "handle": "theo",
    "replies": 2,
    "named": 2,
@@ -269,31 +281,13 @@
    "total": 4
   },
   {
-   "handle": "ajambrosino",
-   "replies": 1,
-   "named": 2,
-   "total": 3
-  },
-  {
-   "handle": "TJwithAI",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "MillionInt",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "garrytan",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "alexmichael",
+   "handle": "TJwithAI",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -305,7 +299,13 @@
    "total": 2
   },
   {
-   "handle": "andrewcshin7",
+   "handle": "TsoiNotes",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "MillionInt",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -317,13 +317,43 @@
    "total": 2
   },
   {
-   "handle": "techleadhd",
+   "handle": "snowy_smile_",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "thdxr",
+   "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "alexmichael",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "andrewcshin7",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "rezoundous",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "iso_morph",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -341,7 +371,7 @@
    "total": 2
   },
   {
-   "handle": "hakmgpt",
+   "handle": "thorstenball",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -353,49 +383,19 @@
    "total": 2
   },
   {
-   "handle": "iso_morph",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "TsoiNotes",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "embw_l0x",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "thorstenball",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "ritu_twts",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "AdamHoltererer",
+   "handle": "hakmgpt",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "rezoundous",
+   "handle": "techleadhd",
    "replies": 1,
    "named": 1,
    "total": 2
