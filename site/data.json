@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-14T15:48:16.214088+00:00",
- "generated_local": "2026-11-14 23:48",
+ "generated_at": "2026-11-14T22:22:01.212703+00:00",
+ "generated_local": "2026-11-15 06:22",
  "forecast": {
-  "p_24h": 0.2477,
-  "p_48h": 0.4772,
-  "p_72h": 0.6536,
-  "p_7d": 0.7645,
+  "p_24h": 0.2551,
+  "p_48h": 0.4863,
+  "p_72h": 0.6597,
+  "p_7d": 0.758,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-15T06:48:16.214088+00:00",
-  "modal_reset_local": "2026-11-15 14:48",
-  "hours_since_last_reset": 417.21,
+  "modal_reset_at": "2026-11-15T06:22:01.212703+00:00",
+  "modal_reset_local": "2026-11-15 14:22",
+  "hours_since_last_reset": 423.77,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2085,
+   "brier": 0.2101,
    "brier_baseline": 0.1983,
-   "logloss": 0.6226,
+   "logloss": 0.6244,
    "logloss_baseline": 0.586,
-   "skill": -0.063,
+   "skill": -0.066,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-14",
-    "p": 0.0947
+    "p": 0.0093
    },
    {
     "date": "2026-11-15",
-    "p": 0.2458
+    "p": 0.2549
    },
    {
     "date": "2026-11-16",
-    "p": 0.2126
+    "p": 0.2296
    },
    {
     "date": "2026-11-17",
-    "p": 0.1508
+    "p": 0.1708
    },
    {
     "date": "2026-11-18",
-    "p": 0.0431
+    "p": 0.073
    },
    {
     "date": "2026-11-19",
-    "p": 0.0068
+    "p": 0.0071
    },
    {
     "date": "2026-11-20",
-    "p": 0.0066
+    "p": 0.0069
    },
    {
     "date": "2026-11-21",
-    "p": 0.0065
+    "p": 0.0067
    },
    {
     "date": "2026-11-22",
-    "p": 0.0063
+    "p": 0.0065
    },
    {
     "date": "2026-11-23",
-    "p": 0.0061
+    "p": 0.0064
    },
    {
     "date": "2026-11-24",
-    "p": 0.0037
+    "p": 0.006
    }
   ],
   "pending_promise": {
@@ -783,7 +783,7 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 33113,
+   "likes": 33121,
    "engagement_replies": 7990,
    "reset": 0,
    "banked": 0
@@ -802,7 +802,7 @@
    "posts": 2,
    "replies": 1,
    "likes": 5641,
-   "engagement_replies": 1710,
+   "engagement_replies": 1711,
    "reset": 0,
    "banked": 0
   },
@@ -810,8 +810,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45713,
-   "engagement_replies": 6726,
+   "likes": 45745,
+   "engagement_replies": 6728,
    "reset": 0,
    "banked": 0
   },
@@ -819,7 +819,7 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 549,
+   "likes": 551,
    "engagement_replies": 77,
    "reset": 0,
    "banked": 0
@@ -828,8 +828,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 22427,
-   "engagement_replies": 15638,
+   "likes": 22678,
+   "engagement_replies": 15861,
    "reset": 0,
    "banked": 1
   }
@@ -841,9 +841,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 10,
-    "lift": 1.95,
+    "lift": 1.98,
     "docs": 3,
-    "share": 0.0246,
+    "share": 0.0254,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -857,7 +857,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0082,
+    "share": 0.0085,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -869,7 +869,7 @@
     "count_28d_before": 1,
     "lift": 2.02,
     "docs": 1,
-    "share": 0.0082,
+    "share": 0.0085,
     "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
     "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
     "sample_ts": "2026-11-08T05:09:39Z"
@@ -881,7 +881,7 @@
     "count_28d_before": 1,
     "lift": 2.02,
     "docs": 2,
-    "share": 0.0082,
+    "share": 0.0085,
     "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
     "sample_ts": "2026-11-11T06:57:08Z"
@@ -891,9 +891,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 10,
-    "lift": 1.95,
+    "lift": 1.98,
     "docs": 3,
-    "share": 0.0246,
+    "share": 0.0254,
     "sample": "We doubled the usage on Pro plans and Business 100",
     "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
     "sample_ts": "2026-11-08T00:54:31Z"
@@ -904,7 +904,7 @@
   "window_days": 14,
   "count_24h": 0,
   "count_72h": 1,
-  "count_7d": 7,
+  "count_7d": 6,
   "since_last_reset": 13,
   "baseline_per_day": 2.32,
   "level": "quiet",
@@ -922,7 +922,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 41.3
+    "age_hours": 47.9
    },
    {
     "id": "2120410480204525936",
@@ -937,7 +937,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 80.9
+    "age_hours": 87.4
    },
    {
     "id": "2120410006273380750",
@@ -952,7 +952,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 80.9
+    "age_hours": 87.4
    },
    {
     "id": "2119308687676432672",
@@ -967,7 +967,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 153.8
+    "age_hours": 160.4
    },
    {
     "id": "2119296267545419987",
@@ -982,7 +982,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 154.6
+    "age_hours": 161.2
    },
    {
     "id": "2119232059537514598",
@@ -997,7 +997,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 158.9
+    "age_hours": 165.5
    },
    {
     "id": "2119113859747426370",
@@ -1012,7 +1012,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 166.7
+    "age_hours": 173.3
    },
    {
     "id": "2118931941907165401",
@@ -1027,7 +1027,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 178.8
+    "age_hours": 185.3
    },
    {
     "id": "2118024737070957009",
@@ -1042,7 +1042,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 238.9
+    "age_hours": 245.4
    },
    {
     "id": "2117283355427495983",
@@ -1057,7 +1057,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 288.0
+    "age_hours": 294.5
    },
    {
     "id": "2117283124833055196",
@@ -1072,7 +1072,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 288.0
+    "age_hours": 294.5
    },
    {
     "id": "2116942192497533418",
@@ -1087,7 +1087,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 310.5
+    "age_hours": 317.1
    },
    {
     "id": "2116692529970311254",
@@ -1102,7 +1102,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 327.1
+    "age_hours": 333.6
    }
   ]
  },
@@ -1114,7 +1114,7 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-14T15:48:15+00:00",
+    "at": "2026-11-14T22:22:00+00:00",
     "ok": true,
     "fetched": 60,
     "cached": 0,
@@ -1122,10 +1122,10 @@
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-14T15:48:15+00:00"
+    "last_ok": "2026-11-14T22:22:00+00:00"
    },
    "feed": {
-    "at": "2026-11-14T15:48:16+00:00",
+    "at": "2026-11-14T22:22:00+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1133,18 +1133,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-14T15:48:16+00:00"
+    "last_ok": "2026-11-14T22:22:00+00:00"
    },
    "pipeline": {
-    "at": "2026-11-14T15:47:28+00:00",
+    "at": "2026-11-14T22:21:06+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-14T15:47:28+00:00"
+    "last_ok": "2026-11-14T22:21:06+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-14T15:48:16+00:00",
+   "checked_at": "2026-11-14T22:22:01+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1196,14 +1196,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-11T03:09:55+00:00",
-    "mode": "fast",
-    "seconds": 2.5,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-11T06:11:03+00:00",
     "mode": "full",
@@ -1320,6 +1312,14 @@
     "at": "2026-11-14T15:47:28+00:00",
     "mode": "full",
     "seconds": 47.8,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-14T22:21:06+00:00",
+    "mode": "full",
+    "seconds": 55.2,
     "ok": true,
     "failed": [],
     "warnings": []
