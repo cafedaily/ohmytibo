@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T23:32:06.811473+00:00",
- "generated_at_local": "2026-11-14 07:32",
+ "generated_at": "2026-11-14T06:18:58.349321+00:00",
+ "generated_at_local": "2026-11-14 14:18",
  "timezone": "UTC+8",
  "posts": 887,
  "replies": 642,
@@ -8,16 +8,16 @@
  "first_post": "2026-08-22T00:50:36Z",
  "last_post": "2026-11-13T06:54:27Z",
  "resets_tracked": 38,
- "p_24h": 0.2551,
- "p_48h": 0.4863,
- "modal_reset_at": "2026-11-14T06:32:06.811473+00:00",
+ "p_24h": 0.2781,
+ "p_48h": 0.5144,
+ "modal_reset_at": "2026-11-14T06:18:58.349321+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.2103,
+  "brier": 0.2054,
   "brier_baseline": 0.1983,
-  "logloss": 0.6249,
+  "logloss": 0.615,
   "logloss_baseline": 0.586,
-  "skill": -0.067,
+  "skill": -0.05,
   "base_rate": 0.2727
  },
  "top_terms": [
@@ -26,36 +26,12 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 10,
-   "lift": 1.78,
+   "lift": 1.92,
    "docs": 3,
-   "share": 0.0208,
+   "share": 0.024,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
-  },
-  {
-   "term": "basement",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 3,
-   "lift": 1.93,
-   "docs": 3,
-   "share": 0.0104,
-   "sample": "Get me out of the basement\n\nhttps://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
-   "sample_url": "https://x.com/thsottiaux/status/2118938956301779171",
-   "sample_ts": "2026-11-07T05:29:49Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.78,
-   "docs": 3,
-   "share": 0.0104,
-   "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
-   "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
-   "sample_ts": "2026-11-07T01:12:08Z"
   }
  ],
  "surge_terms": [
@@ -66,7 +42,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0069,
+   "share": 0.008,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -76,9 +52,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.97,
+   "lift": 2.01,
    "docs": 1,
-   "share": 0.0069,
+   "share": 0.008,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -88,61 +64,32 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 1.97,
+   "lift": 2.01,
    "docs": 2,
-   "share": 0.0069,
+   "share": 0.008,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
-  },
-  {
-   "term": "basement",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 3,
-   "lift": 1.93,
-   "docs": 3,
-   "share": 0.0104,
-   "sample": "Get me out of the basement\n\nhttps://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
-   "sample_url": "https://x.com/thsottiaux/status/2118938956301779171",
-   "sample_ts": "2026-11-07T05:29:49Z"
   },
   {
    "term": "pro",
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 10,
-   "lift": 1.78,
+   "lift": 1.92,
    "docs": 3,
-   "share": 0.0208,
+   "share": 0.024,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
-  },
-  {
-   "term": "dots",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 11,
-   "lift": 0.78,
-   "docs": 3,
-   "share": 0.0104,
-   "sample": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
-   "sample_url": "https://x.com/thsottiaux/status/2118874107341389982",
-   "sample_ts": "2026-11-07T01:12:08Z"
   }
  ],
  "topics": [
   {
    "topic": "Ship-or-reset series",
-   "posts": 13,
-   "share": 0.109,
+   "posts": 12,
+   "share": 0.103,
    "examples": [
-    {
-     "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked…",
-     "url": "https://x.com/thsottiaux/status/2116405414921384099",
-     "ts": "2026-10-31T05:42:26Z"
-    },
     {
      "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
      "url": "https://x.com/thsottiaux/status/2116935821534380166",
@@ -152,35 +99,18 @@
      "text": "My dog sent you the meeting notes from yesterday, did you see them?",
      "url": "https://x.com/thsottiaux/status/2116936031866077423",
      "ts": "2026-11-01T16:50:55Z"
-    }
-   ]
-  },
-  {
-   "topic": "Reset / quota",
-   "posts": 11,
-   "share": 0.092,
-   "examples": [
-    {
-     "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked…",
-     "url": "https://x.com/thsottiaux/status/2116405414921384099",
-     "ts": "2026-10-31T05:42:26Z"
     },
     {
-     "text": "Banked 1/2",
-     "url": "https://x.com/thsottiaux/status/2116692529970311254",
-     "ts": "2026-11-01T00:43:20Z"
-    },
-    {
-     "text": "I demand a banked reset",
-     "url": "https://x.com/thsottiaux/status/2116942192497533418",
-     "ts": "2026-11-01T17:15:24Z"
+     "text": "Day 28/ Banked 2/2",
+     "url": "https://x.com/thsottiaux/status/2117035794678546764",
+     "ts": "2026-11-01T23:27:20Z"
     }
    ]
   },
   {
    "topic": "Models",
    "posts": 11,
-   "share": 0.092,
+   "share": 0.095,
    "examples": [
     {
      "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
@@ -202,7 +132,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.092,
+   "share": 0.095,
    "examples": [
     {
      "text": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
@@ -222,24 +152,46 @@
    ]
   },
   {
-   "topic": "Codex / dev tooling",
-   "posts": 9,
-   "share": 0.076,
+   "topic": "Reset / quota",
+   "posts": 10,
+   "share": 0.086,
    "examples": [
     {
-     "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked…",
-     "url": "https://x.com/thsottiaux/status/2116405414921384099",
-     "ts": "2026-10-31T05:42:26Z"
+     "text": "Banked 1/2",
+     "url": "https://x.com/thsottiaux/status/2116692529970311254",
+     "ts": "2026-11-01T00:43:20Z"
     },
     {
-     "text": "@theo You had me at Codex",
-     "url": "https://x.com/thsottiaux/status/2116408135930069347",
-     "ts": "2026-10-31T05:53:15Z"
+     "text": "I demand a banked reset",
+     "url": "https://x.com/thsottiaux/status/2116942192497533418",
+     "ts": "2026-11-01T17:15:24Z"
     },
+    {
+     "text": "Day 28/ Banked 2/2",
+     "url": "https://x.com/thsottiaux/status/2117035794678546764",
+     "ts": "2026-11-01T23:27:20Z"
+    }
+   ]
+  },
+  {
+   "topic": "Codex / dev tooling",
+   "posts": 7,
+   "share": 0.06,
+   "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
      "url": "https://x.com/thsottiaux/status/2117746467058405665",
      "ts": "2026-11-03T22:31:18Z"
+    },
+    {
+     "text": "@dani_avila7 Codex",
+     "url": "https://x.com/thsottiaux/status/2118249806875533399",
+     "ts": "2026-11-05T07:51:23Z"
+    },
+    {
+     "text": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago. ",
+     "url": "https://x.com/thsottiaux/status/2118469621011677521",
+     "ts": "2026-11-05T22:24:51Z"
     }
    ]
   },
@@ -975,8 +927,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 33102,
-   "engagement_replies": 7984,
+   "likes": 33103,
+   "engagement_replies": 7988,
    "reset": 0,
    "banked": 0
   },
@@ -993,7 +945,7 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5638,
+   "likes": 5641,
    "engagement_replies": 1709,
    "reset": 0,
    "banked": 0
@@ -1002,8 +954,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45671,
-   "engagement_replies": 6723,
+   "likes": 45694,
+   "engagement_replies": 6725,
    "reset": 0,
    "banked": 0
   },
@@ -1011,7 +963,7 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 546,
+   "likes": 547,
    "engagement_replies": 77,
    "reset": 0,
    "banked": 0
@@ -1020,8 +972,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 21265,
-   "engagement_replies": 14711,
+   "likes": 21876,
+   "engagement_replies": 15179,
    "reset": 0,
    "banked": 1
   }
