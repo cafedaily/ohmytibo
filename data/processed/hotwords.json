@@ -8,7 +8,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.008,
+   "share": 0.0082,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -18,9 +18,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.01,
+   "lift": 2.02,
    "docs": 1,
-   "share": 0.008,
+   "share": 0.0082,
    "sample": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
    "sample_url": "https://x.com/thsottiaux/status/2119296267545419987",
    "sample_ts": "2026-11-08T05:09:39Z"
@@ -30,9 +30,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.01,
+   "lift": 2.02,
    "docs": 2,
-   "share": 0.008,
+   "share": 0.0082,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -42,9 +42,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 10,
-   "lift": 1.92,
+   "lift": 1.95,
    "docs": 3,
-   "share": 0.024,
+   "share": 0.0246,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
@@ -56,16 +56,16 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 10,
-   "lift": 1.92,
+   "lift": 1.95,
    "docs": 3,
-   "share": 0.024,
+   "share": 0.0246,
    "sample": "We doubled the usage on Pro plans and Business 100",
    "sample_url": "https://x.com/thsottiaux/status/2119232059537514598",
    "sample_ts": "2026-11-08T00:54:31Z"
   }
  ],
- "tokens_recent": 250,
- "tokens_base": 2058,
+ "tokens_recent": 244,
+ "tokens_base": 2059,
  "topics": [
   {
    "topic": "Ship-or-reset series",
@@ -215,49 +215,13 @@
    "total": 5
   },
   {
-   "handle": "theo",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
-   "handle": "maria_rcks",
-   "replies": 2,
-   "named": 2,
-   "total": 4
-  },
-  {
    "handle": "argofowl",
    "replies": 2,
    "named": 2,
    "total": 4
   },
   {
-   "handle": "jxnlco",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "AdamHoltererer",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "techleadhd",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "hakmgpt",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "thdxr",
+   "handle": "MillionInt",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -269,31 +233,13 @@
    "total": 2
   },
   {
-   "handle": "TJwithAI",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "inferencetoken",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "snowy_smile_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "MillionInt",
+   "handle": "TJwithAI",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -305,7 +251,13 @@
    "total": 2
   },
   {
-   "handle": "embw_l0x",
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "snowy_smile_",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -317,19 +269,55 @@
    "total": 2
   },
   {
+   "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "hakmgpt",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "techleadhd",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "jxnlco",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "garrytan",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "UFO2002616",
+   "handle": "maria_rcks",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Tech_girl",
    "replies": 1,
    "named": 0,
    "total": 1
   },
   {
-   "handle": "Tech_girl",
+   "handle": "UFO2002616",
    "replies": 1,
    "named": 0,
    "total": 1
@@ -341,6 +329,12 @@
    "total": 1
   },
   {
+   "handle": "OpenAI",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
    "handle": "Meta",
    "replies": 0,
    "named": 1,
@@ -348,6 +342,12 @@
   },
   {
    "handle": "claudeai",
+   "replies": 0,
+   "named": 1,
+   "total": 1
+  },
+  {
+   "handle": "bot",
    "replies": 0,
    "named": 1,
    "total": 1
