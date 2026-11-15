@@ -1,80 +1,76 @@
 {
- "generated_at": "2026-11-15T16:20:41.147612+00:00",
- "generated_local": "2026-11-16 00:20",
+ "generated_at": "2026-11-15T22:47:26.119384+00:00",
+ "generated_local": "2026-11-16 06:47",
  "forecast": {
-  "p_24h": 0.2331,
-  "p_48h": 0.4588,
-  "p_72h": 0.6343,
-  "p_7d": 0.6722,
+  "p_24h": 0.1993,
+  "p_48h": 0.3895,
+  "p_72h": 0.4587,
+  "p_7d": 0.5007,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-16T06:20:41.147612+00:00",
-  "modal_reset_local": "2026-11-16 14:20",
-  "hours_since_last_reset": 441.75,
+  "modal_reset_at": "2026-11-16T06:47:26.119384+00:00",
+  "modal_reset_local": "2026-11-16 14:47",
+  "hours_since_last_reset": 448.2,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2075,
+   "brier": 0.21,
    "brier_baseline": 0.1983,
-   "logloss": 0.6198,
+   "logloss": 0.624,
    "logloss_baseline": 0.586,
-   "skill": -0.058,
+   "skill": -0.065,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-15",
-    "p": 0.0947
+    "p": 0.0066
    },
    {
     "date": "2026-11-16",
-    "p": 0.2329
+    "p": 0.1996
    },
    {
     "date": "2026-11-17",
-    "p": 0.2098
+    "p": 0.1895
    },
    {
     "date": "2026-11-18",
-    "p": 0.1006
+    "p": 0.0633
    },
    {
     "date": "2026-11-19",
-    "p": 0.0098
+    "p": 0.0108
    },
    {
     "date": "2026-11-20",
-    "p": 0.0095
+    "p": 0.0106
    },
    {
     "date": "2026-11-21",
-    "p": 0.0093
+    "p": 0.0104
    },
    {
     "date": "2026-11-22",
-    "p": 0.009
+    "p": 0.0102
    },
    {
     "date": "2026-11-23",
-    "p": 0.0088
+    "p": 0.01
    },
    {
     "date": "2026-11-24",
-    "p": 0.0085
+    "p": 0.0098
    },
    {
     "date": "2026-11-25",
-    "p": 0.0052
+    "p": 0.0092
    }
   ],
-  "pending_promise": {
-   "id": "2120999993079451919",
-   "ts": "2026-11-12T21:59:39Z",
-   "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1"
-  }
+  "pending_promise": null
  },
  "daily": [
   {
@@ -810,8 +806,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45781,
-   "engagement_replies": 6732,
+   "likes": 45793,
+   "engagement_replies": 6733,
    "reset": 0,
    "banked": 0
   },
@@ -819,7 +815,7 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 552,
+   "likes": 554,
    "engagement_replies": 77,
    "reset": 0,
    "banked": 0
@@ -828,8 +824,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 22898,
-   "engagement_replies": 16104,
+   "likes": 22935,
+   "engagement_replies": 16170,
    "reset": 0,
    "banked": 1
   },
@@ -837,8 +833,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 3384,
-   "engagement_replies": 1985,
+   "likes": 3991,
+   "engagement_replies": 2242,
    "reset": 0,
    "banked": 0
   }
@@ -850,9 +846,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.59,
+    "lift": 2.6,
     "docs": 2,
-    "share": 0.0172,
+    "share": 0.0181,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -864,9 +860,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.59,
+    "lift": 2.6,
     "docs": 2,
-    "share": 0.0172,
+    "share": 0.0181,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -878,7 +874,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0115,
+    "share": 0.012,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -888,9 +884,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 2.1,
+    "lift": 2.11,
     "docs": 2,
-    "share": 0.0115,
+    "share": 0.012,
     "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
     "sample_ts": "2026-11-11T06:57:08Z"
@@ -900,10 +896,10 @@
  "signals": {
   "window_days": 14,
   "count_24h": 0,
-  "count_72h": 1,
+  "count_72h": 0,
   "count_7d": 3,
-  "since_last_reset": 12,
-  "baseline_per_day": 2.29,
+  "since_last_reset": 11,
+  "baseline_per_day": 2.25,
   "level": "quiet",
   "items": [
    {
@@ -919,7 +915,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 65.9
+    "age_hours": 72.3
    },
    {
     "id": "2120410480204525936",
@@ -934,7 +930,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 105.4
+    "age_hours": 111.8
    },
    {
     "id": "2120410006273380750",
@@ -949,7 +945,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 105.4
+    "age_hours": 111.9
    },
    {
     "id": "2119308687676432672",
@@ -964,7 +960,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 178.4
+    "age_hours": 184.8
    },
    {
     "id": "2119296267545419987",
@@ -979,7 +975,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 179.2
+    "age_hours": 185.6
    },
    {
     "id": "2119232059537514598",
@@ -994,7 +990,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 183.4
+    "age_hours": 189.9
    },
    {
     "id": "2119113859747426370",
@@ -1009,7 +1005,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 191.3
+    "age_hours": 197.7
    },
    {
     "id": "2118931941907165401",
@@ -1024,7 +1020,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 203.3
+    "age_hours": 209.8
    },
    {
     "id": "2118024737070957009",
@@ -1039,7 +1035,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 263.4
+    "age_hours": 269.8
    },
    {
     "id": "2117283355427495983",
@@ -1054,7 +1050,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 312.5
+    "age_hours": 318.9
    },
    {
     "id": "2117283124833055196",
@@ -1069,22 +1065,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 312.5
-   },
-   {
-    "id": "2116942192497533418",
-    "ts": "2026-11-01T17:15:24+00:00",
-    "ts_local": "2026-11-02 01:15",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "I demand a banked reset",
-    "url": "https://x.com/thsottiaux/status/2116942192497533418",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": true,
-    "age_hours": 335.1
+    "age_hours": 319.0
    }
   ]
  },
@@ -1096,7 +1077,7 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-15T16:20:40+00:00",
+    "at": "2026-11-15T22:47:25+00:00",
     "ok": true,
     "fetched": 60,
     "cached": 0,
@@ -1104,10 +1085,10 @@
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-15T16:20:40+00:00"
+    "last_ok": "2026-11-15T22:47:25+00:00"
    },
    "feed": {
-    "at": "2026-11-15T16:20:41+00:00",
+    "at": "2026-11-15T22:47:26+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1115,18 +1096,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-15T16:20:41+00:00"
+    "last_ok": "2026-11-15T22:47:26+00:00"
    },
    "pipeline": {
-    "at": "2026-11-15T16:19:53+00:00",
+    "at": "2026-11-15T22:46:38+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-15T16:19:53+00:00"
+    "last_ok": "2026-11-15T22:46:38+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-15T16:20:41+00:00",
+   "checked_at": "2026-11-15T22:47:26+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1178,14 +1159,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-11T14:17:26+00:00",
-    "mode": "full",
-    "seconds": 55.9,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-11T21:55:18+00:00",
     "mode": "full",
@@ -1302,6 +1275,14 @@
     "at": "2026-11-15T16:19:53+00:00",
     "mode": "full",
     "seconds": 48.1,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-15T22:46:38+00:00",
+    "mode": "full",
+    "seconds": 47.9,
     "ok": true,
     "failed": [],
     "warnings": []
