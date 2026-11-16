@@ -105,30 +105,30 @@
  "topics": [
   {
    "topic": "Models",
-   "posts": 13,
-   "share": 0.121,
+   "posts": 11,
+   "share": 0.107,
    "examples": [
-    {
-     "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
-     "url": "https://x.com/thsottiaux/status/2117283124833055196",
-     "ts": "2026-11-02T15:50:08Z"
-    },
-    {
-     "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-     "url": "https://x.com/thsottiaux/status/2117283355427495983",
-     "ts": "2026-11-02T15:51:03Z"
-    },
     {
      "text": "Le GPT Fat",
      "url": "https://x.com/thsottiaux/status/2117489367417803042",
      "ts": "2026-11-03T05:29:40Z"
+    },
+    {
+     "text": "@ajambrosino Please make the model better, it doesn’t yet do everything",
+     "url": "https://x.com/thsottiaux/status/2117865198040355067",
+     "ts": "2026-11-04T06:23:05Z"
+    },
+    {
+     "text": "CatGPT",
+     "url": "https://x.com/thsottiaux/status/2118138764161913278",
+     "ts": "2026-11-05T00:30:09Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.103,
+   "share": 0.107,
    "examples": [
     {
      "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
@@ -150,7 +150,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 10,
-   "share": 0.093,
+   "share": 0.097,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -172,7 +172,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.084,
+   "share": 0.087,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -193,14 +193,9 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 7,
-   "share": 0.065,
+   "posts": 6,
+   "share": 0.058,
    "examples": [
-    {
-     "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
-     "url": "https://x.com/thsottiaux/status/2117283124833055196",
-     "ts": "2026-11-02T15:50:08Z"
-    },
     {
      "text": "We doubled the usage on Pro plans and Business 100",
      "url": "https://x.com/thsottiaux/status/2119232059537514598",
@@ -210,6 +205,11 @@
      "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20",
      "url": "https://x.com/thsottiaux/status/2119296267545419987",
      "ts": "2026-11-08T05:09:39Z"
+    },
+    {
+     "text": "We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
+     "url": "https://x.com/thsottiaux/status/2119308687676432672",
+     "ts": "2026-11-08T05:59:00Z"
     }
    ]
   },
@@ -251,18 +251,6 @@
    "total": 2
   },
   {
-   "handle": "inferencetoken",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "iso_morph",
    "replies": 1,
    "named": 1,
@@ -276,6 +264,18 @@
   },
   {
    "handle": "snowy_smile_",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "inferencetoken",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -330,7 +330,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 28,
+   "day": 27,
    "series": 1
   },
   {
@@ -347,7 +347,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 5,
+   "day": 6,
    "series": 0
   }
  ],

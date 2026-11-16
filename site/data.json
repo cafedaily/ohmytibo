@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-16T06:24:44.625693+00:00",
- "generated_local": "2026-11-16 14:24",
+ "generated_at": "2026-11-16T19:37:45.728039+00:00",
+ "generated_local": "2026-11-17 03:37",
  "forecast": {
-  "p_24h": 0.2059,
-  "p_48h": 0.3984,
-  "p_72h": 0.4454,
-  "p_7d": 0.4885,
+  "p_24h": 0.1873,
+  "p_48h": 0.2897,
+  "p_72h": 0.3039,
+  "p_7d": 0.3579,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-16T06:24:44.625693+00:00",
-  "modal_reset_local": "2026-11-16 14:24",
-  "hours_since_last_reset": 455.82,
+  "modal_reset_at": "2026-11-17T06:37:45.728039+00:00",
+  "modal_reset_local": "2026-11-17 14:37",
+  "hours_since_last_reset": 469.04,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2051,
+   "brier": 0.2063,
    "brier_baseline": 0.1983,
-   "logloss": 0.6141,
+   "logloss": 0.612,
    "logloss_baseline": 0.586,
-   "skill": -0.048,
+   "skill": -0.044,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-16",
-    "p": 0.1377
+    "p": 0.0371
    },
    {
     "date": "2026-11-17",
-    "p": 0.1992
+    "p": 0.1874
    },
    {
     "date": "2026-11-18",
-    "p": 0.1047
+    "p": 0.068
    },
    {
     "date": "2026-11-19",
-    "p": 0.0112
+    "p": 0.0141
    },
    {
     "date": "2026-11-20",
-    "p": 0.0109
+    "p": 0.0139
    },
    {
     "date": "2026-11-21",
-    "p": 0.0107
+    "p": 0.0136
    },
    {
     "date": "2026-11-22",
-    "p": 0.0105
+    "p": 0.0133
    },
    {
     "date": "2026-11-23",
-    "p": 0.0103
+    "p": 0.0131
    },
    {
     "date": "2026-11-24",
-    "p": 0.0101
+    "p": 0.0128
    },
    {
     "date": "2026-11-25",
-    "p": 0.0099
+    "p": 0.0125
    },
    {
     "date": "2026-11-26",
-    "p": 0.0033
+    "p": 0.0098
    }
   ],
   "pending_promise": null
@@ -797,7 +797,7 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5644,
+   "likes": 5646,
    "engagement_replies": 1711,
    "reset": 0,
    "banked": 0
@@ -806,8 +806,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45808,
-   "engagement_replies": 6733,
+   "likes": 45824,
+   "engagement_replies": 6737,
    "reset": 0,
    "banked": 0
   },
@@ -816,7 +816,7 @@
    "posts": 1,
    "replies": 1,
    "likes": 554,
-   "engagement_replies": 77,
+   "engagement_replies": 78,
    "reset": 0,
    "banked": 0
   },
@@ -824,8 +824,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 22977,
-   "engagement_replies": 16243,
+   "likes": 23052,
+   "engagement_replies": 16334,
    "reset": 0,
    "banked": 1
   },
@@ -833,8 +833,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 4323,
-   "engagement_replies": 2416,
+   "likes": 4591,
+   "engagement_replies": 2486,
    "reset": 0,
    "banked": 0
   },
@@ -842,8 +842,8 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 1790,
-   "engagement_replies": 593,
+   "likes": 8145,
+   "engagement_replies": 2063,
    "reset": 0,
    "banked": 0
   }
@@ -955,8 +955,8 @@
   "count_24h": 1,
   "count_72h": 1,
   "count_7d": 4,
-  "since_last_reset": 12,
-  "baseline_per_day": 2.21,
+  "since_last_reset": 10,
+  "baseline_per_day": 2.25,
   "level": "quiet",
   "items": [
    {
@@ -972,7 +972,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 0.5
+    "age_hours": 13.7
    },
    {
     "id": "r-2121007235465577607",
@@ -987,7 +987,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 79.9
+    "age_hours": 93.2
    },
    {
     "id": "2120410480204525936",
@@ -1002,7 +1002,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 119.5
+    "age_hours": 132.7
    },
    {
     "id": "2120410006273380750",
@@ -1017,7 +1017,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 119.5
+    "age_hours": 132.7
    },
    {
     "id": "2119308687676432672",
@@ -1032,7 +1032,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 192.4
+    "age_hours": 205.6
    },
    {
     "id": "2119296267545419987",
@@ -1047,7 +1047,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 193.3
+    "age_hours": 206.5
    },
    {
     "id": "2119232059537514598",
@@ -1062,7 +1062,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 197.5
+    "age_hours": 210.7
    },
    {
     "id": "2119113859747426370",
@@ -1077,7 +1077,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 205.3
+    "age_hours": 218.5
    },
    {
     "id": "2118931941907165401",
@@ -1092,7 +1092,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 217.4
+    "age_hours": 230.6
    },
    {
     "id": "2118024737070957009",
@@ -1107,37 +1107,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 277.5
-   },
-   {
-    "id": "2117283355427495983",
-    "ts": "2026-11-02T15:51:03+00:00",
-    "ts_local": "2026-11-02 23:51",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-    "url": "https://x.com/thsottiaux/status/2117283355427495983",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": true,
-    "age_hours": 326.6
-   },
-   {
-    "id": "2117283124833055196",
-    "ts": "2026-11-02T15:50:08+00:00",
-    "ts_local": "2026-11-02 23:50",
-    "kind": "talk",
-    "label": "重置话题",
-    "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will he…",
-    "url": "https://x.com/thsottiaux/status/2117283124833055196",
-    "sources": [
-     "page"
-    ],
-    "forward": false,
-    "after_last_reset": true,
-    "age_hours": 326.6
+    "age_hours": 290.7
    }
   ]
  },
@@ -1149,7 +1119,7 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-16T06:24:44+00:00",
+    "at": "2026-11-16T19:37:15+00:00",
     "ok": true,
     "fetched": 60,
     "cached": 0,
@@ -1157,29 +1127,29 @@
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T06:24:44+00:00"
+    "last_ok": "2026-11-16T19:37:15+00:00"
    },
    "feed": {
-    "at": "2026-11-16T06:24:44+00:00",
-    "ok": true,
-    "source": "network",
-    "entries": 50,
+    "at": "2026-11-16T19:37:15+00:00",
+    "ok": false,
+    "source": null,
+    "entries": 0,
     "new": 0,
-    "error": null,
+    "error": "TimeoutError: The read operation timed out",
     "total": 64,
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_ok": "2026-11-16T06:24:44+00:00"
    },
    "pipeline": {
-    "at": "2026-11-16T06:23:46+00:00",
+    "at": "2026-11-16T19:34:02+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T06:23:46+00:00"
+    "last_ok": "2026-11-16T19:34:02+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-16T06:24:44+00:00",
+   "checked_at": "2026-11-16T19:37:45+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1231,14 +1201,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-12T07:07:04+00:00",
-    "mode": "full",
-    "seconds": 48.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-12T17:34:17+00:00",
     "mode": "full",
@@ -1354,7 +1316,15 @@
    {
     "at": "2026-11-16T06:23:46+00:00",
     "mode": "full",
-    "seconds": 57.7,
+    "seconds": 57.8,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-16T19:34:02+00:00",
+    "mode": "full",
+    "seconds": 223.3,
     "ok": true,
     "failed": [],
     "warnings": []
