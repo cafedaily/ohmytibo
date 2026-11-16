@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-11-16T19:37:45.728039+00:00",
- "generated_local": "2026-11-17 03:37",
+ "generated_at": "2026-11-16T20:57:06.342777+00:00",
+ "generated_local": "2026-11-17 04:57",
  "forecast": {
-  "p_24h": 0.1873,
-  "p_48h": 0.2897,
-  "p_72h": 0.3039,
-  "p_7d": 0.3579,
+  "p_24h": 0.1884,
+  "p_48h": 0.286,
+  "p_72h": 0.3003,
+  "p_7d": 0.3546,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-17T06:37:45.728039+00:00",
-  "modal_reset_local": "2026-11-17 14:37",
-  "hours_since_last_reset": 469.04,
+  "modal_reset_at": "2026-11-17T06:57:06.342777+00:00",
+  "modal_reset_local": "2026-11-17 14:57",
+  "hours_since_last_reset": 470.36,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.2063,
+   "brier": 0.206,
    "brier_baseline": 0.1983,
-   "logloss": 0.612,
+   "logloss": 0.6112,
    "logloss_baseline": 0.586,
-   "skill": -0.044,
+   "skill": -0.043,
    "base_rate": 0.2727
   },
   "weekly": [
    {
     "date": "2026-11-16",
-    "p": 0.0371
+    "p": 0.0316
    },
    {
     "date": "2026-11-17",
-    "p": 0.1874
+    "p": 0.1885
    },
    {
     "date": "2026-11-18",
-    "p": 0.068
+    "p": 0.0684
    },
    {
     "date": "2026-11-19",
-    "p": 0.0141
+    "p": 0.0142
    },
    {
     "date": "2026-11-20",
@@ -47,11 +47,11 @@
    },
    {
     "date": "2026-11-21",
-    "p": 0.0136
+    "p": 0.0137
    },
    {
     "date": "2026-11-22",
-    "p": 0.0133
+    "p": 0.0134
    },
    {
     "date": "2026-11-23",
@@ -59,15 +59,15 @@
    },
    {
     "date": "2026-11-24",
-    "p": 0.0128
+    "p": 0.0129
    },
    {
     "date": "2026-11-25",
-    "p": 0.0125
+    "p": 0.0126
    },
    {
     "date": "2026-11-26",
-    "p": 0.0098
+    "p": 0.0102
    }
   ],
   "pending_promise": null
@@ -833,8 +833,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 4591,
-   "engagement_replies": 2486,
+   "likes": 4605,
+   "engagement_replies": 2488,
    "reset": 0,
    "banked": 0
   },
@@ -842,8 +842,8 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 8145,
-   "engagement_replies": 2063,
+   "likes": 8285,
+   "engagement_replies": 2093,
    "reset": 0,
    "banked": 0
   }
@@ -867,7 +867,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.63,
+    "lift": 1.62,
     "docs": 3,
     "share": 0.0169,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
@@ -879,7 +879,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": 1.23,
+    "lift": 1.22,
     "docs": 3,
     "share": 0.0169,
     "sample": "How can codex be improved? Try not to say model.",
@@ -929,7 +929,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.63,
+    "lift": 1.62,
     "docs": 3,
     "share": 0.0169,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
@@ -941,7 +941,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": 1.23,
+    "lift": 1.22,
     "docs": 3,
     "share": 0.0169,
     "sample": "How can codex be improved? Try not to say model.",
@@ -972,7 +972,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 13.7
+    "age_hours": 15.0
    },
    {
     "id": "r-2121007235465577607",
@@ -987,7 +987,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 93.2
+    "age_hours": 94.5
    },
    {
     "id": "2120410480204525936",
@@ -1002,7 +1002,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 132.7
+    "age_hours": 134.0
    },
    {
     "id": "2120410006273380750",
@@ -1017,7 +1017,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 132.7
+    "age_hours": 134.0
    },
    {
     "id": "2119308687676432672",
@@ -1032,7 +1032,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 205.6
+    "age_hours": 207.0
    },
    {
     "id": "2119296267545419987",
@@ -1047,7 +1047,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 206.5
+    "age_hours": 207.8
    },
    {
     "id": "2119232059537514598",
@@ -1062,7 +1062,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 210.7
+    "age_hours": 212.0
    },
    {
     "id": "2119113859747426370",
@@ -1077,7 +1077,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 218.5
+    "age_hours": 219.9
    },
    {
     "id": "2118931941907165401",
@@ -1092,7 +1092,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 230.6
+    "age_hours": 231.9
    },
    {
     "id": "2118024737070957009",
@@ -1107,7 +1107,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 290.7
+    "age_hours": 292.0
    }
   ]
  },
@@ -1119,37 +1119,37 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-16T19:37:15+00:00",
+    "at": "2026-11-16T20:57:06+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T19:37:15+00:00"
+    "last_ok": "2026-11-16T20:57:06+00:00"
    },
    "feed": {
-    "at": "2026-11-16T19:37:15+00:00",
-    "ok": false,
-    "source": null,
-    "entries": 0,
+    "at": "2026-11-16T20:57:06+00:00",
+    "ok": true,
+    "source": "network",
+    "entries": 50,
     "new": 0,
-    "error": "TimeoutError: The read operation timed out",
+    "error": null,
     "total": 64,
-    "consecutive_failures": 1,
-    "last_ok": "2026-11-16T06:24:44+00:00"
+    "consecutive_failures": 0,
+    "last_ok": "2026-11-16T20:57:06+00:00"
    },
    "pipeline": {
-    "at": "2026-11-16T19:34:02+00:00",
+    "at": "2026-11-16T20:57:04+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T19:34:02+00:00"
+    "last_ok": "2026-11-16T20:57:04+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-16T19:37:45+00:00",
+   "checked_at": "2026-11-16T20:57:06+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1201,14 +1201,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-12T17:34:17+00:00",
-    "mode": "full",
-    "seconds": 57.0,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-12T22:20:53+00:00",
     "mode": "fast",
@@ -1325,6 +1317,14 @@
     "at": "2026-11-16T19:34:02+00:00",
     "mode": "full",
     "seconds": 223.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-16T20:57:04+00:00",
+    "mode": "fast",
+    "seconds": 2.1,
     "ok": true,
     "failed": [],
     "warnings": []

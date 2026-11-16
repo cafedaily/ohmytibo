@@ -42,7 +42,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.63,
+   "lift": 1.62,
    "docs": 3,
    "share": 0.0169,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
@@ -54,7 +54,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 3,
    "share": 0.0169,
    "sample": "How can codex be improved? Try not to say model.",
@@ -80,7 +80,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.63,
+   "lift": 1.62,
    "docs": 3,
    "share": 0.0169,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
@@ -92,7 +92,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.23,
+   "lift": 1.22,
    "docs": 3,
    "share": 0.0169,
    "sample": "How can codex be improved? Try not to say model.",
@@ -101,7 +101,7 @@
   }
  ],
  "tokens_recent": 178,
- "tokens_base": 1970,
+ "tokens_base": 1961,
  "topics": [
   {
    "topic": "Models",
@@ -245,25 +245,13 @@
    "total": 5
   },
   {
-   "handle": "embw_l0x",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "iso_morph",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "charlierguo",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "snowy_smile_",
+   "handle": "iso_morph",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -276,6 +264,18 @@
   },
   {
    "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "snowy_smile_",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -313,7 +313,7 @@
    "limit": 0,
    "limits": 2,
    "vote": 0,
-   "day": 15,
+   "day": 14,
    "series": 0
   },
   {
@@ -347,7 +347,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 6,
+   "day": 7,
    "series": 0
   }
  ],
