@@ -6,9 +6,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.6,
+   "lift": 2.57,
    "docs": 2,
-   "share": 0.0181,
+   "share": 0.0169,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -20,7 +20,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.012,
+   "share": 0.0112,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -30,12 +30,36 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.11,
+   "lift": 2.08,
    "docs": 2,
-   "share": 0.012,
+   "share": 0.0112,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
+  },
+  {
+   "term": "team",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 7,
+   "lift": 1.63,
+   "docs": 3,
+   "share": 0.0169,
+   "sample": "@argofowl Hi 👋 Doing well. Team is busy",
+   "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
+   "sample_ts": "2026-11-13T06:54:27Z"
+  },
+  {
+   "term": "codex",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 11,
+   "lift": 1.23,
+   "docs": 3,
+   "share": 0.0169,
+   "sample": "How can codex be improved? Try not to say model.",
+   "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+   "sample_ts": "2026-11-13T02:09:55Z"
   }
  ],
  "top": [
@@ -44,21 +68,45 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.6,
+   "lift": 2.57,
    "docs": 2,
-   "share": 0.0181,
+   "share": 0.0169,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
+  },
+  {
+   "term": "team",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 7,
+   "lift": 1.63,
+   "docs": 3,
+   "share": 0.0169,
+   "sample": "@argofowl Hi 👋 Doing well. Team is busy",
+   "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
+   "sample_ts": "2026-11-13T06:54:27Z"
+  },
+  {
+   "term": "codex",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 11,
+   "lift": 1.23,
+   "docs": 3,
+   "share": 0.0169,
+   "sample": "How can codex be improved? Try not to say model.",
+   "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+   "sample_ts": "2026-11-13T02:09:55Z"
   }
  ],
- "tokens_recent": 166,
- "tokens_base": 2124,
+ "tokens_recent": 178,
+ "tokens_base": 1970,
  "topics": [
   {
    "topic": "Models",
-   "posts": 12,
-   "share": 0.111,
+   "posts": 13,
+   "share": 0.121,
    "examples": [
     {
      "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
@@ -79,14 +127,9 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 12,
-   "share": 0.111,
+   "posts": 11,
+   "share": 0.103,
    "examples": [
-    {
-     "text": "@poteto @MyCrazyIdeal it's fine to admit we plan these together months in advance",
-     "url": "https://x.com/thsottiaux/status/2117035666332954818",
-     "ts": "2026-11-01T23:26:50Z"
-    },
     {
      "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
      "url": "https://x.com/thsottiaux/status/2117412956950638872",
@@ -96,19 +139,19 @@
      "text": "@_samirism Dots just got a massive set of improvements",
      "url": "https://x.com/thsottiaux/status/2118139067636568305",
      "ts": "2026-11-05T00:31:21Z"
+    },
+    {
+     "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when",
+     "url": "https://x.com/thsottiaux/status/2118569441860723112",
+     "ts": "2026-11-06T05:01:30Z"
     }
    ]
   },
   {
    "topic": "Ship-or-reset series",
-   "posts": 11,
-   "share": 0.102,
+   "posts": 10,
+   "share": 0.093,
    "examples": [
-    {
-     "text": "Day 28/ Banked 2/2",
-     "url": "https://x.com/thsottiaux/status/2117035794678546764",
-     "ts": "2026-11-01T23:27:20Z"
-    },
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
      "url": "https://x.com/thsottiaux/status/2117746467058405665",
@@ -118,35 +161,18 @@
      "text": "I was moved to the basement yesterday",
      "url": "https://x.com/thsottiaux/status/2118024737070957009",
      "ts": "2026-11-04T16:57:02Z"
-    }
-   ]
-  },
-  {
-   "topic": "Reset / quota",
-   "posts": 8,
-   "share": 0.074,
-   "examples": [
-    {
-     "text": "Day 28/ Banked 2/2",
-     "url": "https://x.com/thsottiaux/status/2117035794678546764",
-     "ts": "2026-11-01T23:27:20Z"
     },
     {
-     "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
-     "url": "https://x.com/thsottiaux/status/2117283124833055196",
-     "ts": "2026-11-02T15:50:08Z"
-    },
-    {
-     "text": "We doubled the usage on Pro plans and Business 100",
-     "url": "https://x.com/thsottiaux/status/2119232059537514598",
-     "ts": "2026-11-08T00:54:31Z"
+     "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
+     "url": "https://x.com/thsottiaux/status/2118402103907655903",
+     "ts": "2026-11-05T17:56:34Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
-   "posts": 8,
-   "share": 0.074,
+   "posts": 9,
+   "share": 0.084,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -166,14 +192,41 @@
    ]
   },
   {
+   "topic": "Reset / quota",
+   "posts": 7,
+   "share": 0.065,
+   "examples": [
+    {
+     "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 ",
+     "url": "https://x.com/thsottiaux/status/2117283124833055196",
+     "ts": "2026-11-02T15:50:08Z"
+    },
+    {
+     "text": "We doubled the usage on Pro plans and Business 100",
+     "url": "https://x.com/thsottiaux/status/2119232059537514598",
+     "ts": "2026-11-08T00:54:31Z"
+    },
+    {
+     "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20",
+     "url": "https://x.com/thsottiaux/status/2119296267545419987",
+     "ts": "2026-11-08T05:09:39Z"
+    }
+   ]
+  },
+  {
    "topic": "Reliability / incidents",
-   "posts": 1,
-   "share": 0.009,
+   "posts": 2,
+   "share": 0.019,
    "examples": [
     {
      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
      "url": "https://x.com/thsottiaux/status/2121036562058400200",
      "ts": "2026-11-13T00:24:58Z"
+    },
+    {
+     "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
+     "url": "https://x.com/thsottiaux/status/2122206990101536852",
+     "ts": "2026-11-16T05:55:49Z"
     }
    ]
   },
@@ -198,25 +251,13 @@
    "total": 2
   },
   {
+   "handle": "inferencetoken",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "maria_rcks",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "snowy_smile_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -228,7 +269,13 @@
    "total": 2
   },
   {
-   "handle": "inferencetoken",
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "snowy_smile_",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -241,7 +288,7 @@
    "reset": 2,
    "resets": 2,
    "reseted": 0,
-   "banked": 3,
+   "banked": 2,
    "eod": 0,
    "propagate": 0,
    "propagated": 0,
@@ -249,7 +296,7 @@
    "limit": 0,
    "limits": 1,
    "vote": 0,
-   "day": 2,
+   "day": 1,
    "series": 0
   },
   {
@@ -258,7 +305,7 @@
    "reset": 11,
    "resets": 2,
    "reseted": 0,
-   "banked": 3,
+   "banked": 4,
    "eod": 0,
    "propagate": 0,
    "propagated": 1,
@@ -283,7 +330,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 27,
+   "day": 28,
    "series": 1
   },
   {
