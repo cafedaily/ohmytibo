@@ -6,9 +6,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.55,
+   "lift": 2.57,
    "docs": 2,
-   "share": 0.0166,
+   "share": 0.0182,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -20,7 +20,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.011,
+   "share": 0.0121,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -30,9 +30,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.07,
+   "lift": 2.09,
    "docs": 2,
-   "share": 0.011,
+   "share": 0.0121,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -42,9 +42,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.57,
+   "lift": 1.64,
    "docs": 3,
-   "share": 0.0166,
+   "share": 0.0182,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -54,9 +54,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.16,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0166,
+   "share": 0.0182,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -68,9 +68,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.55,
+   "lift": 2.57,
    "docs": 2,
-   "share": 0.0166,
+   "share": 0.0182,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -80,9 +80,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.57,
+   "lift": 1.64,
    "docs": 3,
-   "share": 0.0166,
+   "share": 0.0182,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -92,27 +92,22 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.16,
+   "lift": 1.24,
    "docs": 3,
-   "share": 0.0166,
+   "share": 0.0182,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
   }
  ],
- "tokens_recent": 181,
- "tokens_base": 1869,
+ "tokens_recent": 165,
+ "tokens_base": 1858,
  "topics": [
   {
    "topic": "Models",
-   "posts": 12,
-   "share": 0.118,
+   "posts": 11,
+   "share": 0.111,
    "examples": [
-    {
-     "text": "Le GPT Fat",
-     "url": "https://x.com/thsottiaux/status/2117489367417803042",
-     "ts": "2026-11-03T05:29:40Z"
-    },
     {
      "text": "@ajambrosino Please make the model better, it doesn’t yet do everything",
      "url": "https://x.com/thsottiaux/status/2117865198040355067",
@@ -122,13 +117,18 @@
      "text": "CatGPT",
      "url": "https://x.com/thsottiaux/status/2118138764161913278",
      "ts": "2026-11-05T00:30:09Z"
+    },
+    {
+     "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
+     "url": "https://x.com/thsottiaux/status/2118402103907655903",
+     "ts": "2026-11-05T17:56:34Z"
     }
    ]
   },
   {
    "topic": "Plans / pricing",
    "posts": 10,
-   "share": 0.098,
+   "share": 0.101,
    "examples": [
     {
      "text": "@_samirism Dots just got a massive set of improvements",
@@ -150,7 +150,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 10,
-   "share": 0.098,
+   "share": 0.101,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -172,7 +172,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.088,
+   "share": 0.091,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -194,7 +194,7 @@
   {
    "topic": "Reset / quota",
    "posts": 6,
-   "share": 0.059,
+   "share": 0.061,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -240,36 +240,12 @@
  "mentions": [
   {
    "handle": "ajambrosino",
-   "replies": 2,
-   "named": 3,
-   "total": 5
-  },
-  {
-   "handle": "embw_l0x",
    "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "snowy_smile_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
+   "named": 2,
+   "total": 3
   },
   {
    "handle": "iso_morph",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "inferencetoken",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -282,6 +258,30 @@
   },
   {
    "handle": "AdamHoltererer",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "inferencetoken",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "snowy_smile_",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -308,7 +308,7 @@
   {
    "week": 1,
    "label": "7天前",
-   "reset": 11,
+   "reset": 10,
    "resets": 2,
    "reseted": 0,
    "banked": 4,
@@ -319,20 +319,20 @@
    "limit": 0,
    "limits": 2,
    "vote": 0,
-   "day": 14,
+   "day": 13,
    "series": 0
   },
   {
    "week": 2,
    "label": "14天前",
-   "reset": 11,
+   "reset": 12,
    "resets": 3,
    "reseted": 0,
    "banked": 1,
    "eod": 4,
    "propagate": 0,
    "propagated": 1,
-   "usage": 7,
+   "usage": 6,
    "limit": 1,
    "limits": 1,
    "vote": 3,
@@ -342,18 +342,35 @@
   {
    "week": 3,
    "label": "21天前",
-   "reset": 8,
+   "reset": 7,
    "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 0,
    "propagate": 0,
    "propagated": 2,
-   "usage": 10,
+   "usage": 11,
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 9,
+   "day": 10,
+   "series": 0
+  },
+  {
+   "week": 4,
+   "label": "28天前",
+   "reset": 1,
+   "resets": 0,
+   "reseted": 0,
+   "banked": 0,
+   "eod": 0,
+   "propagate": 0,
+   "propagated": 0,
+   "usage": 0,
+   "limit": 0,
+   "limits": 0,
+   "vote": 0,
+   "day": 0,
    "series": 0
   }
  ],
