@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-17T15:57:46.880792+00:00",
- "generated_at_local": "2026-11-17 23:57",
+ "generated_at": "2026-11-17T21:09:09.555430+00:00",
+ "generated_at_local": "2026-11-18 05:09",
  "timezone": "UTC+8",
- "posts": 890,
- "replies": 643,
+ "posts": 892,
+ "replies": 644,
  "days_covered": 87,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-17T03:37:22Z",
+ "last_post": "2026-11-17T18:11:38Z",
  "resets_tracked": 38,
- "p_24h": 0.1182,
- "p_48h": 0.1359,
- "modal_reset_at": "2026-11-17T17:57:46.880792+00:00",
+ "p_24h": 0.1096,
+ "p_48h": 0.1274,
+ "modal_reset_at": "2026-11-18T06:09:09.555430+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.1897,
+  "brier": 0.1886,
   "brier_baseline": 0.1875,
-  "logloss": 0.5717,
+  "logloss": 0.5649,
   "logloss_baseline": 0.5623,
-  "skill": -0.017,
+  "skill": -0.004,
   "base_rate": 0.25
  },
  "top_terms": [
@@ -26,33 +26,57 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.57,
+   "lift": 2.52,
    "docs": 2,
-   "share": 0.0182,
+   "share": 0.0148,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
+  },
+  {
+   "term": "sol",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 1,
+   "lift": 2.52,
+   "docs": 2,
+   "share": 0.0148,
+   "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+   "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
+   "sample_ts": "2026-11-17T03:37:22Z"
   },
   {
    "term": "team",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.64,
+   "lift": 1.47,
    "docs": 3,
-   "share": 0.0182,
+   "share": 0.0148,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
+  },
+  {
+   "term": "model",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 8,
+   "lift": 1.35,
+   "docs": 3,
+   "share": 0.0148,
+   "sample": "How can codex be improved? Try not to say model.",
+   "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+   "sample_ts": "2026-11-13T02:09:55Z"
   },
   {
    "term": "codex",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.24,
+   "lift": 1.04,
    "docs": 3,
-   "share": 0.0182,
+   "share": 0.0148,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -64,12 +88,24 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.57,
+   "lift": 2.52,
    "docs": 2,
-   "share": 0.0182,
+   "share": 0.0148,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
+  },
+  {
+   "term": "sol",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 1,
+   "lift": 2.52,
+   "docs": 2,
+   "share": 0.0148,
+   "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+   "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
+   "sample_ts": "2026-11-17T03:37:22Z"
   },
   {
    "term": "red teaming",
@@ -78,19 +114,31 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0121,
+   "share": 0.0099,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
+  },
+  {
+   "term": "gpt sol",
+   "kind": "phrase",
+   "count_7d": 2,
+   "count_28d_before": 0,
+   "lift": 2.32,
+   "docs": 1,
+   "share": 0.0099,
+   "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
+   "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
+   "sample_ts": "2026-11-17T18:09:24Z"
   },
   {
    "term": "banked reset",
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.09,
+   "lift": 2.04,
    "docs": 2,
-   "share": 0.0121,
+   "share": 0.0099,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -100,21 +148,33 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.64,
+   "lift": 1.47,
    "docs": 3,
-   "share": 0.0182,
+   "share": 0.0148,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
+  },
+  {
+   "term": "model",
+   "kind": "word",
+   "count_7d": 3,
+   "count_28d_before": 8,
+   "lift": 1.35,
+   "docs": 3,
+   "share": 0.0148,
+   "sample": "How can codex be improved? Try not to say model.",
+   "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+   "sample_ts": "2026-11-13T02:09:55Z"
   },
   {
    "term": "codex",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.24,
+   "lift": 1.04,
    "docs": 3,
-   "share": 0.0182,
+   "share": 0.0148,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -123,8 +183,8 @@
  "topics": [
   {
    "topic": "Models",
-   "posts": 11,
-   "share": 0.111,
+   "posts": 13,
+   "share": 0.129,
    "examples": [
     {
      "text": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -145,8 +205,8 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 10,
-   "share": 0.101,
+   "posts": 11,
+   "share": 0.109,
    "examples": [
     {
      "text": "@_samirism Dots just got a massive set of improvements",
@@ -167,8 +227,8 @@
   },
   {
    "topic": "Ship-or-reset series",
-   "posts": 10,
-   "share": 0.101,
+   "posts": 11,
+   "share": 0.109,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -190,7 +250,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.091,
+   "share": 0.089,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -211,8 +271,8 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 6,
-   "share": 0.061,
+   "posts": 7,
+   "share": 0.069,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -1026,8 +1086,8 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 8986,
-   "engagement_replies": 2451,
+   "likes": 9134,
+   "engagement_replies": 2501,
    "reset": 0,
    "banked": 0
   },
@@ -1035,8 +1095,17 @@
    "date": "2026-11-17",
    "posts": 1,
    "replies": 1,
-   "likes": 3937,
-   "engagement_replies": 946,
+   "likes": 4166,
+   "engagement_replies": 970,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-18",
+   "posts": 2,
+   "replies": 1,
+   "likes": 9660,
+   "engagement_replies": 1501,
    "reset": 0,
    "banked": 0
   }

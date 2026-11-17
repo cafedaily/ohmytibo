@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-17T15:57:46.880792+00:00",
- "generated_local": "2026-11-17 23:57",
+ "generated_at": "2026-11-17T21:09:09.555430+00:00",
+ "generated_local": "2026-11-18 05:09",
  "forecast": {
-  "p_24h": 0.1182,
-  "p_48h": 0.1359,
-  "p_72h": 0.1532,
-  "p_7d": 0.2189,
+  "p_24h": 0.1096,
+  "p_48h": 0.1274,
+  "p_72h": 0.1448,
+  "p_7d": 0.2112,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-17T17:57:46.880792+00:00",
-  "modal_reset_local": "2026-11-18 01:57",
-  "hours_since_last_reset": 489.37,
+  "modal_reset_at": "2026-11-18T06:09:09.555430+00:00",
+  "modal_reset_local": "2026-11-18 14:09",
+  "hours_since_last_reset": 494.56,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.1897,
+   "brier": 0.1886,
    "brier_baseline": 0.1875,
-   "logloss": 0.5717,
+   "logloss": 0.5649,
    "logloss_baseline": 0.5623,
-   "skill": -0.017,
+   "skill": -0.004,
    "base_rate": 0.25
   },
   "weekly": [
    {
     "date": "2026-11-17",
-    "p": 0.0617
+    "p": 0.0142
    },
    {
     "date": "2026-11-18",
-    "p": 0.0633
+    "p": 0.0969
    },
    {
     "date": "2026-11-19",
-    "p": 0.0175
+    "p": 0.0178
    },
    {
     "date": "2026-11-20",
-    "p": 0.0171
+    "p": 0.0174
    },
    {
     "date": "2026-11-21",
-    "p": 0.0168
+    "p": 0.0171
    },
    {
     "date": "2026-11-22",
-    "p": 0.0165
+    "p": 0.0167
    },
    {
     "date": "2026-11-23",
-    "p": 0.0161
+    "p": 0.0164
    },
    {
     "date": "2026-11-24",
-    "p": 0.0158
+    "p": 0.0161
    },
    {
     "date": "2026-11-25",
-    "p": 0.0155
+    "p": 0.0157
    },
    {
     "date": "2026-11-26",
-    "p": 0.0152
+    "p": 0.0154
    },
    {
     "date": "2026-11-27",
-    "p": 0.0092
+    "p": 0.0138
    }
   ],
   "pending_promise": null
@@ -842,8 +842,8 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 8986,
-   "engagement_replies": 2451,
+   "likes": 9134,
+   "engagement_replies": 2501,
    "reset": 0,
    "banked": 0
   },
@@ -851,8 +851,17 @@
    "date": "2026-11-17",
    "posts": 1,
    "replies": 1,
-   "likes": 3937,
-   "engagement_replies": 946,
+   "likes": 4166,
+   "engagement_replies": 970,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-18",
+   "posts": 2,
+   "replies": 1,
+   "likes": 9660,
+   "engagement_replies": 1501,
    "reset": 0,
    "banked": 0
   }
@@ -864,33 +873,57 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.57,
+    "lift": 2.52,
     "docs": 2,
-    "share": 0.0182,
+    "share": 0.0148,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
+   },
+   {
+    "term": "sol",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.52,
+    "docs": 2,
+    "share": 0.0148,
+    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
+    "sample_ts": "2026-11-17T03:37:22Z"
    },
    {
     "term": "team",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.64,
+    "lift": 1.47,
     "docs": 3,
-    "share": 0.0182,
+    "share": 0.0148,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
+   },
+   {
+    "term": "model",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 8,
+    "lift": 1.35,
+    "docs": 3,
+    "share": 0.0148,
+    "sample": "How can codex be improved? Try not to say model.",
+    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "sample_ts": "2026-11-13T02:09:55Z"
    },
    {
     "term": "codex",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": 1.24,
+    "lift": 1.04,
     "docs": 3,
-    "share": 0.0182,
+    "share": 0.0148,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -902,12 +935,24 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.57,
+    "lift": 2.52,
     "docs": 2,
-    "share": 0.0182,
+    "share": 0.0148,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
+   },
+   {
+    "term": "sol",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.52,
+    "docs": 2,
+    "share": 0.0148,
+    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
+    "sample_ts": "2026-11-17T03:37:22Z"
    },
    {
     "term": "red teaming",
@@ -916,19 +961,31 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0121,
+    "share": 0.0099,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
+   },
+   {
+    "term": "gpt sol",
+    "kind": "phrase",
+    "count_7d": 2,
+    "count_28d_before": 0,
+    "lift": 2.32,
+    "docs": 1,
+    "share": 0.0099,
+    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
+    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
+    "sample_ts": "2026-11-17T18:09:24Z"
    },
    {
     "term": "banked reset",
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 2.09,
+    "lift": 2.04,
     "docs": 2,
-    "share": 0.0121,
+    "share": 0.0099,
     "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
     "sample_ts": "2026-11-11T06:57:08Z"
@@ -938,21 +995,33 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.64,
+    "lift": 1.47,
     "docs": 3,
-    "share": 0.0182,
+    "share": 0.0148,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
+   },
+   {
+    "term": "model",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 8,
+    "lift": 1.35,
+    "docs": 3,
+    "share": 0.0148,
+    "sample": "How can codex be improved? Try not to say model.",
+    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "sample_ts": "2026-11-13T02:09:55Z"
    },
    {
     "term": "codex",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": 1.24,
+    "lift": 1.04,
     "docs": 3,
-    "share": 0.0182,
+    "share": 0.0148,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -961,13 +1030,28 @@
  },
  "signals": {
   "window_days": 14,
-  "count_24h": 0,
-  "count_72h": 1,
-  "count_7d": 4,
-  "since_last_reset": 10,
-  "baseline_per_day": 2.14,
+  "count_24h": 1,
+  "count_72h": 2,
+  "count_7d": 5,
+  "since_last_reset": 11,
+  "baseline_per_day": 2.0,
   "level": "quiet",
   "items": [
+   {
+    "id": "2122754551187132438",
+    "ts": "2026-11-17T18:11:38+00:00",
+    "ts_local": "2026-11-18 02:11",
+    "kind": "talk",
+    "label": "重置话题",
+    "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+    "url": "https://x.com/thsottiaux/status/2122754551187132438",
+    "sources": [
+     "page"
+    ],
+    "forward": false,
+    "after_last_reset": true,
+    "age_hours": 3.0
+   },
    {
     "id": "2122206990101536852",
     "ts": "2026-11-16T05:55:49+00:00",
@@ -981,7 +1065,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 34.0
+    "age_hours": 39.2
    },
    {
     "id": "r-2121007235465577607",
@@ -996,7 +1080,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 113.5
+    "age_hours": 118.7
    },
    {
     "id": "2120410480204525936",
@@ -1011,7 +1095,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 153.0
+    "age_hours": 158.2
    },
    {
     "id": "2120410006273380750",
@@ -1026,7 +1110,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 153.0
+    "age_hours": 158.2
    },
    {
     "id": "2119308687676432672",
@@ -1041,7 +1125,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 226.0
+    "age_hours": 231.2
    },
    {
     "id": "2119296267545419987",
@@ -1056,7 +1140,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 226.8
+    "age_hours": 232.0
    },
    {
     "id": "2119232059537514598",
@@ -1071,7 +1155,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 231.1
+    "age_hours": 236.2
    },
    {
     "id": "2119113859747426370",
@@ -1086,7 +1170,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 238.9
+    "age_hours": 244.1
    },
    {
     "id": "2118931941907165401",
@@ -1101,7 +1185,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 250.9
+    "age_hours": 256.1
    },
    {
     "id": "2118024737070957009",
@@ -1116,7 +1200,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 311.0
+    "age_hours": 316.2
    }
   ]
  },
@@ -1128,18 +1212,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-17T15:57:46+00:00",
+    "at": "2026-11-17T21:09:09+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-17T15:57:46+00:00"
+    "last_ok": "2026-11-17T21:09:09+00:00"
    },
    "feed": {
-    "at": "2026-11-17T15:57:46+00:00",
+    "at": "2026-11-17T21:09:09+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1147,18 +1231,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-17T15:57:46+00:00"
+    "last_ok": "2026-11-17T21:09:09+00:00"
    },
    "pipeline": {
-    "at": "2026-11-17T15:56:58+00:00",
+    "at": "2026-11-17T21:09:06+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-17T15:56:58+00:00"
+    "last_ok": "2026-11-17T21:09:06+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-17T15:57:46+00:00",
+   "checked_at": "2026-11-17T21:09:09+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1210,14 +1294,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-13T02:43:07+00:00",
-    "mode": "fast",
-    "seconds": 2.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-13T06:40:55+00:00",
     "mode": "full",
@@ -1333,7 +1409,15 @@
    {
     "at": "2026-11-17T15:56:58+00:00",
     "mode": "full",
-    "seconds": 48.2,
+    "seconds": 48.3,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-17T21:09:06+00:00",
+    "mode": "fast",
+    "seconds": 3.0,
     "ok": true,
     "failed": [],
     "warnings": []
