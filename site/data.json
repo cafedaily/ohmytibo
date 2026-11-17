@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-16T20:57:06.342777+00:00",
- "generated_local": "2026-11-17 04:57",
+ "generated_at": "2026-11-17T03:50:37.742439+00:00",
+ "generated_local": "2026-11-17 11:50",
  "forecast": {
-  "p_24h": 0.1884,
-  "p_48h": 0.286,
-  "p_72h": 0.3003,
-  "p_7d": 0.3546,
+  "p_24h": 0.1992,
+  "p_48h": 0.2498,
+  "p_72h": 0.2648,
+  "p_7d": 0.3219,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-17T06:57:06.342777+00:00",
-  "modal_reset_local": "2026-11-17 14:57",
-  "hours_since_last_reset": 470.36,
+  "modal_reset_at": "2026-11-17T06:50:37.742439+00:00",
+  "modal_reset_local": "2026-11-17 14:50",
+  "hours_since_last_reset": 477.25,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.206,
-   "brier_baseline": 0.1983,
-   "logloss": 0.6112,
-   "logloss_baseline": 0.586,
-   "skill": -0.043,
-   "base_rate": 0.2727
+   "brier": 0.1912,
+   "brier_baseline": 0.1875,
+   "logloss": 0.5724,
+   "logloss_baseline": 0.5623,
+   "skill": -0.018,
+   "base_rate": 0.25
   },
   "weekly": [
    {
-    "date": "2026-11-16",
-    "p": 0.0316
-   },
-   {
     "date": "2026-11-17",
-    "p": 0.1885
+    "p": 0.1757
    },
    {
     "date": "2026-11-18",
-    "p": 0.0684
+    "p": 0.0723
    },
    {
     "date": "2026-11-19",
-    "p": 0.0142
+    "p": 0.015
    },
    {
     "date": "2026-11-20",
-    "p": 0.0139
+    "p": 0.0147
    },
    {
     "date": "2026-11-21",
-    "p": 0.0137
+    "p": 0.0144
    },
    {
     "date": "2026-11-22",
-    "p": 0.0134
+    "p": 0.0142
    },
    {
     "date": "2026-11-23",
-    "p": 0.0131
+    "p": 0.0139
    },
    {
     "date": "2026-11-24",
-    "p": 0.0129
+    "p": 0.0136
    },
    {
     "date": "2026-11-25",
-    "p": 0.0126
+    "p": 0.0133
    },
    {
     "date": "2026-11-26",
-    "p": 0.0102
+    "p": 0.0131
+   },
+   {
+    "date": "2026-11-27",
+    "p": 0.0016
    }
   ],
   "pending_promise": null
@@ -779,8 +779,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 33138,
-   "engagement_replies": 7996,
+   "likes": 33146,
+   "engagement_replies": 8002,
    "reset": 0,
    "banked": 0
   },
@@ -797,7 +797,7 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5646,
+   "likes": 5648,
    "engagement_replies": 1711,
    "reset": 0,
    "banked": 0
@@ -806,8 +806,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45824,
-   "engagement_replies": 6737,
+   "likes": 45836,
+   "engagement_replies": 6738,
    "reset": 0,
    "banked": 0
   },
@@ -815,7 +815,7 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 554,
+   "likes": 555,
    "engagement_replies": 78,
    "reset": 0,
    "banked": 0
@@ -824,8 +824,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 23052,
-   "engagement_replies": 16334,
+   "likes": 23077,
+   "engagement_replies": 16373,
    "reset": 0,
    "banked": 1
   },
@@ -833,8 +833,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 4605,
-   "engagement_replies": 2488,
+   "likes": 4648,
+   "engagement_replies": 2512,
    "reset": 0,
    "banked": 0
   },
@@ -842,8 +842,17 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 8285,
-   "engagement_replies": 2093,
+   "likes": 8692,
+   "engagement_replies": 2254,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-17",
+   "posts": 1,
+   "replies": 1,
+   "likes": 369,
+   "engagement_replies": 165,
    "reset": 0,
    "banked": 0
   }
@@ -855,9 +864,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.57,
+    "lift": 2.55,
     "docs": 2,
-    "share": 0.0169,
+    "share": 0.0166,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -867,9 +876,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.62,
+    "lift": 1.57,
     "docs": 3,
-    "share": 0.0169,
+    "share": 0.0166,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
@@ -879,9 +888,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": 1.22,
+    "lift": 1.16,
     "docs": 3,
-    "share": 0.0169,
+    "share": 0.0166,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -893,9 +902,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.57,
+    "lift": 2.55,
     "docs": 2,
-    "share": 0.0169,
+    "share": 0.0166,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -907,7 +916,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0112,
+    "share": 0.011,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -917,9 +926,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 1,
-    "lift": 2.08,
+    "lift": 2.07,
     "docs": 2,
-    "share": 0.0112,
+    "share": 0.011,
     "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
     "sample_ts": "2026-11-11T06:57:08Z"
@@ -929,9 +938,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 7,
-    "lift": 1.62,
+    "lift": 1.57,
     "docs": 3,
-    "share": 0.0169,
+    "share": 0.0166,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
@@ -941,9 +950,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": 1.22,
+    "lift": 1.16,
     "docs": 3,
-    "share": 0.0169,
+    "share": 0.0166,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -956,7 +965,7 @@
   "count_72h": 1,
   "count_7d": 4,
   "since_last_reset": 10,
-  "baseline_per_day": 2.25,
+  "baseline_per_day": 2.18,
   "level": "quiet",
   "items": [
    {
@@ -972,7 +981,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 15.0
+    "age_hours": 21.9
    },
    {
     "id": "r-2121007235465577607",
@@ -987,7 +996,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 94.5
+    "age_hours": 101.4
    },
    {
     "id": "2120410480204525936",
@@ -1002,7 +1011,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 134.0
+    "age_hours": 140.9
    },
    {
     "id": "2120410006273380750",
@@ -1017,7 +1026,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 134.0
+    "age_hours": 140.9
    },
    {
     "id": "2119308687676432672",
@@ -1032,7 +1041,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 207.0
+    "age_hours": 213.9
    },
    {
     "id": "2119296267545419987",
@@ -1047,7 +1056,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 207.8
+    "age_hours": 214.7
    },
    {
     "id": "2119232059537514598",
@@ -1062,7 +1071,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 212.0
+    "age_hours": 218.9
    },
    {
     "id": "2119113859747426370",
@@ -1077,7 +1086,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 219.9
+    "age_hours": 226.8
    },
    {
     "id": "2118931941907165401",
@@ -1092,7 +1101,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 231.9
+    "age_hours": 238.8
    },
    {
     "id": "2118024737070957009",
@@ -1107,7 +1116,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 292.0
+    "age_hours": 298.9
    }
   ]
  },
@@ -1119,18 +1128,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-16T20:57:06+00:00",
+    "at": "2026-11-17T03:50:37+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 60,
     "cached": 0,
-    "empty": 0,
+    "empty": 1,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T20:57:06+00:00"
+    "last_ok": "2026-11-17T03:50:37+00:00"
    },
    "feed": {
-    "at": "2026-11-16T20:57:06+00:00",
+    "at": "2026-11-17T03:50:37+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1138,18 +1147,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T20:57:06+00:00"
+    "last_ok": "2026-11-17T03:50:37+00:00"
    },
    "pipeline": {
-    "at": "2026-11-16T20:57:04+00:00",
+    "at": "2026-11-17T03:49:45+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-16T20:57:04+00:00"
+    "last_ok": "2026-11-17T03:49:45+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-16T20:57:06+00:00",
+   "checked_at": "2026-11-17T03:50:37+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1201,14 +1210,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-12T22:20:53+00:00",
-    "mode": "fast",
-    "seconds": 2.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-12T23:36:16+00:00",
     "mode": "full",
@@ -1325,6 +1326,14 @@
     "at": "2026-11-16T20:57:04+00:00",
     "mode": "fast",
     "seconds": 2.1,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-17T03:49:45+00:00",
+    "mode": "full",
+    "seconds": 52.6,
     "ok": true,
     "failed": [],
     "warnings": []

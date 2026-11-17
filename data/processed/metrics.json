@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-16T20:57:06.342777+00:00",
- "generated_at_local": "2026-11-17 04:57",
+ "generated_at": "2026-11-17T03:50:37.742439+00:00",
+ "generated_at_local": "2026-11-17 11:50",
  "timezone": "UTC+8",
- "posts": 889,
- "replies": 642,
- "days_covered": 86,
+ "posts": 890,
+ "replies": 643,
+ "days_covered": 87,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-16T05:55:49Z",
+ "last_post": "2026-11-17T03:37:22Z",
  "resets_tracked": 38,
- "p_24h": 0.1884,
- "p_48h": 0.286,
- "modal_reset_at": "2026-11-17T06:57:06.342777+00:00",
+ "p_24h": 0.1992,
+ "p_48h": 0.2498,
+ "modal_reset_at": "2026-11-17T06:50:37.742439+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.206,
-  "brier_baseline": 0.1983,
-  "logloss": 0.6112,
-  "logloss_baseline": 0.586,
-  "skill": -0.043,
-  "base_rate": 0.2727
+  "brier": 0.1912,
+  "brier_baseline": 0.1875,
+  "logloss": 0.5724,
+  "logloss_baseline": 0.5623,
+  "skill": -0.018,
+  "base_rate": 0.25
  },
  "top_terms": [
   {
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.57,
+   "lift": 2.55,
    "docs": 2,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -38,9 +38,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.62,
+   "lift": 1.57,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.22,
+   "lift": 1.16,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -64,9 +64,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.57,
+   "lift": 2.55,
    "docs": 2,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -78,7 +78,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0112,
+   "share": 0.011,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -88,9 +88,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.08,
+   "lift": 2.07,
    "docs": 2,
-   "share": 0.0112,
+   "share": 0.011,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -100,9 +100,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.62,
+   "lift": 1.57,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -112,9 +112,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.22,
+   "lift": 1.16,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -123,8 +123,8 @@
  "topics": [
   {
    "topic": "Models",
-   "posts": 11,
-   "share": 0.107,
+   "posts": 12,
+   "share": 0.118,
    "examples": [
     {
      "text": "Le GPT Fat",
@@ -145,14 +145,9 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 11,
-   "share": 0.107,
+   "posts": 10,
+   "share": 0.098,
    "examples": [
-    {
-     "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
-     "url": "https://x.com/thsottiaux/status/2117412956950638872",
-     "ts": "2026-11-03T00:26:03Z"
-    },
     {
      "text": "@_samirism Dots just got a massive set of improvements",
      "url": "https://x.com/thsottiaux/status/2118139067636568305",
@@ -162,13 +157,18 @@
      "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when",
      "url": "https://x.com/thsottiaux/status/2118569441860723112",
      "ts": "2026-11-06T05:01:30Z"
+    },
+    {
+     "text": "Quite cool what you can do with a single prompt these days 👀",
+     "url": "https://x.com/thsottiaux/status/2118939076791546000",
+     "ts": "2026-11-07T05:30:18Z"
     }
    ]
   },
   {
    "topic": "Ship-or-reset series",
    "posts": 10,
-   "share": 0.097,
+   "share": 0.098,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -190,7 +190,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.087,
+   "share": 0.088,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -212,7 +212,7 @@
   {
    "topic": "Reset / quota",
    "posts": 6,
-   "share": 0.058,
+   "share": 0.059,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -234,7 +234,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 2,
-   "share": 0.019,
+   "share": 0.02,
    "examples": [
     {
      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
@@ -963,8 +963,8 @@
    "date": "2026-11-08",
    "posts": 16,
    "replies": 14,
-   "likes": 33138,
-   "engagement_replies": 7996,
+   "likes": 33146,
+   "engagement_replies": 8002,
    "reset": 0,
    "banked": 0
   },
@@ -981,7 +981,7 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5646,
+   "likes": 5648,
    "engagement_replies": 1711,
    "reset": 0,
    "banked": 0
@@ -990,8 +990,8 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45824,
-   "engagement_replies": 6737,
+   "likes": 45836,
+   "engagement_replies": 6738,
    "reset": 0,
    "banked": 0
   },
@@ -999,7 +999,7 @@
    "date": "2026-11-12",
    "posts": 1,
    "replies": 1,
-   "likes": 554,
+   "likes": 555,
    "engagement_replies": 78,
    "reset": 0,
    "banked": 0
@@ -1008,8 +1008,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 23052,
-   "engagement_replies": 16334,
+   "likes": 23077,
+   "engagement_replies": 16373,
    "reset": 0,
    "banked": 1
   },
@@ -1017,8 +1017,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 4605,
-   "engagement_replies": 2488,
+   "likes": 4648,
+   "engagement_replies": 2512,
    "reset": 0,
    "banked": 0
   },
@@ -1026,8 +1026,17 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 8285,
-   "engagement_replies": 2093,
+   "likes": 8692,
+   "engagement_replies": 2254,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-17",
+   "posts": 1,
+   "replies": 1,
+   "likes": 369,
+   "engagement_replies": 165,
    "reset": 0,
    "banked": 0
   }

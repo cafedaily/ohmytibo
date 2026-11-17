@@ -6,9 +6,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.57,
+   "lift": 2.55,
    "docs": 2,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -20,7 +20,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0112,
+   "share": 0.011,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -30,9 +30,9 @@
    "kind": "phrase",
    "count_7d": 2,
    "count_28d_before": 1,
-   "lift": 2.08,
+   "lift": 2.07,
    "docs": 2,
-   "share": 0.0112,
+   "share": 0.011,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -42,9 +42,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.62,
+   "lift": 1.57,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -54,9 +54,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.22,
+   "lift": 1.16,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -68,9 +68,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.57,
+   "lift": 2.55,
    "docs": 2,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -80,9 +80,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 1.62,
+   "lift": 1.57,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -92,21 +92,21 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": 1.22,
+   "lift": 1.16,
    "docs": 3,
-   "share": 0.0169,
+   "share": 0.0166,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
   }
  ],
- "tokens_recent": 178,
- "tokens_base": 1961,
+ "tokens_recent": 181,
+ "tokens_base": 1869,
  "topics": [
   {
    "topic": "Models",
-   "posts": 11,
-   "share": 0.107,
+   "posts": 12,
+   "share": 0.118,
    "examples": [
     {
      "text": "Le GPT Fat",
@@ -127,14 +127,9 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 11,
-   "share": 0.107,
+   "posts": 10,
+   "share": 0.098,
    "examples": [
-    {
-     "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team https://t.co/4XvW0391ms",
-     "url": "https://x.com/thsottiaux/status/2117412956950638872",
-     "ts": "2026-11-03T00:26:03Z"
-    },
     {
      "text": "@_samirism Dots just got a massive set of improvements",
      "url": "https://x.com/thsottiaux/status/2118139067636568305",
@@ -144,13 +139,18 @@
      "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when",
      "url": "https://x.com/thsottiaux/status/2118569441860723112",
      "ts": "2026-11-06T05:01:30Z"
+    },
+    {
+     "text": "Quite cool what you can do with a single prompt these days 👀",
+     "url": "https://x.com/thsottiaux/status/2118939076791546000",
+     "ts": "2026-11-07T05:30:18Z"
     }
    ]
   },
   {
    "topic": "Ship-or-reset series",
    "posts": 10,
-   "share": 0.097,
+   "share": 0.098,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -172,7 +172,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 9,
-   "share": 0.087,
+   "share": 0.088,
    "examples": [
     {
      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wa",
@@ -194,7 +194,7 @@
   {
    "topic": "Reset / quota",
    "posts": 6,
-   "share": 0.058,
+   "share": 0.059,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -216,7 +216,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 2,
-   "share": 0.019,
+   "share": 0.02,
    "examples": [
     {
      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
@@ -245,7 +245,19 @@
    "total": 5
   },
   {
-   "handle": "charlierguo",
+   "handle": "embw_l0x",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "snowy_smile_",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "argofowl",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -263,19 +275,13 @@
    "total": 2
   },
   {
-   "handle": "argofowl",
+   "handle": "charlierguo",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "embw_l0x",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "snowy_smile_",
+   "handle": "AdamHoltererer",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -330,7 +336,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 27,
+   "day": 25,
    "series": 1
   },
   {
@@ -347,7 +353,7 @@
    "limit": 1,
    "limits": 1,
    "vote": 0,
-   "day": 7,
+   "day": 9,
    "series": 0
   }
  ],
