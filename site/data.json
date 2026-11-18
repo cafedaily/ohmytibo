@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T10:56:51.777977+00:00",
- "generated_local": "2026-11-18 18:56",
+ "generated_at": "2026-11-18T11:37:48.967120+00:00",
+ "generated_local": "2026-11-18 19:37",
  "forecast": {
   "p_24h": 0.02,
   "p_48h": 0.0396,
@@ -8,9 +8,9 @@
   "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-19T06:56:51.777977+00:00",
-  "modal_reset_local": "2026-11-19 14:56",
-  "hours_since_last_reset": 508.35,
+  "modal_reset_at": "2026-11-19T06:37:48.967120+00:00",
+  "modal_reset_local": "2026-11-19 14:37",
+  "hours_since_last_reset": 509.04,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
@@ -797,7 +797,7 @@
    "date": "2026-11-10",
    "posts": 2,
    "replies": 1,
-   "likes": 5648,
+   "likes": 5649,
    "engagement_replies": 1711,
    "reset": 0,
    "banked": 0
@@ -806,7 +806,7 @@
    "date": "2026-11-11",
    "posts": 7,
    "replies": 4,
-   "likes": 45871,
+   "likes": 45887,
    "engagement_replies": 6742,
    "reset": 0,
    "banked": 0
@@ -824,8 +824,8 @@
    "date": "2026-11-13",
    "posts": 6,
    "replies": 3,
-   "likes": 23178,
-   "engagement_replies": 16430,
+   "likes": 23184,
+   "engagement_replies": 16443,
    "reset": 0,
    "banked": 1
   },
@@ -833,8 +833,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 4720,
-   "engagement_replies": 2537,
+   "likes": 4733,
+   "engagement_replies": 2543,
    "reset": 0,
    "banked": 0
   },
@@ -842,8 +842,8 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 9162,
-   "engagement_replies": 2501,
+   "likes": 9215,
+   "engagement_replies": 2526,
    "reset": 0,
    "banked": 0
   },
@@ -860,8 +860,8 @@
    "date": "2026-11-18",
    "posts": 22,
    "replies": 20,
-   "likes": 38429,
-   "engagement_replies": 5738,
+   "likes": 39599,
+   "engagement_replies": 5829,
    "reset": 0,
    "banked": 0
   }
@@ -1122,7 +1122,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 16.8
+    "age_hours": 17.4
    },
    {
     "id": "2122206990101536852",
@@ -1137,7 +1137,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 53.0
+    "age_hours": 53.7
    },
    {
     "id": "r-2121007235465577607",
@@ -1152,7 +1152,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 132.5
+    "age_hours": 133.2
    },
    {
     "id": "2120410480204525936",
@@ -1167,7 +1167,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 172.0
+    "age_hours": 172.7
    },
    {
     "id": "2120410006273380750",
@@ -1182,7 +1182,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 172.0
+    "age_hours": 172.7
    },
    {
     "id": "2119308687676432672",
@@ -1197,7 +1197,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 245.0
+    "age_hours": 245.6
    },
    {
     "id": "2119296267545419987",
@@ -1212,7 +1212,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 245.8
+    "age_hours": 246.5
    },
    {
     "id": "2119232059537514598",
@@ -1227,7 +1227,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 250.0
+    "age_hours": 250.7
    },
    {
     "id": "2119113859747426370",
@@ -1242,7 +1242,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 257.9
+    "age_hours": 258.5
    },
    {
     "id": "2118931941907165401",
@@ -1257,7 +1257,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 269.9
+    "age_hours": 270.6
    },
    {
     "id": "2118024737070957009",
@@ -1272,7 +1272,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 330.0
+    "age_hours": 330.7
    }
   ]
  },
@@ -1284,18 +1284,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-18T10:56:51+00:00",
+    "at": "2026-11-18T11:37:48+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 60,
     "cached": 0,
-    "empty": 0,
+    "empty": 1,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T10:56:51+00:00"
+    "last_ok": "2026-11-18T11:37:48+00:00"
    },
    "feed": {
-    "at": "2026-11-18T10:56:51+00:00",
+    "at": "2026-11-18T11:37:48+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1303,18 +1303,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T10:56:51+00:00"
+    "last_ok": "2026-11-18T11:37:48+00:00"
    },
    "pipeline": {
-    "at": "2026-11-18T10:56:49+00:00",
+    "at": "2026-11-18T11:36:52+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T10:56:49+00:00"
+    "last_ok": "2026-11-18T11:36:52+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-18T10:56:51+00:00",
+   "checked_at": "2026-11-18T11:37:49+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1366,14 +1366,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-13T23:31:12+00:00",
-    "mode": "full",
-    "seconds": 54.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-14T06:18:01+00:00",
     "mode": "full",
@@ -1489,7 +1481,15 @@
    {
     "at": "2026-11-18T10:56:49+00:00",
     "mode": "fast",
-    "seconds": 2.1,
+    "seconds": 2.2,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-18T11:36:52+00:00",
+    "mode": "full",
+    "seconds": 56.2,
     "ok": true,
     "failed": [],
     "warnings": []
