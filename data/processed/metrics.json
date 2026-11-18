@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-18T00:57:40.001110+00:00",
- "generated_at_local": "2026-11-18 08:57",
+ "generated_at": "2026-11-18T02:53:36.838391+00:00",
+ "generated_at_local": "2026-11-18 10:53",
  "timezone": "UTC+8",
- "posts": 897,
- "replies": 649,
+ "posts": 899,
+ "replies": 651,
  "days_covered": 88,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-18T00:36:40Z",
+ "last_post": "2026-11-18T02:31:35Z",
  "resets_tracked": 38,
- "p_24h": 0.0675,
- "p_48h": 0.0861,
- "modal_reset_at": "2026-11-18T03:57:40.001110+00:00",
+ "p_24h": 0.0536,
+ "p_48h": 0.0726,
+ "modal_reset_at": "2026-11-18T03:53:36.838391+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1925,
@@ -26,9 +26,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 7,
-   "lift": 1.88,
+   "lift": 1.87,
    "docs": 4,
-   "share": 0.0209,
+   "share": 0.0208,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -38,9 +38,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.54,
+   "lift": 2.53,
    "docs": 2,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -50,9 +50,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.54,
+   "lift": 2.53,
    "docs": 2,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
    "sample_ts": "2026-11-17T03:37:22Z"
@@ -62,9 +62,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.4,
+   "lift": 1.39,
    "docs": 3,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -74,9 +74,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 10,
-   "lift": 1.19,
+   "lift": 1.18,
    "docs": 3,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -88,9 +88,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.54,
+   "lift": 2.53,
    "docs": 2,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -100,9 +100,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.54,
+   "lift": 2.53,
    "docs": 2,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
    "sample_ts": "2026-11-17T03:37:22Z"
@@ -114,7 +114,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0105,
+   "share": 0.0104,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -126,7 +126,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 1,
-   "share": 0.0105,
+   "share": 0.0104,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
    "sample_ts": "2026-11-17T18:09:24Z"
@@ -138,7 +138,7 @@
    "count_28d_before": 1,
    "lift": 2.05,
    "docs": 2,
-   "share": 0.0105,
+   "share": 0.0104,
    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
    "sample_ts": "2026-11-11T06:57:08Z"
@@ -148,9 +148,9 @@
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 7,
-   "lift": 1.88,
+   "lift": 1.87,
    "docs": 4,
-   "share": 0.0209,
+   "share": 0.0208,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -160,9 +160,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 1.4,
+   "lift": 1.39,
    "docs": 3,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -172,9 +172,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 10,
-   "lift": 1.19,
+   "lift": 1.18,
    "docs": 3,
-   "share": 0.0157,
+   "share": 0.0156,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -184,7 +184,7 @@
   {
    "topic": "Models",
    "posts": 13,
-   "share": 0.124,
+   "share": 0.121,
    "examples": [
     {
      "text": "@ajambrosino Please make the model better, it doesn’t yet do everything",
@@ -206,7 +206,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 11,
-   "share": 0.105,
+   "share": 0.103,
    "examples": [
     {
      "text": "@_samirism Dots just got a massive set of improvements",
@@ -228,7 +228,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 11,
-   "share": 0.105,
+   "share": 0.103,
    "examples": [
     {
      "text": "I was moved to the basement yesterday",
@@ -250,7 +250,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 8,
-   "share": 0.076,
+   "share": 0.075,
    "examples": [
     {
      "text": "@dani_avila7 Codex",
@@ -272,7 +272,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.067,
+   "share": 0.065,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -1095,17 +1095,17 @@
    "date": "2026-11-17",
    "posts": 1,
    "replies": 1,
-   "likes": 4188,
+   "likes": 4196,
    "engagement_replies": 971,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-18",
-   "posts": 7,
-   "replies": 6,
-   "likes": 15864,
-   "engagement_replies": 2273,
+   "posts": 9,
+   "replies": 8,
+   "likes": 17886,
+   "engagement_replies": 2635,
    "reset": 0,
    "banked": 0
   }

@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-18T00:57:40.001110+00:00",
- "generated_local": "2026-11-18 08:57",
+ "generated_at": "2026-11-18T02:53:36.838391+00:00",
+ "generated_local": "2026-11-18 10:53",
  "forecast": {
-  "p_24h": 0.0675,
-  "p_48h": 0.0861,
-  "p_72h": 0.1044,
-  "p_7d": 0.1739,
+  "p_24h": 0.0536,
+  "p_48h": 0.0726,
+  "p_72h": 0.0911,
+  "p_7d": 0.1617,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-18T03:57:40.001110+00:00",
-  "modal_reset_local": "2026-11-18 11:57",
-  "hours_since_last_reset": 498.37,
+  "modal_reset_at": "2026-11-18T03:53:36.838391+00:00",
+  "modal_reset_local": "2026-11-18 11:53",
+  "hours_since_last_reset": 500.3,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
@@ -27,43 +27,47 @@
   "weekly": [
    {
     "date": "2026-11-18",
-    "p": 0.0675
+    "p": 0.0517
    },
    {
     "date": "2026-11-19",
-    "p": 0.0187
+    "p": 0.019
    },
    {
     "date": "2026-11-20",
-    "p": 0.0183
+    "p": 0.0186
    },
    {
     "date": "2026-11-21",
-    "p": 0.0179
+    "p": 0.0182
    },
    {
     "date": "2026-11-22",
-    "p": 0.0176
+    "p": 0.0179
    },
    {
     "date": "2026-11-23",
-    "p": 0.0172
+    "p": 0.0175
    },
    {
     "date": "2026-11-24",
-    "p": 0.0169
+    "p": 0.0171
    },
    {
     "date": "2026-11-25",
-    "p": 0.0165
+    "p": 0.0168
    },
    {
     "date": "2026-11-26",
-    "p": 0.0162
+    "p": 0.0165
    },
    {
     "date": "2026-11-27",
-    "p": 0.0159
+    "p": 0.0161
+   },
+   {
+    "date": "2026-11-28",
+    "p": 0.0016
    }
   ],
   "pending_promise": null
@@ -847,17 +851,17 @@
    "date": "2026-11-17",
    "posts": 1,
    "replies": 1,
-   "likes": 4188,
+   "likes": 4196,
    "engagement_replies": 971,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-18",
-   "posts": 7,
-   "replies": 6,
-   "likes": 15864,
-   "engagement_replies": 2273,
+   "posts": 9,
+   "replies": 8,
+   "likes": 17886,
+   "engagement_replies": 2635,
    "reset": 0,
    "banked": 0
   }
@@ -869,9 +873,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 7,
-    "lift": 1.88,
+    "lift": 1.87,
     "docs": 4,
-    "share": 0.0209,
+    "share": 0.0208,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
@@ -881,9 +885,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.54,
+    "lift": 2.53,
     "docs": 2,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -893,9 +897,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.54,
+    "lift": 2.53,
     "docs": 2,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
     "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
     "sample_ts": "2026-11-17T03:37:22Z"
@@ -905,9 +909,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.4,
+    "lift": 1.39,
     "docs": 3,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -917,9 +921,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 10,
-    "lift": 1.19,
+    "lift": 1.18,
     "docs": 3,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -931,9 +935,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.54,
+    "lift": 2.53,
     "docs": 2,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -943,9 +947,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.54,
+    "lift": 2.53,
     "docs": 2,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
     "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
     "sample_ts": "2026-11-17T03:37:22Z"
@@ -957,7 +961,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0105,
+    "share": 0.0104,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -969,7 +973,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0105,
+    "share": 0.0104,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
@@ -981,7 +985,7 @@
     "count_28d_before": 1,
     "lift": 2.05,
     "docs": 2,
-    "share": 0.0105,
+    "share": 0.0104,
     "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
     "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
     "sample_ts": "2026-11-11T06:57:08Z"
@@ -991,9 +995,9 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 7,
-    "lift": 1.88,
+    "lift": 1.87,
     "docs": 4,
-    "share": 0.0209,
+    "share": 0.0208,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
@@ -1003,9 +1007,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.4,
+    "lift": 1.39,
     "docs": 3,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -1015,9 +1019,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 10,
-    "lift": 1.19,
+    "lift": 1.18,
     "docs": 3,
-    "share": 0.0157,
+    "share": 0.0156,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -1046,7 +1050,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 6.8
+    "age_hours": 8.7
    },
    {
     "id": "2122206990101536852",
@@ -1061,7 +1065,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 43.0
+    "age_hours": 45.0
    },
    {
     "id": "r-2121007235465577607",
@@ -1076,7 +1080,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 122.5
+    "age_hours": 124.4
    },
    {
     "id": "2120410480204525936",
@@ -1091,7 +1095,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 162.0
+    "age_hours": 163.9
    },
    {
     "id": "2120410006273380750",
@@ -1106,7 +1110,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 162.0
+    "age_hours": 164.0
    },
    {
     "id": "2119308687676432672",
@@ -1121,7 +1125,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 235.0
+    "age_hours": 236.9
    },
    {
     "id": "2119296267545419987",
@@ -1136,7 +1140,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 235.8
+    "age_hours": 237.7
    },
    {
     "id": "2119232059537514598",
@@ -1151,7 +1155,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 240.1
+    "age_hours": 242.0
    },
    {
     "id": "2119113859747426370",
@@ -1166,7 +1170,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 247.9
+    "age_hours": 249.8
    },
    {
     "id": "2118931941907165401",
@@ -1181,7 +1185,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 259.9
+    "age_hours": 261.9
    },
    {
     "id": "2118024737070957009",
@@ -1196,7 +1200,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 320.0
+    "age_hours": 321.9
    }
   ]
  },
@@ -1208,18 +1212,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-18T00:57:39+00:00",
+    "at": "2026-11-18T02:53:36+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 2,
     "cached": 0,
-    "empty": 1,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T00:57:39+00:00"
+    "last_ok": "2026-11-18T02:53:36+00:00"
    },
    "feed": {
-    "at": "2026-11-18T00:57:39+00:00",
+    "at": "2026-11-18T02:53:36+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1227,18 +1231,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T00:57:39+00:00"
+    "last_ok": "2026-11-18T02:53:36+00:00"
    },
    "pipeline": {
-    "at": "2026-11-18T00:56:45+00:00",
+    "at": "2026-11-18T02:53:34+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T00:56:45+00:00"
+    "last_ok": "2026-11-18T02:53:34+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-18T00:57:40+00:00",
+   "checked_at": "2026-11-18T02:53:36+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1290,14 +1294,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-13T10:02:03+00:00",
-    "mode": "fast",
-    "seconds": 2.5,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-13T17:11:21+00:00",
     "mode": "full",
@@ -1413,7 +1409,15 @@
    {
     "at": "2026-11-18T00:56:45+00:00",
     "mode": "full",
-    "seconds": 54.7,
+    "seconds": 54.8,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-18T02:53:34+00:00",
+    "mode": "fast",
+    "seconds": 2.8,
     "ok": true,
     "failed": [],
     "warnings": []
