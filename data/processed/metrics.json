@@ -1,58 +1,58 @@
 {
- "generated_at": "2026-11-18T11:37:48.967120+00:00",
- "generated_at_local": "2026-11-18 19:37",
+ "generated_at": "2026-11-18T19:15:48.033502+00:00",
+ "generated_at_local": "2026-11-19 03:15",
  "timezone": "UTC+8",
- "posts": 912,
- "replies": 663,
+ "posts": 915,
+ "replies": 665,
  "days_covered": 88,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-18T07:24:41Z",
+ "last_post": "2026-11-18T17:56:24Z",
  "resets_tracked": 38,
  "p_24h": 0.02,
  "p_48h": 0.0396,
- "modal_reset_at": "2026-11-19T06:37:48.967120+00:00",
+ "modal_reset_at": "2026-11-19T06:15:48.033502+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.1898,
+  "brier": 0.1891,
   "brier_baseline": 0.1875,
-  "logloss": 0.5723,
+  "logloss": 0.5662,
   "logloss_baseline": 0.5623,
-  "skill": -0.018,
+  "skill": -0.007,
   "base_rate": 0.25
  },
  "top_terms": [
+  {
+   "term": "sol",
+   "kind": "word",
+   "count_7d": 6,
+   "count_28d_before": 1,
+   "lift": 3.18,
+   "docs": 5,
+   "share": 0.0149,
+   "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+   "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
+   "sample_ts": "2026-11-17T03:37:22Z"
+  },
   {
    "term": "models",
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 4,
-   "lift": 2.26,
+   "lift": 2.25,
    "docs": 4,
-   "share": 0.0151,
+   "share": 0.0149,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
    "sample_ts": "2026-11-15T06:01:14Z"
-  },
-  {
-   "term": "sol",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 1,
-   "lift": 2.95,
-   "docs": 4,
-   "share": 0.0126,
-   "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
-   "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
-   "sample_ts": "2026-11-17T03:37:22Z"
   },
   {
    "term": "team",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 7,
-   "lift": 1.46,
+   "lift": 1.45,
    "docs": 5,
-   "share": 0.0126,
+   "share": 0.0124,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -62,9 +62,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 10,
-   "lift": 1.06,
+   "lift": 1.04,
    "docs": 5,
-   "share": 0.0126,
+   "share": 0.0124,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -76,7 +76,7 @@
    "count_28d_before": 1,
    "lift": 2.29,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -86,9 +86,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.37,
+   "lift": 1.36,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
    "sample_ts": "2026-11-15T06:01:14Z"
@@ -98,9 +98,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 0.81,
+   "lift": 0.8,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
    "sample_ts": "2026-11-17T18:09:24Z"
@@ -110,9 +110,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.66,
+   "lift": 0.65,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -122,11 +122,11 @@
   {
    "term": "sol",
    "kind": "word",
-   "count_7d": 5,
+   "count_7d": 6,
    "count_28d_before": 1,
-   "lift": 2.95,
-   "docs": 4,
-   "share": 0.0126,
+   "lift": 3.18,
+   "docs": 5,
+   "share": 0.0149,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
    "sample_ts": "2026-11-17T03:37:22Z"
@@ -174,7 +174,7 @@
    "count_28d_before": 1,
    "lift": 2.29,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
    "sample_ts": "2026-11-13T00:24:58Z"
@@ -184,9 +184,9 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 4,
-   "lift": 2.26,
+   "lift": 2.25,
    "docs": 4,
-   "share": 0.0151,
+   "share": 0.0149,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
    "sample_ts": "2026-11-15T06:01:14Z"
@@ -196,9 +196,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 7,
-   "lift": 1.46,
+   "lift": 1.45,
    "docs": 5,
-   "share": 0.0126,
+   "share": 0.0124,
    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
    "sample_ts": "2026-11-13T06:54:27Z"
@@ -208,9 +208,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 1.37,
+   "lift": 1.36,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
    "sample_ts": "2026-11-15T06:01:14Z"
@@ -220,9 +220,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 10,
-   "lift": 1.06,
+   "lift": 1.04,
    "docs": 5,
-   "share": 0.0126,
+   "share": 0.0124,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -232,9 +232,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 7,
-   "lift": 0.81,
+   "lift": 0.8,
    "docs": 2,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
    "sample_ts": "2026-11-17T18:09:24Z"
@@ -244,9 +244,9 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 8,
-   "lift": 0.66,
+   "lift": 0.65,
    "docs": 3,
-   "share": 0.0075,
+   "share": 0.0074,
    "sample": "How can codex be improved? Try not to say model.",
    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
    "sample_ts": "2026-11-13T02:09:55Z"
@@ -255,8 +255,8 @@
  "topics": [
   {
    "topic": "Models",
-   "posts": 15,
-   "share": 0.133,
+   "posts": 16,
+   "share": 0.142,
    "examples": [
     {
      "text": "CatGPT",
@@ -303,11 +303,6 @@
    "share": 0.115,
    "examples": [
     {
-     "text": "I was moved to the basement yesterday",
-     "url": "https://x.com/thsottiaux/status/2118024737070957009",
-     "ts": "2026-11-04T16:57:02Z"
-    },
-    {
      "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
      "url": "https://x.com/thsottiaux/status/2118402103907655903",
      "ts": "2026-11-05T17:56:34Z"
@@ -316,6 +311,11 @@
      "text": "If I count well, that's more than 500M images per day.",
      "url": "https://x.com/thsottiaux/status/2118470016127598724",
      "ts": "2026-11-05T22:26:25Z"
+    },
+    {
+     "text": "It's Friday",
+     "url": "https://x.com/thsottiaux/status/2118871902366441879",
+     "ts": "2026-11-07T01:03:22Z"
     }
    ]
   },
@@ -1173,7 +1173,7 @@
    "date": "2026-11-17",
    "posts": 1,
    "replies": 1,
-   "likes": 4213,
+   "likes": 4214,
    "engagement_replies": 971,
    "reset": 0,
    "banked": 0
@@ -1182,8 +1182,17 @@
    "date": "2026-11-18",
    "posts": 22,
    "replies": 20,
-   "likes": 39599,
-   "engagement_replies": 5829,
+   "likes": 46762,
+   "engagement_replies": 6382,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-19",
+   "posts": 3,
+   "replies": 2,
+   "likes": 2819,
+   "engagement_replies": 1891,
    "reset": 0,
    "banked": 0
   }
