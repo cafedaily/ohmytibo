@@ -238,7 +238,7 @@
   {
    "topic": "Models",
    "posts": 16,
-   "share": 0.142,
+   "share": 0.14,
    "examples": [
     {
      "text": "CatGPT",
@@ -260,7 +260,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 14,
-   "share": 0.124,
+   "share": 0.123,
    "examples": [
     {
      "text": "@_samirism Dots just got a massive set of improvements",
@@ -282,7 +282,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 13,
-   "share": 0.115,
+   "share": 0.114,
    "examples": [
     {
      "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
@@ -326,7 +326,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.062,
+   "share": 0.061,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -389,49 +389,7 @@
    "total": 4
   },
   {
-   "handle": "pradeepXkapoor",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JoshPurtell",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "adonis_singh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "skalskip92",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Wilf_Lin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "charlierguo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "snowy_smile_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "ajambrosino",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -443,19 +401,7 @@
    "total": 2
   },
   {
-   "handle": "JamesMalsawm",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "argofowl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Yampeleg",
+   "handle": "Leapofcode",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -473,19 +419,7 @@
    "total": 2
   },
   {
-   "handle": "swyx",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "notjazii",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mattshumer_",
+   "handle": "The_Alex",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -497,13 +431,85 @@
    "total": 2
   },
   {
+   "handle": "argofowl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JoshPurtell",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "swyx",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "adonis_singh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "skalskip92",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesMalsawm",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "pradeepXkapoor",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "iruletheworldmo",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "The_Alex",
+   "handle": "notjazii",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Yampeleg",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Wilf_Lin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "charlierguo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "mattshumer_",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "ajambrosino",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -553,35 +559,35 @@
   {
    "week": 2,
    "label": "14天前",
-   "reset": 11,
+   "reset": 10,
    "resets": 2,
    "reseted": 0,
-   "banked": 1,
-   "eod": 4,
+   "banked": 0,
+   "eod": 3,
    "propagate": 0,
    "propagated": 1,
    "usage": 6,
    "limit": 1,
    "limits": 2,
    "vote": 0,
-   "day": 20,
+   "day": 19,
    "series": 1
   },
   {
    "week": 3,
    "label": "21天前",
-   "reset": 8,
+   "reset": 9,
    "resets": 3,
    "reseted": 0,
-   "banked": 0,
-   "eod": 0,
+   "banked": 1,
+   "eod": 1,
    "propagate": 0,
    "propagated": 2,
    "usage": 11,
    "limit": 1,
    "limits": 1,
    "vote": 3,
-   "day": 15,
+   "day": 16,
    "series": 0
   },
   {

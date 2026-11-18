@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-18T19:15:48.033502+00:00",
- "generated_at_local": "2026-11-19 03:15",
+ "generated_at": "2026-11-18T20:29:50.228193+00:00",
+ "generated_at_local": "2026-11-19 04:29",
  "timezone": "UTC+8",
- "posts": 915,
- "replies": 665,
+ "posts": 916,
+ "replies": 666,
  "days_covered": 88,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-18T17:56:24Z",
+ "last_post": "2026-11-18T20:25:19Z",
  "resets_tracked": 38,
  "p_24h": 0.02,
  "p_48h": 0.0396,
- "modal_reset_at": "2026-11-19T06:15:48.033502+00:00",
+ "modal_reset_at": "2026-11-19T06:29:50.228193+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1891,
@@ -256,7 +256,7 @@
   {
    "topic": "Models",
    "posts": 16,
-   "share": 0.142,
+   "share": 0.14,
    "examples": [
     {
      "text": "CatGPT",
@@ -278,7 +278,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 14,
-   "share": 0.124,
+   "share": 0.123,
    "examples": [
     {
      "text": "@_samirism Dots just got a massive set of improvements",
@@ -300,7 +300,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 13,
-   "share": 0.115,
+   "share": 0.114,
    "examples": [
     {
      "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
@@ -344,7 +344,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.062,
+   "share": 0.061,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -1155,8 +1155,8 @@
    "date": "2026-11-15",
    "posts": 1,
    "replies": 0,
-   "likes": 4733,
-   "engagement_replies": 2543,
+   "likes": 4739,
+   "engagement_replies": 2548,
    "reset": 0,
    "banked": 0
   },
@@ -1164,8 +1164,8 @@
    "date": "2026-11-16",
    "posts": 1,
    "replies": 0,
-   "likes": 9215,
-   "engagement_replies": 2526,
+   "likes": 9227,
+   "engagement_replies": 2528,
    "reset": 0,
    "banked": 0
   },
@@ -1182,17 +1182,17 @@
    "date": "2026-11-18",
    "posts": 22,
    "replies": 20,
-   "likes": 46762,
-   "engagement_replies": 6382,
+   "likes": 47128,
+   "engagement_replies": 6407,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-19",
-   "posts": 3,
-   "replies": 2,
-   "likes": 2819,
-   "engagement_replies": 1891,
+   "posts": 4,
+   "replies": 3,
+   "likes": 3661,
+   "engagement_replies": 2296,
    "reset": 0,
    "banked": 0
   }
