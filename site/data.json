@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-18T02:53:36.838391+00:00",
- "generated_local": "2026-11-18 10:53",
+ "generated_at": "2026-11-18T10:56:51.777977+00:00",
+ "generated_local": "2026-11-18 18:56",
  "forecast": {
-  "p_24h": 0.0536,
-  "p_48h": 0.0726,
-  "p_72h": 0.0911,
-  "p_7d": 0.1617,
+  "p_24h": 0.02,
+  "p_48h": 0.0396,
+  "p_72h": 0.0588,
+  "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-18T03:53:36.838391+00:00",
-  "modal_reset_local": "2026-11-18 11:53",
-  "hours_since_last_reset": 500.3,
+  "modal_reset_at": "2026-11-19T06:56:51.777977+00:00",
+  "modal_reset_local": "2026-11-19 14:56",
+  "hours_since_last_reset": 508.35,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.1925,
+   "brier": 0.1898,
    "brier_baseline": 0.1875,
-   "logloss": 0.5768,
+   "logloss": 0.5723,
    "logloss_baseline": 0.5623,
-   "skill": -0.026,
+   "skill": -0.018,
    "base_rate": 0.25
   },
   "weekly": [
    {
     "date": "2026-11-18",
-    "p": 0.0517
+    "p": 0.0081
    },
    {
     "date": "2026-11-19",
-    "p": 0.019
+    "p": 0.0198
    },
    {
     "date": "2026-11-20",
-    "p": 0.0186
+    "p": 0.0194
    },
    {
     "date": "2026-11-21",
-    "p": 0.0182
+    "p": 0.0191
    },
    {
     "date": "2026-11-22",
-    "p": 0.0179
+    "p": 0.0187
    },
    {
     "date": "2026-11-23",
-    "p": 0.0175
+    "p": 0.0183
    },
    {
     "date": "2026-11-24",
-    "p": 0.0171
+    "p": 0.0179
    },
    {
     "date": "2026-11-25",
-    "p": 0.0168
+    "p": 0.0176
    },
    {
     "date": "2026-11-26",
-    "p": 0.0165
+    "p": 0.0172
    },
    {
     "date": "2026-11-27",
-    "p": 0.0161
+    "p": 0.0169
    },
    {
     "date": "2026-11-28",
-    "p": 0.0016
+    "p": 0.0099
    }
   ],
   "pending_promise": null
@@ -851,17 +851,17 @@
    "date": "2026-11-17",
    "posts": 1,
    "replies": 1,
-   "likes": 4196,
+   "likes": 4213,
    "engagement_replies": 971,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-18",
-   "posts": 9,
-   "replies": 8,
-   "likes": 17886,
-   "engagement_replies": 2635,
+   "posts": 22,
+   "replies": 20,
+   "likes": 38429,
+   "engagement_replies": 5738,
    "reset": 0,
    "banked": 0
   }
@@ -869,61 +869,97 @@
  "hot": {
   "top": [
    {
+    "term": "models",
+    "kind": "word",
+    "count_7d": 6,
+    "count_28d_before": 4,
+    "lift": 2.26,
+    "docs": 4,
+    "share": 0.0151,
+    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "sample_ts": "2026-11-15T06:01:14Z"
+   },
+   {
+    "term": "sol",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 1,
+    "lift": 2.95,
+    "docs": 4,
+    "share": 0.0126,
+    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
+    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
+    "sample_ts": "2026-11-17T03:37:22Z"
+   },
+   {
     "term": "team",
     "kind": "word",
-    "count_7d": 4,
+    "count_7d": 5,
     "count_28d_before": 7,
-    "lift": 1.87,
-    "docs": 4,
-    "share": 0.0208,
+    "lift": 1.46,
+    "docs": 5,
+    "share": 0.0126,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
+   },
+   {
+    "term": "codex",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 10,
+    "lift": 1.06,
+    "docs": 5,
+    "share": 0.0126,
+    "sample": "How can codex be improved? Try not to say model.",
+    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "sample_ts": "2026-11-13T02:09:55Z"
    },
    {
     "term": "red",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.53,
+    "lift": 2.29,
     "docs": 2,
-    "share": 0.0156,
+    "share": 0.0075,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
    },
    {
-    "term": "sol",
+    "term": "feedback",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 1,
-    "lift": 2.53,
+    "count_28d_before": 4,
+    "lift": 1.37,
+    "docs": 3,
+    "share": 0.0075,
+    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "sample_ts": "2026-11-15T06:01:14Z"
+   },
+   {
+    "term": "gpt",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 7,
+    "lift": 0.81,
     "docs": 2,
-    "share": 0.0156,
-    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
-    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
-    "sample_ts": "2026-11-17T03:37:22Z"
+    "share": 0.0075,
+    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
+    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
+    "sample_ts": "2026-11-17T18:09:24Z"
    },
    {
     "term": "model",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.39,
+    "lift": 0.66,
     "docs": 3,
-    "share": 0.0156,
-    "sample": "How can codex be improved? Try not to say model.",
-    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
-    "sample_ts": "2026-11-13T02:09:55Z"
-   },
-   {
-    "term": "codex",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 10,
-    "lift": 1.18,
-    "docs": 3,
-    "share": 0.0156,
+    "share": 0.0075,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -931,25 +967,13 @@
   ],
   "surge": [
    {
-    "term": "red",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 1,
-    "lift": 2.53,
-    "docs": 2,
-    "share": 0.0156,
-    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
-    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
-    "sample_ts": "2026-11-13T00:24:58Z"
-   },
-   {
     "term": "sol",
     "kind": "word",
-    "count_7d": 3,
+    "count_7d": 5,
     "count_28d_before": 1,
-    "lift": 2.53,
-    "docs": 2,
-    "share": 0.0156,
+    "lift": 2.95,
+    "docs": 4,
+    "share": 0.0126,
     "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
     "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
     "sample_ts": "2026-11-17T03:37:22Z"
@@ -961,7 +985,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0104,
+    "share": 0.005,
     "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
     "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
     "sample_ts": "2026-11-13T00:24:58Z"
@@ -973,55 +997,103 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0104,
+    "share": 0.005,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
    },
    {
-    "term": "banked reset",
+    "term": "sol astra",
     "kind": "phrase",
     "count_7d": 2,
-    "count_28d_before": 1,
-    "lift": 2.05,
+    "count_28d_before": 0,
+    "lift": 2.32,
     "docs": 2,
-    "share": 0.0104,
-    "sample": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
-    "sample_url": "https://x.com/thsottiaux/status/2120410480204525936",
-    "sample_ts": "2026-11-11T06:57:08Z"
+    "share": 0.005,
+    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
+    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
+    "sample_ts": "2026-11-17T18:09:24Z"
+   },
+   {
+    "term": "red",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 1,
+    "lift": 2.29,
+    "docs": 2,
+    "share": 0.0075,
+    "sample": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+    "sample_url": "https://x.com/thsottiaux/status/2121036562058400200",
+    "sample_ts": "2026-11-13T00:24:58Z"
+   },
+   {
+    "term": "models",
+    "kind": "word",
+    "count_7d": 6,
+    "count_28d_before": 4,
+    "lift": 2.26,
+    "docs": 4,
+    "share": 0.0151,
+    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "sample_ts": "2026-11-15T06:01:14Z"
    },
    {
     "term": "team",
     "kind": "word",
-    "count_7d": 4,
+    "count_7d": 5,
     "count_28d_before": 7,
-    "lift": 1.87,
-    "docs": 4,
-    "share": 0.0208,
+    "lift": 1.46,
+    "docs": 5,
+    "share": 0.0126,
     "sample": "@argofowl Hi 👋 Doing well. Team is busy",
     "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
     "sample_ts": "2026-11-13T06:54:27Z"
+   },
+   {
+    "term": "feedback",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 4,
+    "lift": 1.37,
+    "docs": 3,
+    "share": 0.0075,
+    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "sample_ts": "2026-11-15T06:01:14Z"
+   },
+   {
+    "term": "codex",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 10,
+    "lift": 1.06,
+    "docs": 5,
+    "share": 0.0126,
+    "sample": "How can codex be improved? Try not to say model.",
+    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "sample_ts": "2026-11-13T02:09:55Z"
+   },
+   {
+    "term": "gpt",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 7,
+    "lift": 0.81,
+    "docs": 2,
+    "share": 0.0075,
+    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
+    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
+    "sample_ts": "2026-11-17T18:09:24Z"
    },
    {
     "term": "model",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 1.39,
+    "lift": 0.66,
     "docs": 3,
-    "share": 0.0156,
-    "sample": "How can codex be improved? Try not to say model.",
-    "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
-    "sample_ts": "2026-11-13T02:09:55Z"
-   },
-   {
-    "term": "codex",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 10,
-    "lift": 1.18,
-    "docs": 3,
-    "share": 0.0156,
+    "share": 0.0075,
     "sample": "How can codex be improved? Try not to say model.",
     "sample_url": "https://x.com/thsottiaux/status/2121062974161092792",
     "sample_ts": "2026-11-13T02:09:55Z"
@@ -1032,9 +1104,9 @@
   "window_days": 14,
   "count_24h": 1,
   "count_72h": 2,
-  "count_7d": 5,
+  "count_7d": 3,
   "since_last_reset": 11,
-  "baseline_per_day": 1.82,
+  "baseline_per_day": 1.75,
   "level": "quiet",
   "items": [
    {
@@ -1050,7 +1122,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 8.7
+    "age_hours": 16.8
    },
    {
     "id": "2122206990101536852",
@@ -1065,7 +1137,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 45.0
+    "age_hours": 53.0
    },
    {
     "id": "r-2121007235465577607",
@@ -1080,7 +1152,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 124.4
+    "age_hours": 132.5
    },
    {
     "id": "2120410480204525936",
@@ -1095,7 +1167,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 163.9
+    "age_hours": 172.0
    },
    {
     "id": "2120410006273380750",
@@ -1110,7 +1182,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 164.0
+    "age_hours": 172.0
    },
    {
     "id": "2119308687676432672",
@@ -1125,7 +1197,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 236.9
+    "age_hours": 245.0
    },
    {
     "id": "2119296267545419987",
@@ -1140,7 +1212,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 237.7
+    "age_hours": 245.8
    },
    {
     "id": "2119232059537514598",
@@ -1155,7 +1227,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 242.0
+    "age_hours": 250.0
    },
    {
     "id": "2119113859747426370",
@@ -1170,7 +1242,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 249.8
+    "age_hours": 257.9
    },
    {
     "id": "2118931941907165401",
@@ -1185,7 +1257,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 261.9
+    "age_hours": 269.9
    },
    {
     "id": "2118024737070957009",
@@ -1200,7 +1272,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 321.9
+    "age_hours": 330.0
    }
   ]
  },
@@ -1212,7 +1284,7 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-18T02:53:36+00:00",
+    "at": "2026-11-18T10:56:51+00:00",
     "ok": true,
     "fetched": 2,
     "cached": 0,
@@ -1220,10 +1292,10 @@
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T02:53:36+00:00"
+    "last_ok": "2026-11-18T10:56:51+00:00"
    },
    "feed": {
-    "at": "2026-11-18T02:53:36+00:00",
+    "at": "2026-11-18T10:56:51+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1231,18 +1303,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T02:53:36+00:00"
+    "last_ok": "2026-11-18T10:56:51+00:00"
    },
    "pipeline": {
-    "at": "2026-11-18T02:53:34+00:00",
+    "at": "2026-11-18T10:56:49+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-18T02:53:34+00:00"
+    "last_ok": "2026-11-18T10:56:49+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-18T02:53:36+00:00",
+   "checked_at": "2026-11-18T10:56:51+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1294,14 +1366,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-13T17:11:21+00:00",
-    "mode": "full",
-    "seconds": 57.3,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-13T23:31:12+00:00",
     "mode": "full",
@@ -1417,7 +1481,15 @@
    {
     "at": "2026-11-18T02:53:34+00:00",
     "mode": "fast",
-    "seconds": 2.8,
+    "seconds": 2.9,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-18T10:56:49+00:00",
+    "mode": "fast",
+    "seconds": 2.1,
     "ok": true,
     "failed": [],
     "warnings": []
