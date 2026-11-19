@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T01:16:34.321785+00:00",
- "generated_at_local": "2026-11-19 09:16",
+ "generated_at": "2026-11-19T02:33:26.429390+00:00",
+ "generated_at_local": "2026-11-19 10:33",
  "timezone": "UTC+8",
  "posts": 919,
  "replies": 668,
@@ -10,7 +10,7 @@
  "resets_tracked": 38,
  "p_24h": 0.02,
  "p_48h": 0.0396,
- "modal_reset_at": "2026-11-19T06:16:34.321785+00:00",
+ "modal_reset_at": "2026-11-19T06:33:26.429390+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1921,
@@ -280,7 +280,7 @@
   {
    "topic": "Models",
    "posts": 16,
-   "share": 0.147,
+   "share": 0.148,
    "examples": [
     {
      "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
@@ -302,7 +302,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 13,
-   "share": 0.119,
+   "share": 0.12,
    "examples": [
     {
      "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when",
@@ -324,7 +324,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 13,
-   "share": 0.119,
+   "share": 0.12,
    "examples": [
     {
      "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. h",
@@ -346,7 +346,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 10,
-   "share": 0.092,
+   "share": 0.093,
    "examples": [
     {
      "text": "@dani_avila7 Codex",
@@ -368,7 +368,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.064,
+   "share": 0.065,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -390,7 +390,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 2,
-   "share": 0.018,
+   "share": 0.019,
    "examples": [
     {
      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
@@ -1206,8 +1206,8 @@
    "date": "2026-11-18",
    "posts": 22,
    "replies": 20,
-   "likes": 48101,
-   "engagement_replies": 6465,
+   "likes": 48314,
+   "engagement_replies": 6476,
    "reset": 0,
    "banked": 0
   },
@@ -1215,8 +1215,8 @@
    "date": "2026-11-19",
    "posts": 7,
    "replies": 5,
-   "likes": 8063,
-   "engagement_replies": 3484,
+   "likes": 8677,
+   "engagement_replies": 3671,
    "reset": 0,
    "banked": 0
   }
