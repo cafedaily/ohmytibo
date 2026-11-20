@@ -319,11 +319,11 @@
   "promise:2120999993079451919"
  ],
  "summary": {
-  "checked_at": "2026-11-19T20:33:15+00:00",
+  "checked_at": "2026-11-20T00:06:15+00:00",
   "channels": [],
   "configured": false,
   "pending": 0,
-  "undelivered_7d": 2,
+  "undelivered_7d": 0,
   "last_sent": null,
   "recent": [
    {
