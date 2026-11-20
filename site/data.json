@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T02:18:56.499304+00:00",
- "generated_local": "2026-11-20 10:18",
+ "generated_at": "2026-11-20T07:04:19.694246+00:00",
+ "generated_local": "2026-11-20 15:04",
  "forecast": {
   "p_24h": 0.02,
   "p_48h": 0.0396,
@@ -8,66 +8,66 @@
   "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-20T06:18:56.499304+00:00",
-  "modal_reset_local": "2026-11-20 14:18",
-  "hours_since_last_reset": 547.72,
+  "modal_reset_at": "2026-11-21T06:04:19.694246+00:00",
+  "modal_reset_local": "2026-11-21 14:04",
+  "hours_since_last_reset": 552.48,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.1908,
+   "brier": 0.1875,
    "brier_baseline": 0.1875,
-   "logloss": 0.5717,
+   "logloss": 0.5633,
    "logloss_baseline": 0.5623,
-   "skill": -0.017,
+   "skill": -0.002,
    "base_rate": 0.25
   },
   "weekly": [
    {
     "date": "2026-11-20",
-    "p": 0.018
+    "p": 0.0087
    },
    {
     "date": "2026-11-21",
-    "p": 0.0196
+    "p": 0.0198
    },
    {
     "date": "2026-11-22",
-    "p": 0.0192
+    "p": 0.0194
    },
    {
     "date": "2026-11-23",
-    "p": 0.0189
+    "p": 0.019
    },
    {
     "date": "2026-11-24",
-    "p": 0.0185
+    "p": 0.0187
    },
    {
     "date": "2026-11-25",
-    "p": 0.0181
+    "p": 0.0183
    },
    {
     "date": "2026-11-26",
-    "p": 0.0178
+    "p": 0.0179
    },
    {
     "date": "2026-11-27",
-    "p": 0.0174
+    "p": 0.0176
    },
    {
     "date": "2026-11-28",
-    "p": 0.0171
+    "p": 0.0172
    },
    {
     "date": "2026-11-29",
-    "p": 0.0167
+    "p": 0.0169
    },
    {
     "date": "2026-11-30",
-    "p": 0.0017
+    "p": 0.0094
    }
   ],
   "pending_promise": null
@@ -876,10 +876,10 @@
   },
   {
    "date": "2026-11-20",
-   "posts": 7,
-   "replies": 4,
-   "likes": 20280,
-   "engagement_replies": 2310,
+   "posts": 12,
+   "replies": 8,
+   "likes": 30612,
+   "engagement_replies": 3430,
    "reset": 0,
    "banked": 0
   }
@@ -891,21 +891,33 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 1,
-    "lift": 3.25,
+    "lift": 3.21,
     "docs": 6,
-    "share": 0.0132,
+    "share": 0.0125,
     "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
     "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
     "sample_ts": "2026-11-17T03:37:22Z"
+   },
+   {
+    "term": "chatgpt",
+    "kind": "word",
+    "count_7d": 6,
+    "count_28d_before": 3,
+    "lift": 2.19,
+    "docs": 3,
+    "share": 0.0107,
+    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
+    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
+    "sample_ts": "2026-11-19T23:17:19Z"
    },
    {
     "term": "feedback",
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 4,
-    "lift": 1.97,
+    "lift": 1.91,
     "docs": 6,
-    "share": 0.0113,
+    "share": 0.0107,
     "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
     "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
     "sample_ts": "2026-11-15T06:01:14Z"
@@ -915,9 +927,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 4,
-    "lift": 1.97,
+    "lift": 1.91,
     "docs": 4,
-    "share": 0.0113,
+    "share": 0.0107,
     "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
     "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
     "sample_ts": "2026-11-15T06:01:14Z"
@@ -926,70 +938,82 @@
     "term": "team",
     "kind": "word",
     "count_7d": 6,
-    "count_28d_before": 7,
-    "lift": 1.36,
+    "count_28d_before": 8,
+    "lift": 1.13,
     "docs": 6,
-    "share": 0.0113,
-    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
-    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
-    "sample_ts": "2026-11-13T06:54:27Z"
-   },
-   {
-    "term": "chatgpt",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 3,
-    "lift": 2.0,
-    "docs": 2,
-    "share": 0.0095,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
+    "share": 0.0107,
+    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "sample_ts": "2026-11-15T06:01:14Z"
    },
    {
     "term": "codex",
     "kind": "word",
-    "count_7d": 5,
+    "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 0.58,
-    "docs": 5,
-    "share": 0.0095,
+    "lift": 0.74,
+    "docs": 6,
+    "share": 0.0107,
     "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
     "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
     "sample_ts": "2026-11-15T06:01:14Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 7,
+    "lift": 1.05,
+    "docs": 4,
+    "share": 0.0089,
+    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
+    "sample_url": "https://x.com/thsottiaux/status/2122929829863735594",
+    "sample_ts": "2026-11-18T05:48:08Z"
    },
    {
     "term": "gpt",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 7,
-    "lift": 0.83,
+    "lift": 0.76,
     "docs": 3,
-    "share": 0.0076,
+    "share": 0.0071,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
    },
    {
-    "term": "users",
+    "term": "feel",
     "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 7,
-    "lift": 0.83,
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
     "docs": 3,
-    "share": 0.0076,
-    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
-    "sample_url": "https://x.com/thsottiaux/status/2122929829863735594",
-    "sample_ts": "2026-11-18T05:48:08Z"
+    "share": 0.0053,
+    "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+    "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
+    "sample_ts": "2026-11-17T18:11:38Z"
+   },
+   {
+    "term": "experience",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 2,
+    "share": 0.0053,
+    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
+    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
+    "sample_ts": "2026-11-19T23:20:58Z"
    },
    {
     "term": "astra",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.15,
+    "lift": 2.12,
     "docs": 3,
-    "share": 0.0057,
+    "share": 0.0053,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
@@ -999,9 +1023,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.08,
+    "lift": 1.02,
     "docs": 3,
-    "share": 0.0057,
+    "share": 0.0053,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
     "sample_url": "https://x.com/thsottiaux/status/2122929634916679820",
     "sample_ts": "2026-11-18T05:47:21Z"
@@ -1011,9 +1035,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 14,
-    "lift": -0.38,
+    "lift": -0.46,
     "docs": 3,
-    "share": 0.0057,
+    "share": 0.0053,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
@@ -1025,12 +1049,36 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 1,
-    "lift": 3.25,
+    "lift": 3.21,
     "docs": 6,
-    "share": 0.0132,
+    "share": 0.0125,
     "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
     "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
     "sample_ts": "2026-11-17T03:37:22Z"
+   },
+   {
+    "term": "feel",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 3,
+    "share": 0.0053,
+    "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+    "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
+    "sample_ts": "2026-11-17T18:11:38Z"
+   },
+   {
+    "term": "experience",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 0,
+    "lift": 2.81,
+    "docs": 2,
+    "share": 0.0053,
+    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
+    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
+    "sample_ts": "2026-11-19T23:20:58Z"
    },
    {
     "term": "gpt sol",
@@ -1039,7 +1087,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0038,
+    "share": 0.0036,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
@@ -1051,7 +1099,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0038,
+    "share": 0.0036,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
@@ -1063,7 +1111,19 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0038,
+    "share": 0.0036,
+    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
+    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
+    "sample_ts": "2026-11-19T23:17:19Z"
+   },
+   {
+    "term": "chatgpt",
+    "kind": "word",
+    "count_7d": 6,
+    "count_28d_before": 3,
+    "lift": 2.19,
+    "docs": 3,
+    "share": 0.0107,
     "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
     "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
     "sample_ts": "2026-11-19T23:17:19Z"
@@ -1073,33 +1133,21 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 1,
-    "lift": 2.15,
+    "lift": 2.12,
     "docs": 3,
-    "share": 0.0057,
+    "share": 0.0053,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
-   },
-   {
-    "term": "chatgpt",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 3,
-    "lift": 2.0,
-    "docs": 2,
-    "share": 0.0095,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
    },
    {
     "term": "feedback",
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 4,
-    "lift": 1.97,
+    "lift": 1.91,
     "docs": 6,
-    "share": 0.0113,
+    "share": 0.0107,
     "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
     "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
     "sample_ts": "2026-11-15T06:01:14Z"
@@ -1109,9 +1157,9 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 4,
-    "lift": 1.97,
+    "lift": 1.91,
     "docs": 4,
-    "share": 0.0113,
+    "share": 0.0107,
     "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
     "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
     "sample_ts": "2026-11-15T06:01:14Z"
@@ -1120,22 +1168,34 @@
     "term": "team",
     "kind": "word",
     "count_7d": 6,
-    "count_28d_before": 7,
-    "lift": 1.36,
+    "count_28d_before": 8,
+    "lift": 1.13,
     "docs": 6,
-    "share": 0.0113,
-    "sample": "@argofowl Hi 👋 Doing well. Team is busy",
-    "sample_url": "https://x.com/thsottiaux/status/2121134582527594929",
-    "sample_ts": "2026-11-13T06:54:27Z"
+    "share": 0.0107,
+    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "sample_ts": "2026-11-15T06:01:14Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 7,
+    "lift": 1.05,
+    "docs": 4,
+    "share": 0.0089,
+    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
+    "sample_url": "https://x.com/thsottiaux/status/2122929829863735594",
+    "sample_ts": "2026-11-18T05:48:08Z"
    },
    {
     "term": "excited",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.08,
+    "lift": 1.02,
     "docs": 3,
-    "share": 0.0057,
+    "share": 0.0053,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
     "sample_url": "https://x.com/thsottiaux/status/2122929634916679820",
     "sample_ts": "2026-11-18T05:47:21Z"
@@ -1145,33 +1205,21 @@
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 7,
-    "lift": 0.83,
+    "lift": 0.76,
     "docs": 3,
-    "share": 0.0076,
+    "share": 0.0071,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
    },
    {
-    "term": "users",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 7,
-    "lift": 0.83,
-    "docs": 3,
-    "share": 0.0076,
-    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
-    "sample_url": "https://x.com/thsottiaux/status/2122929829863735594",
-    "sample_ts": "2026-11-18T05:48:08Z"
-   },
-   {
     "term": "codex",
     "kind": "word",
-    "count_7d": 5,
+    "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 0.58,
-    "docs": 5,
-    "share": 0.0095,
+    "lift": 0.74,
+    "docs": 6,
+    "share": 0.0107,
     "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
     "sample_url": "https://x.com/thsottiaux/status/2121845965997101118",
     "sample_ts": "2026-11-15T06:01:14Z"
@@ -1181,9 +1229,9 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 14,
-    "lift": -0.38,
+    "lift": -0.46,
     "docs": 3,
-    "share": 0.0057,
+    "share": 0.0053,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
     "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
     "sample_ts": "2026-11-17T18:09:24Z"
@@ -1212,7 +1260,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 56.1
+    "age_hours": 60.9
    },
    {
     "id": "2122206990101536852",
@@ -1227,7 +1275,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 92.4
+    "age_hours": 97.1
    },
    {
     "id": "r-2121007235465577607",
@@ -1242,7 +1290,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 171.8
+    "age_hours": 176.6
    },
    {
     "id": "2120410480204525936",
@@ -1257,7 +1305,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 211.4
+    "age_hours": 216.1
    },
    {
     "id": "2120410006273380750",
@@ -1272,7 +1320,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 211.4
+    "age_hours": 216.2
    },
    {
     "id": "2119308687676432672",
@@ -1287,7 +1335,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 284.3
+    "age_hours": 289.1
    },
    {
     "id": "2119296267545419987",
@@ -1302,7 +1350,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 285.2
+    "age_hours": 289.9
    },
    {
     "id": "2119232059537514598",
@@ -1317,7 +1365,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 289.4
+    "age_hours": 294.2
    },
    {
     "id": "2119113859747426370",
@@ -1332,7 +1380,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 297.2
+    "age_hours": 302.0
    },
    {
     "id": "2118931941907165401",
@@ -1347,7 +1395,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 309.3
+    "age_hours": 314.0
    }
   ]
  },
@@ -1359,18 +1407,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-20T02:18:56+00:00",
+    "at": "2026-11-20T07:04:19+00:00",
     "ok": true,
-    "fetched": 59,
+    "fetched": 2,
     "cached": 0,
-    "empty": 2,
+    "empty": 0,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-20T02:18:56+00:00"
+    "last_ok": "2026-11-20T07:04:19+00:00"
    },
    "feed": {
-    "at": "2026-11-20T02:18:56+00:00",
+    "at": "2026-11-20T07:04:19+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1378,18 +1426,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-20T02:18:56+00:00"
+    "last_ok": "2026-11-20T07:04:19+00:00"
    },
    "pipeline": {
-    "at": "2026-11-20T02:17:58+00:00",
+    "at": "2026-11-20T07:04:17+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-20T02:17:58+00:00"
+    "last_ok": "2026-11-20T07:04:17+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-20T02:18:56+00:00",
+   "checked_at": "2026-11-20T07:04:19+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1441,14 +1489,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-16T20:57:04+00:00",
-    "mode": "fast",
-    "seconds": 2.1,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-17T03:49:45+00:00",
     "mode": "full",
@@ -1564,7 +1604,15 @@
    {
     "at": "2026-11-20T02:17:58+00:00",
     "mode": "full",
-    "seconds": 58.1,
+    "seconds": 58.2,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-20T07:04:17+00:00",
+    "mode": "fast",
+    "seconds": 2.5,
     "ok": true,
     "failed": [],
     "warnings": []
