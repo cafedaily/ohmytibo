@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-20T07:04:19.694246+00:00",
- "generated_at_local": "2026-11-20 15:04",
+ "generated_at": "2026-11-20T11:34:02.176271+00:00",
+ "generated_at_local": "2026-11-20 19:34",
  "timezone": "UTC+8",
- "posts": 931,
- "replies": 676,
+ "posts": 932,
+ "replies": 677,
  "days_covered": 90,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-20T03:56:08Z",
+ "last_post": "2026-11-20T08:20:52Z",
  "resets_tracked": 38,
  "p_24h": 0.02,
  "p_48h": 0.0396,
- "modal_reset_at": "2026-11-21T06:04:19.694246+00:00",
+ "modal_reset_at": "2026-11-21T06:34:02.176271+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1875,
@@ -316,7 +316,7 @@
   {
    "topic": "Models",
    "posts": 18,
-   "share": 0.189,
+   "share": 0.188,
    "examples": [
     {
      "text": "@hakmgpt That is not correct.",
@@ -338,7 +338,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 15,
-   "share": 0.158,
+   "share": 0.156,
    "examples": [
     {
      "text": "Quite cool what you can do with a single prompt these days 👀",
@@ -360,7 +360,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 12,
-   "share": 0.126,
+   "share": 0.125,
    "examples": [
     {
      "text": "It's Friday",
@@ -382,7 +382,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 10,
-   "share": 0.105,
+   "share": 0.104,
    "examples": [
     {
      "text": "@apples_jimmy Nobody touch roon",
@@ -404,7 +404,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.074,
+   "share": 0.073,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -1252,7 +1252,7 @@
    "date": "2026-11-18",
    "posts": 22,
    "replies": 20,
-   "likes": 50966,
+   "likes": 51006,
    "engagement_replies": 6705,
    "reset": 0,
    "banked": 0
@@ -1261,17 +1261,17 @@
    "date": "2026-11-19",
    "posts": 7,
    "replies": 5,
-   "likes": 12540,
-   "engagement_replies": 5024,
+   "likes": 12764,
+   "engagement_replies": 5102,
    "reset": 0,
    "banked": 0
   },
   {
    "date": "2026-11-20",
-   "posts": 12,
-   "replies": 8,
-   "likes": 30612,
-   "engagement_replies": 3430,
+   "posts": 13,
+   "replies": 9,
+   "likes": 35387,
+   "engagement_replies": 3971,
    "reset": 0,
    "banked": 0
   }

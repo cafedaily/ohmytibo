@@ -358,7 +358,7 @@
   {
    "topic": "Models",
    "posts": 18,
-   "share": 0.189,
+   "share": 0.188,
    "examples": [
     {
      "text": "@hakmgpt That is not correct.",
@@ -380,7 +380,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 15,
-   "share": 0.158,
+   "share": 0.156,
    "examples": [
     {
      "text": "Quite cool what you can do with a single prompt these days 👀",
@@ -402,7 +402,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 12,
-   "share": 0.126,
+   "share": 0.125,
    "examples": [
     {
      "text": "It's Friday",
@@ -424,7 +424,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 10,
-   "share": 0.105,
+   "share": 0.104,
    "examples": [
     {
      "text": "@apples_jimmy Nobody touch roon",
@@ -446,7 +446,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.074,
+   "share": 0.073,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -519,121 +519,7 @@
    "total": 8
   },
   {
-   "handle": "_simonsmith",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Conor_D_Dart",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "notjazii",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "zedsolar123",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Leapofcode",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
    "handle": "skalskip92",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "pradeepXkapoor",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "iruletheworldmo",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "IsaiahJGonzalez",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "lawgimenez",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Wilf_Lin",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "swyx",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "Yampeleg",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "MiaAI_lab",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "dingchilling",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "DannyIO",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mattshumer_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "arcprize",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "adonis_singh",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "JamesMalsawm",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -645,16 +531,130 @@
    "total": 2
   },
   {
+   "handle": "pradeepXkapoor",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "adonis_singh",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "mattshumer_",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "lawgimenez",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "notjazii",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
    "handle": "JoshPurtell",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "OpenAI",
-   "replies": 0,
+   "handle": "dingchilling",
+   "replies": 1,
    "named": 1,
-   "total": 1
+   "total": 2
+  },
+  {
+   "handle": "Conor_D_Dart",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "arcprize",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "iruletheworldmo",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "tszzl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesMalsawm",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "zedsolar123",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "swyx",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "IsaiahJGonzalez",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Leapofcode",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "_simonsmith",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "DannyIO",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Yampeleg",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Wilf_Lin",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "MiaAI_lab",
+   "replies": 1,
+   "named": 1,
+   "total": 2
   }
  ],
  "reset_lexicon": [
