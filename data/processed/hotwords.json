@@ -18,7 +18,7 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 1,
-   "lift": 3.14,
+   "lift": 3.11,
    "docs": 6,
    "share": 0.0115,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
@@ -42,7 +42,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 2,
-   "lift": 2.43,
+   "lift": 2.39,
    "docs": 3,
    "share": 0.0099,
    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
@@ -90,7 +90,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 3,
-   "lift": 2.06,
+   "lift": 2.02,
    "docs": 6,
    "share": 0.0099,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -102,7 +102,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.04,
+   "lift": 2.01,
    "docs": 3,
    "share": 0.0049,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -114,7 +114,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 4,
-   "lift": 1.77,
+   "lift": 1.72,
    "docs": 4,
    "share": 0.0099,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -126,7 +126,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 1.54,
+   "lift": 1.5,
    "docs": 3,
    "share": 0.0049,
    "sample": "@Conor_D_Dart Much faster too",
@@ -138,7 +138,7 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 7,
-   "lift": 1.34,
+   "lift": 1.28,
    "docs": 7,
    "share": 0.0115,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -150,7 +150,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 6,
-   "lift": 1.07,
+   "lift": 1.02,
    "docs": 4,
    "share": 0.0082,
    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
@@ -158,11 +158,23 @@
    "sample_ts": "2026-11-18T05:48:08Z"
   },
   {
+   "term": "gpt",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 5,
+   "lift": 0.94,
+   "docs": 3,
+   "share": 0.0066,
+   "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
+   "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
+   "sample_ts": "2026-11-17T18:09:24Z"
+  },
+  {
    "term": "excited",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 0.87,
+   "lift": 0.83,
    "docs": 3,
    "share": 0.0049,
    "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -174,7 +186,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 0.87,
+   "lift": 0.83,
    "docs": 3,
    "share": 0.0049,
    "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -182,23 +194,11 @@
    "sample_ts": "2026-11-18T05:47:21Z"
   },
   {
-   "term": "gpt",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 6,
-   "lift": 0.78,
-   "docs": 3,
-   "share": 0.0066,
-   "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
-   "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
-   "sample_ts": "2026-11-17T18:09:24Z"
-  },
-  {
    "term": "codex",
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 10,
-   "lift": 0.69,
+   "lift": 0.63,
    "docs": 6,
    "share": 0.0099,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -210,7 +210,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": -0.32,
+   "lift": -0.38,
    "docs": 3,
    "share": 0.0049,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -224,7 +224,7 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 1,
-   "lift": 3.14,
+   "lift": 3.11,
    "docs": 6,
    "share": 0.0115,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
@@ -236,7 +236,7 @@
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 7,
-   "lift": 1.34,
+   "lift": 1.28,
    "docs": 7,
    "share": 0.0115,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -248,7 +248,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 2,
-   "lift": 2.43,
+   "lift": 2.39,
    "docs": 3,
    "share": 0.0099,
    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
@@ -260,7 +260,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 3,
-   "lift": 2.06,
+   "lift": 2.02,
    "docs": 6,
    "share": 0.0099,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -272,7 +272,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 4,
-   "lift": 1.77,
+   "lift": 1.72,
    "docs": 4,
    "share": 0.0099,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -284,7 +284,7 @@
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 10,
-   "lift": 0.69,
+   "lift": 0.63,
    "docs": 6,
    "share": 0.0099,
    "sample": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
@@ -296,7 +296,7 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 6,
-   "lift": 1.07,
+   "lift": 1.02,
    "docs": 4,
    "share": 0.0082,
    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
@@ -319,8 +319,8 @@
    "term": "gpt",
    "kind": "word",
    "count_7d": 4,
-   "count_28d_before": 6,
-   "lift": 0.78,
+   "count_28d_before": 5,
+   "lift": 0.94,
    "docs": 3,
    "share": 0.0066,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -344,7 +344,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.04,
+   "lift": 2.01,
    "docs": 3,
    "share": 0.0049,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -356,7 +356,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 2,
-   "lift": 1.54,
+   "lift": 1.5,
    "docs": 3,
    "share": 0.0049,
    "sample": "@Conor_D_Dart Much faster too",
@@ -368,7 +368,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 0.87,
+   "lift": 0.83,
    "docs": 3,
    "share": 0.0049,
    "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -380,7 +380,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 4,
-   "lift": 0.87,
+   "lift": 0.83,
    "docs": 3,
    "share": 0.0049,
    "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -392,7 +392,7 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 11,
-   "lift": -0.32,
+   "lift": -0.38,
    "docs": 3,
    "share": 0.0049,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -401,12 +401,12 @@
   }
  ],
  "tokens_recent": 608,
- "tokens_base": 1722,
+ "tokens_base": 1649,
  "topics": [
   {
    "topic": "Models",
    "posts": 18,
-   "share": 0.207,
+   "share": 0.212,
    "examples": [
     {
      "text": "@hakmgpt That is not correct.",
@@ -428,7 +428,7 @@
   {
    "topic": "Plans / pricing",
    "posts": 14,
-   "share": 0.161,
+   "share": 0.165,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -450,7 +450,7 @@
   {
    "topic": "Codex / dev tooling",
    "posts": 11,
-   "share": 0.126,
+   "share": 0.129,
    "examples": [
     {
      "text": "We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
@@ -472,7 +472,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 10,
-   "share": 0.115,
+   "share": 0.118,
    "examples": [
     {
      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
@@ -494,7 +494,7 @@
   {
    "topic": "Reset / quota",
    "posts": 7,
-   "share": 0.08,
+   "share": 0.082,
    "examples": [
     {
      "text": "We doubled the usage on Pro plans and Business 100",
@@ -516,7 +516,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 4,
-   "share": 0.046,
+   "share": 0.047,
    "examples": [
     {
      "text": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excit",
@@ -538,7 +538,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 2,
-   "share": 0.023,
+   "share": 0.024,
    "examples": [
     {
      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
@@ -573,43 +573,7 @@
    "total": 2
   },
   {
-   "handle": "tszzl",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "mattshumer_",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "lawgimenez",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "skalskip92",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "IsaiahJGonzalez",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "notjazii",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "iruletheworldmo",
+   "handle": "charliermarsh",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -621,61 +585,37 @@
    "total": 2
   },
   {
-   "handle": "JoshPurtell",
+   "handle": "adonis_singh",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "MiaAI_lab",
+   "handle": "iruletheworldmo",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "Leapofcode",
+   "handle": "notjazii",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "JamesMalsawm",
+   "handle": "skalskip92",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
-   "handle": "zedsolar123",
+   "handle": "pradeepXkapoor",
    "replies": 1,
    "named": 1,
    "total": 2
   },
   {
    "handle": "Conor_D_Dart",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "The_Alex",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "arcprize",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "DannyIO",
-   "replies": 1,
-   "named": 1,
-   "total": 2
-  },
-  {
-   "handle": "DylanMcD8",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -699,7 +639,67 @@
    "total": 2
   },
   {
-   "handle": "charliermarsh",
+   "handle": "lawgimenez",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "JamesMalsawm",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "arcprize",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "DannyIO",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "zedsolar123",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "Leapofcode",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "DylanMcD8",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "IsaiahJGonzalez",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "tszzl",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "dingchilling",
+   "replies": 1,
+   "named": 1,
+   "total": 2
+  },
+  {
+   "handle": "MiaAI_lab",
    "replies": 1,
    "named": 1,
    "total": 2
@@ -737,7 +737,7 @@
    "limit": 0,
    "limits": 1,
    "vote": 0,
-   "day": 10,
+   "day": 9,
    "series": 0
   },
   {
@@ -754,19 +754,19 @@
    "limit": 1,
    "limits": 2,
    "vote": 0,
-   "day": 17,
+   "day": 18,
    "series": 1
   },
   {
    "week": 3,
    "label": "21天前",
    "reset": 8,
-   "resets": 3,
+   "resets": 2,
    "reseted": 0,
    "banked": 1,
    "eod": 1,
    "propagate": 0,
-   "propagated": 2,
+   "propagated": 1,
    "usage": 12,
    "limit": 1,
    "limits": 0,
@@ -778,12 +778,12 @@
    "week": 4,
    "label": "28天前",
    "reset": 1,
-   "resets": 0,
+   "resets": 1,
    "reseted": 0,
    "banked": 0,
    "eod": 0,
    "propagate": 0,
-   "propagated": 0,
+   "propagated": 1,
    "usage": 1,
    "limit": 0,
    "limits": 1,
