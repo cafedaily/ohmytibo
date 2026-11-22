@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T11:18:22.086164+00:00",
- "generated_local": "2026-11-22 19:18",
+ "generated_at": "2026-11-22T19:35:48.256705+00:00",
+ "generated_local": "2026-11-23 03:35",
  "forecast": {
   "p_24h": 0.02,
   "p_48h": 0.0396,
@@ -8,34 +8,34 @@
   "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-23T06:18:22.086164+00:00",
-  "modal_reset_local": "2026-11-23 14:18",
-  "hours_since_last_reset": 604.71,
+  "modal_reset_at": "2026-11-23T06:35:48.256705+00:00",
+  "modal_reset_local": "2026-11-23 14:35",
+  "hours_since_last_reset": 613.0,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.1742,
+   "brier": 0.1734,
    "brier_baseline": 0.1756,
-   "logloss": 0.5292,
+   "logloss": 0.5231,
    "logloss_baseline": 0.536,
-   "skill": 0.013,
+   "skill": 0.024,
    "base_rate": 0.2273
   },
   "weekly": [
    {
     "date": "2026-11-22",
-    "p": 0.0081
+    "p": 0.0041
    },
    {
     "date": "2026-11-23",
-    "p": 0.0198
+    "p": 0.0199
    },
    {
     "date": "2026-11-24",
-    "p": 0.0194
+    "p": 0.0195
    },
    {
     "date": "2026-11-25",
@@ -47,11 +47,11 @@
    },
    {
     "date": "2026-11-27",
-    "p": 0.0183
+    "p": 0.0184
    },
    {
     "date": "2026-11-28",
-    "p": 0.0179
+    "p": 0.018
    },
    {
     "date": "2026-11-29",
@@ -59,7 +59,7 @@
    },
    {
     "date": "2026-11-30",
-    "p": 0.0172
+    "p": 0.0173
    },
    {
     "date": "2026-12-01",
@@ -67,7 +67,7 @@
    },
    {
     "date": "2026-12-02",
-    "p": 0.0099
+    "p": 0.0133
    }
   ],
   "pending_promise": null
@@ -869,7 +869,7 @@
    "date": "2026-11-19",
    "posts": 7,
    "replies": 5,
-   "likes": 12927,
+   "likes": 12930,
    "engagement_replies": 5152,
    "reset": 0,
    "banked": 0
@@ -878,8 +878,8 @@
    "date": "2026-11-20",
    "posts": 13,
    "replies": 9,
-   "likes": 43398,
-   "engagement_replies": 4777,
+   "likes": 43444,
+   "engagement_replies": 4786,
    "reset": 0,
    "banked": 0
   },
@@ -887,8 +887,8 @@
    "date": "2026-11-21",
    "posts": 7,
    "replies": 4,
-   "likes": 18088,
-   "engagement_replies": 2190,
+   "likes": 18500,
+   "engagement_replies": 2224,
    "reset": 0,
    "banked": 0
   },
@@ -896,8 +896,8 @@
    "date": "2026-11-22",
    "posts": 2,
    "replies": 0,
-   "likes": 5649,
-   "engagement_replies": 1920,
+   "likes": 6689,
+   "engagement_replies": 2338,
    "reset": 0,
    "banked": 0
   }
@@ -921,7 +921,7 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 2,
-    "lift": 2.62,
+    "lift": 2.61,
     "docs": 4,
     "share": 0.0117,
     "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
@@ -933,7 +933,7 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 8,
-    "lift": 1.15,
+    "lift": 1.14,
     "docs": 7,
     "share": 0.0117,
     "sample": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
@@ -945,7 +945,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 0.54,
+    "lift": 0.53,
     "docs": 6,
     "share": 0.01,
     "sample": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
@@ -957,7 +957,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 4,
-    "lift": 1.5,
+    "lift": 1.49,
     "docs": 5,
     "share": 0.0083,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -969,7 +969,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 5,
-    "lift": 1.25,
+    "lift": 1.24,
     "docs": 3,
     "share": 0.0083,
     "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
@@ -981,7 +981,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 6,
-    "lift": 1.04,
+    "lift": 1.03,
     "docs": 4,
     "share": 0.0083,
     "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
@@ -1041,7 +1041,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 1.52,
+    "lift": 1.51,
     "docs": 3,
     "share": 0.005,
     "sample": "@Conor_D_Dart Much faster too",
@@ -1053,7 +1053,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 0.85,
+    "lift": 0.84,
     "docs": 3,
     "share": 0.005,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -1065,7 +1065,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 0.85,
+    "lift": 0.84,
     "docs": 3,
     "share": 0.005,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -1077,7 +1077,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": -0.35,
+    "lift": -0.36,
     "docs": 3,
     "share": 0.005,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -1127,7 +1127,7 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 2,
-    "lift": 2.62,
+    "lift": 2.61,
     "docs": 4,
     "share": 0.0117,
     "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
@@ -1187,7 +1187,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 2,
-    "lift": 1.52,
+    "lift": 1.51,
     "docs": 3,
     "share": 0.005,
     "sample": "@Conor_D_Dart Much faster too",
@@ -1199,7 +1199,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 4,
-    "lift": 1.5,
+    "lift": 1.49,
     "docs": 5,
     "share": 0.0083,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -1211,7 +1211,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 5,
-    "lift": 1.25,
+    "lift": 1.24,
     "docs": 3,
     "share": 0.0083,
     "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
@@ -1223,7 +1223,7 @@
     "kind": "word",
     "count_7d": 7,
     "count_28d_before": 8,
-    "lift": 1.15,
+    "lift": 1.14,
     "docs": 7,
     "share": 0.0117,
     "sample": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
@@ -1235,7 +1235,7 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 6,
-    "lift": 1.04,
+    "lift": 1.03,
     "docs": 4,
     "share": 0.0083,
     "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
@@ -1259,7 +1259,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 0.85,
+    "lift": 0.84,
     "docs": 3,
     "share": 0.005,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -1271,7 +1271,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 0.85,
+    "lift": 0.84,
     "docs": 3,
     "share": 0.005,
     "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
@@ -1283,7 +1283,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 11,
-    "lift": 0.54,
+    "lift": 0.53,
     "docs": 6,
     "share": 0.01,
     "sample": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
@@ -1295,7 +1295,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 11,
-    "lift": -0.35,
+    "lift": -0.36,
     "docs": 3,
     "share": 0.005,
     "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
@@ -1326,7 +1326,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 113.1
+    "age_hours": 121.4
    },
    {
     "id": "2122206990101536852",
@@ -1341,7 +1341,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 149.4
+    "age_hours": 157.7
    },
    {
     "id": "r-2121007235465577607",
@@ -1356,7 +1356,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 228.8
+    "age_hours": 237.1
    },
    {
     "id": "2120410480204525936",
@@ -1371,7 +1371,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 268.4
+    "age_hours": 276.6
    },
    {
     "id": "2120410006273380750",
@@ -1386,7 +1386,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 268.4
+    "age_hours": 276.7
    }
   ]
  },
@@ -1398,7 +1398,7 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-22T11:18:21+00:00",
+    "at": "2026-11-22T19:35:47+00:00",
     "ok": true,
     "fetched": 60,
     "cached": 0,
@@ -1406,10 +1406,10 @@
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-22T11:18:21+00:00"
+    "last_ok": "2026-11-22T19:35:47+00:00"
    },
    "feed": {
-    "at": "2026-11-22T11:18:21+00:00",
+    "at": "2026-11-22T19:35:47+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1417,18 +1417,18 @@
     "error": null,
     "total": 64,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-22T11:18:21+00:00"
+    "last_ok": "2026-11-22T19:35:47+00:00"
    },
    "pipeline": {
-    "at": "2026-11-22T11:17:29+00:00",
+    "at": "2026-11-22T19:34:50+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-22T11:17:29+00:00"
+    "last_ok": "2026-11-22T19:34:50+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-22T11:18:22+00:00",
+   "checked_at": "2026-11-22T19:35:48+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1480,14 +1480,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-19T02:32:30+00:00",
-    "mode": "full",
-    "seconds": 56.0,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-19T11:35:08+00:00",
     "mode": "full",
@@ -1604,6 +1596,14 @@
     "at": "2026-11-22T11:17:29+00:00",
     "mode": "full",
     "seconds": 52.9,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-22T19:34:50+00:00",
+    "mode": "full",
+    "seconds": 57.6,
     "ok": true,
     "failed": [],
     "warnings": []
