@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T23:21:51.360812+00:00",
- "generated_at_local": "2026-11-22 07:21",
+ "generated_at": "2026-11-22T01:17:13.367743+00:00",
+ "generated_at_local": "2026-11-22 09:17",
  "timezone": "UTC+8",
  "posts": 940,
  "replies": 681,
@@ -10,7 +10,7 @@
  "resets_tracked": 38,
  "p_24h": 0.02,
  "p_48h": 0.0396,
- "modal_reset_at": "2026-11-22T06:21:51.360812+00:00",
+ "modal_reset_at": "2026-11-22T06:17:13.367743+00:00",
  "backtest": {
   "days": 44,
   "brier": 0.1736,
@@ -316,7 +316,7 @@
   {
    "topic": "Models",
    "posts": 18,
-   "share": 0.214,
+   "share": 0.22,
    "examples": [
     {
      "text": "@hakmgpt That is not correct.",
@@ -337,14 +337,9 @@
   },
   {
    "topic": "Plans / pricing",
-   "posts": 14,
-   "share": 0.167,
+   "posts": 13,
+   "share": 0.159,
    "examples": [
-    {
-     "text": "We doubled the usage on Pro plans and Business 100",
-     "url": "https://x.com/thsottiaux/status/2119232059537514598",
-     "ts": "2026-11-08T00:54:31Z"
-    },
     {
      "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20",
      "url": "https://x.com/thsottiaux/status/2119296267545419987",
@@ -354,13 +349,18 @@
      "text": "Would a Pro 50 make sense? Wdyt? https://t.co/WZi6KGXFc9",
      "url": "https://x.com/thsottiaux/status/2119305294291612140",
      "ts": "2026-11-08T05:45:31Z"
+    },
+    {
+     "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. https://t.co/VtVYz5DcAB",
+     "url": "https://x.com/thsottiaux/status/2120021043876106429",
+     "ts": "2026-11-10T05:09:39Z"
     }
    ]
   },
   {
    "topic": "Codex / dev tooling",
    "posts": 12,
-   "share": 0.143,
+   "share": 0.146,
    "examples": [
     {
      "text": "We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
@@ -382,7 +382,7 @@
   {
    "topic": "Ship-or-reset series",
    "posts": 10,
-   "share": 0.119,
+   "share": 0.122,
    "examples": [
     {
      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
@@ -403,14 +403,9 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 7,
-   "share": 0.083,
+   "posts": 6,
+   "share": 0.073,
    "examples": [
-    {
-     "text": "We doubled the usage on Pro plans and Business 100",
-     "url": "https://x.com/thsottiaux/status/2119232059537514598",
-     "ts": "2026-11-08T00:54:31Z"
-    },
     {
      "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20",
      "url": "https://x.com/thsottiaux/status/2119296267545419987",
@@ -420,13 +415,18 @@
      "text": "We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
      "url": "https://x.com/thsottiaux/status/2119308687676432672",
      "ts": "2026-11-08T05:59:00Z"
+    },
+    {
+     "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+     "url": "https://x.com/thsottiaux/status/2120410006273380750",
+     "ts": "2026-11-11T06:55:15Z"
     }
    ]
   },
   {
    "topic": "Growth / milestones",
    "posts": 4,
-   "share": 0.048,
+   "share": 0.049,
    "examples": [
     {
      "text": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excit",
@@ -1261,8 +1261,8 @@
    "date": "2026-11-19",
    "posts": 7,
    "replies": 5,
-   "likes": 12923,
-   "engagement_replies": 5150,
+   "likes": 12925,
+   "engagement_replies": 5151,
    "reset": 0,
    "banked": 0
   },
@@ -1270,8 +1270,8 @@
    "date": "2026-11-20",
    "posts": 13,
    "replies": 9,
-   "likes": 43412,
-   "engagement_replies": 4774,
+   "likes": 43531,
+   "engagement_replies": 4786,
    "reset": 0,
    "banked": 0
   },
@@ -1279,8 +1279,8 @@
    "date": "2026-11-21",
    "posts": 7,
    "replies": 4,
-   "likes": 16934,
-   "engagement_replies": 2110,
+   "likes": 17215,
+   "engagement_replies": 2136,
    "reset": 0,
    "banked": 0
   },
@@ -1288,8 +1288,8 @@
    "date": "2026-11-22",
    "posts": 1,
    "replies": 0,
-   "likes": 477,
-   "engagement_replies": 170,
+   "likes": 1504,
+   "engagement_replies": 335,
    "reset": 0,
    "banked": 0
   }
