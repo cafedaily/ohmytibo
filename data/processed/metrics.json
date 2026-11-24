@@ -1,70 +1,82 @@
 {
- "generated_at": "2026-11-23T12:31:50.491041+00:00",
- "generated_at_local": "2026-11-23 20:31",
+ "generated_at": "2026-11-24T01:51:24.988402+00:00",
+ "generated_at_local": "2026-11-24 09:51",
  "timezone": "UTC+8",
- "posts": 941,
- "replies": 681,
- "days_covered": 92,
+ "posts": 947,
+ "replies": 683,
+ "days_covered": 94,
  "first_post": "2026-08-22T00:50:36Z",
- "last_post": "2026-11-22T02:03:58Z",
+ "last_post": "2026-11-24T00:43:26Z",
  "resets_tracked": 38,
  "p_24h": 0.02,
  "p_48h": 0.0396,
- "modal_reset_at": "2026-11-24T06:31:50.491041+00:00",
+ "modal_reset_at": "2026-11-24T06:51:24.988402+00:00",
  "backtest": {
   "days": 44,
-  "brier": 0.1733,
+  "brier": 0.1721,
   "brier_baseline": 0.1756,
-  "logloss": 0.5244,
+  "logloss": 0.5175,
   "logloss_baseline": 0.536,
-  "skill": 0.022,
+  "skill": 0.034,
   "base_rate": 0.2273
  },
  "top_terms": [
+  {
+   "term": "chatgpt",
+   "kind": "word",
+   "count_7d": 10,
+   "count_28d_before": 2,
+   "lift": 2.9,
+   "docs": 7,
+   "share": 0.0142,
+   "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
+   "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
+   "sample_ts": "2026-11-19T23:17:19Z"
+  },
   {
    "term": "sol",
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 1,
-   "lift": 3.1,
+   "lift": 2.97,
    "docs": 6,
-   "share": 0.012,
+   "share": 0.0099,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
    "sample_ts": "2026-11-17T03:37:22Z"
-  },
-  {
-   "term": "chatgpt",
-   "kind": "word",
-   "count_7d": 7,
-   "count_28d_before": 2,
-   "lift": 2.58,
-   "docs": 4,
-   "share": 0.012,
-   "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-   "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-   "sample_ts": "2026-11-19T23:17:19Z"
   },
   {
    "term": "team",
    "kind": "word",
    "count_7d": 6,
    "count_28d_before": 8,
-   "lift": 0.89,
+   "lift": 0.65,
    "docs": 6,
-   "share": 0.0103,
+   "share": 0.0085,
    "sample": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
    "sample_url": "https://x.com/thsottiaux/status/2122816458711548126",
    "sample_ts": "2026-11-17T22:17:38Z"
+  },
+  {
+   "term": "experience",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 0,
+   "lift": 3.46,
+   "docs": 4,
+   "share": 0.0071,
+   "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
+   "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
+   "sample_ts": "2026-11-19T23:20:58Z"
   },
   {
    "term": "feedback",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 4,
-   "lift": 1.46,
+   "lift": 1.25,
    "docs": 5,
-   "share": 0.0086,
+   "share": 0.0071,
    "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
    "sample_url": "https://x.com/thsottiaux/status/2122929634916679820",
    "sample_ts": "2026-11-18T05:47:21Z"
@@ -74,9 +86,9 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 5,
-   "lift": 1.21,
+   "lift": 0.99,
    "docs": 3,
-   "share": 0.0086,
+   "share": 0.0071,
    "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
    "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
    "sample_ts": "2026-11-17T18:11:38Z"
@@ -86,131 +98,143 @@
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 5,
-   "lift": 1.21,
+   "lift": 0.99,
    "docs": 4,
-   "share": 0.0086,
+   "share": 0.0071,
    "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
    "sample_url": "https://x.com/thsottiaux/status/2122929829863735594",
    "sample_ts": "2026-11-18T05:48:08Z"
+  },
+  {
+   "term": "dots",
+   "kind": "word",
+   "count_7d": 5,
+   "count_28d_before": 10,
+   "lift": 0.13,
+   "docs": 2,
+   "share": 0.0071,
+   "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
+   "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
+   "sample_ts": "2026-11-19T23:17:19Z"
   },
   {
    "term": "codex",
    "kind": "word",
    "count_7d": 5,
    "count_28d_before": 12,
-   "lift": 0.13,
+   "lift": -0.11,
    "docs": 5,
-   "share": 0.0086,
+   "share": 0.0071,
    "sample": "@JoshPurtell Beauty is in the eye of the beholder, but clearly the models are polarizing. A bit like we had in the early codex days. These models are clearly extremely capable but ",
    "sample_url": "https://x.com/thsottiaux/status/2122891208968294400",
    "sample_ts": "2026-11-18T03:14:40Z"
   },
   {
-   "term": "experience",
+   "term": "feel",
    "kind": "word",
    "count_7d": 4,
    "count_28d_before": 0,
    "lift": 3.17,
-   "docs": 3,
-   "share": 0.0068,
-   "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-   "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-   "sample_ts": "2026-11-19T23:20:58Z"
-  },
-  {
-   "term": "gpt",
-   "kind": "word",
-   "count_7d": 4,
-   "count_28d_before": 5,
-   "lift": 0.92,
-   "docs": 3,
-   "share": 0.0068,
-   "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
-   "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
-   "sample_ts": "2026-11-17T18:09:24Z"
-  },
-  {
-   "term": "feel",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 0,
-   "lift": 2.81,
-   "docs": 3,
-   "share": 0.0051,
+   "docs": 4,
+   "share": 0.0057,
    "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
    "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
    "sample_ts": "2026-11-17T18:11:38Z"
   },
   {
-   "term": "astra",
-   "kind": "word",
-   "count_7d": 3,
-   "count_28d_before": 1,
-   "lift": 2.0,
-   "docs": 3,
-   "share": 0.0051,
-   "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
-   "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
-   "sample_ts": "2026-11-17T18:09:24Z"
-  },
-  {
    "term": "faster",
    "kind": "word",
-   "count_7d": 3,
+   "count_7d": 4,
    "count_28d_before": 2,
-   "lift": 1.48,
-   "docs": 3,
-   "share": 0.0051,
+   "lift": 1.68,
+   "docs": 4,
+   "share": 0.0057,
    "sample": "@Conor_D_Dart Much faster too",
    "sample_url": "https://x.com/thsottiaux/status/2122816053348847795",
    "sample_ts": "2026-11-17T22:16:01Z"
+  },
+  {
+   "term": "business",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 3,
+   "lift": 1.27,
+   "docs": 3,
+   "share": 0.0057,
+   "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
+   "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
+   "sample_ts": "2026-11-19T23:17:19Z"
   }
  ],
  "surge_terms": [
   {
    "term": "experience",
    "kind": "word",
-   "count_7d": 4,
+   "count_7d": 5,
    "count_28d_before": 0,
-   "lift": 3.17,
-   "docs": 3,
-   "share": 0.0068,
+   "lift": 3.46,
+   "docs": 4,
+   "share": 0.0071,
    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
    "sample_ts": "2026-11-19T23:20:58Z"
+  },
+  {
+   "term": "feel",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 0,
+   "lift": 3.17,
+   "docs": 4,
+   "share": 0.0057,
+   "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+   "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
+   "sample_ts": "2026-11-17T18:11:38Z"
   },
   {
    "term": "sol",
    "kind": "word",
    "count_7d": 7,
    "count_28d_before": 1,
-   "lift": 3.1,
+   "lift": 2.97,
    "docs": 6,
-   "share": 0.012,
+   "share": 0.0099,
    "sample": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
    "sample_url": "https://x.com/thsottiaux/status/2122534533216268747",
    "sample_ts": "2026-11-17T03:37:22Z"
   },
   {
-   "term": "feel",
+   "term": "chatgpt",
+   "kind": "word",
+   "count_7d": 10,
+   "count_28d_before": 2,
+   "lift": 2.9,
+   "docs": 7,
+   "share": 0.0142,
+   "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
+   "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
+   "sample_ts": "2026-11-19T23:17:19Z"
+  },
+  {
+   "term": "jump",
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 0,
    "lift": 2.81,
    "docs": 3,
-   "share": 0.0051,
-   "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-   "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
-   "sample_ts": "2026-11-17T18:11:38Z"
+   "share": 0.0043,
+   "sample": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+   "sample_url": "https://x.com/thsottiaux/status/2122816458711548126",
+   "sample_ts": "2026-11-17T22:17:38Z"
   },
   {
-   "term": "chatgpt",
-   "kind": "word",
-   "count_7d": 7,
-   "count_28d_before": 2,
-   "lift": 2.58,
-   "docs": 4,
-   "share": 0.012,
+   "term": "chatgpt business",
+   "kind": "phrase",
+   "count_7d": 3,
+   "count_28d_before": 0,
+   "lift": 2.81,
+   "docs": 3,
+   "share": 0.0043,
    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
    "sample_ts": "2026-11-19T23:17:19Z"
@@ -222,7 +246,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 1,
-   "share": 0.0034,
+   "share": 0.0028,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
    "sample_ts": "2026-11-17T18:09:24Z"
@@ -234,7 +258,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 2,
-   "share": 0.0034,
+   "share": 0.0028,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
    "sample_ts": "2026-11-17T18:09:24Z"
@@ -246,7 +270,7 @@
    "count_28d_before": 0,
    "lift": 2.32,
    "docs": 1,
-   "share": 0.0034,
+   "share": 0.0028,
    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
    "sample_ts": "2026-11-19T23:17:19Z"
@@ -256,67 +280,43 @@
    "kind": "word",
    "count_7d": 3,
    "count_28d_before": 1,
-   "lift": 2.0,
+   "lift": 1.88,
    "docs": 3,
-   "share": 0.0051,
+   "share": 0.0043,
    "sample": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. https://t.co/niwTIAgvab",
    "sample_url": "https://x.com/thsottiaux/status/2122753991000133943",
    "sample_ts": "2026-11-17T18:09:24Z"
   },
   {
-   "term": "faster",
+   "term": "already",
    "kind": "word",
    "count_7d": 3,
-   "count_28d_before": 2,
-   "lift": 1.48,
+   "count_28d_before": 1,
+   "lift": 1.88,
    "docs": 3,
-   "share": 0.0051,
+   "share": 0.0043,
+   "sample": "@The_Alex Alex, let's go, sorry you have to adapt a bit, but it pays off. Next generation will make it all more natural, in the meantime the raw power is indeed there already.",
+   "sample_url": "https://x.com/thsottiaux/status/2122953953851879880",
+   "sample_ts": "2026-11-18T07:23:59Z"
+  },
+  {
+   "term": "faster",
+   "kind": "word",
+   "count_7d": 4,
+   "count_28d_before": 2,
+   "lift": 1.68,
+   "docs": 4,
+   "share": 0.0057,
    "sample": "@Conor_D_Dart Much faster too",
    "sample_url": "https://x.com/thsottiaux/status/2122816053348847795",
    "sample_ts": "2026-11-17T22:16:01Z"
-  },
-  {
-   "term": "feedback",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 4,
-   "lift": 1.46,
-   "docs": 5,
-   "share": 0.0086,
-   "sample": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot",
-   "sample_url": "https://x.com/thsottiaux/status/2122929634916679820",
-   "sample_ts": "2026-11-18T05:47:21Z"
-  },
-  {
-   "term": "models",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 5,
-   "lift": 1.21,
-   "docs": 3,
-   "share": 0.0086,
-   "sample": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-   "sample_url": "https://x.com/thsottiaux/status/2122754551187132438",
-   "sample_ts": "2026-11-17T18:11:38Z"
-  },
-  {
-   "term": "users",
-   "kind": "word",
-   "count_7d": 5,
-   "count_28d_before": 5,
-   "lift": 1.21,
-   "docs": 4,
-   "share": 0.0086,
-   "sample": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these spe",
-   "sample_url": "https://x.com/thsottiaux/status/2122929829863735594",
-   "sample_ts": "2026-11-18T05:48:08Z"
   }
  ],
  "topics": [
   {
    "topic": "Models",
-   "posts": 17,
-   "share": 0.243,
+   "posts": 20,
+   "share": 0.263,
    "examples": [
     {
      "text": "How can codex be improved? Try not to say model.",
@@ -336,8 +336,30 @@
    ]
   },
   {
+   "topic": "Plans / pricing",
+   "posts": 14,
+   "share": 0.184,
+   "examples": [
+    {
+     "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. https://t.co/VtVYz5DcAB",
+     "url": "https://x.com/thsottiaux/status/2120021043876106429",
+     "ts": "2026-11-10T05:09:39Z"
+    },
+    {
+     "text": "How many of you have a small business? https://t.co/PduzGjgtLd",
+     "url": "https://x.com/thsottiaux/status/2120267268517249036",
+     "ts": "2026-11-10T21:28:04Z"
+    },
+    {
+     "text": "How can codex be improved? Try not to say model.",
+     "url": "https://x.com/thsottiaux/status/2121062974161092792",
+     "ts": "2026-11-13T02:09:55Z"
+    }
+   ]
+  },
+  {
    "topic": "Codex / dev tooling",
-   "posts": 12,
+   "posts": 13,
    "share": 0.171,
    "examples": [
     {
@@ -358,31 +380,9 @@
    ]
   },
   {
-   "topic": "Plans / pricing",
-   "posts": 11,
-   "share": 0.157,
-   "examples": [
-    {
-     "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. https://t.co/VtVYz5DcAB",
-     "url": "https://x.com/thsottiaux/status/2120021043876106429",
-     "ts": "2026-11-10T05:09:39Z"
-    },
-    {
-     "text": "How many of you have a small business? https://t.co/PduzGjgtLd",
-     "url": "https://x.com/thsottiaux/status/2120267268517249036",
-     "ts": "2026-11-10T21:28:04Z"
-    },
-    {
-     "text": "How can codex be improved? Try not to say model.",
-     "url": "https://x.com/thsottiaux/status/2121062974161092792",
-     "ts": "2026-11-13T02:09:55Z"
-    }
-   ]
-  },
-  {
    "topic": "Ship-or-reset series",
-   "posts": 11,
-   "share": 0.157,
+   "posts": 12,
+   "share": 0.158,
    "examples": [
     {
      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
@@ -403,8 +403,8 @@
   },
   {
    "topic": "Reset / quota",
-   "posts": 4,
-   "share": 0.057,
+   "posts": 5,
+   "share": 0.066,
    "examples": [
     {
      "text": "It’s been a while without resets. Maybe I should come back out of the basement",
@@ -426,7 +426,7 @@
   {
    "topic": "Growth / milestones",
    "posts": 4,
-   "share": 0.057,
+   "share": 0.053,
    "examples": [
     {
      "text": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excit",
@@ -448,7 +448,7 @@
   {
    "topic": "Reliability / incidents",
    "posts": 2,
-   "share": 0.029,
+   "share": 0.026,
    "examples": [
     {
      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording her",
@@ -1290,6 +1290,15 @@
    "replies": 0,
    "likes": 7397,
    "engagement_replies": 2734,
+   "reset": 0,
+   "banked": 0
+  },
+  {
+   "date": "2026-11-24",
+   "posts": 6,
+   "replies": 2,
+   "likes": 7938,
+   "engagement_replies": 1769,
    "reset": 0,
    "banked": 0
   }
