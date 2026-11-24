@@ -251,6 +251,18 @@
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
+  },
+  {
+   "key": "banked:2125299248782778588",
+   "kind": "banked",
+   "title": "检测到 banked 重置发放",
+   "body": "北京时间 11-25 02:43 · To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode…",
+   "url": "https://x.com/thsottiaux/status/2125299248782778588",
+   "created_at": "2026-11-24T21:31:53+00:00",
+   "status": "pending",
+   "reason": "no_channel",
+   "attempts": 0,
+   "deliveries": {}
   }
  ],
  "bootstrapped_at": "2026-10-21T09:09:31+00:00",
@@ -316,16 +328,24 @@
   "reset:2070653282440405046",
   "reset:2067399435009622521",
   "banked:2120999993079451919",
-  "promise:2120999993079451919"
+  "promise:2120999993079451919",
+  "banked:2125299248782778588"
  ],
  "summary": {
-  "checked_at": "2026-11-24T13:40:14+00:00",
+  "checked_at": "2026-11-24T21:31:53+00:00",
   "channels": [],
   "configured": false,
-  "pending": 0,
-  "undelivered_7d": 0,
+  "pending": 1,
+  "undelivered_7d": 1,
   "last_sent": null,
   "recent": [
+   {
+    "title": "检测到 banked 重置发放",
+    "kind": "banked",
+    "created_at": "2026-11-24T21:31:53+00:00",
+    "status": "pending",
+    "reason": "no_channel"
+   },
    {
     "title": "检测到 banked 重置发放",
     "kind": "banked",
@@ -357,13 +377,6 @@
    {
     "title": "出现未兑现的重置承诺",
     "kind": "promise",
-    "created_at": "2026-10-31T08:46:24+00:00",
-    "status": "expired",
-    "reason": "no_channel"
-   },
-   {
-    "title": "重置信号 · 重置话题",
-    "kind": "signal",
     "created_at": "2026-10-31T08:46:24+00:00",
     "status": "expired",
     "reason": "no_channel"
