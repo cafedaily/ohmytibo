@@ -259,7 +259,7 @@
    "body": "北京时间 11-25 02:43 · To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode…",
    "url": "https://x.com/thsottiaux/status/2125299248782778588",
    "created_at": "2026-11-24T21:31:53+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -332,10 +332,10 @@
   "banked:2125299248782778588"
  ],
  "summary": {
-  "checked_at": "2026-11-25T08:29:22+00:00",
+  "checked_at": "2026-11-25T14:52:26+00:00",
   "channels": [],
   "configured": false,
-  "pending": 1,
+  "pending": 0,
   "undelivered_7d": 1,
   "last_sent": null,
   "recent": [
@@ -343,7 +343,7 @@
     "title": "检测到 banked 重置发放",
     "kind": "banked",
     "created_at": "2026-11-24T21:31:53+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
