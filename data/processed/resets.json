@@ -856,5 +856,31 @@
   "url": "https://x.com/thsottiaux/status/2125784147889393806",
   "mirror_url": "https://tiboreset.com/r/2125784147889393806",
   "first_seen": "2026-11-26T03:33:23+00:00"
+ },
+ {
+  "id": "r-2125832350203148130",
+  "ts": "2026-11-26T06:01:43Z",
+  "date": "2026-11-26",
+  "hour_utc": 6,
+  "minute_utc": 1,
+  "kind": "note",
+  "title": "The banked reset Tibo announced landed on our monitoring accounts.",
+  "source": "mirror",
+  "url": "https://tiboreset.com/r/2125832350203148130",
+  "mirror_url": "https://tiboreset.com/r/2125832350203148130",
+  "first_seen": "2026-11-26T15:27:33+00:00"
+ },
+ {
+  "id": "2125853628250599730",
+  "ts": "2026-11-26T07:26:16Z",
+  "date": "2026-11-26",
+  "hour_utc": 7,
+  "minute_utc": 26,
+  "kind": "banked",
+  "title": "Banked reset is online",
+  "source": "x",
+  "url": "https://x.com/thsottiaux/status/2125853628250599730",
+  "mirror_url": "https://tiboreset.com/r/2125853628250599730",
+  "first_seen": "2026-11-26T15:27:33+00:00"
  }
 ]
