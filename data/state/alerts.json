@@ -271,7 +271,7 @@
    "body": "北京时间 11-26 10:50 · We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for…",
    "url": "https://x.com/thsottiaux/status/2125784147889393806",
    "created_at": "2026-11-26T03:33:23+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -358,10 +358,10 @@
   "banked:2125853628250599730"
  ],
  "summary": {
-  "checked_at": "2026-11-26T15:27:34+00:00",
+  "checked_at": "2026-11-26T16:51:37+00:00",
   "channels": [],
   "configured": false,
-  "pending": 2,
+  "pending": 1,
   "undelivered_7d": 3,
   "last_sent": null,
   "recent": [
@@ -376,7 +376,7 @@
     "title": "检测到 banked 重置发放",
     "kind": "banked",
     "created_at": "2026-11-26T03:33:23+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {

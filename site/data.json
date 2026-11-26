@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T15:27:33.950800+00:00",
- "generated_local": "2026-11-26 23:27",
+ "generated_at": "2026-11-26T16:51:37.455203+00:00",
+ "generated_local": "2026-11-27 00:51",
  "forecast": {
   "p_24h": 0.02,
   "p_48h": 0.0396,
@@ -8,9 +8,9 @@
   "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-27T06:27:33.950800+00:00",
-  "modal_reset_local": "2026-11-27 14:27",
-  "hours_since_last_reset": 704.87,
+  "modal_reset_at": "2026-11-27T06:51:37.455203+00:00",
+  "modal_reset_local": "2026-11-27 14:51",
+  "hours_since_last_reset": 706.27,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
@@ -887,7 +887,7 @@
    "date": "2026-11-21",
    "posts": 7,
    "replies": 4,
-   "likes": 18754,
+   "likes": 18756,
    "engagement_replies": 2234,
    "reset": 0,
    "banked": 0
@@ -896,7 +896,7 @@
    "date": "2026-11-22",
    "posts": 2,
    "replies": 0,
-   "likes": 7661,
+   "likes": 7663,
    "engagement_replies": 2887,
    "reset": 0,
    "banked": 0
@@ -905,8 +905,8 @@
    "date": "2026-11-24",
    "posts": 7,
    "replies": 2,
-   "likes": 16031,
-   "engagement_replies": 3279,
+   "likes": 16082,
+   "engagement_replies": 3283,
    "reset": 0,
    "banked": 0
   },
@@ -914,8 +914,8 @@
    "date": "2026-11-25",
    "posts": 8,
    "replies": 6,
-   "likes": 16489,
-   "engagement_replies": 5139,
+   "likes": 16790,
+   "engagement_replies": 5255,
    "reset": 0,
    "banked": 1
   },
@@ -923,8 +923,8 @@
    "date": "2026-11-26",
    "posts": 4,
    "replies": 2,
-   "likes": 25075,
-   "engagement_replies": 6810,
+   "likes": 26080,
+   "engagement_replies": 6997,
    "reset": 0,
    "banked": 2
   }
@@ -1413,7 +1413,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 9.4
+    "age_hours": 10.8
    },
    {
     "id": "2125299467691987445",
@@ -1428,7 +1428,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 44.7
+    "age_hours": 46.1
    },
    {
     "id": "2125299436964479474",
@@ -1443,7 +1443,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 44.7
+    "age_hours": 46.1
    },
    {
     "id": "2124922313019953319",
@@ -1458,7 +1458,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 69.7
+    "age_hours": 71.1
    },
    {
     "id": "2122754551187132438",
@@ -1473,7 +1473,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 213.3
+    "age_hours": 214.7
    },
    {
     "id": "2122206990101536852",
@@ -1488,7 +1488,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 249.5
+    "age_hours": 250.9
    },
    {
     "id": "r-2121007235465577607",
@@ -1503,7 +1503,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 329.0
+    "age_hours": 330.4
    }
   ]
  },
@@ -1515,40 +1515,40 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-26T15:27:33+00:00",
+    "at": "2026-11-26T16:51:37+00:00",
     "ok": true,
-    "fetched": 2,
+    "fetched": 60,
     "cached": 0,
-    "empty": 0,
+    "empty": 1,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-26T15:27:33+00:00"
+    "last_ok": "2026-11-26T16:51:37+00:00"
    },
    "feed": {
-    "at": "2026-11-26T15:27:33+00:00",
+    "at": "2026-11-26T16:51:37+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
-    "new": 2,
+    "new": 0,
     "error": null,
     "total": 68,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-26T15:27:33+00:00"
+    "last_ok": "2026-11-26T16:51:37+00:00"
    },
    "pipeline": {
-    "at": "2026-11-26T15:27:31+00:00",
+    "at": "2026-11-26T16:50:50+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-26T15:27:31+00:00"
+    "last_ok": "2026-11-26T16:50:50+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-26T15:27:34+00:00",
+   "checked_at": "2026-11-26T16:51:37+00:00",
    "channels": [],
    "configured": false,
-   "pending": 2,
+   "pending": 1,
    "undelivered_7d": 3,
    "last_sent": null,
    "recent": [
@@ -1563,7 +1563,7 @@
      "title": "检测到 banked 重置发放",
      "kind": "banked",
      "created_at": "2026-11-26T03:33:23+00:00",
-     "status": "pending",
+     "status": "expired",
      "reason": "no_channel"
     },
     {
@@ -1597,14 +1597,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-22T19:34:50+00:00",
-    "mode": "full",
-    "seconds": 57.6,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-23T01:40:07+00:00",
     "mode": "full",
@@ -1720,7 +1712,15 @@
    {
     "at": "2026-11-26T15:27:31+00:00",
     "mode": "fast",
-    "seconds": 2.3,
+    "seconds": 2.4,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-26T16:50:50+00:00",
+    "mode": "full",
+    "seconds": 47.4,
     "ok": true,
     "failed": [],
     "warnings": []
