@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T16:51:37.455203+00:00",
- "generated_local": "2026-11-27 00:51",
+ "generated_at": "2026-11-27T01:44:17.387624+00:00",
+ "generated_local": "2026-11-27 09:44",
  "forecast": {
   "p_24h": 0.02,
   "p_48h": 0.0396,
@@ -8,66 +8,66 @@
   "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-27T06:51:37.455203+00:00",
-  "modal_reset_local": "2026-11-27 14:51",
-  "hours_since_last_reset": 706.27,
+  "modal_reset_at": "2026-11-27T06:44:17.387624+00:00",
+  "modal_reset_local": "2026-11-27 14:44",
+  "hours_since_last_reset": 715.14,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
   "recent_mean_gap_days": 1.74,
   "backtest": {
    "days": 44,
-   "brier": 0.1584,
+   "brier": 0.1573,
    "brier_baseline": 0.1627,
-   "logloss": 0.4836,
+   "logloss": 0.4768,
    "logloss_baseline": 0.5066,
-   "skill": 0.045,
+   "skill": 0.059,
    "base_rate": 0.2045
   },
   "weekly": [
    {
-    "date": "2026-11-26",
-    "p": 0.0077
-   },
-   {
     "date": "2026-11-27",
-    "p": 0.0198
+    "p": 0.019
    },
    {
     "date": "2026-11-28",
-    "p": 0.0194
+    "p": 0.0196
    },
    {
     "date": "2026-11-29",
-    "p": 0.0191
+    "p": 0.0192
    },
    {
     "date": "2026-11-30",
-    "p": 0.0187
+    "p": 0.0188
    },
    {
     "date": "2026-12-01",
-    "p": 0.0183
+    "p": 0.0185
    },
    {
     "date": "2026-12-02",
-    "p": 0.0179
+    "p": 0.0181
    },
    {
     "date": "2026-12-03",
-    "p": 0.0176
+    "p": 0.0177
    },
    {
     "date": "2026-12-04",
-    "p": 0.0172
+    "p": 0.0174
    },
    {
     "date": "2026-12-05",
-    "p": 0.0169
+    "p": 0.017
    },
    {
     "date": "2026-12-06",
-    "p": 0.0103
+    "p": 0.0167
+   },
+   {
+    "date": "2026-12-07",
+    "p": 0.0009
    }
   ],
   "pending_promise": null
@@ -887,7 +887,7 @@
    "date": "2026-11-21",
    "posts": 7,
    "replies": 4,
-   "likes": 18756,
+   "likes": 18759,
    "engagement_replies": 2234,
    "reset": 0,
    "banked": 0
@@ -896,7 +896,7 @@
    "date": "2026-11-22",
    "posts": 2,
    "replies": 0,
-   "likes": 7663,
+   "likes": 7666,
    "engagement_replies": 2887,
    "reset": 0,
    "banked": 0
@@ -905,8 +905,8 @@
    "date": "2026-11-24",
    "posts": 7,
    "replies": 2,
-   "likes": 16082,
-   "engagement_replies": 3283,
+   "likes": 16099,
+   "engagement_replies": 3284,
    "reset": 0,
    "banked": 0
   },
@@ -914,8 +914,8 @@
    "date": "2026-11-25",
    "posts": 8,
    "replies": 6,
-   "likes": 16790,
-   "engagement_replies": 5255,
+   "likes": 16869,
+   "engagement_replies": 5272,
    "reset": 0,
    "banked": 1
   },
@@ -923,8 +923,8 @@
    "date": "2026-11-26",
    "posts": 4,
    "replies": 2,
-   "likes": 26080,
-   "engagement_replies": 6997,
+   "likes": 29133,
+   "engagement_replies": 7611,
    "reset": 0,
    "banked": 2
   }
@@ -934,71 +934,35 @@
    {
     "term": "chatgpt",
     "kind": "word",
-    "count_7d": 12,
-    "count_28d_before": 2,
-    "lift": 3.42,
-    "docs": 9,
-    "share": 0.0212,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
+    "count_7d": 7,
+    "count_28d_before": 7,
+    "lift": 1.82,
+    "docs": 7,
+    "share": 0.0164,
+    "sample": "Le ChatGPT 2.0 https://t.co/QooOVLPLlf",
+    "sample_url": "https://x.com/thsottiaux/status/2123612433923051976",
+    "sample_ts": "2026-11-20T03:00:33Z"
    },
    {
     "term": "business",
     "kind": "word",
-    "count_7d": 7,
-    "count_28d_before": 3,
-    "lift": 2.32,
-    "docs": 6,
-    "share": 0.0124,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
-   },
-   {
-    "term": "experience",
-    "kind": "word",
     "count_7d": 6,
-    "count_28d_before": 0,
-    "lift": 3.7,
+    "count_28d_before": 4,
+    "lift": 2.19,
     "docs": 5,
-    "share": 0.0106,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
-   },
-   {
-    "term": "users",
-    "kind": "word",
-    "count_7d": 6,
-    "count_28d_before": 3,
-    "lift": 2.12,
-    "docs": 5,
-    "share": 0.0106,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
-   },
-   {
-    "term": "dots",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 10,
-    "lift": 0.52,
-    "docs": 2,
-    "share": 0.0088,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
+    "share": 0.0141,
+    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
+    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "sample_ts": "2026-11-23T17:45:33Z"
    },
    {
     "term": "team",
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 11,
-    "lift": 0.4,
+    "lift": 0.85,
     "docs": 5,
-    "share": 0.0088,
+    "share": 0.0117,
     "sample": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
     "sample_url": "https://x.com/thsottiaux/status/2123612889416339762",
     "sample_ts": "2026-11-20T03:02:22Z"
@@ -1008,57 +972,45 @@
     "kind": "word",
     "count_7d": 5,
     "count_28d_before": 11,
-    "lift": 0.4,
+    "lift": 0.85,
     "docs": 2,
-    "share": 0.0088,
+    "share": 0.0117,
     "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
     "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
     "sample_ts": "2026-11-23T17:45:33Z"
+   },
+   {
+    "term": "experience",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 2,
+    "lift": 2.22,
+    "docs": 4,
+    "share": 0.0094,
+    "sample": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+    "sample_url": "https://x.com/thsottiaux/status/2123612889416339762",
+    "sample_ts": "2026-11-20T03:02:22Z"
    },
    {
     "term": "faster",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 3,
-    "lift": 1.59,
+    "lift": 1.91,
     "docs": 3,
-    "share": 0.0071,
+    "share": 0.0094,
     "sample": "Team is locked in, upgrade your desktop app. Faster, simpler and a lot more pleasant to use. https://t.co/1X8M5JwL77",
     "sample_url": "https://x.com/thsottiaux/status/2123861214644347122",
     "sample_ts": "2026-11-20T19:29:07Z"
-   },
-   {
-    "term": "sol",
-    "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 7,
-    "lift": 0.67,
-    "docs": 2,
-    "share": 0.0071,
-    "sample": "New Sol being particularly popular.",
-    "sample_url": "https://x.com/thsottiaux/status/2123505661741084830",
-    "sample_ts": "2026-11-19T19:56:17Z"
-   },
-   {
-    "term": "roll",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 0,
-    "lift": 2.81,
-    "docs": 2,
-    "share": 0.0053,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
    },
    {
     "term": "fun",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.22,
+    "lift": 1.55,
     "docs": 2,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
     "sample_url": "https://x.com/thsottiaux/status/2123997735326232775",
     "sample_ts": "2026-11-21T04:31:36Z"
@@ -1068,45 +1020,57 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 0.94,
+    "lift": 1.29,
     "docs": 1,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
     "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
     "sample_ts": "2026-11-26T02:50:10Z"
+   },
+   {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 6,
+    "lift": 0.89,
+    "docs": 3,
+    "share": 0.007,
+    "sample": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+    "sample_url": "https://x.com/thsottiaux/status/2123612889416339762",
+    "sample_ts": "2026-11-20T03:02:22Z"
    },
    {
     "term": "banked",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 6,
-    "lift": 0.49,
+    "lift": 0.89,
     "docs": 3,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
     "sample_url": "https://x.com/thsottiaux/status/2125299248782778588",
     "sample_ts": "2026-11-24T18:43:21Z"
    },
    {
-    "term": "feedback",
+    "term": "sol",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 7,
-    "lift": 0.31,
-    "docs": 3,
-    "share": 0.0053,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
+    "count_28d_before": 8,
+    "lift": 0.57,
+    "docs": 1,
+    "share": 0.007,
+    "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
+    "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
+    "sample_ts": "2026-11-26T02:50:10Z"
    },
    {
     "term": "gpt",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 9,
-    "lift": 0.0,
+    "lift": 0.44,
     "docs": 1,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
     "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
     "sample_ts": "2026-11-26T02:50:10Z"
@@ -1116,146 +1080,38 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 10,
-    "lift": -0.13,
+    "lift": 0.31,
     "docs": 3,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
     "sample_url": "https://x.com/thsottiaux/status/2125299248782778588",
     "sample_ts": "2026-11-24T18:43:21Z"
    },
    {
-    "term": "pro",
+    "term": "dots",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 11,
-    "lift": -0.25,
-    "docs": 3,
-    "share": 0.0053,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
-   },
-   {
-    "term": "codex",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 13,
-    "lift": -0.46,
-    "docs": 3,
-    "share": 0.0053,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
+    "count_28d_before": 12,
+    "lift": 0.09,
+    "docs": 1,
+    "share": 0.007,
+    "sample": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system. https://t.co/5YtdTspKBk",
+    "sample_url": "https://x.com/thsottiaux/status/2124923055072043052",
+    "sample_ts": "2026-11-23T17:48:30Z"
    }
   ],
   "surge": [
    {
-    "term": "experience",
-    "kind": "word",
-    "count_7d": 6,
-    "count_28d_before": 0,
-    "lift": 3.7,
-    "docs": 5,
-    "share": 0.0106,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
-   },
-   {
     "term": "chatgpt business",
     "kind": "phrase",
-    "count_7d": 5,
-    "count_28d_before": 0,
-    "lift": 3.46,
-    "docs": 5,
-    "share": 0.0088,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
-   },
-   {
-    "term": "chatgpt",
-    "kind": "word",
-    "count_7d": 12,
-    "count_28d_before": 2,
-    "lift": 3.42,
-    "docs": 9,
-    "share": 0.0212,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
-   },
-   {
-    "term": "roll",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 0,
-    "lift": 2.81,
-    "docs": 2,
-    "share": 0.0053,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
-   },
-   {
-    "term": "business",
-    "kind": "word",
-    "count_7d": 7,
-    "count_28d_before": 3,
-    "lift": 2.32,
-    "docs": 6,
-    "share": 0.0124,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
-   },
-   {
-    "term": "dots chatgpt",
-    "kind": "phrase",
-    "count_7d": 2,
-    "count_28d_before": 0,
-    "lift": 2.32,
-    "docs": 1,
-    "share": 0.0035,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
-   },
-   {
-    "term": "pro users",
-    "kind": "phrase",
-    "count_7d": 2,
-    "count_28d_before": 0,
-    "lift": 2.32,
-    "docs": 2,
-    "share": 0.0035,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
-   },
-   {
-    "term": "feedback before",
-    "kind": "phrase",
-    "count_7d": 2,
-    "count_28d_before": 0,
-    "lift": 2.32,
-    "docs": 2,
-    "share": 0.0035,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
-   },
-   {
-    "term": "before roll",
-    "kind": "phrase",
-    "count_7d": 2,
-    "count_28d_before": 0,
-    "lift": 2.32,
-    "docs": 2,
-    "share": 0.0035,
-    "sample": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who",
-    "sample_url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "sample_ts": "2026-11-19T23:20:58Z"
+    "count_7d": 4,
+    "count_28d_before": 1,
+    "lift": 2.62,
+    "docs": 4,
+    "share": 0.0094,
+    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
+    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "sample_ts": "2026-11-23T17:45:33Z"
    },
    {
     "term": "through dec",
@@ -1264,7 +1120,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0035,
+    "share": 0.0047,
     "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
     "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
     "sample_ts": "2026-11-23T17:45:33Z"
@@ -1276,7 +1132,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 2,
-    "share": 0.0035,
+    "share": 0.0047,
     "sample": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
     "sample_url": "https://x.com/thsottiaux/status/2124922412219486443",
     "sample_ts": "2026-11-23T17:45:56Z"
@@ -1288,7 +1144,7 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0035,
+    "share": 0.0047,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
     "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
     "sample_ts": "2026-11-26T02:50:10Z"
@@ -1300,43 +1156,67 @@
     "count_28d_before": 0,
     "lift": 2.32,
     "docs": 1,
-    "share": 0.0035,
+    "share": 0.0047,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
     "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
     "sample_ts": "2026-11-26T02:50:10Z"
    },
    {
-    "term": "users",
+    "term": "experience",
+    "kind": "word",
+    "count_7d": 4,
+    "count_28d_before": 2,
+    "lift": 2.22,
+    "docs": 4,
+    "share": 0.0094,
+    "sample": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+    "sample_url": "https://x.com/thsottiaux/status/2123612889416339762",
+    "sample_ts": "2026-11-20T03:02:22Z"
+   },
+   {
+    "term": "business",
     "kind": "word",
     "count_7d": 6,
-    "count_28d_before": 3,
-    "lift": 2.12,
+    "count_28d_before": 4,
+    "lift": 2.19,
     "docs": 5,
-    "share": 0.0106,
-    "sample": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives",
-    "sample_url": "https://x.com/thsottiaux/status/2123556256392847657",
-    "sample_ts": "2026-11-19T23:17:19Z"
+    "share": 0.0141,
+    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
+    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "sample_ts": "2026-11-23T17:45:33Z"
    },
    {
     "term": "faster",
     "kind": "word",
     "count_7d": 4,
     "count_28d_before": 3,
-    "lift": 1.59,
+    "lift": 1.91,
     "docs": 3,
-    "share": 0.0071,
+    "share": 0.0094,
     "sample": "Team is locked in, upgrade your desktop app. Faster, simpler and a lot more pleasant to use. https://t.co/1X8M5JwL77",
     "sample_url": "https://x.com/thsottiaux/status/2123861214644347122",
     "sample_ts": "2026-11-20T19:29:07Z"
+   },
+   {
+    "term": "chatgpt",
+    "kind": "word",
+    "count_7d": 7,
+    "count_28d_before": 7,
+    "lift": 1.82,
+    "docs": 7,
+    "share": 0.0164,
+    "sample": "Le ChatGPT 2.0 https://t.co/QooOVLPLlf",
+    "sample_url": "https://x.com/thsottiaux/status/2123612433923051976",
+    "sample_ts": "2026-11-20T03:00:33Z"
    },
    {
     "term": "fun",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.22,
+    "lift": 1.55,
     "docs": 2,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
     "sample_url": "https://x.com/thsottiaux/status/2123997735326232775",
     "sample_ts": "2026-11-21T04:31:36Z"
@@ -1346,9 +1226,9 @@
     "kind": "phrase",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.22,
+    "lift": 1.55,
     "docs": 3,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
     "sample_url": "https://x.com/thsottiaux/status/2125299248782778588",
     "sample_ts": "2026-11-24T18:43:21Z"
@@ -1358,9 +1238,9 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 2,
-    "lift": 1.1,
+    "lift": 1.37,
     "docs": 1,
-    "share": 0.0035,
+    "share": 0.0047,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
     "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
     "sample_ts": "2026-11-26T02:50:10Z"
@@ -1370,34 +1250,106 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 0.94,
+    "lift": 1.29,
     "docs": 1,
-    "share": 0.0053,
+    "share": 0.007,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
     "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
     "sample_ts": "2026-11-26T02:50:10Z"
    },
    {
+    "term": "users",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 6,
+    "lift": 0.89,
+    "docs": 3,
+    "share": 0.007,
+    "sample": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+    "sample_url": "https://x.com/thsottiaux/status/2123612889416339762",
+    "sample_ts": "2026-11-20T03:02:22Z"
+   },
+   {
+    "term": "banked",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 6,
+    "lift": 0.89,
+    "docs": 3,
+    "share": 0.007,
+    "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+    "sample_url": "https://x.com/thsottiaux/status/2125299248782778588",
+    "sample_ts": "2026-11-24T18:43:21Z"
+   },
+   {
+    "term": "team",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 11,
+    "lift": 0.85,
+    "docs": 5,
+    "share": 0.0117,
+    "sample": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+    "sample_url": "https://x.com/thsottiaux/status/2123612889416339762",
+    "sample_ts": "2026-11-20T03:02:22Z"
+   },
+   {
+    "term": "usage",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 11,
+    "lift": 0.85,
+    "docs": 2,
+    "share": 0.0117,
+    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
+    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "sample_ts": "2026-11-23T17:45:33Z"
+   },
+   {
     "term": "sol",
     "kind": "word",
-    "count_7d": 4,
-    "count_28d_before": 7,
-    "lift": 0.67,
-    "docs": 2,
-    "share": 0.0071,
-    "sample": "New Sol being particularly popular.",
-    "sample_url": "https://x.com/thsottiaux/status/2123505661741084830",
-    "sample_ts": "2026-11-19T19:56:17Z"
+    "count_7d": 3,
+    "count_28d_before": 8,
+    "lift": 0.57,
+    "docs": 1,
+    "share": 0.007,
+    "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
+    "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
+    "sample_ts": "2026-11-26T02:50:10Z"
+   },
+   {
+    "term": "gpt",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 9,
+    "lift": 0.44,
+    "docs": 1,
+    "share": 0.007,
+    "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
+    "sample_url": "https://x.com/thsottiaux/status/2125784147889393806",
+    "sample_ts": "2026-11-26T02:50:10Z"
+   },
+   {
+    "term": "reset",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 10,
+    "lift": 0.31,
+    "docs": 3,
+    "share": 0.007,
+    "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+    "sample_url": "https://x.com/thsottiaux/status/2125299248782778588",
+    "sample_ts": "2026-11-24T18:43:21Z"
    }
   ]
  },
  "signals": {
   "window_days": 14,
   "count_24h": 1,
-  "count_72h": 4,
+  "count_72h": 3,
   "count_7d": 4,
-  "since_last_reset": 7,
-  "baseline_per_day": 1.43,
+  "since_last_reset": 6,
+  "baseline_per_day": 1.46,
   "level": "quiet",
   "items": [
    {
@@ -1413,7 +1365,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 10.8
+    "age_hours": 19.7
    },
    {
     "id": "2125299467691987445",
@@ -1428,7 +1380,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 46.1
+    "age_hours": 55.0
    },
    {
     "id": "2125299436964479474",
@@ -1443,7 +1395,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 46.1
+    "age_hours": 55.0
    },
    {
     "id": "2124922313019953319",
@@ -1458,7 +1410,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 71.1
+    "age_hours": 80.0
    },
    {
     "id": "2122754551187132438",
@@ -1473,7 +1425,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 214.7
+    "age_hours": 223.5
    },
    {
     "id": "2122206990101536852",
@@ -1488,22 +1440,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 250.9
-   },
-   {
-    "id": "r-2121007235465577607",
-    "ts": "2026-11-12T22:28:26+00:00",
-    "ts_local": "2026-11-13 06:28",
-    "kind": "note",
-    "label": "镜像备注",
-    "text": "The banked reset Tibo announced landed on our monitoring accounts.",
-    "url": "https://tiboreset.com/r/2121007235465577607",
-    "sources": [
-     "feed"
-    ],
-    "forward": false,
-    "after_last_reset": true,
-    "age_hours": 330.4
+    "age_hours": 259.8
    }
   ]
  },
@@ -1515,18 +1452,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-26T16:51:37+00:00",
+    "at": "2026-11-27T01:44:17+00:00",
     "ok": true,
-    "fetched": 60,
+    "fetched": 59,
     "cached": 0,
-    "empty": 1,
+    "empty": 2,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-26T16:51:37+00:00"
+    "last_ok": "2026-11-27T01:44:17+00:00"
    },
    "feed": {
-    "at": "2026-11-26T16:51:37+00:00",
+    "at": "2026-11-27T01:44:17+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1534,18 +1471,18 @@
     "error": null,
     "total": 68,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-26T16:51:37+00:00"
+    "last_ok": "2026-11-27T01:44:17+00:00"
    },
    "pipeline": {
-    "at": "2026-11-26T16:50:50+00:00",
+    "at": "2026-11-27T01:43:19+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-26T16:50:50+00:00"
+    "last_ok": "2026-11-27T01:43:19+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-26T16:51:37+00:00",
+   "checked_at": "2026-11-27T01:44:17+00:00",
    "channels": [],
    "configured": false,
    "pending": 1,
@@ -1597,14 +1534,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-23T01:40:07+00:00",
-    "mode": "full",
-    "seconds": 49.7,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-23T12:30:51+00:00",
     "mode": "full",
@@ -1720,7 +1649,15 @@
    {
     "at": "2026-11-26T16:50:50+00:00",
     "mode": "full",
-    "seconds": 47.4,
+    "seconds": 47.5,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-27T01:43:19+00:00",
+    "mode": "full",
+    "seconds": 57.8,
     "ok": true,
     "failed": [],
     "warnings": []
