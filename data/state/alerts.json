@@ -283,7 +283,7 @@
    "body": "北京时间 11-26 15:26 · Banked reset is online",
    "url": "https://x.com/thsottiaux/status/2125853628250599730",
    "created_at": "2026-11-26T15:27:34+00:00",
-   "status": "pending",
+   "status": "expired",
    "reason": "no_channel",
    "attempts": 0,
    "deliveries": {}
@@ -358,10 +358,10 @@
   "banked:2125853628250599730"
  ],
  "summary": {
-  "checked_at": "2026-11-27T01:44:17+00:00",
+  "checked_at": "2026-11-27T07:35:10+00:00",
   "channels": [],
   "configured": false,
-  "pending": 1,
+  "pending": 0,
   "undelivered_7d": 3,
   "last_sent": null,
   "recent": [
@@ -369,7 +369,7 @@
     "title": "检测到 banked 重置发放",
     "kind": "banked",
     "created_at": "2026-11-26T15:27:34+00:00",
-    "status": "pending",
+    "status": "expired",
     "reason": "no_channel"
    },
    {
