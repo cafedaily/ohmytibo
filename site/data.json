@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T21:15:42.840423+00:00",
- "generated_local": "2026-11-28 05:15",
+ "generated_at": "2026-11-28T03:20:23.215289+00:00",
+ "generated_local": "2026-11-28 11:20",
  "forecast": {
   "p_24h": 0.02,
   "p_48h": 0.0396,
@@ -8,9 +8,9 @@
   "p_7d": 0.1319,
   "last_reset": "2026-10-28T06:35:38+00:00",
   "last_reset_local": "2026-10-28 14:35",
-  "modal_reset_at": "2026-11-28T06:15:42.840423+00:00",
-  "modal_reset_local": "2026-11-28 14:15",
-  "hours_since_last_reset": 734.67,
+  "modal_reset_at": "2026-11-28T06:20:23.215289+00:00",
+  "modal_reset_local": "2026-11-28 14:20",
+  "hours_since_last_reset": 740.75,
   "reset_count": 38,
   "mean_gap_days": 3.57,
   "median_gap_days": 2.17,
@@ -26,12 +26,8 @@
   },
   "weekly": [
    {
-    "date": "2026-11-27",
-    "p": 0.0017
-   },
-   {
     "date": "2026-11-28",
-    "p": 0.02
+    "p": 0.0175
    },
    {
     "date": "2026-11-29",
@@ -39,35 +35,39 @@
    },
    {
     "date": "2026-11-30",
-    "p": 0.0192
+    "p": 0.0193
    },
    {
     "date": "2026-12-01",
-    "p": 0.0188
+    "p": 0.0189
    },
    {
     "date": "2026-12-02",
-    "p": 0.0184
+    "p": 0.0185
    },
    {
     "date": "2026-12-03",
-    "p": 0.018
+    "p": 0.0181
    },
    {
     "date": "2026-12-04",
-    "p": 0.0177
+    "p": 0.0178
    },
    {
     "date": "2026-12-05",
-    "p": 0.0173
+    "p": 0.0174
    },
    {
     "date": "2026-12-06",
-    "p": 0.017
+    "p": 0.0171
    },
    {
     "date": "2026-12-07",
-    "p": 0.0152
+    "p": 0.0167
+   },
+   {
+    "date": "2026-12-08",
+    "p": 0.0021
    }
   ],
   "pending_promise": null
@@ -905,8 +905,8 @@
    "date": "2026-11-24",
    "posts": 7,
    "replies": 2,
-   "likes": 16108,
-   "engagement_replies": 3285,
+   "likes": 16110,
+   "engagement_replies": 3287,
    "reset": 0,
    "banked": 0
   },
@@ -914,8 +914,8 @@
    "date": "2026-11-25",
    "posts": 8,
    "replies": 6,
-   "likes": 16929,
-   "engagement_replies": 5293,
+   "likes": 16933,
+   "engagement_replies": 5300,
    "reset": 0,
    "banked": 1
   },
@@ -923,8 +923,8 @@
    "date": "2026-11-26",
    "posts": 4,
    "replies": 2,
-   "likes": 31401,
-   "engagement_replies": 8233,
+   "likes": 31688,
+   "engagement_replies": 8299,
    "reset": 0,
    "banked": 2
   }
@@ -936,7 +936,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 4,
-    "lift": 2.35,
+    "lift": 2.31,
     "docs": 5,
     "share": 0.0166,
     "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
@@ -948,7 +948,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 8,
-    "lift": 1.67,
+    "lift": 1.62,
     "docs": 6,
     "share": 0.0166,
     "sample": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there? ht",
@@ -959,33 +959,33 @@
     "term": "usage",
     "kind": "word",
     "count_7d": 5,
-    "count_28d_before": 11,
-    "lift": 1.07,
+    "count_28d_before": 10,
+    "lift": 1.12,
     "docs": 2,
-    "share": 0.0138,
+    "share": 0.0139,
     "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
     "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
     "sample_ts": "2026-11-23T17:45:33Z"
    },
    {
-    "term": "experience",
+    "term": "fun",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 3,
-    "lift": 1.7,
-    "docs": 3,
+    "count_28d_before": 2,
+    "lift": 1.95,
+    "docs": 2,
     "share": 0.0083,
     "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
     "sample_url": "https://x.com/thsottiaux/status/2123997735326232775",
     "sample_ts": "2026-11-21T04:31:36Z"
    },
    {
-    "term": "fun",
+    "term": "experience",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.7,
-    "docs": 2,
+    "lift": 1.66,
+    "docs": 3,
     "share": 0.0083,
     "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
     "sample_url": "https://x.com/thsottiaux/status/2123997735326232775",
@@ -995,8 +995,8 @@
     "term": "faster",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 4,
-    "lift": 1.46,
+    "count_28d_before": 3,
+    "lift": 1.66,
     "docs": 2,
     "share": 0.0083,
     "sample": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.\n\nTogether with all the investments we are making across simplifying the app, making it f",
@@ -1008,7 +1008,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.46,
+    "lift": 1.42,
     "docs": 1,
     "share": 0.0083,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1020,7 +1020,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 6,
-    "lift": 1.08,
+    "lift": 1.03,
     "docs": 3,
     "share": 0.0083,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
@@ -1032,7 +1032,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.77,
+    "lift": 0.72,
     "docs": 1,
     "share": 0.0083,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1044,7 +1044,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 9,
-    "lift": 0.64,
+    "lift": 0.59,
     "docs": 3,
     "share": 0.0083,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
@@ -1056,7 +1056,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 9,
-    "lift": 0.64,
+    "lift": 0.59,
     "docs": 1,
     "share": 0.0083,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1067,8 +1067,8 @@
     "term": "dots",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 12,
-    "lift": 0.31,
+    "count_28d_before": 11,
+    "lift": 0.36,
     "docs": 1,
     "share": 0.0083,
     "sample": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system. https://t.co/5YtdTspKBk",
@@ -1080,7 +1080,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 13,
-    "lift": 0.22,
+    "lift": 0.16,
     "docs": 3,
     "share": 0.0083,
     "sample": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there? ht",
@@ -1094,21 +1094,9 @@
     "kind": "phrase",
     "count_7d": 4,
     "count_28d_before": 1,
-    "lift": 2.7,
+    "lift": 2.68,
     "docs": 4,
-    "share": 0.011,
-    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
-    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
-    "sample_ts": "2026-11-23T17:45:33Z"
-   },
-   {
-    "term": "business",
-    "kind": "word",
-    "count_7d": 6,
-    "count_28d_before": 4,
-    "lift": 2.35,
-    "docs": 5,
-    "share": 0.0166,
+    "share": 0.0111,
     "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
     "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
     "sample_ts": "2026-11-23T17:45:33Z"
@@ -1162,23 +1150,23 @@
     "sample_ts": "2026-11-26T02:50:10Z"
    },
    {
-    "term": "experience",
+    "term": "business",
     "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 3,
-    "lift": 1.7,
-    "docs": 3,
-    "share": 0.0083,
-    "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
-    "sample_url": "https://x.com/thsottiaux/status/2123997735326232775",
-    "sample_ts": "2026-11-21T04:31:36Z"
+    "count_7d": 6,
+    "count_28d_before": 4,
+    "lift": 2.31,
+    "docs": 5,
+    "share": 0.0166,
+    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
+    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "sample_ts": "2026-11-23T17:45:33Z"
    },
    {
     "term": "fun",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 3,
-    "lift": 1.7,
+    "count_28d_before": 2,
+    "lift": 1.95,
     "docs": 2,
     "share": 0.0083,
     "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
@@ -1186,11 +1174,35 @@
     "sample_ts": "2026-11-21T04:31:36Z"
    },
    {
+    "term": "experience",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 3,
+    "lift": 1.66,
+    "docs": 3,
+    "share": 0.0083,
+    "sample": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover",
+    "sample_url": "https://x.com/thsottiaux/status/2123997735326232775",
+    "sample_ts": "2026-11-21T04:31:36Z"
+   },
+   {
+    "term": "faster",
+    "kind": "word",
+    "count_7d": 3,
+    "count_28d_before": 3,
+    "lift": 1.66,
+    "docs": 2,
+    "share": 0.0083,
+    "sample": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.\n\nTogether with all the investments we are making across simplifying the app, making it f",
+    "sample_url": "https://x.com/thsottiaux/status/2124998553856844186",
+    "sample_ts": "2026-11-23T22:48:30Z"
+   },
+   {
     "term": "banked reset",
     "kind": "phrase",
     "count_7d": 3,
     "count_28d_before": 3,
-    "lift": 1.7,
+    "lift": 1.66,
     "docs": 3,
     "share": 0.0083,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
@@ -1202,7 +1214,7 @@
     "kind": "word",
     "count_7d": 6,
     "count_28d_before": 8,
-    "lift": 1.67,
+    "lift": 1.62,
     "docs": 6,
     "share": 0.0166,
     "sample": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there? ht",
@@ -1214,7 +1226,7 @@
     "kind": "phrase",
     "count_7d": 2,
     "count_28d_before": 2,
-    "lift": 1.5,
+    "lift": 1.47,
     "docs": 1,
     "share": 0.0055,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1222,23 +1234,11 @@
     "sample_ts": "2026-11-26T02:50:10Z"
    },
    {
-    "term": "faster",
-    "kind": "word",
-    "count_7d": 3,
-    "count_28d_before": 4,
-    "lift": 1.46,
-    "docs": 2,
-    "share": 0.0083,
-    "sample": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.\n\nTogether with all the investments we are making across simplifying the app, making it f",
-    "sample_url": "https://x.com/thsottiaux/status/2124998553856844186",
-    "sample_ts": "2026-11-23T22:48:30Z"
-   },
-   {
     "term": "astra",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 4,
-    "lift": 1.46,
+    "lift": 1.42,
     "docs": 1,
     "share": 0.0083,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1246,11 +1246,23 @@
     "sample_ts": "2026-11-26T02:50:10Z"
    },
    {
+    "term": "usage",
+    "kind": "word",
+    "count_7d": 5,
+    "count_28d_before": 10,
+    "lift": 1.12,
+    "docs": 2,
+    "share": 0.0139,
+    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
+    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "sample_ts": "2026-11-23T17:45:33Z"
+   },
+   {
     "term": "banked",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 6,
-    "lift": 1.08,
+    "lift": 1.03,
     "docs": 3,
     "share": 0.0083,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
@@ -1258,23 +1270,11 @@
     "sample_ts": "2026-11-24T18:43:21Z"
    },
    {
-    "term": "usage",
-    "kind": "word",
-    "count_7d": 5,
-    "count_28d_before": 11,
-    "lift": 1.07,
-    "docs": 2,
-    "share": 0.0138,
-    "sample": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tu",
-    "sample_url": "https://x.com/thsottiaux/status/2124922313019953319",
-    "sample_ts": "2026-11-23T17:45:33Z"
-   },
-   {
     "term": "sol",
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 8,
-    "lift": 0.77,
+    "lift": 0.72,
     "docs": 1,
     "share": 0.0083,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1286,7 +1286,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 9,
-    "lift": 0.64,
+    "lift": 0.59,
     "docs": 3,
     "share": 0.0083,
     "sample": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
@@ -1298,7 +1298,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 9,
-    "lift": 0.64,
+    "lift": 0.59,
     "docs": 1,
     "share": 0.0083,
     "sample": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of you",
@@ -1309,8 +1309,8 @@
     "term": "dots",
     "kind": "word",
     "count_7d": 3,
-    "count_28d_before": 12,
-    "lift": 0.31,
+    "count_28d_before": 11,
+    "lift": 0.36,
     "docs": 1,
     "share": 0.0083,
     "sample": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system. https://t.co/5YtdTspKBk",
@@ -1322,7 +1322,7 @@
     "kind": "word",
     "count_7d": 3,
     "count_28d_before": 13,
-    "lift": 0.22,
+    "lift": 0.16,
     "docs": 3,
     "share": 0.0083,
     "sample": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there? ht",
@@ -1337,7 +1337,7 @@
   "count_72h": 1,
   "count_7d": 4,
   "since_last_reset": 6,
-  "baseline_per_day": 1.43,
+  "baseline_per_day": 1.39,
   "level": "quiet",
   "items": [
    {
@@ -1353,7 +1353,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 39.2
+    "age_hours": 45.3
    },
    {
     "id": "2125299467691987445",
@@ -1368,7 +1368,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 74.5
+    "age_hours": 80.6
    },
    {
     "id": "2125299436964479474",
@@ -1383,7 +1383,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 74.5
+    "age_hours": 80.6
    },
    {
     "id": "2124922313019953319",
@@ -1398,7 +1398,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 99.5
+    "age_hours": 105.6
    },
    {
     "id": "2122754551187132438",
@@ -1413,7 +1413,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 243.1
+    "age_hours": 249.1
    },
    {
     "id": "2122206990101536852",
@@ -1428,7 +1428,7 @@
     ],
     "forward": false,
     "after_last_reset": true,
-    "age_hours": 279.3
+    "age_hours": 285.4
    }
   ]
  },
@@ -1440,18 +1440,18 @@
   ],
   "health": {
    "corpus": {
-    "at": "2026-11-27T21:15:42+00:00",
+    "at": "2026-11-28T03:20:22+00:00",
     "ok": true,
-    "fetched": 59,
+    "fetched": 58,
     "cached": 0,
-    "empty": 2,
+    "empty": 3,
     "failed": 0,
     "failed_days": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-27T21:15:42+00:00"
+    "last_ok": "2026-11-28T03:20:22+00:00"
    },
    "feed": {
-    "at": "2026-11-27T21:15:42+00:00",
+    "at": "2026-11-28T03:20:22+00:00",
     "ok": true,
     "source": "network",
     "entries": 50,
@@ -1459,18 +1459,18 @@
     "error": null,
     "total": 68,
     "consecutive_failures": 0,
-    "last_ok": "2026-11-27T21:15:42+00:00"
+    "last_ok": "2026-11-28T03:20:22+00:00"
    },
    "pipeline": {
-    "at": "2026-11-27T21:14:50+00:00",
+    "at": "2026-11-28T03:19:16+00:00",
     "ok": true,
     "failed": [],
     "consecutive_failures": 0,
-    "last_ok": "2026-11-27T21:14:50+00:00"
+    "last_ok": "2026-11-28T03:19:16+00:00"
    }
   },
   "alerts": {
-   "checked_at": "2026-11-27T21:15:42+00:00",
+   "checked_at": "2026-11-28T03:20:23+00:00",
    "channels": [],
    "configured": false,
    "pending": 0,
@@ -1522,14 +1522,6 @@
    ]
   },
   "runs": [
-   {
-    "at": "2026-11-24T11:42:15+00:00",
-    "mode": "fast",
-    "seconds": 2.2,
-    "ok": true,
-    "failed": [],
-    "warnings": []
-   },
    {
     "at": "2026-11-24T13:39:14+00:00",
     "mode": "full",
@@ -1646,6 +1638,14 @@
     "at": "2026-11-27T21:14:50+00:00",
     "mode": "full",
     "seconds": 52.1,
+    "ok": true,
+    "failed": [],
+    "warnings": []
+   },
+   {
+    "at": "2026-11-28T03:19:16+00:00",
+    "mode": "full",
+    "seconds": 66.5,
     "ok": true,
     "failed": [],
     "warnings": []
